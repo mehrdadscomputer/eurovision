@@ -1,0 +1,47 @@
+{
+    "id": 9,
+    "country": "ES",
+    "artist": "Sergio & Estíbaliz",
+    "song": "Tú volverás",
+    "lyrics": [
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Tú volverás",
+            "content": "Volverás a ser la chica sencilla\nQue tomó el tren de la vida antes de ser mujer\n\nVolverás, bájate en marcha si puedes\nY aunque los años no vuelven\nTú volverás, volverás\nToma tu vida y tu mochila\n\nVolverás, aunque vestida de olvido\nIncluso para el amigo que te enseñó a besar\n\nVolverás, siempre es más corto el camino\nY aunque vuelvas de vacío\nVolverás, volverás\nToma tu vida y tu mochila\nVuelve ya\n\nSé que abandonaste tus olivos\nTu familia y amigos por triunfar\nPero no te importe si alguien piensa\nQue has jugado y perdido, vuelve ya\n\nVolverás ahora que el tren se detiene\nQue ya ha nevado en tus sienes\nVolverás… volverás\nToma tu vida y tu mochila\nVuelve ya\n\nVolverás, volverás\nToma tu vida y tu mochilа\nVolveráѕ"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "You'll return",
+            "content": "You'll return to be again the natural girl\nWho took the life train before becoming woman\n\nYou'll return, get off if you can\nAnd even though years can't come back\nYou'll return, you'll return\nTake your life and your backpack\n\nYou'll return, though dressed in forgetfulness\nEven for the friend that taught you to kiss\n\nYou'll return, the path is always shorter\nAnd even if you return empty-handed\nYou'll return, you'll return\nTake your life and your backpack\nReturn now\n\nI know you left your olive trees behind\nYour family and friends to triumph\nBut don't be worried if someone thinks\nThat you played and lost, return now\n\nYou'll return, now the train has stopped\nNow it has snowed in your templeѕ\nYou'll return, you'll return\nTake your life and your backpack\nReturn now\n\nYou'll return, you'll return\nTake your life and your backpаck\nReturn now"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/sZ2IljyBKYY",
+        "https://www.youtube.com/embed/VD5bu22IKZM"
+    ],
+    "dancers": null,
+    "backings": [
+        "Carlos",
+        "Francisco",
+        "María Jesús Aguirre",
+        "Mercedes Valimaña"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Juan Carlos Calderón"
+    ],
+    "conductor": "Juan Carlos Calderón López De Arroyabe",
+    "stageDirector": null,
+    "tone": "Bb major",
+    "bpm": 91,
+    "broadcaster": "TVE",
+    "spokesperson": "José María Íñigo",
+    "commentators": [
+        "José Luis Uribarri"
+    ]
+}

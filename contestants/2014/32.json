@@ -1,0 +1,40 @@
+{
+    "id": 32,
+    "country": "BE",
+    "artist": "Axel Hirsoux",
+    "song": "Mother",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": null,
+            "content": "I'm coming home,\nI'm broken hearted and I need,\nTime to shelter,\nI need your love,\nA hand to hold, a heart to heal, a voice to help me through, through…\n\nAnd when hope is low,\nYou find the words to make me feel, so much better,\nWhen I've had enough, oh I've had enough,\nOf all the tears and all the hurt I can count on you, only you…\n\nAnd once again mother,\nYou are right there mother,\nYou are my guiding light,\nMy shoulder, my shelter, my satellite,\nI'm weak, you're bright.\n\nIt's not said enough,\nBut you mean the world to me you're more, than a soulmate,\nAnd you should know, oh you should know,\nI'm so thankful and so hopeful that some day soon, I'll shine like you…\n\nAnd once again mother,\nYou are right there mother,\nYou are my guiding light,\nMy shoulder, my shelter, my satellite,\nI'm weak, you're bright,\nGive me your strength, oh mother,\nGive me your care mother,\nYou are my guiding light,\nMy shoulder, my shelter, my ѕatellite,\nI'm weak, you're bright,\nAnd once again mother, / You're all I have mother,\nAnd once again mother, / You're all I hаve mother,\nOh mother…"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/wr3m4ghnq6w",
+        "https://www.youtube.com/embed/uEqjXBH9ahE"
+    ],
+    "dancers": [
+        "Isabelle Beernaert"
+    ],
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Ashley Hicklin",
+        "Rafael Artesero Herrero"
+    ],
+    "conductor": null,
+    "stageDirector": "Isabelle Beernaert",
+    "tone": "E minor",
+    "bpm": 146,
+    "broadcaster": "VRT",
+    "spokesperson": "Angelique Vlieghe",
+    "commentators": [
+        "Jean-Louis Lahaye",
+        "Maureen Louys",
+        "Peter Van de Veire"
+    ]
+}

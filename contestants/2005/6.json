@@ -1,0 +1,47 @@
+{
+    "id": 6,
+    "country": "CS",
+    "artist": "No Name",
+    "song": "Zauvijek Moja",
+    "lyrics": [
+        {
+            "languages": [
+                "Montenegrin"
+            ],
+            "title": "Zauvijek moja",
+            "content": "Tamo, ljubavi, gdje zvone zvona\nTi ćeš zauvijek bit' samo moja\nTamo gdje i rijeka ljubi more\nDo zore\nZauvijek\n\nTamo visoko, 'za brda ona\nTamo gdje je stara kuća moja\nTamo ću sa tobom, željo moja\nOstati\n\nTamo, ljubavi, gdje zvone zvona\nTi ćeš zauvijek bit' samo moja\nTamo gdje i rijeka ljubi more\nDo zore\n\nTamo visoko, 'za brda ona\nTamo gdje je stara kuća moja\nTamo ću sa tobom, željo moja\nOstati\n\nTi si mi dušu ranila\nLjepotom me opila\n\nTamo, ljubavi, gdje zvone zvona\nTi ćeš zauvijek bit' samo moja\nTamo gdje i rijeka ljubi more\nDo zore\n\nTamo visoko, 'za brda ona\nTamo gdje je stara kuća moja\nTamo ću sa tobom, željo moja\nOѕtati\nZаuvijek"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Forever mine",
+            "content": "There, love, where the bells toll\nYou will forever be mine alone\nThere, where the river kisses the sea\nTill dawn\nForever\n\nHigh up there, behind that hill\nWhere my old house stands\nI will be with you, my desire\nStay there\n\nThere, love, where the bells toll\nYou will forever be mine alone\nThere, where the river kisses the sea\nTill dawn\n\nHigh up there, behind that hill\nWhere my old house stands\nI will be with you, my desire\nStay there\n\nYou've wounded my soul\nHypnotised me with beauty\n\nThere, love, where the bells toll\nYou will forever be mine alone\nThere, where the river kisses the sea\nTill dawn\n\nHigh up there, behind that hill\nWhere my old house stands\nI will be with you, my deѕire\nStаy there\nForever"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/elqvzo8Qe4Q",
+        "https://www.youtube.com/embed/Dn6Hy5XucJs"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Slaven Knezović"
+    ],
+    "lyricists": [
+        "Milan Perić"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Bb minor",
+    "bpm": 98,
+    "broadcaster": "TVCG",
+    "spokesperson": "Nina Radulović",
+    "commentators": [
+        "Danijel Popović",
+        "Dražen Bauković",
+        "Duška Vučinić-Lučić",
+        "Tamara Ivanković"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 13,
+    "country": "AT",
+    "artist": "Tony Wegas",
+    "song": "Maria Magdalena",
+    "lyrics": [
+        {
+            "languages": [
+                "German"
+            ],
+            "title": "Maria Magdalena",
+            "content": "Maria Magdalena – gib mir deine Macht\nFür immer und nicht nur für eine Nacht\n\nWie ein Donner ohne Warnung, wie der jüngste Tag\nWie die Sintflut, mehr als ich ertrag\nBist du über mich gekommen, hast mich überfahr'n\nHast mein Herz im Sturm genommen, wie ein Orkan\n\nHimmel oder Hölle\nWo du herkommst ist mir gleich\nBeides in dir, Gut und Böse\nMacht mich arm und reich\n\nMaria Magdalena – du bist Glück und Leid\nMaria Magdalena – schenk' mir die Ewigkeit\nMaria Magdalena – gib mir deine Macht\nFür immer und nicht nur für eine Nacht\n\nDeine Augen schrei'n nach Liebe\nSehnsucht heißt dein Blick\nImmer weiter, niemals mehr zurück\nDu bist eine der Sirenen, die Odysseus sah\nIch bind' mich los und stell' mich der Gefahr\n\nNur wer leidet ist am Leben\nWer nichts fühlt ist tot\nSchmerzen nehmen, Liebe geben\nDas ist mein Gebot\n\nMaria Magdalena – du bist Glück und Leid\nMaria Magdalena – schenk' mir die Ewigkeit\nMaria Magdalena – gib mir deine Macht\nFür immer und nicht nur für eine Nacht\n\nMaria Magdalena – du bist Glück und Leid\nMaria Magdalena – ѕchenk' mir die Ewigkeit\nMaria Magdalena – gib mir deine Macht\nFür immer und nicht nur für eine Nаcht"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Mary Magdalene",
+            "content": "Mary Magdalene – give me your power\nForever and not just for one night\n\nLike thunder without any warning, like the first day\nLike the Flood, more than I can suffer\nYou were coming over me, you ran over me\nYou conquered my heart in a storm, like a hurricane\n\nHeaven or hell\nWhere you come from is all the same to me\nBoth inside of you, good and evil\nIt makes me poor and rich\n\nMary Magdalene – you are happiness and sorrow\nMary Magdalene – give me eternity\nMary Magdalene – give me your might\nForever and not just for one night\n\nYour eyes crying for love\nYearning is the name for your look\nGoing onwards, never again backwards\nYou are one of the sirens, seen by Odysseus\nI untie myself and place myself in danger\n\nOnly those who suffer are alive\nWho feels nothing are dead\nTo take pain, to give love\nThat's my command\n\nMary Magdalene – you are happiness and sorrow\nMary Magdalene – give me eternity\nMary Magdalene – give me your might\nForever and not just for one night\n\nMaria Magdalena – you are happiness and sorrow\nMaria Magdalena – give me eternity\nMaria Magdalena – give me your might\nForever аnd not juѕt for one night"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/lfM2uGefRO8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Anzo Morawetz",
+        "Christian Felke",
+        "Gerhard Lux",
+        "Mario Argandoña",
+        "Stephan Gleixner"
+    ],
+    "composers": [
+        "Christian Kolonovits",
+        "Johann Bertl"
+    ],
+    "lyricists": [
+        "Thomas Spitzer"
+    ],
+    "writers": null,
+    "conductor": "Christian Kolonovits",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 164,
+    "broadcaster": "ORF",
+    "spokesperson": "Andy Lee",
+    "commentators": [
+        "Ernst Grissemann"
+    ]
+}

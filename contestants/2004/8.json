@@ -1,0 +1,39 @@
+{
+    "id": 8,
+    "country": "BA",
+    "artist": "Deen",
+    "song": "In The Disco",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "In the disco",
+            "content": "(In the disco)\nDisco\n\nI'm lying, I'm late, I'm losing my weight\nBecause I want to dance all night\nBecause I want to stay all night\nIn the disco, in the disco\n\nYou call me, you wait, take your shoes and go straight\nBecause you want to dance with me\nBecause you want to stay with me\nIn the disco, yeah, in the disco\n\nMusic is what I want, music is what I need\nKiss me and turn me slow, up and down, here we go\nMusic is what I want, music is what I need\nKiss me and turn me slow, up and down, here we go\n(Go)\n\nI'm lying, I'm late, I'm losing my weight\nBecause I want to dance all night\nBecause I want to stay all night\nIn the disco, yeah, in the disco\n\nMusic is what I want, music is what I need\nKiss me and turn me slow, up and down, here we go\nMusic is what I want, music is what I need\nKiss me and turn me slow, up and down, here we go\nMusic\n\n(Yeah, yeah) Oh…\n(In the disco)\nOh music, oh music\nOh music, oh music\n(Go)\n\nMusic is what I want, music is what I need\nKiss me and turn me slow, up and down, here we go\nMusic is what I want, music is what I need\nKiss me and turn me slow, up аnd down, here we go\n\nMuѕic"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/B1USil8eOsE",
+        "https://www.youtube.com/embed/4uNUUc18BO4"
+    ],
+    "dancers": null,
+    "backings": [
+        "Ena Đapo",
+        "Maja Sarihodžić",
+        "Zorana Guja"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Vesna Pisarović"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A minor",
+    "bpm": 134,
+    "broadcaster": "PBSBIH",
+    "spokesperson": "Mija Martina",
+    "commentators": [
+        "Dejan Kukrić"
+    ]
+}

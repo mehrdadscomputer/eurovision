@@ -1,0 +1,37 @@
+{
+    "id": 29,
+    "country": "PL",
+    "artist": "Alicja",
+    "song": "Empires",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Empires",
+            "content": "Ashes to ashes, dust into dust\nI'll follow you through black\nTry to forgive that I'm not awake\nI'm dreaming this dream could last\n\nNo looking down\nThere's fool's gold in our eyes\n\nBurning an empire\nHappens so easy\nPlaying with fire\nMaybe it's you and me\nBurning an empire\nIs it our fault?\nWe rise and fall\n\nLike moths to a flame\nLike a bird to a pane of glass\nHoping for change but we do the same\nWe're gasoline and a match\n\nNo looking down\nThere's fool's gold in our eyes\n\nBurning an empire\nHappens so easy\nPlaying with fire\nMaybe it's you and me\nBurning an empire\nIs it our fault?\nWe rise and fall\n\nWe just want it all\nUsed to be a tower so tall\nNow we are only crumbling walls\n\nWe rise and fall\nMoth to a flame as we do the same\nLike a bird to a pane of glass\n\nDown to the wire\nEmpireѕ fаll"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/s_Y7mMka4SQ",
+        "https://www.youtube.com/embed/5lqMqCWFg_E",
+        "https://www.youtube.com/embed/om91-RjTr8k"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Dominic Buczkowski-Wojtaszek",
+        "Frazer Mac",
+        "Laurell Barker",
+        "Patryk Kumór"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "TVP",
+    "spokesperson": null,
+    "commentators": null
+}

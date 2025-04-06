@@ -1,0 +1,48 @@
+{
+    "id": 32,
+    "country": "HR",
+    "artist": "Feminnem",
+    "song": "Lako Je Sve",
+    "lyrics": [
+        {
+            "languages": [
+                "Croatian"
+            ],
+            "title": "Lako je sve",
+            "content": "Lako, lako je sve, uvijek kad imam te\nVjeruj bilo gdje sam znam da tvoja jesam\nTo ti kaže sjaj u mojim očima\n\nLako, lako je sve, jer ti ne ostavljaš me\nKad ti se ne smiješim, znam da tada griješim\nJa sam samo žena što se prepušta\n\nZadnjim snagama sad stojim tu pred tobom\nDušu razdiru mi bure nemira\nTeže mi je riješit ovu bol sa sobom\nJer ti si prevaren a mene ubija\n\nLako, lako je sve, jer ti najbolje poznaješ me\nDok pred tobom stojim, vidis da se bojim\nJer na licu mome piše izdaja\n\nDok pred tobom stojim, vidiš da se bojim\nMolim te oprosti, ja te volim, stvarno volim\nJa bez tebe ne znam to više nisam ja\nTo više nisam ja\n\nVjeruj bilo gdje sam znam da tvoja jesam\nTo ti kaže sjaj u mojim očima\nLako, lаko je ѕve"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Everything is easy",
+            "content": "Easy, everything is easy, whenever I have you\nBelieve me, wherever I am, I know that I'm yours\nYou can see it by the glow in my eyes\n\nEasy, everything is easy, because you're not leaving me\nWhen I'm not smiling at you, I know I'm making a mistake\nBecause I'm just a woman who surrenders\n\nWith last shred of strength now, I'm standing here before you\nMy soul is being torn up by storms of unrest\nIt's harder to come to terms with this pain\nBecause you were cheated and it's killing me\n\nEasy, everything is easy, because you know me best\nWhile I'm standing here before you, you can see I'm scared\nBecause betrayal is written on my face\n\nWhile I'm standing here before you, you can see I'm scared\nPlease forgive me, I love you, really love you\nI can't live without you, I'm no longer myself\nI'm no longer myself\n\nBelieve me, wherever I am, I know that I'm yours\nYou can see it by the glow in my eyes\nEasy, everything is eаѕy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/x2M9zNayOF0",
+        "https://www.youtube.com/embed/tkl4YU5oHB8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Irma",
+        "Lydia Ivekovic"
+    ],
+    "composers": [
+        "Branimir Mihaljević"
+    ],
+    "lyricists": [
+        "Neda Parmać",
+        "Pamela Ramljak"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Eb minor",
+    "bpm": 152,
+    "broadcaster": "HRT",
+    "spokesperson": "Mila Horvat",
+    "commentators": [
+        "Duško Ćurlić"
+    ]
+}

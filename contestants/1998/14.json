@@ -1,0 +1,47 @@
+{
+    "id": 14,
+    "country": "FI",
+    "artist": "Edea",
+    "song": "Aava",
+    "lyrics": [
+        {
+            "languages": [
+                "Finnish"
+            ],
+            "title": "Aava",
+            "content": "Aava maa, avaa maa avara\nAava maa, avaa maa avara\n\nKauneus, suuruus\nKauneus, suuruus Isa\n\nAava maa, avaa maa avara\nAava maa, avaa maa avara\n(Aava)\n\nAava maa, avaa maa avara\nAava maa, avaa maa avara\n\nKauneus, suuruus\nKauneus, suuruus Iѕa\n\nAava maa, avaa maa avara\nAava maa, avaa maa avara\n\nAava maa, avaa maa avara\nAava maa, (avaa maa avara)\n(Aava)\nAava maа"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Open landscape",
+            "content": "Open landscape, open landscape wide\nOpen landscape, open landscape wide\n\nBeauty, greatness\nBeauty, greatness, Isa\n\nOpen landscape, open landscape wide\nOpen landscape, open landscape wide\n(Open)\n\nOpen landscape, open landscape wide\nOpen landscape, open landscape wide\n\nBeauty, greatness\nBeauty, greatness, Isa\n\nOpen landscape, open landscape wide\nOpen landscape, open landscape wide\n\nOpen landscape, open landscape wide\nOpen landscape (Open landscape wide)\n(Open)\nOpen landѕcаpe"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/i0Htj6UsUxw",
+        "https://www.youtube.com/embed/mI50Z6QAJWA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Ralph van Manen"
+    ],
+    "composers": [
+        "Alexi Ahoniemi"
+    ],
+    "lyricists": [
+        "Tommy Mansikka-Aho"
+    ],
+    "writers": null,
+    "conductor": "Olli Ahvenlahti",
+    "stageDirector": null,
+    "tone": "C major",
+    "bpm": 105,
+    "broadcaster": "YLE",
+    "spokesperson": "Marjo Wilska",
+    "commentators": [
+        "Maria Guzenina",
+        "Sami Aaltonen"
+    ]
+}

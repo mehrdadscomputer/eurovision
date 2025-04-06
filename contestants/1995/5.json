@@ -1,0 +1,44 @@
+{
+    "id": 5,
+    "country": "HR",
+    "artist": "Magazin & Lidija",
+    "song": "Nostalgija",
+    "lyrics": [
+        {
+            "languages": [
+                "Croatian"
+            ],
+            "title": "Nostalgija",
+            "content": "Tiha\nTiha se čuje violina\nI moga srca strune dira\nPreko mora i planina\nSvira mi, svira\n\nTiha\nTiha se čuje violina\nK'o svjetlo s nebeskih visina\nPaganini s neba svira\nSvira mi, svira\n\nNostalgija, nostalgija\nNiz dušu krenula\nI cijeli život mene je za tebe vezala\nKad te nema ona mi je dom i rodbina\nNostalgija\n\nNostalgija, nostalgija\nNiz dušu krenula\nI cijeli život mene je za tebe vezala\nKad te nema ona mi je dom i rodbina\nNostalgija\n\nTiha\nTiha se čuje violina\nI moga srca strune dira\nPreko mora i planina\nSvira mi, svira\n\nNostalgija, nostalgija\nNiz dušu krenula\nI cijeli život mene je za tebe vezala\nKad te nema ona mi je dom i rodbina\nNostalgija\n\nNostalgija, nostalgija\nNiz dušu krenula\nI cijeli život mene je za tebe vezala\nKad te nema ona mi je dom i rodbina\nNoѕtalgijа"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Nostalgia",
+            "content": "Silent\nA silent violin is playing\nAnd touching my heart's chords\nThrough seas and mountains\nIt plays to me, it plays\n\nSilent\nA silent violin is playing\nLike the light of the sky's heights\nPaganini plays from the sky\nIt plays to me, it plays\n\nNostalgia, nostalgia\nTravels through my soul\nIt bound me with you my entire life\nWhen you're away, she's my home and family\nNostalgia\n\nNostalgia, nostalgia\nTravels through my soul\nIt bound me with you my entire life\nWhen you're away, she's my home and family\nNostalgia\n\nSilent\nA silent violin is playing\nAnd touching my heart's chords\nThrough seas and mountains\nIt plays to me, it plays\n\nNostalgia, nostalgia\nTravels through my soul\nIt bound me with you my entire life\nWhen you're away, she's my home and family\nNostalgia\n\nNostalgia, nostalgia\nTravels through my soul\nIt bound me with you my entire life\nWhen you're away, she's my home and family\nNoѕtalgiа"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/r2IG1jauOfI",
+        "https://www.youtube.com/embed/3DxhkBmwb9c"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Tonči Huljić"
+    ],
+    "lyricists": [
+        "Vjekoslava Huljić"
+    ],
+    "writers": null,
+    "conductor": "Stipica Kalogjera",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "HRT",
+    "spokesperson": "Danijela Trbović",
+    "commentators": [
+        "Aco Kostadinov"
+    ]
+}

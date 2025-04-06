@@ -1,0 +1,49 @@
+{
+    "id": 1,
+    "country": "ES",
+    "artist": "Mocedades",
+    "song": "Eres tú",
+    "lyrics": [
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Eres tú",
+            "content": "Como una promesa, eres tú, eres tú\nComo una mañana de verano\nComo una sonrisa, eres tú, eres tú\nAsí, así, eres tú\n\nToda mi esperanza, eres tú, eres tú\nComo lluvia fresca en mis manos\nComo fuerte brisa, eres tú, eres tú\nAsí, así, eres tú\n\nEres tú como el agua de mi fuente\nEres tú el fuego de mi hogar\n\n<i style=\"color:#789\">Eres tú…</i> Algo así eres tú\n<i style=\"color:#789\">Como el fuego de mi hoguera</i>\nAlgo así como el fuego de mi hoguera\n<i style=\"color:#789\">Eres tú…</i> Algo así eres tú\n<i style=\"color:#789\">El trigo de mi pan</i>\nMi vida, algo así eres tú\n\nComo mi poema, eres tú, eres tú\nComo una guitarra en la noche\nTodo mi horizonte, eres tú, eres tú\nAsí, así, eres tú\n\n<i style=\"color:#789\">Nananana… nananana na…</i>\n\nEres tú como el agua de mi fuente\nEres tú el fuego de mi hogar\n\n<i style=\"color:#789\">Eres tú…</i> Algo así eres tú\n<i style=\"color:#789\">Como el fuego de mi hoguera</i>\nAlgo así como el fuego de mi hoguera\n<i style=\"color:#789\">Eres tú…</i> Algo así eres tú\n<i style=\"color:#789\">El trigo de mi pan</i>\nMi vida, algo así eres tú\n\n<i style=\"color:#789\">Eres tú…</i> Algo así eres tú\n<i style=\"color:#789\">Como el agua de mi fuente</i>\nAlgo así como el agua de mi fuente\nEreѕ tú el fuego de mi hogаr"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "You are",
+            "content": "Like a promise, you are, you are\nLike a summer morning\nLike a smile, you are, you are\nLike that, like that, you are\n\nAll my hope, you are, you are\nLike fresh rain in my hands\nLike a strong breeze, you are, you are\nLike that, like that, you are\n\nYou are like the water of my fountain\nYou are the fire of my heart\n\n<i style=\"color:#789\">You are…</i> Something like that you are\n<i style=\"color:#789\">Like the fire of my bonfire</i>\nSomething like the fire of my bonfire\n<i style=\"color:#789\">You are…</i> Something like that you are\n<i style=\"color:#789\">The wheat of my bread</i>\nMy life, something like that, you are\n\nLike my poem, you are, you are\nLike a guitar in the night\nMy whole horizon, you are, you are\nLike that, like that, you are\n\n<i style=\"color:#789\">Nananana… nananana na…</i>\n\nYou are like the water of my fountain\nYou are the fire of my heart\n\n<i style=\"color:#789\">You are…</i> Something like that you are\n<i style=\"color:#789\">Like the fire of my bonfire</i>\nSomething like the fire of my bonfire\n<i style=\"color:#789\">You are…</i> Something like that you are\n<i style=\"color:#789\">The wheat of my bread</i>\nMy life, ѕomething like that, you are\n\n<i style=\"color:#789\">You are…</i> Something like that you are\n<i style=\"color:#789\">Like the water of my fountain</i>\nSomething like the water of my fountain\nYou are the fire of my heаrt"
+        },
+        {
+            "languages": [
+                "German"
+            ],
+            "title": "Du bist es",
+            "content": "Wie ein Versprechen, du bist es, du bist es\nWie ein Sommermorgen\nWie ein Lächeln, du bist es, du bist es, du bist es\nWie dies, wie dies, du bist es\n\nAll meine Hoffnung, du bist es, du bist es, du bist es\nWie frischer Regen auf meinen Händen\nWie eine starke Brise, du bist es, du bist es, du bist es\nWie dies, wie dies, du bist es\n\nDu bist du wie das Wasser meines Brunnens\nDu bist das Feuer in meinem Haus\n\nDu bist es… So etwas ist es, du bist es\nWie das Feuer meines Lagerfeuers\nSo etwas wie das Feuer meines Feuers\nDu bist es… du bist es… du bist es… du bist es… du bist es…\nDer Weizen meines Brotes\nMein Leben, etwas wie das bist du\n\nWie mein Gedicht, du bist es, du bist es, du bist es\nWie eine Gitarre in der Nacht\nMein ganzer Horizont, das bist du, das bist du, das bist du\nSo, so, du bist es\n\nNananana… nananana na…\n\nDu bist es wie das Wasser in meinem Brunnen\nDu bist das Feuer in meinem Haus\n\nDu bist es… So etwas wie das, du bist es\nWie das Feuer meines Herdes\nSo etwas wie das Feuer meines Feuers\nDu bist es… du bist es… du bist es… du bist es… du bist es…\nDer Weizen meines Brotes\nMein Leben, etwas wie das bist du\n\nDu bist es… Etwas wie du ist es\nWie das Wasser meines Brunnens\nEtwas wie das Wasser meines Brunnens\nDu bist dаs Feuer meines Herdeѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/JUQnlXsISvg",
+        "https://www.youtube.com/embed/7xLHpT3rMyQ"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Juan Carlos Calderón"
+    ],
+    "conductor": "Juan Carlos Calderón López De Arroyabe",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 172,
+    "broadcaster": "TVE",
+    "spokesperson": null,
+    "commentators": [
+        "Julio Rico"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": 24,
+    "country": "CH",
+    "artist": "Gunvor",
+    "song": "Lass Ihn",
+    "lyrics": [
+        {
+            "languages": [
+                "German"
+            ],
+            "title": "Laß ihn",
+            "content": "Cocktails serviert er jeden Abend\nVerzaubert jede Frau\nSpielt mit seinem Charme\nAuch du ließt dich von ihm blenden\nWarst schon nach paar Stunden in seinem Arm\n\nLaß ihn endlich gehn\nOft ließ er dich stehn\nEs war nur ein Schein\nLaß ihn endlich sein\n\nWie oft betrog er dich\nDachtest, er ändert sich\nDoch da belügst du dich\nSag, tut 's nicht weh?\n\nSamstag, freust dich auf den Abend\nHast noch viel zu tun bis zum Feierabend\nAber die Gedanken schweifen 'rüber\nDenkst nur noch an ihn\nSchmeißt die Arbeit\nSogar die Stelle hin\n\nLaß ihn endlich gehn\nOft ließ er dich steh'n\nEs war nur ein Schein\nLaß ihn endlich sein\n\nWie oft betrog er dich\nDachtest, er ändert sich\nDoch da belügst du dich\nSag, tut 's nicht weh?\n\nLaß ihn endlich gehn\nOft ließ er dich stehn\nEs war nur ein Schein\nLaß ihn endlich sein\n\nWie oft betrog er dich\nDachtest, er ändert sich\nDoch da belügst du dich\nSag, tut 's nicht weh?\n\nSаg, tut 's nicht weh?\nEs tut ѕo weh"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Let him",
+            "content": "He serves cocktails every night\nHe wins all women over\nUsing his charm\nYou too let him bedazzle you\nAfter a few hours, you were already in his arms\n\nLet him go at last\nHe often walked out on you\nIt's only appearance\nLet him be at last\n\nHow often he cheated you\nYou thought he would change\nBut you lied to yourself\nSay, doesn't it hurt?\n\nSaturday and you're looking forward for the night to come\nYou still have loads to do before you finish work\nBut you keep thinking about it\nYou can't get him out of your mind\nYou leave work\nEven abandon your job\n\nLet him go at last\nHe often walked out on you\nIt's only appearance\nLet him be at last\n\nHow often he cheated you\nYou thought he would change\nBut you lied to yourself\nSay, doesn't it hurt?\n\nLet him go at last\nHe often walked out on you\nIt as only appearance\nLet him be at last\n\nHow often he cheated you\nYou thought he would change\nBut you lied to yourself\nSay, doesn't it hurt?\n\nSаy, doesn't it hurt?\nIt hurts ѕo much"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Tyh39VaRcV0",
+        "https://www.youtube.com/embed/c7QE8gRrowo"
+    ],
+    "dancers": null,
+    "backings": [
+        "Claudio Sivano",
+        "Damian Meyer",
+        "Egon Egemann",
+        "Irja Guggisberg",
+        "Sandra Heusser"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Egon Egemann",
+        "Gunvor Guggisberg"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "G minor",
+    "bpm": 150,
+    "broadcaster": "SSR SRG",
+    "spokesperson": "Regula Elsener",
+    "commentators": [
+        "Heinz Margot",
+        "Jean-Marc Richard",
+        "Jonathan Tedesco",
+        "Roman Kilchsperger"
+    ]
+}

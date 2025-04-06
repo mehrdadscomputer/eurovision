@@ -1,0 +1,51 @@
+{
+    "id": 6,
+    "country": "SE",
+    "artist": "Roger Pontare",
+    "song": "When Spirits Are Calling My Name",
+    "lyrics": [
+        {
+            "languages": [
+                "English version"
+            ],
+            "title": "When spirits are calling my name",
+            "content": "I am caught in a trap, there is no turning back, I'm finally facin' the fear\nThe sky is on fire, and up with the flames, my hope and my dreams disappear\nSo bring me the power, I'll be the king of the land and the seas\nShow me the way to go, let me fight with my body and soul\n\nLet me be the native son with freedom in my heart\nLife will never be the same when spirits are calling my name\nMy name…\n\nLet me out of the darkness, the shadow of pain, and I'm keepin' my promise to you\nMy people, my spirit, the home of my heart - you're with me wherever I go\nSo bring me the power, I'll be the king of the land and the seas\nI've got a way to go, let me fight with my body and soul\n\nLet me be the native son with freedom in my heart\nLife will never be the same when spirits are calling my name\nMy name…\n\nSo bring me the power, I'll be the king of the land and the seas\nI've got a way to go, let me fight with my body and soul\n\nLet me be the native son with freedom in my home\nLife will never be the same when spirits are calling my name\n\nSpiritѕ are calling my nаme"
+        },
+        {
+            "languages": [
+                "Swedish version"
+            ],
+            "title": "När vindarna viskar mitt namn",
+            "content": "Jag blev fångad i ett mörker, jag såg inget ljus fast allt runtomkring stod i brand\nI lågornas sken fanns mitt hopp och min tro som virvlade bort och försvann\nSå ge mig min styrka, ge mig kraft att försvara mitt land\nJag har en väg att gå, jag ser yxan i krigarens hand\n\nVill ni att jag vänder om och slåss för den jag är?\nAldrig sviker jag mitt land när vindarna viskar mitt namn\nMitt namn…\n\nRegnet som föll, det fick dölja min sorg och släcka min brinnande törst\nFlydde till bergen när gryningen kom och plötsligt jag hörde en röst\nVindarna viskar, jag hör hur dom kallar mitt namn\nJag har en väg att gå, jag ser yxan i krigarens hand\n\nVill ni att jag vänder om och slåss för den jag är?\nAldrig sviker jag mitt land när vindarna viskar mitt namn\nMitt namn…\n\nSå ge mig min styrka, ge mig kraft att försvara mitt land\nJag har en väg att gå, jag ser yxan i krigarens hand\n\nVill ni att jag vänder om och slåss för den jag är?\nAldrig sviker jag mitt land när vindarna viskar mitt namn\n\nVindarna viѕkar mitt nаmn"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/873dUOlMAe8",
+        "https://www.youtube.com/embed/h3jRwMCRH8g"
+    ],
+    "dancers": null,
+    "backings": [
+        "Frank Ådahl",
+        "Johan Sara JR",
+        "Kasaluk",
+        "Ken Roulette",
+        "Pernilla Emme"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Linda Jansson",
+        "Peter Dahl",
+        "Thomas Holmstrand"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "G minor",
+    "bpm": 123,
+    "broadcaster": "SVT",
+    "spokesperson": "Malin Ekander",
+    "commentators": [
+        "Christer Lundh",
+        "Pernilla Månsson"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 13,
+    "country": "CH",
+    "artist": "Gianni Mascolo",
+    "song": "Guardando il sole",
+    "lyrics": [
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Guardando il sole",
+            "content": "Io vorrei, io vorrei star con te guardando il sole\nPregherò, pregherò per vedere l'arcobaleno\n\nE così se un altro giorno muor cercherò dentro i tuoi occhi ancora\nDi trovar quelle parole ricorderai dicevano t'amo, io t'amo, io t'amo\n\nIo vorrei, io vorrei intrecciare le mie mani con te\nAnche se non ci fosse mai una stella in ciel per il mio amor\n\nIo vorrei, io vorrei intrecciare le mie mani con te\nAnche se non ci fosse mai una ѕtella in ciel per il mio аmor"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Looking into the sun",
+            "content": "I would like, I would like to stay with you looking into the sun\nI would pray, I would pray to see the rainbow\n\nAnd so if another day dies, I would search in your eyes\nTo find those words saying I love you, I love you, I love you\n\nI would like, I would like to hold your hands in mine\nEven if there will never be a star of my love in the sky\n\nI would like, I would like to hold your hands in mine\nEven if there will never be a stаr of my love in the ѕky"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/v9xl0pR0U4s"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Aldo D'Addario"
+    ],
+    "lyricists": [
+        "Sanzio Chiesa"
+    ],
+    "writers": null,
+    "conductor": "Mario Robbiani",
+    "stageDirector": null,
+    "tone": "F minor",
+    "bpm": 96,
+    "broadcaster": "SSR SRG",
+    "spokesperson": "Alexandre Burger",
+    "commentators": [
+        "Georges Hardy",
+        "Giovanni Bertini",
+        "Theodor Haller"
+    ]
+}

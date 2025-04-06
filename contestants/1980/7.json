@@ -1,0 +1,41 @@
+{
+    "id": 7,
+    "country": "AT",
+    "artist": "Blue Danube",
+    "song": "Du bist Musik",
+    "lyrics": [
+        {
+            "languages": [
+                "German"
+            ],
+            "title": "Du bist Musik",
+            "content": "Du bist Liszt, Chopin, Debussy, Couperin\nDu bist Mozart, Gesualdo und Boulez\nDu bist Gluck und Bach, Johann Strauß, Offenbach\nDu bist Schubert, Gershwin und Chavez\nDu bist Mahler, Schumann, Monteverdi\nFrank Martin, Tschaikowski, Josquin\nDu bist Palestrina und Puccini\nStrawinski und Rossini, De Falla und Messiaen\n\nDu bist Musik, Musik, Musik\nBist meine Harmonie, Melodie\nBist meine Symphonie\nDu bist Musik, du bist Musik\nDu bist Musik, Musik, Musik\n\nDu bist ein Ballett, ein Konzert, Menuett\nEin Capriccio, eine Polka, ein Duett\nDu bist ein Chanson, Intermezzo, Passion\nEin Refrain, eine Variation\nEine Bagatelle, Ballade\nEine Tarantella, eine Suite\nHumoreske, Walzer, Serenade\nRomanze und Kantate, Sonate und mein Lied\n\nDu bist Musik, Musik, Musik\nBist meine Harmonie, Melodie\nBist meine Symphonie\nDu bist Musik, du bist Musik\nDu bist Musik, Musik, Musik\n\nDu bist Musik, Musik, Musik\nBist meine Hаrmonie, Melodie\nBist meine Symphonie\nDu bist Musik, du bist Musik\nDu bist Muѕik"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "You're music",
+            "content": "You are Liszt, Chopin, Debussy, Couperin\nYou are Mozart, Gesualdo and Boulez\nYou are Gluck and Bach, Johan Strauß, Offenbach\nYou are Schubert, Gershwin and Chavez\nYou are Mahler, Schumann, Monteverdi\nFrank Martin, Tchaikovsky, Josquin\nYou are Palestrina and Puccini\nStravinski and Rossini, de Falla and Messiaen\n\nYou are music, music, music\nAre my harmony, melody\nAre my symphony\nYou are music, you are music\nYou are music, music, music\n\nYou are a ballet, a concerto, minuet\nA caprice, a polka, a duet\nYou're a chanson, intermezzo, passion\nA refrain, a variation\nA bagatelle, ballade\nA tarantella, a suite\nHumoresque, a waltz, serenade\nRomance and cantata, sonata and my song\n\nYou are music, music, music\nAre my harmony, melody\nAre my symphony\nYou are music, you are music\nYou are music, music, music\n\nYou are music, music, music\nAre my harmony, melody\nAre my symphony\nYou are music, you are music\nYou аre music, music, muѕic"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/WyWDQGmKsCQ"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Klaus Peter Sattler"
+    ],
+    "conductor": "Richard Österreicher",
+    "stageDirector": null,
+    "tone": "F minor",
+    "bpm": 133,
+    "broadcaster": "ORF",
+    "spokesperson": "Jenny Pippal",
+    "commentators": [
+        "Günther Ziesel"
+    ]
+}

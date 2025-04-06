@@ -1,0 +1,44 @@
+{
+    "id": 2,
+    "country": "AZ",
+    "artist": "AySel & Arash",
+    "song": "Always",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Always",
+            "content": "Always on my mind, always in my heart\n\nI've been waiting for you night after night\nLike a shadow, staying close to the light\nSuddenly you stand beside me\nAnd I see a million burning stars\n\nYou are always on my mind, always in my heart\nAnd I can hear you call my name on a mountain high\nAlways on my mind, always in my dreams\nI wanna hold you close to me, always, all the time\n\nI believe I'm addicted to you\nIn your eyes I see dreams comin' true\nFinally I have found you\nAnd now I will never let you go, no\n\nYou are always on my mind, always in my heart\nAnd I can hear you call my name on a mountain high\nAlways on my mind, always in my dreams\nI wanna hold you close to me, always, all the time\n\nAlways on my mind, always in my heart\nAnd I can hear you call my name on a mountain high\nAlways on my mind, always in my dreams\nI wanna hold you close to me, always, all the time\n\nAlways on my mind, always in my heart\nAlways on my mind, always in my dreams\nAlwayѕ, аll the time"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/J0qdRqY_3HM"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Alex Papaconstantinou",
+        "Arash Labaf",
+        "Johan Bejerholm",
+        "Marcus Englöf",
+        "Robert Uhlmann"
+    ],
+    "lyricists": [
+        "Anderz Wrethov",
+        "Arash Labaf",
+        "Elin Wrethov",
+        "Robert Uhlmann"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "F# major",
+    "bpm": 109,
+    "broadcaster": "İctimai",
+    "spokesperson": "Husniyya Maharramova",
+    "commentators": [
+        "Isa Melikov",
+        "Leyla Aliyeva"
+    ]
+}

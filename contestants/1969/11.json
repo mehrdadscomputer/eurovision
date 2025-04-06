@@ -1,0 +1,44 @@
+{
+    "id": 11,
+    "country": "FI",
+    "artist": "Jarkko & Laura",
+    "song": "Kuin silloin ennen",
+    "lyrics": [
+        {
+            "languages": [
+                "Finnish"
+            ],
+            "title": "Kuin silloin ennen",
+            "content": "Kuin silloin ennen, silloin ennen\nSilloin ennen, on kaikki yhtä hyvin taas\nKuin silloin ennen, silloin ennen\nSilloin ennen, on kaikki hyvin taas\n\nTaas tunnen uudestaan kuin silloin ennen\nKuin eilispäivää ollutkaan ei ois\nNyt luokses tulla saan kuin silloin ennen\nJa tiedän, etten lähde koskaan pois\n\nSilmät loistaa sun, vain sen, en enempää mä nää\nSydän toistaa mun, sen minkä livertää\nTuo sinirinta satakieli\n\nKaikki taas on niin kuin silloin ennen\nJa toivoa en muuta enää vois\n\nKuin silloin ennen, silloin ennen\nSilloin ennen, on kaikki yhtä hyvin taas\nKuin silloin ennen, silloin ennen\nSilloin ennen, on kaikki hyvin taas\n\nKaikki taas on niin kuin silloin ennen\nJa toivoa en muuta enää vois\n\nKuin silloin ennen, silloin ennen\nSilloin ennen, on kaikki yhtä hyvin taas\nKuin silloin ennen, silloin ennen\nSilloin ennen, on kaikki hyvin taаѕ"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Like in those times",
+            "content": "Like in those times, in those times\nIn those times, everything's as well again\nLike in those times, in those times\nIn those times, everything's well again\n\nI feel again like in those times\nLike there was no yesterday\nI can come to see you like in those times\nAnd I know, I won't ever go away\n\nYour eyes shine, I see just that, nothing else\nMy heart repeats what\nThat bluethroat, nightingale warbles\n\nEverything's again like once before\nAnd I couldn't hope for anything else\n\nLike in those times, in those times\nIn those times, everything's as well again\nLike in those times, in those times\nIn those times, everything's well again\n\nEverything's again like once before\nAnd I couldn't hope for anything else\n\nLike in those times, in those times\nIn those times, everything's as well again\nLike in those times, in those times\nIn those times, everything'ѕ well agаin"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/neELZW69YqU",
+        "https://www.youtube.com/embed/KqhCA9xHzO8"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Toivo Kärki"
+    ],
+    "lyricists": [
+        "Juha Vainio"
+    ],
+    "writers": null,
+    "conductor": "Ossi Runne",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "YLE",
+    "spokesperson": "Aarre Elo",
+    "commentators": [
+        "Aarno Walli"
+    ]
+}

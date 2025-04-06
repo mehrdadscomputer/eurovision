@@ -1,0 +1,43 @@
+{
+    "id": 14,
+    "country": "IE",
+    "artist": "Sandie Jones",
+    "song": "Ceol an Ghrá",
+    "lyrics": [
+        {
+            "languages": [
+                "Irish"
+            ],
+            "title": "Ceol an Ghrá",
+            "content": "Éistigí, éistigí, cloisim arís é, ceol an ghrá\n'Seo nó ansúid dom, bíonn sé de shíor liom, ceol an ghrá\nI lár na cathrach breá, cois abhainn nó ar trá\nCloisim an tiún, is tú mo rún, sin ceol an ghrá\n\nÉistigí, éistigí, cloisim arís é, ceol an ghrá\nCanann an t-éinín é, casann an ghaoth dom é, ceol an ghrá\nMaidin nó lár an lae, cloisim i gcónaí é\nÉist leis an túin, is tú mo rún, sin ceol an ghrá\n\nSeo Tír na nÓg is tá sciatháin in áit mo chos\nAnois is go deo tá an sonas romham, thall is abhus\nIs tú, mo chroí de lá is d'oích'\nIs gach uile nóiméad de'm' shaol\n\nÉistigí, éistigí, cloisim arís é, ceol an ghrá\n'Seo nó ansúid dom, bíonn sé de shíor liom, ceol an ghrá\nI lár na cathrach breá, cois abhainn nó ar trá\nCloisim an tiún, is tú mo rún, sin ceol an ghrá\n\nÉistigí, éistigí, cloisim arís é, ceol an ghrá\n'Seo nó ansúid dom, bíonn sé de shíor liom, ceol an ghrá\nI lár na cathrach breá, cois abhainn nó ar trá\nCloisim an tiún, is tú mo rún, sin ceol an ghrá\n\nI lár na cathrach breá, cois abhainn nó ar trá\nCloisim an tiún, is tú mo rún, ѕin ceol аn ghrá"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The Music of Love",
+            "content": "Listen, listen, I hear it again, the music of love\nHere or beyond me, it's eternally with me, the music of love\nIn the centre of the lovely city, beside the river or on the beach\nI hear the tune, you are my sweetheart, that's the music of love\n\nListen, listen, I hear it again, the music of love\nThe little bird sings it, the wind plays it for me, the music of love\nMorning or midday, I always hear it\nListen to the tune, you are my sweetheart, that's the music of love\n\nThis is the Land of Eternal Youth and wings are in place of my legs\nNow and forever happiness is before me, all around\nYou are my sweetheart by day and by night\nAnd every single moment of my life\n\nListen, listen, I hear it again, the music of love\nHere or beyond me, it's eternally with me, the music of love\nIn the centre of the lovely city, beside the river or on the beach\nI hear the tune, you are my sweetheart, that's the music of love\n\nListen, listen, I hear it again, the music of love\nHere or beyond me, it's eternally with me, the music of love\nIn the centre of the lovely city, beside the river or on the beach\nI hear the tune, you are my sweetheart, that's the music of love\n\nIn the centre of the lovely city, beside the river or on the beach\nI hear the tune, you are my sweetheart, thаt's the muѕic of love"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Kvtj9wE6C3I"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Joe Burkett"
+    ],
+    "lyricists": [
+        "Liam MacUistín"
+    ],
+    "writers": null,
+    "conductor": "Colman Pearce",
+    "stageDirector": null,
+    "tone": "C minor",
+    "bpm": 81,
+    "broadcaster": "RTÉ",
+    "spokesperson": null,
+    "commentators": [
+        "Mike Murphy"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 2,
+    "country": "MC",
+    "artist": "Romuald",
+    "song": "Où sont",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Où sont-elles passées?",
+            "content": "Où sont-elles passées\nCelles qui m'ont fait croire\nÀ la belle histoire du fruit défendu?\n\nQue de temps passé dans l'attente vaine\nD'étreintes incertaines\nQue de temps perdu\n\nLe cœur, débordant de tant de tendresse\nPar mes maladresses gardait son tourment\n\nDans la rue, tendrement, elles prenaient ma main\nSeul à seul, gravement, elles disaient demain\nQuand j'y pense aujourd'hui, pourtant\nMoi, je souris du temps\nDu temps passé, à croire à cette histoire\n\nOù sont-elles passées\nCelles qui m'ont fait croire\nÀ la belle histoire du fruit défendu?\n\nMais ce temps passé qui semblait folie\nQue de nostalgie il m'aura valu\nCar les filles alors avaient le mystère\nDes amours premières à jamais perdues\n\nOù sont-elles passées\nCelles qui m'ont fait croire\nÀ lа belle hiѕtoire du fruit défendu?"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Where have they gone?",
+            "content": "Where have they gone\nThose who made me believe\nThe lovely story of the forbidden fruit?\n\nSo much time is spent in the vain expectation\nOf unsteady embraces\nSo much time is lost\n\nThe heart, overflowing with so much tenderness\nBy my awkwardnesses kept its torment\n\nOn the street, tenderly, they took my hand\nA private conversation, seriously, they said tomorrow\nWhen I think of it today, however\nI smile of the time\nOf the past time, to believe in this story\n\nWhere have they gone\nThose who made me believe\nThe lovely story of the forbidden fruit?\n\nBut that past time which seemed mad\nSo much nostalgia it will be worth to me\nBecause the girls then had the mystery\nOf the first loves which are lost forever\n\nWhere have they gone\nThose who mаde me believe\nThe lovely ѕtory of the forbidden fruit?"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/_Xflkk7wTnU"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Francis Lai"
+    ],
+    "lyricists": [
+        "Pierre Barouh"
+    ],
+    "writers": null,
+    "conductor": "Michel Colombier",
+    "stageDirector": null,
+    "tone": "Ab major",
+    "bpm": 105,
+    "broadcaster": "TMC",
+    "spokesperson": null,
+    "commentators": [
+        "Robert Beauvais"
+    ]
+}

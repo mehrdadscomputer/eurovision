@@ -1,0 +1,49 @@
+{
+    "id": 9,
+    "country": "MD",
+    "artist": "DoReDos",
+    "song": "My Lucky Day",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "My Lucky Day",
+            "content": "You got secrets to unfold\nYou got stories never told\nYou're holding information\nStanding right in front of me\nA hidden rhapsody\nI walk into temptation\n\nSomething tells me we can make some music\nThe rhythm is driving me wild\nAnd something tells me we ain't gonna loose it\nKeep pushing way into the night\n\nNumber one, keep rolling\nSay you're real, I'm hoping\nDo you feel the way I do?\nBring it on, it's magic\nAre you real? Fantastic\nSay you feel the way I do\n\nNumber two, keep turning\nFeel the heat, we're burning\nI'll do anything for you\nWe can be forever\nNumber one, together\nWe can make a dream come true\n\nWell, I guess it's up to you\nDo you feel the way I do?\nWhen body talk is magic\nSo, is this my lucky day?\nWill you stay or walk away?\nRight now, you're stopping traffic\n\nSomething tells me we can make some music\nThe rhythm is driving me wild\nAnd something tells me we ain't gonna loose it\nKeep pushing way into the night\n\nNumber one, keep rolling\nSay you're real, I'm hoping\nDo you feel the way I do?\nBring it on, it's magic\nAre you real? Fantaѕtic\nSay you feel the way I do\n\nNumber two, keep turning\nFeel the heat, we're burning\nI'll do anything for you\nWe can be forever\nNumber one, together\nWe can make a dreаm come true"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/5evrVL1rJPA",
+        "https://www.youtube.com/embed/pKLKeVC-9Y4",
+        "https://www.youtube.com/embed/m1kjPaVAeeE",
+        "https://www.youtube.com/embed/5ts-jxdW6AQ",
+        "https://www.youtube.com/embed/Kg3ecHrFM_4",
+        "https://www.youtube.com/embed/jP2H75ISzl8",
+        "https://www.youtube.com/embed/UnOJrS9W4fE",
+        "https://www.youtube.com/embed/0_SHN1HNL5c",
+        "https://www.youtube.com/embed/DB4AQ-MMN_E",
+        "https://www.youtube.com/embed/89b4x1_XT6c"
+    ],
+    "dancers": null,
+    "backings": [
+        "Erik Høiby",
+        "Kostya Vechersky",
+        "Sara Linnea Larsson"
+    ],
+    "composers": [
+        "Philipp Kirkorov"
+    ],
+    "lyricists": [
+        "John Ballard"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Fokas Evangelinos",
+    "tone": "D minor",
+    "bpm": 122,
+    "broadcaster": "TRM",
+    "spokesperson": "Djulieta Ardovan",
+    "commentators": [
+        "Djulieta Ardovan"
+    ]
+}

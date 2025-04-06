@@ -1,0 +1,49 @@
+{
+    "id": 16,
+    "country": "IS",
+    "artist": "Eythor Ingi",
+    "song": "Ég Á Líf",
+    "lyrics": [
+        {
+            "languages": [
+                "Icelandic"
+            ],
+            "title": "Ég á líf",
+            "content": "Lagði ég af stað í það langa ferðalag\nÉg áfram gekk í villu eirðarlaus\nHugsaði ekki um neitt, ekki fram á næsta dag\nEinveru og friðsemdina kaus\n\nÉg á líf, ég á líf yfir erfiðleika svíf\nÉg á líf, ég á líf vegna þín\nÞegar móti mér blæs yfir fjöllin há ég klíf\nÉg á líf, ég á líf, ég á líf vegna þín\n\nÉg skildi ekki ástina sem öllu hreyfir við\nÞorði ekki að faðma og vera til\nFannst sem ætti ekki skilið að opna huga minn\nOg hleypa bjartri ástinni þar inn\n\nÉg á líf, ég á líf yfir erfiðleika svíf\nÉg á líf, ég á líf vegna þín\nÞegar móti mér blæs yfir fjöllin há ég klíf\nÉg á líf, ég á líf vegna þín\n\nOg ég trúi því, já ég trúi því\nKannski opnast fagrar gáttir himins\nYfir flæðir fegursta ástin hún umvefur mig alein\n\nÉg á líf, (ég á líf) yfir erfiðleika svíf\nÉg á líf, (ég á líf) vegna þín\nÞegar móti mér blæѕ yfir fjöllin há ég klíf\nÉg á líf, ég á líf vegnа þín\nÉg á líf, ég á líf, ég á líf"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "I've got a life",
+            "content": "I set off on that long journey\nI journeyed aimlessly, restless\nI didn't think of anything, not to the next day\nI chose solitude and peacefulness\n\nI've got a life, I've got a life, I float over hardships\nI've got a life, I've got a life because of you\nWhen the wind blows against me, I climb over tall mountains\nI've got a life, I've got a life, I've got a life\n\nI didn't understand the love that touches all\nI didn't dare to hug and to exist\nI felt that I didn't deserve to open my mind\nand let the bright love inside\n\nI've got a life, I've got a life, I float over hardships\nI've got a life, I've got a life because of you\nWhen the wind blows against me, I climb over tall mountains\nI've got a life, I've got a life, I've got a life\n\nAnd I believe, yes I believe\nMaybe the beautiful doors of heaven will open\nThe most beautiful love will overflow, it will embrace me alone\n\nI've got a life, (I've got a life,) I float over hardships\nI've got a life, (I've got a life) because of you\nWhen the wind blows against me, I climb over tall mountains\nI've got a life, I've got a life becauѕe of you\nI've got a life, I've got a life, I've got а life"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/GzE88IYzXLI",
+        "https://www.youtube.com/embed/Z0E9xYo12Ac",
+        "https://www.youtube.com/embed/b208y41n9CQ"
+    ],
+    "dancers": null,
+    "backings": [
+        "Bergþór Smári Jakobsson",
+        "Einar Þór Jóhannsson",
+        "Hannes Heimir Friðbjarnarson",
+        "Kristján Gíslason"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Örlygur Smári",
+        "Pétur Örn Guðmundsson"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A major",
+    "bpm": 149,
+    "broadcaster": "RÚV",
+    "spokesperson": "María Sigrún Hilmarsdóttir",
+    "commentators": [
+        "Felix Bergsson"
+    ]
+}

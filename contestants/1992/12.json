@@ -1,0 +1,44 @@
+{
+    "id": 12,
+    "country": "YU",
+    "artist": "Extra Nena",
+    "song": "Ljubim Te Pesmama",
+    "lyrics": [
+        {
+            "languages": [
+                "Serbian"
+            ],
+            "title": "Ljubim te pesmama",
+            "content": "Boga sam molila\nNeka mi snage da\nDa oprostim ti sve\nZaboravim što pre\nOne duge molitve\n\nJoš si na mojim usnama\nLjubim te pesmama\nSnovi umorni nas su čekali\nAli mi nismo zaspali\n\nZora je čaše dve razbila\nS' nama se ljubavi napila\nLepše je pevala od cigana\nO Bože, da li sam sve snajala\n\nJoš si na mojim usnama\nLjubim te pesmama\nSnovi umorni nas su čekali\nAli mi nismo zaspali\n\nZora je čaše dve razbila\nS' nama se ljubavi napila\nLepše je pevala od cigana\nO Bože, da li sam sve snajala\n\nZora je čaše dve razbila\nS' nama se ljubavi napila\nLepše je pevala od cigana\nO Bože, da li sam sve ѕnajalа"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "I'm kissing you with songs",
+            "content": "I prayed to God\nTo give me strength\nTo forgive you everything\nTo forget as soon as possible\nThose long prayers\n\nYou're still on my lips\nI'm kissing you with songs\nDreaded dreams were waiting for us\nBut we never went to sleep\n\nThe dawn broke two glasses\nIt got drunk of love\nIt sang better than gypsies\nOh, God, did I dream it all\n\nYou're still on my lips\nI'm kissing you with songs\nDreaded dreams were waiting for us\nBut we never went to sleep\n\nThe dawn broke two glasses\nIt got drunk of love\nIt sang better than gypsies\nOh, God, did I dream it all\n\nThe dawn broke two glasses\nIt got drunk of love\nIt sang better than gypsieѕ\nOh, God, did I dream it аll"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/wPBe1nEd2ac",
+        "https://www.youtube.com/embed/iDIOoF1jUE0"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Radivoje Radivojević"
+    ],
+    "lyricists": [
+        "Gale Janković"
+    ],
+    "writers": null,
+    "conductor": "Anders Berglund",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "JRT",
+    "spokesperson": "Veselin Mrđen",
+    "commentators": [
+        "Mladen Popović"
+    ]
+}

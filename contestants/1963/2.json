@@ -1,0 +1,44 @@
+{
+    "id": 2,
+    "country": "IT",
+    "artist": "Emilio Pericoli",
+    "song": "Uno per tutte",
+    "lyrics": [
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Uno per tutte",
+            "content": "Sei quasi fatta per me, dipinta per me, Claudia\nPerò confesso che tu mi piaci di più, Nadia\nDi tutte tutto mi va, huhu lalala… sempre\nNon so decidermi mai, mi trovo perciò nei guai\n\nVi penso e vedo cieli senza nuvole\nE mille mandolini mi accarezzano\nPoi apro gli occhi e allora mi accorgo che\nNon c'è, non c'è nessuna accanto a me\n\nInnamorato di te, desidero te, Laura\nNon sono bello però che colpa ne ho, Giulia?\nHo sulla bocca per voi, hu hu la la la… baci\nEd io li dedico a chi per prima dirà di sì\n\nHo sulla bocca per voi, hu hu la la la… baci\nEd io li dedico a chi per prima dirà di sì\n\nEd io li dedico a chi per primа dirà di ѕì"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "One for all",
+            "content": "You're almost made for me, painted for me, Claudia\nBut I confess that I like you most, Nadia\nI like everything of everyone, huhu lalala… always\nI can never decide, and so I'm in trouble\n\nI'm thinking of you and I see skies without clouds\nAnd a thousand mandolins are caressing me\nThen I open my eyes and that moment I realise that\nThere is no one, there is no one next to me\n\nIn love with you, wanting you, Laura\nI'm not beautiful, but is it my fault, Julia?\nOn my mouth I have huhu lalala… kisses for you\nAnd I'm dedicating them to the first one who will say yes\n\nOn my mouth I have huhu lalala… kisses for you\nAnd I'm dedicating them to the first one who will say yes\n\nAnd I'm dedicating them to the first one who will sаy yeѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ESs_RDiQYQ0"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Tony Renis"
+    ],
+    "lyricists": [
+        "Alberto Testa",
+        "Mogol"
+    ],
+    "writers": null,
+    "conductor": "Gigi Cicchellero",
+    "stageDirector": null,
+    "tone": "Ab major",
+    "bpm": 112,
+    "broadcaster": "RAI",
+    "spokesperson": "Enzo Tortora",
+    "commentators": [
+        "Renato Tagliani"
+    ]
+}

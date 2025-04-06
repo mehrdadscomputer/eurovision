@@ -1,0 +1,39 @@
+{
+    "id": 8,
+    "country": "GR",
+    "artist": "Anna Vissi",
+    "song": "Everything",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Everything",
+            "content": "I can hear my heart breaking as I open the door\nI can feel the tears on my face burn like fire\nAs I look in your eyes\nAnd I know I'm still in love\n\nWith everything I hate, everything you do\nEverything I fear, everything on you\nBaby, baby, I'm still in love\n\nWith everything I hate, everything you do\nEverything I fear, everything on you\nEverything I hate, everything you do\nEverything I fear, everything on you\n\nI can feel my life ending as I whisper goodbye\nAnd I know I'm still in love\n\nWith everything I hate, everything you do\nEverything I fear, everything on you\nWith everything I hate, everything you do\nEverything I fear, everything on you\n\nI can't believe I still need you\nI can't believe I still want you\nCan't believe life means nothing without you\nBaby, I'm still in love, still in love, ѕtill in love\n\nWith everything I hate, everything you do\nEverything I fear, everything on you\nEverything I hate, everything you do\nEverything I fear, everything on you\n\nI'm in love with everything you аre"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/EJDqzQ_GlW0",
+        "https://www.youtube.com/embed/-i5EV6Dp62o",
+        "https://www.youtube.com/embed/h1Y-KH3xzAk"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Nikos Karvelas"
+    ],
+    "lyricists": [
+        "Anna Vissi"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Mia Michaels",
+    "tone": "C major",
+    "bpm": 89,
+    "broadcaster": "ERT",
+    "spokesperson": "Alexis Kostalas",
+    "commentators": [
+        "Giorgos Kapoutzidis",
+        "Zeta Makrypoulia"
+    ]
+}

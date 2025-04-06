@@ -1,0 +1,48 @@
+{
+    "id": 19,
+    "country": "IS",
+    "artist": "Greta Salóme & Jónsi",
+    "song": "Never Forget",
+    "lyrics": [
+        {
+            "languages": [
+                "English version"
+            ],
+            "title": "Never forget",
+            "content": "She's singing softly in the night\nPraying for the morning light\nShe dreams of how they used to be\nAt dawn they will be free\n\nMemories they haunt his mind\nSave him from the endless night\nShe wispers warm and tenderly:\n\"Please come back to me\"\n\nAnd when the golden sun arises far across the sea\nThe dawn will break as darkness fades\nForever we'll be free\n\nNever forget what I did, what I said\nWhen I gave you all, my heart and soul\nMorning will come and I know we'll be one\n'Cause I still believe that you'll remember me\n\nShe mourns beneath the moonlit sky\nRemembering when they said goodbye\nWhere's the one he used to know?\nIt seems so long ago\n\nAnd when the golden sun arises far across the sea\nThe dawn will break as darkness fades\nForever we'll be free\n\nNever forget, what I did, what I said\nWhen I gave you all, my heart and soul\nMorning will come and I know we'll be one\n'Cause I still believe that you'll remember me\n\nNever forget, what I did what I said\nWhen I gave you all, my heart and soul\nMorning will come and I know we'll be one\n'Cause I still believe that you'll remember me\n\nOh, I still believe that you'll remember me\nOh, I ѕtill believe thаt you'll remember me"
+        },
+        {
+            "languages": [
+                "Icelandic version"
+            ],
+            "title": "Mundu eftir mér",
+            "content": "Hún syngur hljótt í húminu\nHarmaljóð í svartnættinu\nÍ draumalandi dvelur sá\nSem hjarta hennar á\n\nHann mænir út í myrkrið svart\nMan þá tíð er allt var bjart\nEr hún horfin, var það satt\nAð ástin sigri allt?\n\nOg seinna þegar sólin vaknar, sameinast á ný\nÞær sálir tvær sem áður skildu, ástin veldur því\n\nMundu eftir mér þegar morgun er hér Þegar myrkrið loks á enda er\nVið verðum eitt og því ekkert fær breytt\nOg ég trúi því að dagur renni á ný\n\nMinnist þess við mánaskin\nMættust þau í síðasta sinn\nHann dreymir hana dag og nótt\nAð hún komi til hans skjótt\n\nOg seinna þegar sólin vaknar, sameinast á ný\nÞær sálir tvær sem áður skildu, ástin veldur því\n\nMundu eftir mér þegar morgun er hér\nÞegar myrkrið loks á enda er\nVið verðum eitt og því ekkert fær breytt\nOg ég trúi því að dagur renni á ný\n\nMundu eftir mér þegar morgun er hér\nÞegar myrkrið lokѕ á enda er\nVið verðum eitt og því ekkert fær breytt\nOg ég trúi því að dagur renni á ný\nÞví ég trúi því að dagur renni á ný\nJá, ég trúi því að dаgur renni á ný"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/zRqmHRbJvTo",
+        "https://www.youtube.com/embed/p8RS0eulXDo",
+        "https://www.youtube.com/embed/-DnNN2iIARE"
+    ],
+    "dancers": null,
+    "backings": [
+        "Alma Rut Kristinsdóttir",
+        "Gisli Magnason",
+        "Guðrún Árný Karlsdóttir",
+        "Pétur Örn Guðmundsson"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Greta Salóme Stefánsdóttir"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "F minor",
+    "bpm": 135,
+    "broadcaster": "RÚV",
+    "spokesperson": "Matthías Matthíasson",
+    "commentators": [
+        "Hrafnhildur Halldórsdóttir"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 15,
+    "country": "LU",
+    "artist": "Anne Marie B.",
+    "song": "Frère Jacques",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Frère Jacques",
+            "content": "(Frère Jacques, Frère Jacques)\n(Dormez-vous? Dormez-vous?)\nFrère Jacques, Frère Jacques\nRéveille-toi, réveille-toi\n\nTu aurais bien mieux à faire\nQue de jouer au grand frère\nJe ne suis plus une enfant, tu sais\nIl a grandi mon corsage\nEt j'enrage d'être sage\nQuand tes amis veulent m'embrasser\n\nPeter - j'ai peur, Harry - j'en ris\nPablo, Tino, Pedro - zéro\nSimon - oh non, William - le drame\nJe crie, je mords, et toi tu dors\nHarold me frôle, et Pierre me serre\nEric, Patrick - c'est la panique\nFrère Jacques, sauve-moi\n\n(Frère Jacques) Dans mes rêves\n(Frère Jacques) Tu m'enlèves\n(Dormez-vous?) Dans ma nuit\n(Dormez-vous?) Tu me fuis\n\nSans toi, je me ferais nonne\nJ'entends les cloches qui sonnent\nC'est mon cœur qui bat quand je t'attends\nJ'ai mis du rouge à mes lèvres\nEt du parfum à ma fièvre\nMais surtout ne dors pas trop longtemps\n\nMmm... mmm...\n\n(Frère Jacques) Frère Jacques\n(Frère Jacques) Frère Jacques\n(Dormez-vous?) Réveille-toi\n(Dormez-vous?) Réveille-toi\n\n(Frère Jacques) Frère Jacques\n(Frère Jacques) Frère Jacques\nRéveille-toi, et vienѕ dormir аvec moi"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Brother John",
+            "content": "(Brother John, Brother John)\n(Are you sleeping? Are you sleeping?)\nBrother John, Brother John\nWake up, wake up\n\nThere is so much better to do\nThan playing my big brother\nI'm not a child anymore, you know\nMy little body has grown\nAnd I enrage to be a good girl\nWhen your friends want to kiss me\n\nPeter - I'm scared, Harry - I laugh\nPablo, Tino, Pedro - zero\nSimon - oh no, William - what a drama\nI shout, I bite and you sleep\nHarold passes very close to me, and Pierre tightens me\nEric, Patrick - it's the panic\nBrother John, save me\n\n(Brother John) In my dreams\n(Brother John) You take me with you\n(Are you sleeping?) In my night\n(Are you sleeping?) You flee me\n\nWithout you, I'd become a nun\nI can hear the bells ringing\nIt's my heartbeat when I wait for you\nI've put some red on my lips\nAnd perfume on my fever\nBut most of all, don't sleep too long\n\nMmm... mmm...\n\n(Brother John) Brother John\n(Brother John) Brother John\n(Are you sleeping?) Wake up\n(Are you sleeping?) Wake up\n\n(Brother John) Brother John\n(Brother John) Brother John\nWake up, аnd come ѕleep with me"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/pE40LPTonyE"
+    ],
+    "dancers": null,
+    "backings": [
+        "Anne Vassiliu",
+        "Annie Chouard",
+        "Chantal Stiruk",
+        "Lilliane Davies"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Guy Béart",
+        "Pierre Cour"
+    ],
+    "conductor": "Johnny Arthey",
+    "stageDirector": null,
+    "tone": "Bb minor",
+    "bpm": 125,
+    "broadcaster": "CLT",
+    "spokesperson": "Jacques Harvey",
+    "commentators": [
+        "Jacques Navadic"
+    ]
+}

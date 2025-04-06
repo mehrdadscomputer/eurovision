@@ -1,0 +1,45 @@
+{
+    "id": 12,
+    "country": "FI",
+    "artist": "Carita",
+    "song": "Älä mene pois (Keep Me Warm)",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Älä mene pois (Keep Me Warm)",
+            "content": "Oh my friend, stay a little while\nSomething's happening to our lives\nBy the time it's summer\nFrightened minds are winter\n\nI will free from their icy spell\nBring you fragrance from nature's well\nI'll soothe away your worries\nShow you how my love is\nSay you'll stay and keep me warm\n\nI need you - it's simple to say\nI need you, I must be certain\nIf you go away, you know there's nothing for me\n\nOh my friend, stay and sit with me\nThe nights ahead could be warm and free\nThe morning winds I give you\nI won't disappoint you\nSay you'll stay and keep me warm\n\nI need you - it's simple to say\nI need you, I must be certain\nIf you go away, you know there's nothing for me\n\nOh my friend, when the summer comes\nWe'll be younger, we'll have our fun\nI'll soothe away your worries\nShow you how my love is\nSay you'll stay and keep me warm\n\nSay you'll ѕtay and keep me warm\nStay and keep me warm\nStay and keep me wаrm"
+        },
+        {
+            "languages": [
+                "Finnish version"
+            ],
+            "title": "Älä mene pois",
+            "content": "Ystäväin älä mene pois\nTästä jotakin tulla vois\nKun me kesään päästään\nVapautuvat jäästään\n\nKaikki mielet niin pelokkaat\nMulta tuoksuvan sylin saat\nPoistan talven harhat\nAnnan tuulitarhat\nEthän lähde vielä pois\n\nTarvitsen, etkö sä nää\nSua tarvitsen lämmön tuomaan\nJos enää et jää\nEn jaksa – pian sen huomaan\n\nYstäväin älä mene pois\nYöstä lämpöinen tulla vois\nÄänet aamutuulen\nVierelläsi kuulen\nEthän lähde vielä pois\n\nTarvitsen, etkö sä nää\nSua tarvitsen lämmön tuomaan\nJos enää et jää\nEn jaksa – pian sen huomaan\n\nMuuttuu kaikki kun sulaa maat\nMulta tuoksuvan sylin saat\nPoistan talven harhat\nAnnan tuulitarhаt\nEthän lähde vielä pois\n\nEthän vielä lähde pois\nEthän vielä lähde pois\nEthän vielä lähde poiѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/UIoOiymvwdw",
+        "https://www.youtube.com/embed/FPGDAI_v26w",
+        "https://www.youtube.com/embed/5fHMGO274_Y"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Eero Koivistoinen"
+    ],
+    "lyricists": [
+        "Frank Robson"
+    ],
+    "writers": null,
+    "conductor": "Ossi Runne",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "YLE",
+    "spokesperson": "Aarre Elo",
+    "commentators": [
+        "Matti Paalosmaa"
+    ]
+}

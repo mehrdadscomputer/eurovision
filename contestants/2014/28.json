@@ -1,0 +1,49 @@
+{
+    "id": 28,
+    "country": "IE",
+    "artist": "Can",
+    "song": "Linn feat. Kasey Smith",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": null,
+            "content": "White lightening upon us again\nThe wall is now paper thin\nAnd soon the sun's breaking in\nDon't you know, know…\n\nHow the world is not always true\nStill my truth will remain in you\nWe'll be braver and start anew\nI know, know…\n\nOooh…\nWhen the ocean's way too deep\n\nKeep your head high above the water\nWe can make it and break the border\nHold on to my heartbeat\nMy heartbeat, my heartbeat\nFace the danger and face tomorrow\nYou're a dreamer and you don't know\nThat no story is carved in stone\nJust hold on to my heartbeat\nMy heartbeat\n\nThe ground may be caving in\nAnd some wounds they may never mend\nBut we'll rise up and try again\nI know, know…\n\nOooh…\nWhen the shore gets hard to see\n\nKeep your head high above the water\nWe can make it and break the border\nHold on to my heartbeat\nMy heartbeat, my heartbeat\nFace the danger and face tomorrow\nYou're a dreamer and you don't know\nThat no story is carved in stone\nJust hold on to my heartbeat\nMy heartbeat\n\nKeep your head high above the water\nWe can make it and break the border\nHold on to my heartbeat\nMy heartbeat, my heartbeat\nFace the danger and face tomorrow\nYou're a dreamer and you don't know\nThat no story is carved in stone\nJuѕt hold on to my heartbeat\nMy heartbeаt"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/J9zEybTMeEs",
+        "https://www.youtube.com/embed/Zc14AzCXUgQ",
+        "https://www.youtube.com/embed/YZiF9WDXkRM"
+    ],
+    "dancers": [
+        "Tarik Shebani",
+        "Thomas Spratt"
+    ],
+    "backings": [
+        "Donna Bissett",
+        "Jenny Bowden"
+    ],
+    "composers": [
+        "Hazel Kaneswaran",
+        "Jonas Gladnikoff",
+        "Patrizia Helander",
+        "Rasmus Palmgren"
+    ],
+    "lyricists": [
+        "Jonas Gladnikoff",
+        "Patrizia Helander",
+        "Rasmus Palmgren"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "C major",
+    "bpm": 122,
+    "broadcaster": "RTÉ",
+    "spokesperson": "Nicky Byrne",
+    "commentators": [
+        "Marty Whelan"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 4,
+    "country": "SE",
+    "artist": "The Nova and The Dolls",
+    "song": "You're Summer",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "You're Summer",
+            "content": "Monday morning – the streets are black with rain\nUnder a skylight hovers sad and grey\nTuesday waits down the endless dreary lane\nAnd every day is like the other day\n\nI am blue and I long for your caress\nOh… your breasts are like swallows a-nestling\nYou're the summer, life grows in you, summer wind blows in you\nSummer rains flow in you, summer sings low in you\nYou are summer, you never tell me no\nSummer, life grows in you, summer wind blows in you\nSummer, you never tell me no\n\nTimes are stale and the days are long and slow\nThere is no song can make me laugh and sing\nHalf past four, I pack up and home I go\nHome to the void and fear the evenings bring\n\nI am blue and I long for your caress\nOh… your breasts are like swallows anestling\nYou're the summer, life grows in you, summer wind blows in you\nSummer rains flow in you, summer sings low in you\nYou are summer, you never tell me no\nSummer, life grows in you, summer wind blows in you\nSummer, you never tell me no\n\nI am blue and I long for your caress\nOh… your breasts are like swallows anestling\nYou're the summer, life grows in you, summer wind blows in you\nSummer rains flow in you, summer sings low in you\nYou are summer, you never tell me no\n\nYou аre ѕummer, you never tell me no"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/qkhqOPmMMEY",
+        "https://www.youtube.com/embed/B1YHRndR2Sw"
+    ],
+    "dancers": null,
+    "backings": [
+        "Annica Risberg",
+        "Kerstin Bagge",
+        "Kerstin Dahl"
+    ],
+    "composers": [
+        "Carl-Axel Dominique",
+        "Monica Dominique"
+    ],
+    "lyricists": [
+        "Lars Forssell"
+    ],
+    "writers": null,
+    "conductor": "Monica Dominique",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 163,
+    "broadcaster": "SR",
+    "spokesperson": null,
+    "commentators": [
+        "Alicia Lundberg"
+    ]
+}

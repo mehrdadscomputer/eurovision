@@ -1,0 +1,50 @@
+{
+    "id": 8,
+    "country": "NL",
+    "artist": "Anouk",
+    "song": "Birds",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Birds",
+            "content": "Isolated from the outside\nClouds have taken all the light\nI have no control, it seems my\nThoughts wander all\nOf the time, when I try to\nLive life without you\n\nBirds falling down the rooftops\nOut of the sky like raindrops\nNo air, no pride\n\nIf being myself is what I do wrong\nThen I would rather not be right\nHopes turned into fear and with my\nOne wing I can't fly\nWith sunrise, embrace my\nDreams tight and that's why\n\nBirds falling down the rooftops\nOut of the sky like raindrops\nNo air, no pride\nBirds\n\nTo a place without fear, with no moonlight\n(To a place without moonlight and fear)\nAll I need are trees and flowers and some sunlight\n(All I need is trees, some flowers and sunlight)\nWhere memories are being made and where the old one dies\nWhere love ain't lost\n\nBirds falling down the rooftops\nOut of the sky like raindrops\n\nBirds falling down the rooftops\nOut of the sky like raindrops\nNo air, no pride\nThаt's why birdѕ don't fly"
+        },
+        {
+            "languages": [
+                "Swedish"
+            ],
+            "title": "Fåglar",
+            "content": "Isolerade från utsidan\nMoln har tagit allt ljus\nJag har ingen kontroll, det verkar som mina\nTankar vandrar hela\nTiden, när jag försöker\nLeva livet utan dig\n\nFåglar faller ner från taken\nUt ur himlen som regndroppar\nIngen luft, ingen stolthet\n\nOm att vara mig själv är vad jag gör fel\nDå skulle jag hellre vara fel\nHopp omvandlas till rädsla och med min\nEnda vinge, jag kan inte flyga\nMed soluppgång, omfamna mina\nDrömmar hårt och det är varför\n\nFåglar faller ner från taken\nUt ur himlen som regndroppar\nIngen luft, ingen stolthet\nFåglar\n\nTill en plats utan rädsla, med inget månsken\n(Till en plats utan månsken och rädsla)\nAllt jag behöver är träd och blommor och lite solsken\n(Allt jag behöver ar träd, blommor och solsken)\nDär minnen blir skapade och de gamla dör\nDär kärlek är inte vilse\n\nFåglar faller ner från taken\nUt ur himlen som regndroppar\n\nFåglar faller ner från taken\nUt ur himlen som regndroppar\nIngen luft, ingen ѕtolthet\nDet är därför fåglаr flyger inte"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/n5iazXvMw5o"
+    ],
+    "dancers": null,
+    "backings": [
+        "Ricardo Burgrust",
+        "Shirma Rouse",
+        "Yerry Rellum"
+    ],
+    "composers": [
+        "Anouk",
+        "Martin Gjerstad",
+        "Tore Johanson"
+    ],
+    "lyricists": [
+        "Anouk"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 127,
+    "broadcaster": "TROS",
+    "spokesperson": "Cornald Maas",
+    "commentators": [
+        "Daniël Dekker",
+        "Jan Smit"
+    ]
+}

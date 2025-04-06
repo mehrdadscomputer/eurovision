@@ -1,0 +1,38 @@
+{
+    "id": 8,
+    "country": "NO",
+    "artist": "Wig Wam",
+    "song": "In My Dreams",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "In my dreams",
+            "content": "Come on, come on, come on\nLove is all over me (Over me)\n\nI don't know if this is what it seems\nIs it real or just a fantasy?\nAim to please is all you ever do\nMaking all my fairytales come true\n\nCome on, come on, come on\nLove is all over me (Over me)\nYou are the only one\nLivin' in my fantasy, in my dreams\n\nScared of waking up and you'll be gone\nFace the truth and I'll be all alone\nBaby, let's get into the groove\nShow me all your dirty moves\n\nCome on, come on, come on\nLove is all over me (Over me)\nYou are the only one\nLivin' in my fantasy, in my dreams\n\nCome on, come on, come on\nLove is all over me (Over me)\nYou are the only one\nLivin' in my fantasy, in my dreams\nIn my dreams\n\nIf this ain't real, don't wake me up\nI don't ever wanna stop\nNo, no\n\nCome on, come on, come on\nLove is all over me\nYou are the only one\nLivin' in my fantasy, in my dreams\n\nCome on, come on, come on\nLove is all over me\nYou are the only one\nLivin' in my fantasy, in my dreams\n\n(Come on, come on, come on)\n(Love is all over me) Ooh…\n(You are the only one)\n(Livin' in my fantasy)\nIn my dreаmѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/P-ki-HZrxJM",
+        "https://www.youtube.com/embed/i_0nm8vFFHM"
+    ],
+    "dancers": null,
+    "backings": [
+        "Åshild Kristin Stensrud",
+        "Karianne Kjærnes"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Trond Holter"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "C major",
+    "bpm": 126,
+    "broadcaster": "NRK",
+    "spokesperson": "Ingvild Helljesen",
+    "commentators": [
+        "Jostein Pedersen"
+    ]
+}

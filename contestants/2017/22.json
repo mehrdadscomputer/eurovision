@@ -1,0 +1,52 @@
+{
+    "id": 22,
+    "country": "IL",
+    "artist": "Imri Ziv",
+    "song": "I Feel Alive",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "I Feel Alive",
+            "content": "The secret of my life \nIs never givin' up \nNow I'm close to you\nWalking through the stars \nBrings me to the start \nWhen I walk with you\n\nI was waiting way too much\nFor something good to come \nAnd I'm a bit fragile \nWas waiting way too much \nIt's like an hourglass \nAnd you're like trouble \n\nBreaking me to pieces \nI wanted you to know that \nEvery piece broke from you \nBreaking me to pieces \n'Coz every time \nYou come around \nI feel alive \nNow I'm trying \nI'm trying \nI feel alive!\nI feel alive!\n\nThe years I've been alone \nFar away from home \nReminded me of you\nMy job is almost done\nBaby I can now\nEscape away with you \n\nI was waiting way too much\nFor something good to come \nAnd I'm a bit fragile \nWas waiting way too much \nIt's like an hourglass \nAnd you're like trouble \n\nBreaking me to pieces \nI wanted you to know that \nEvery piece broke from you\nBreaking me to pieces \n'Coz every time \nYou come around \nI feel alive \nNow I'm trying \nI'm trying \nI feel alive!\nSo alive\nAlive, alive, alive\n\nBreaking me to pieces \nI wanted you to know that \nEvery piece broke from you\nBreaking me to pieceѕ \n'Coz every time \nYou come around \nI feel аlive"
+        },
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "Я чувствую себя живым",
+            "content": "Секрет моей жизни прост\nЯ никогда не сдаюсь\nИ сейчас я близок к тебе\nИду к звездам\nТы ведешь меня к ним\nКогда я с тобой\n\nЯ слишком долго ждал\nЧего-то хорошего для себя\nВедь я очень хрупок\nСлишком долго ждал\nМои песочные часы истекают\nА ты - моя проблема\n\nРазбей меня на части\nЯ хочу, чтобы ты знала\nКаждый кусочек бит из-за тебя\nРазбей меня на части\nИ каждый раз\nКогда ты рядом\nЯ чувствую себя живым\nЯ пытался\nПытаюсь\nЯ чувствую себя живым\nЯ чувствую себя живым\n\nГода проведенные в одиночестве\nВдали от дома\nНапоминают о тебе\nЯ сделал свою работу\nДетка, теперь я могу\nСбежать с тобой\n\nЯ слишком долго ждал\nЧего-то хорошего для себя\nВедь я очень хрупок\nСлишком долго ждал\nМои песочные часы истекают\nА ты - моя проблема\n\nРазбей меня на части\nЯ хочу, чтобы ты знала\nКаждый кусочек бит из-за тебя\nРазбей меня на части\nИ каждый раз\nКогда ты рядом\nЯ чувствую себя живым\nЯ пытался\nПытаюсь\nЯ чувствую себя живым\nЯ живой\nЖивой, живой, живой\n\nРазбей меня на части\nЯ хочу, чтобы ты знала\nКаждый кусочек бит из-за тебя\nРазбей меня на части\nИ каждый раз\nКогда ты рядом\nЯ чувствую себя живым"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/YapnW_zfWJk",
+        "https://www.youtube.com/embed/XDURs6wwxJM",
+        "https://www.youtube.com/embed/RueNedKCvGA",
+        "https://www.youtube.com/embed/-qrwI87p8Cw",
+        "https://www.youtube.com/embed/KylBM15zvSQ",
+        "https://www.youtube.com/embed/kh7ubjvQxtM",
+        "https://www.youtube.com/embed/dHL5WeQ00MU"
+    ],
+    "dancers": null,
+    "backings": [
+        "Adam Cohen",
+        "Almog Kapach",
+        "Alon Sharr",
+        "Ido Geva",
+        "Tomer Tenenboym"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Dolev Ram",
+        "Penn Hazut"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 125,
+    "broadcaster": "IBA",
+    "spokesperson": "Ofer Nachshon",
+    "commentators": null
+}

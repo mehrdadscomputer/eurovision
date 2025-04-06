@@ -1,0 +1,49 @@
+{
+    "id": 32,
+    "country": "PL",
+    "artist": "Rafał",
+    "song": "The Ride",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The Ride",
+            "content": "Lights, beaming down the rainy street\nAll the faces that I meet tell me I'm wrong\nRide, staring at the neon signs\nMaking up a storyline, gotta hold on\n\nNot lost, even in the death of night\nI can make it out alright\nJust let me go\nYeah I, I will make it through somehow\nLet me figure out what is in and out\n\nSo baby, hold on for the ride of your life\nHigh above ground, living it loud\nI'm gonna take you to the end of the line\nTaking that fight, make it alright\nIt doesn't matter if I stumble and fall\nI'll make it through, I'll never touch the ground\nSo baby, hold on for the ride of your life\nHold on real tight, make it alright\n\nHeart, I won't give my heart and soul\nI am going for the glow, no looking back\nI'm gonna rise high up in the atmosphere\nI ain't got no time to fear\nFollow my tracks\n\nNot lost, following the neon lights\nShooting through the summer skies\nJust let me go\nYeah I, I will make it through somehow\nLet me figure out what is in and out\n\nSo baby, hold on for the ride of your life\nHigh above ground, living it loud\nI'm gonna take you to the end of the line\nTaking that fight, make it alright\nIt doesn't matter if I stumble and fall\nI'll make it through, I'll never touch the ground\nSo baby, hold on for the ride of your life\nHold on real tight, make it alright\n\nI'm gonna take all the world tonight\nNot gonna ask, gonna take what's mine\nSo hold on tight, baby, let's get high\nHigh above the ground\nRide, staring at the neon signs\nLet me figure out what is in and out\n\nSo baby, hold on for the ride of your life\nHigh above ground, living it loud\nI'm gonna take you to the end of the line\nTaking that fight, make it alright\nIt doesn't matter if I ѕtumble and fall\nI'll make it through, I'll never touch the ground\nSo baby, hold on for the ride of your life\nHold on real tight, make it аlright"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Uy6TeDNvSGo",
+        "https://www.youtube.com/embed/zOHwiWElR1A",
+        "https://www.youtube.com/embed/xsWwLWaZBq8",
+        "https://www.youtube.com/embed/BaK0pJQ8E18",
+        "https://www.youtube.com/embed/155wAPcUJF4"
+    ],
+    "dancers": [
+        "Bartosz Kołecki",
+        "Daniel Borzewski",
+        "Maciej Miśkiewicz",
+        "Miłosz Kuterasiński"
+    ],
+    "backings": [
+        "Paweł Skiba"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Clara Rubensson",
+        "Joakim Övrenius",
+        "Johan Mauritzson",
+        "Thomas Karlsson"
+    ],
+    "conductor": null,
+    "stageDirector": "Mikołaj Dobrowolski",
+    "tone": "F# major",
+    "bpm": 132,
+    "broadcaster": "TVP",
+    "spokesperson": "Ida Nowakowska",
+    "commentators": [
+        "Aleksander Sikora",
+        "Marek Sierocki"
+    ]
+}

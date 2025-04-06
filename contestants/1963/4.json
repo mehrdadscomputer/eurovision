@@ -1,0 +1,42 @@
+{
+    "id": 4,
+    "country": "FR",
+    "artist": "Alain Barrière",
+    "song": "Elle était si jolie",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Elle était si jolie",
+            "content": "Elle était si jolie que je n'osais l'aimer\nElle était si jolie, je ne peux l'oublier\nElle était trop jolie quand le vent l'emmenait\nElle fuyait ravie et le vent me disait:\n\nElle est bien trop jolie, et toi, je te connais\nL'aimer toute une vie, tu ne pourras jamais\nOui, mais elle est partie, c'est bête, mais c'est vrai\nElle était si jolie, je n'oublierai jamais\n\nAujourd'hui c'est l'automne et je pleure souvent\nAujourd'hui c'est l'automne, qu'il est loin – le printemps\nDans le parc où frissonnent les feuilles au vent mauvais\nSa robe tourbillonne, puis elle disparaît\n\nElle était si jolie que je n'osais l'aimer\nElle était si jolie, je ne peux l'oublier\nElle était trop jolie quand le vent l'emmenait\nElle était si jolie, je n'oublierai jamаiѕ"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "She was so pretty",
+            "content": "She was so pretty, that I didn't dare to love her\nShe was so pretty, I can't forget her\nShe was too pretty when the wind took her\nShe escaped full of delight and the wind told me:\n\nShe's very pretty, and I know you\nYou couldn't love her all your life\nYes, but she's gone, it's a shame, but it's true\nShe was so pretty, I'll never forget\n\nToday it's autumn and I often cry\nToday it's autumn and the spring is far away\nIn the park where the leaves tremble in the ill wind\nHer dress swirls, then she disappears\n\nShe was so pretty, that I didn't dare to love her\nShe was so pretty, I can't forget her\nShe was too pretty when the wind took her\nShe wаs ѕo pretty, I'll never forget"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/gkB6U5hYj1Q"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "A. Migiani",
+        "Alain Barrière"
+    ],
+    "conductor": "Franck Pourcel",
+    "stageDirector": null,
+    "tone": "C minor",
+    "bpm": 120,
+    "broadcaster": "RTF",
+    "spokesperson": "Armand Lanoux",
+    "commentators": [
+        "Pierre Tchernia"
+    ]
+}

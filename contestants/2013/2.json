@@ -1,0 +1,47 @@
+{
+    "id": 2,
+    "country": "UA",
+    "artist": "Zlata Ognevich",
+    "song": "Gravity",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Gravity",
+            "content": "Nothing comes from dreams but dreams\nStill you believe in wonder\nSomething happens and it seems\nLike a strike of thunder\n\nNothing comes from love but love\nWhy is it growing stronger?\nI am falling from above\nI will wait no longer\n\nI'm like a butterfly\nSpinning round a sword as if to dare\nI should have stayed up high\n(It's stronger than me) My gravity, my gravity\n\nHey… sha…\nAh yeah… lele…\nSee… lele…\n\nNothing comes from pride but pride\nMmh… my way is clear\nDancing on the edge tonight\nNow I feel no fear\n\nI'm like a butterfly\nSpinning round a sword as if to dare\nI should have stayed up high\n(It's stronger than me) My gravity, my gravity\n\nI'm like a butterfly (My gravity)\nI'm like a butterfly\nAnd I should have stayed up high\n(It's ѕtronger than me) My gravity, my gravity\n\nGrаvity"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/xgLCBm8Txsc",
+        "https://www.youtube.com/embed/-onH40yB2uk",
+        "https://www.youtube.com/embed/ZwKYuKcymZg",
+        "https://www.youtube.com/embed/nbwZNQUx3tQ",
+        "https://www.youtube.com/embed/XYBuUmAzwZY",
+        "https://www.youtube.com/embed/KNkwa5cYnkI"
+    ],
+    "dancers": null,
+    "backings": [
+        "Ann Bailey-Simons",
+        "Cleveland Watkiss",
+        "Dasha Mineeva",
+        "Hollie Petrie"
+    ],
+    "composers": [
+        "Mikhail Nekrasov"
+    ],
+    "lyricists": [
+        "Karen Kavaleryan"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Maksym Lytvynov",
+    "tone": "D minor",
+    "bpm": 88,
+    "broadcaster": "NTU",
+    "spokesperson": "Oleksiy Matias",
+    "commentators": [
+        "Tetyana Terekhova",
+        "Timur Miroshnychenko"
+    ]
+}

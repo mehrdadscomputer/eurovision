@@ -1,0 +1,43 @@
+{
+    "id": 30,
+    "country": "EE",
+    "artist": "Malcolm Lincoln",
+    "song": "Siren",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Siren",
+            "content": "Siren in my head, is making awful sound\nIt's time to make it clear\nWhat is lost and what is found?\n\nMy life has been oh lame\nHas been oh lame so far\nI wasted years, I wasted time\nTrying to reach the stars\nMy life has been oh lame\nHas been oh lame so far\n\nGive me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\nGive me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\n\nSiren in my head, yes, I can hear it again\nIs it just the beginning, or is it the end?\n\nMy life has been oh lame\nHas been oh lame so far\nI wasted years, I wasted time\nTrying to reach the stars\nMy life has been oh lame\nHas been oh lame so far\n\nGive me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\nGive me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\n\nGive me time and give me strength\nGive me strength to carry on\nGive me bit of hope now, help me through the night\nGive me time and give me strength\nGive me ѕtrength to cаrry on\nGive me bit of hope now, help me through the night"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/yFbVAQjESzE",
+        "https://www.youtube.com/embed/KEcNfmuF4YA",
+        "https://www.youtube.com/embed/Pbg1sUk4bs0",
+        "https://www.youtube.com/embed/1TrtGnbJoG0"
+    ],
+    "dancers": null,
+    "backings": [
+        "Andrei Ozdoba",
+        "Jaanus Saago",
+        "Kristjan Knight",
+        "Mick Pedaja"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Robin Juhkental"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A minor",
+    "bpm": 103,
+    "broadcaster": "ERR",
+    "spokesperson": "Rolf Roosalu",
+    "commentators": [
+        "Marko Reikop",
+        "Sven Lõhmus"
+    ]
+}

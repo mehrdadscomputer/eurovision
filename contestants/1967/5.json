@@ -1,0 +1,41 @@
+{
+    "id": 5,
+    "country": "ES",
+    "artist": "Raphael",
+    "song": "Hablemos del amor",
+    "lyrics": [
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Hablemos del amor",
+            "content": "Hablemos del amor\nUna vez más\nQue es toda la verdad de nuestra vida\nParemos un momento las horas y los días\nY hablemos del amor una vez más\n\nHablemos de mi amor\nY de tu amor\nDe la primera vez que nos miramos\nAcércame tus manos y unidos en la sombra\nHablemos del amor una vez más\n\n¿Qué nos importa? ¿Qué nos importa?\nAquella gente que mira la tierra\nY no ve más que tierra\n¿Qué nos importa? ¿Qué nos importa?\nToda esa gente que viene y que va\nPor el mundo sin ver la realidad\n\nHablemos de mi amor\nY de tu amor\nDe la primera vez que nos miramos\nAcércame tus manos y unidos en la sombra\nHablemos del amor una vez más\n\n¿Qué nos importa? ¿Qué nos importa?\nAquella gente que mira la tierra\nY no ve más que tierra\n¿Qué nos importa? ¿Qué nos importa?\nToda esa gente que viene y que va\nPor el mundo sin ver...\n\n¿Qué nos importa?\nNo hagamos caso de nadie\nY hablemos de amor\nDe nueѕtro аmor"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Let's talk about love",
+            "content": "Let's talk about love\nOne more time\nIt's all the truth in our life\nLet's stop the hours and the days for a moment\nAnd let's talk about love one more time\n\nLet's talk about my love\nAnd about your love\nAbout the first time we looked to each other\nGive me your hands and let's talk together in the shadow\nAbout love one more time\n\nWhat does it matter? What does it matter?\nAll those people that look at the earth\nAnd see nothing more but earth\nWhat does it matter? What does it matter?\nAll those people coming and going\nAlong the world without seeing the truth\n\nLet's talk about my love\nAnd about your love\nAbout the first time that we looked to each other\nGive me your hands and let's talk together in the shadow\nAbout love one more time\n\nWhat does it matter? What does it matter?\nAll those people that look at the earth\nAnd see nothing more but earth\nWhat does it matter? What does it matter?\nAll those people coming and going\nAlong the world without seeing...\n\nWhat does it matter?\nLet's not pay attention to anyone\nAnd let'ѕ talk аbout love\nAbout our love"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/iuFiQLQYM7w"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Manuel Alejandro"
+    ],
+    "conductor": "Manuel Alejandro",
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 102,
+    "broadcaster": "TVE",
+    "spokesperson": "Blanca Álvarez",
+    "commentators": [
+        "Federico Gallo"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": 10,
+    "country": "BG",
+    "artist": "Victoria",
+    "song": "Growing Up Is Getting Old",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Growing Up Is Getting Old",
+            "content": "Playing Tetris with my feelings\nTryna keep them all inside\nHollow shadows and my soul is spilling over\nI'm out of time, mmm-mmh\nClosing every door, wanna be alone\nLonely is a way that I survive\nSick of wanting more, sitting on the floor\nWondering where all my feelings go\n\nNervous system's aching\nGrowing up is getting old\n\nDon't get it\nThere's an ocean of emotion that I'm carrying inside\nI am cautious\n'Cause I've never understood how so much can fit in little me\nStar-crossed soul\nAnd I'm used to letting go\nSink deeper in the flow of it\nMy demons know exactly where my fears\nAre hiding all my tears\n\nI'm torn by nervous system's aching\nGrowing up is getting old\nAnxiety is draining\nGetting up is growing old\n\nAnd if I ever take that second to leave my worries behind\nMaybe I could tread the waters of time\nGet out of my mind\n\nAnd growing up is getting old\nGrowing up is getting old\nGetting up is growing old\n\nIf your world is breaking\nAnd growing up is getting old\nKnow that you're worth saving\nAnd getting up iѕ аll you've got"
+        },
+        {
+            "languages": [
+                "Bulgarian"
+            ],
+            "title": "Отрастването става скучен",
+            "content": "Играя Тетрис с чувствата си\nОпитвам се да ги задържа всичките вътре\nПразни сенки и душата ми прелива\nНямам време, ммм-мм\nЗатварям всички врати, искам да бъда сам\nСамотата е начинът, по който оцелявам\nДосада ми е да искам още, седейки на пода\nЧудя се къде отиват всичките ми чувства\n\nНервната система ме боли\nОтрастването става скучно\n\nНе разбирам го\nИма океан от емоции, които нося в себе си\nСъм внимателен\nЗащото никога не съм разбирал как толкова много може да се събере в мен\nЗвезден дух\nИ съм свикнал да се отпускам\nПотъвай по-дълбоко в потока на това\nДемоните ми точно знаят къде се крият всичките ми страхове\nСъкровените всичките ми сълзи\n\nРаздирам се от болката в нервната система\nОтрастването става скучно\nТревожността изтощава\nСтава скучно да te събуждам\n\nИ ако някога си взема тази секунда да оставя притесненията зад гърба си\nМоже би ще мога да стъпя върху водите на времето\nДа изляза извън моя разум\n\nОтрастването означава стареене\nСтареенето означава стареене\nДа стана означава да остарея\n\nАко светът ти се разпада\nИ отрастването става скучно\nЗнай, че си струва да бъдеш спасен\nИ да се изправиш е всичко, което имаш"
+        },
+        {
+            "languages": [
+                "Romanian"
+            ],
+            "title": "Creșterea devine plictisitoare",
+            "content": "Joc Tetris cu sentimentele mele\nÎncerc să le țin pe toate înăuntru\nUmbre goale și sufletul meu se revarsă\nAm rămas fără timp, mmm-mmh\nÎnchid fiecare ușă, vreau să fiu singur\nSingurătatea este modul în care supraviețuiesc\nSunt sătul să vreau mai mult, stând pe podea\nMă întreb unde se duc toate sentimentele mele\n\nSistemul nervos îmi doare\nCreșterea devine plictisitoare\n\n<i class=\"fa fa-question-circle-o\"></i>\nExistă un ocean de emoții pe care le port înăuntru\nSunt precaut\nPentru că nu am înțeles niciodată cum poate să încapă atât de mult în mine\nSuflet predestinat\nȘi sunt obișnuit să las să plece\nSă mă scufund mai adânc în fluxul lor\nDemonii mei știu exact unde îmi ascund temerile\nAscunzând toate lacrimile mele\n\nSunt sfâșiat de durerile sistemului nervos\nCreșterea devine plictisitoare\nAnxietatea mă epuizează\nSă mă ridic devine plictisitor\n\nȘi dacă vreodată iau acea clipă să-mi las griji în urmă\nPoate aș putea naviga apele timpului\nSă-mi ies din minte\n\nȘi creșterea devine plictisitoare\nCreșterea devine plictisitoare\nSă mă ridic devine plictisitor\n\nDacă lumea ta se destramă\nȘi creșterea devine plictisitoare\nȘtii că meriți să fii salvat\nȘi să te ridici eѕte tot ce аi"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/B1ZiPrMwMYA",
+        "https://www.youtube.com/embed/UsmJ2nEV7gI",
+        "https://www.youtube.com/embed/xORSj7dSfis",
+        "https://www.youtube.com/embed/tFwGuT3q21s",
+        "https://www.youtube.com/embed/c_s9A9wVZVY",
+        "https://www.youtube.com/embed/cd79YFRr7aM",
+        "https://www.youtube.com/embed/6aNagLoKYPE",
+        "https://www.youtube.com/embed/MfAGGz1pzjk",
+        "https://www.youtube.com/embed/9gp4pSeHGgQ",
+        "https://www.youtube.com/embed/Da91u9C57gY",
+        "https://www.youtube.com/embed/hLPAeu2gJhA"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Helena Larsson",
+        "Maya Nalani",
+        "Oliver Björkvall",
+        "Victoria Georgieva"
+    ],
+    "conductor": null,
+    "stageDirector": "Dan Shipton, Marvin Dietmann",
+    "tone": "G major",
+    "bpm": 93,
+    "broadcaster": "BNT",
+    "spokesperson": "Yoanna Dragneva",
+    "commentators": [
+        "Elena Rosberg",
+        "Petko Kralev"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": 16,
+    "country": "RU",
+    "artist": "Philipp Kirkorov",
+    "song": "Kolybelnaya Dlya Vulkana",
+    "lyrics": [
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "Kolybelnaya Dlya Vulkana",
+            "content": "Спят долины тихим сном\r\nСпят рябины над прудом\r\nИ дожди, и ветра\r\nПритаились до утра\r\n \r\nСпит великий океан\r\nТолько ты один вулкан\r\nОгнегривый старик\r\nНе умолкнешь ни на миг\r\n \r\nВслушайся доверчиво\r\nВ голос человеческий\r\nОбратись, пожалуйста\r\nК разуму и к радости\r\n \r\nНавсегда забудь, вулкан\r\nЧем грозил былым векам\r\nТы тиранить мир устань\r\nИ горой зелёной стань\r\n \r\nТы навек забудь, вулкан\r\nЧем грозил былым векам\r\nОбратись, пожалуйста\r\nК разуму и к радости\r\n \r\nСпи угрюмый великан\r\nСпи недремлющий вулкан\r\nОтрекись от войны\r\nМира дай и тишины\r\n \r\nМира юным и седым\r\nМира грешным и святым\r\nМира жизни земной\r\nМира небу над тобой\r\n \r\nТы навек забудь, вулкан\r\nЧем грозил былым векам\r\nОбратись, пожалуйста\r\nК разуму и к радости\r\n \r\nОбратись, пожалуйста\r\nК разуму и к радости"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube.com/embed/mZTZPE1mV2s"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Ilya Bershadskiy"
+    ],
+    "lyricists": [
+        "Ilya Resnik"
+    ],
+    "writers": null,
+    "conductor": "Michael Finberg",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 129,
+    "broadcaster": "ORT",
+    "spokesperson": "Marina Danielyan",
+    "commentators": null
+}

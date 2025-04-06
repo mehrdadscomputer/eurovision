@@ -1,0 +1,44 @@
+{
+    "id": 14,
+    "country": "RU",
+    "artist": "Natalia Podolskaya",
+    "song": "Nobody Hurt No One",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Nobody Hurt No One",
+            "content": "Hello sweet America\r\nWhere did our dream disappear?\r\nLook at little Erica\r\nAll she learns today is the fear\r\nYou deny the truth\r\nYou just having fun\r\nTill your child will shoot your gun\r\n\r\nNobody hurt no one\r\nNobody hurt no one, anybody\r\nNobody hurt no one\r\nNobody hurt no one, yeah, yeah…\r\n\r\nShe didn’t wanna go to school\r\nDidn’t wanna face all this pain\r\nHuh… mummy, can I stay at home?\r\nI am scared, the boys are insane\r\nDon’t you dare to say\r\nHer reaction is dumb\r\nCause she had no place to run\r\n\r\nNobody hurt no one\r\nNobody hurt no one, anybody\r\nNobody hurt no one\r\nNobody hurt no one, yeah-yeah…\r\n\r\nNobody hurt no one\r\nYou deny the truth\r\nYou just having…\r\nNobody hurt no one\r\nTill your child will shoot your gun\r\nNobody hurt no one\r\nSo please don’t hurt anyone\r\nNobody hurt no one\r\n\r\nYou deny the truth\r\nYou just having fun\r\nTill your child will shoot your gun\r\nDon’t you dare to say\r\nHer reaction’s dumb\r\nCause she had no place to run\r\n\r\nNobody hurt no one\r\nNobody hurt no one, anybody\r\nNobody hurt no one\r\nNobody hurt no one, yeah, yeah, yeah…\r\n\r\nNobody hurt no one\r\nSo please don’t hurt anyone\r\nNobody hurt no one\r\nAnybody\r\nNobody hurt no one\r\nSo please don’t hurt anyone\r\nNobody hurt no one\r\nYeah, yeah…\r\nNobody hurt no one"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube.com/embed/HQhgevOeh1E"
+    ],
+    "dancers": null,
+    "backings": [
+        "Olga Belaya",
+        "Teijo Jämsä",
+        "Toni Hintikka",
+        "Valeriy Drobysh",
+        "Yana Kozlova"
+    ],
+    "composers": [
+        "Viktor Drobysh"
+    ],
+    "lyricists": [
+        "JP Järvinen",
+        "Mary Susan Applegate"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "G minor",
+    "bpm": 113,
+    "broadcaster": "C1R",
+    "spokesperson": "Yana Churikova",
+    "commentators": [
+        "Elena Batinova",
+        "Yuriy Aksuta"
+    ]
+}

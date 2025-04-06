@@ -1,0 +1,62 @@
+{
+    "id": 12,
+    "country": "FR",
+    "artist": "Madame Monsieur",
+    "song": "Mercy",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Mercy",
+            "content": "Je suis née ce matin\nJe m'appelle Mercy\nAu milieu de la mer\nEntre deux pays, Mercy\n\nC'était un long chemin et Maman l'a pris\nElle m'avait dans la peau, huit mois et demi\nOh oui, huit mois et demi\n\nOn a quitté la maison, c'était la guerre\nSûr qu'elle avait raison, y'avait rien à perdre\nOh non, excepté la vie\n\nJe suis née ce matin\nJe m'appelle Mercy\nOn m'a tendu la main\nEt je suis en vie\nJe suis tous ces enfants\nQue la mer a pris\nJe vivrai cent mille ans\nJe m'appelle Mercy\n\nEt là devant nos yeux y'avait l'ennemie\nUne immensité bleue peut-être infinie\nMais oui, on en connaissait le prix\n\nSurgissant d'une vague, un navire ami\nA redonné sa chance à notre survie\nC'est là, que j'ai poussé mon premier cri\n\nJe suis née ce matin\nJe m'appelle Mercy\nOn m'a tendu la main\nEt je suis en vie\nJe suis tous ces enfants\nQue la mer a pris\nJe vivrai cent mille ans\nJe m'appelle Mercy\n\nJe suis née ce matin\nJe m'appelle Mercy\n\nMerci, merci, merci, merci\nMerci, merci, je vais bien merci\nMerci, merci, merci, merci\nMerci, merci, je vаiѕ bien merci"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Mercy",
+            "content": "I was born this morning\nMy name is Mercy\nOn the open sea\nBetween two countries, Mercy\n\nIt was a long path, and my mother took it\nShe had me inside her skin, eight months and a half\nOh yes, eight months and a half\n\nWe left our home, it was the war\nFor sure she had a reason, there was nothing to lose\nOh no, nothing but life\n\nI was born this morning\nMy name is Mercy\nThey offered me a hand\nAnd I'm alive\nI am all those children\nWho were taken by the sea\nI'll live a hundred thousand years\nMy name is Mercy\n\nAnd there in front of our eyes, there was the enemy\nA blue immensity, maybe infinite\nBut yes, we knew the price\n\nEmerging from a wave, there's a friendly ship\nIt gave again its luck to our survival\nIt's there that I cried for the first time\n\nI was born this morning\nMy name is Mercy\nThey offered me a hand\nAnd I'm alive\nI am all those children\nWho were taken by the sea\nI'll live a hundred thousand years\nMy name is Mercy\n\nI was born this morning\nMy name iѕ Mercy\n\nThank you, thank you, thank you, thank you\nThank you, thank you, I'm fine thank you\nThank you, thank you, thank you, thank you\nThank you, thank you, I'm fine thаnk you"
+        },
+        {
+            "languages": [
+                "Hebrew"
+            ],
+            "title": "מרסי",
+            "content": "נולדתי הבוקר\nשמי מרסי\nבים הפתוח\nבין שתי מדינות. מרסי\n\nזו היתה דרך ארוכה, שבה אמי הלכה\nהייתי מתחת לעור שלה שמונה חודשים וחצי\nכן, שמונה חודשים וחצי\n\nעזבנו את הבית. היתה מלחמה\nודאי שהיתה לה סיבה טובה, הרי לא היה מה להפסיד\nהו, חוץ מאשר את החיים\n\nנולדתי הבוקר\nשמי מרסי\nהם הושיטו לי יד\nואני בחיים\nאני כל הילדים שהים לקח\nואחיה עוד מאה אלף שנים\nשמי מרסי\n\nומול עינינו היה האויב\nהכחול העצום, אולי אינסופי\nאבל כן, ידענו מה המחיר\n\nומבין הגלים הופיעה סירה מושיעה\nשנתנה לנו שוב הזדמנות לחיות\nורק שם העזתי לראשונה לבכות\n\nנולדתי הבוקר\nשמי מרסי\nהם הושיטו לי יד\nואני בחיים\nאני כל הילדים שהים לקח\nואחיה עוד מאה אלף שנים\nשמי מרסי\n\nנולדתי הבוקר\nשמי מרסי\n\nתודה, תודה, תודה, תודה\nתודה, תודה, אהיה בסדר, תודה\nתודה, תודה, תודה, תודה\nתודה, תודה, אהיה בסדר, תודה"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/vjLuTtUv0Ns",
+        "https://www.youtube.com/embed/6ft3_DOajNY",
+        "https://www.youtube.com/embed/poInYpdNXso",
+        "https://www.youtube.com/embed/u2l6Bdd32Cc",
+        "https://www.youtube.com/embed/lvkyzFsiuLc",
+        "https://www.youtube.com/embed/eS7ZVNDtRTo",
+        "https://www.youtube.com/embed/mfk9j8xsB1I",
+        "https://www.youtube.com/embed/qmjdsSeuoVA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Allyson Ezell",
+        "Noée"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Émilie Satt",
+        "Jean-Karl Lucas"
+    ],
+    "conductor": null,
+    "stageDirector": "Stéphane Jarny",
+    "tone": "A minor",
+    "bpm": 97,
+    "broadcaster": "France 2",
+    "spokesperson": "Élodie Gossuin",
+    "commentators": [
+        "Alma",
+        "André Manoukian",
+        "Christophe Willem",
+        "Stéphane Bern"
+    ]
+}

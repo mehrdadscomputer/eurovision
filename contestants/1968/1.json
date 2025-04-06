@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "country": "GB",
+    "artist": "Cliff Richard",
+    "song": "Congratulations",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Congratulations",
+            "content": "Congratulations and celebrations\nWhen I tell everyone that you're in love with me\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nWho would believe that I could be happy and contented?\nI used to think that happiness hadn't been invented\nBut that was in the bad old days before I met you\nOr when I let you walk into my heart\n\nCongratulations and celebrations\nWhen I tell everyone that you're in love with me\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nI was afraid that maybe you thought you were above me\nThat I was only fooling myself to think you'd love me\nBut then tonight you said you couldn't live without me\nThat round about me, you wanted to stay\n\nCongratulations and celebrations\nWhen I tell everyone that you're in love with me\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nCongratulations and jubilations\nI want the world to know I'm happy as can be\n\nI want the world to know I'm happy aѕ cаn be"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/_xJcE9tnY6E"
+    ],
+    "dancers": null,
+    "backings": [
+        "Barbara Moore",
+        "Betty Prescott",
+        "Margo Quantrell"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Bill Martin",
+        "Phil Coulter"
+    ],
+    "conductor": "Norrie Paramor",
+    "stageDirector": null,
+    "tone": "A major",
+    "bpm": 98,
+    "broadcaster": "BBC",
+    "spokesperson": "Michael Aspel",
+    "commentators": null
+}

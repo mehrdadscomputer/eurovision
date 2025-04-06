@@ -1,0 +1,35 @@
+{
+    "id": 10,
+    "country": "IE",
+    "artist": "Angela Farrell",
+    "song": "One Day Love",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "One Day Love",
+            "content": "You love for a day\nThen you go on your way\nBreaking hearts, lonely hearts\nThough they want you to stay\n\nThen you laugh, how you laugh\nWhen the tears start to fall\nTurn your back, one day love\nWave your hand to them all\n\nYesterday, lovely day\nI was yours for a while\nIn your arms there was peace\nAs you kissed with a smile\n\nWords of love, empty words\nWhispered close to my ear\nThey were lies, only lies\nBut I held them so dear\n\nHow can you be so deceiving?\nWhy do you injure my pride?\nBuilding me up with your promises\nOnly to throw me aside\n\nHow many hearts have you broken\nClosing your ears to their cries?\nHow many times have you cheated and lied\nWith a look of deceit in your eyes?\n\nOne day soon, very soon\nDeep in love you will fall\nAnd the one that you want\nWill not answer your call\n\nSo beware and have care\nTake advice from a friend\nYour kind of love, one day love\nWill come to an end\n\nHow can you be so deceiving?\nWhy do you injure my pride?\nBuilding me up with your promises\nOnly to throw me aside\n\nHow many hearts have you broken\nClosing your ears to their cries?\nHow many times have you cheated and lied\nWith a look of deceit in your eyes?\n\nOne day soon, very soon\nDeep in love you will fall\nAnd the one that you want\nWill not anѕwer your call\n\nSo beware and have care\nTake advice from a friend\nYour kind of love, one dаy love\nWill end"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/9z2gCmhpdzM"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Donald Martin",
+        "Ita Flynn"
+    ],
+    "conductor": "Noel Kelehan",
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 114,
+    "broadcaster": "RTÉ",
+    "spokesperson": null,
+    "commentators": [
+        "Noel Andrews"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": 22,
+    "country": "PL",
+    "artist": "Monika Kuszyńska",
+    "song": "In The Name Of Love",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "In The Name Of Love",
+            "content": "Every time you’re broken hearted, sinking in the sorrow\nFeel the emptiness and have no faith, no strength to breathe\nI wanna tell you it’s gonna be better\nYou’ve got a greatness within you\n\nBeyond the field, let’s build the bridge\nFrom heart to heart, in the name of love\n\nEvery time you struggle with a fear about tomorrow\nCall the angels for the guidance, find another way\nI wanna tell you it’s gonna be better\nYou’ve got a greatness within you\n\nBeyond the field, let’s build the bridge\nFrom heart to heart, in the name of love\nBeyond the field, let’s build the bridge\nFrom heart to heart, in the name of love\n\nIn the name of love\nIn the name of love\n\nBeyond the field, let’s build the bridge\nFrom heart to heart, in the name of love\nBeyond the field, let’ѕ build the bridge\nFrom heart to heart, in the nаme of love"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/VBI8TQXi--M",
+        "https://www.youtube.com/embed/4fjWLzeQ9K8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Jan Radwan",
+        "Natalia Bajak",
+        "Ola Tabiszewska"
+    ],
+    "composers": [
+        "Jakub Raczyński"
+    ],
+    "lyricists": [
+        "Monika Kuszyńska"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Mikołaj Dobrowolski",
+    "tone": "C# major",
+    "bpm": 83,
+    "broadcaster": "TVP",
+    "spokesperson": "Ola Ciupa",
+    "commentators": [
+        "Artur Orzech"
+    ]
+}

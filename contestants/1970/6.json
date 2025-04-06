@@ -1,0 +1,41 @@
+{
+    "id": 6,
+    "country": "NL",
+    "artist": "Patricia & Hearts of Soul",
+    "song": "Waterman",
+    "lyrics": [
+        {
+            "languages": [
+                "Dutch"
+            ],
+            "title": "Waterman",
+            "content": "Waterman, ben jij een Waterman?\nDan past jouw sterrenbeeld bij mij\nIntuïtief, heb ik je nu al lief\n't Is net of jij eenvoudig hoort bij mij\n\nWaterman, mijn teken en talisman\nVan nu af aan hoor jij bij mij\nWaterman, zachtmoedige Waterman\nMijn liefste man, dat ben jij\n\nSterrenbeeld, dat niet met harten speelt\nMaar mensen helpen wil, altijd\nJij kent gewoon geen ruwe heerserstoon\nJij zoekt altijd naar warme mens'lijkheid\n\nWaterman, mijn teken en talisman\nVan nu af aan hoor jij bij mij\nWaterman, zachtmoedige Waterman\nMijn liefste man, dat ben jij\n\nWaterman, mijn teken en talisman\nVan nu af aan hoor jij bij mij\nWaterman, zachtmoedige waterman\nMijn liefste man, dat ben jij\n\nDie altijd fair bent\nAltijd trouw en solidair bent\nMaar ook vaak zo goedgelovig\nEn voor slechtheid ietwat dovig\nSoms zo ernstig, haaѕt verlegen\nMaar oneindig toegenegen\nWatermаn"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Aquarius",
+            "content": "Aquarius, are you an Aquarius?\nThen your sign of the zodiac matches mine\nIntuitively, I already love you\nIt's just like you simply belong to me\n\nAquarius, my sign and talisman\nFrom now on you belong to me\nAquarius, gentle Waterman\nMy dearest man, that's what you are\n\nSign of the zodiac, that doesn't play with hearts\nBut that wants to help people, always\nYou just don't know a rough dominant tone\nYou always look for warm humanity\n\nAquarius, my sign and talisman\nFrom now on you belong to me\nAquarius, gentle Waterman\nMy dearest man, that's what you are\n\nAquarius, my sign and talisman\nFrom now on you belong to me\nAquarius, gentle Waterman\nMy dearest man, that's what you are\n\nYou are always fair\nAlways faithful and solidary\nBut also often so credulous\nAnd somewhat deaf to evil\nSometimes so serious, almost shy\nBut endlessly affectionate\nAquаriuѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Hx54yQGRYS8"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Pieter Goemans"
+    ],
+    "conductor": "Dolf van der Linden",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 155,
+    "broadcaster": "NOS",
+    "spokesperson": "Flip van der Schalie",
+    "commentators": [
+        "Pim Jacobs"
+    ]
+}

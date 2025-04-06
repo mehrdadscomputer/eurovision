@@ -1,0 +1,35 @@
+{
+    "id": 1,
+    "country": "GB",
+    "artist": "Bryan Johnson",
+    "song": "Looking High, High, High",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Looking High, High, High",
+            "content": "I once had a love and oh…\nI loved her very dearly\nShe told me she loved me so\nI thought she spoke sincerely\n\nBut one day, away\nI found that she had flown\nAnd off to find that love of mine\nI set alone\n\nLooking high, high, high\nLooking low, low, low\nWondering why, why, why\nDid she go, go, go?\nFor if I, I, I don't find my love, I know\nI shall die, die, die 'cause I love her so\n\nI journeyed across the sea\nI sought her with devotion\nOh, where she could really be?\nI've not the slightest notion\nBut so bright the light of love within me shone\nI knew full well, what e'er befell, I must go on\n\nLooking high, high, high\nLooking low, low, low\nWondering why, why, why\nDid she go, go, go?\nFor if I, I, I don't find my love, I know\nI shall die, die, die 'cause I love her so\n\nDue east over desert sands\nDue west where grass is greener\nI asked in a dozen lands\nBut none had ever seen her\nIt was clear, I fear, my quest was all in vain\nSo I departed, sad at heart, for home again\n\nLooking high, high, high\nLooking low, low, low\nWondering why, why, why\nDid she go, go, go?\nFor if I, I, I don't find my love, I know\nI shall die, die, die 'cause I love her so\n\nBut when I arrived, all brown\nAnd tanned by wind and weather\nYou sure could have knocked me down\nWith the proverbial feather\nShe stood there, so fair\nAnd sweetly she confessed\nThat she'd been wrong\nAnd all along she'd loved me best\n\nI'd looked high, high, high\nI'd looked low, low, low\nWondering why, why, why\nDid she go, go, go?\nNow that I, I, I hаve found my love, I know\nTill I die, die, die, I will love her ѕo"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/C2GivwSboXM",
+        "https://www.youtube.com/embed/KD6g7aTFj18"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "John Watson"
+    ],
+    "conductor": "Eric Robinson",
+    "stageDirector": null,
+    "tone": "C major",
+    "bpm": 112,
+    "broadcaster": "BBC",
+    "spokesperson": "Nick Burrell-Davis",
+    "commentators": [
+        "David Jacobs"
+    ]
+}

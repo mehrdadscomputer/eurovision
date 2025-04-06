@@ -1,0 +1,48 @@
+{
+    "id": 20,
+    "country": "DE",
+    "artist": "Cascada",
+    "song": "Glorious",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Glorious",
+            "content": "(Glorious)\n\nDo you know it's time to let yourself go?\nWhy don't we just let it show?\nTell me what you're waiting for\n\n'Cause I, I wanna live before I die\nCrash and burn and lose my mind\nWe can set the world on fire\n\nTonight we can be glorious\nWe are young at heart and we're free\nThe world is ours, I can feel the music in me\nGlorious, found a love that eyes cannot see\nDelirious, hoo whoa… whoa…\n\nI believe the little child inside of me\nCan rebuild my destiny\nAnd one day I'll be breaking free\n\nNow's the time, we're running at the speed of light\nI'll meet you on the other side\nEvery time I close my eyes\n\nTonight we can be glorious\nWe are young at heart and we're free\nThe world is ours, I can feel the music in me\nGlorious, found a love that eyes cannot see\nDelirious, I can feel the music in me\n\n(Glorious) Found a love that eyes cannot see\n(Glorious)\n\n(We are glo… oh oh… oh oh oh…)\n(We are glo… oh oh… oh oh oh…)\n(We are glo… oh oh… oh oh oh…)\n(We are glo… oh oh… oh oh oh…)\n\nTonight we can be glorious\nWe are young at heart and we're free\nThe world is ours, I can feel the music in me\nGlorious, found a love that eyes cannot see\nDeliriouѕ,  hoo whoa… whoа…"
+        },
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Gloriosos",
+            "content": "(Gloriosos)\n\n¿Sabes que ya es hora de dejarte llevar?\n¿Por qué no mostrarlo?\nDime a qué estás esperando\n\nPorque yo… yo quiero vivir antes de morir\nEstrellarme y arder y perder la cabeza\nPodemos prender fuego al mundo\n\nEsta noche podemos ser gloriosos\nSomos jóvenes de corazón y somos libres\nEl mundo es nuestro, puedo sentir la música dentro de mí\nGloriosos, he encontrado un amor que la vista no puede ver\nDelirantes, hoo whoa… whoa…\n\nCreo que la niña pequeña que llevo dentro\nPuede reconstruir mi destino\nY algún día me liberaré\n\nAhora es el momento, corremos a la velocidad de la luz\nNos encontraremos al otro lado\nY algún día me liberaré\n\nEsta noche podemos ser gloriosos\nSomos jóvenes de corazón y somos libres\nEl mundo es nuestro, puedo sentir la música dentro de mí\nGloriosos, he encontrado un amor que la vista no puede ver\nDelirantes, puedo sentir la música dentro de mí\n\n(Gloriosos) he encontrado un amor que la vista no puede ver\n(Gloriosos)\n\n(Somos glo… oh oh… oh oh oh…)\n(Somos glo… oh oh… oh oh oh…)\n(Somos glo… oh oh… oh oh oh…)\n(Somos glo… oh oh… oh oh oh…)\n\nEsta noche podemos ser gloriosos\nSomos jóvenes de corazón y somos libres\nEl mundo es nuestro, puedo sentir la música dentro de mí\nGloriosos, he encontrado un amor que la vista no puede ver\nDeliranteѕ, hoo whoa… whoа…"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/3HYTd7WDCPg",
+        "https://www.youtube.com/embed/s8LPaowU9js"
+    ],
+    "dancers": null,
+    "backings": [
+        "Elli Azuro",
+        "Rayla Sunshine"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Andres Ballinas",
+        "Manuel Reuter",
+        "Tony Cornelissen",
+        "Yann Peifer"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Eb major",
+    "bpm": 128,
+    "broadcaster": "NDR",
+    "spokesperson": "Lena Meyer-Landrut",
+    "commentators": [
+        "Peter Urban"
+    ]
+}

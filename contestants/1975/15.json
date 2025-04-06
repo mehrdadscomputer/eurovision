@@ -1,0 +1,46 @@
+{
+    "id": 15,
+    "country": "PT",
+    "artist": "Duarte Mendes",
+    "song": "Madrugada",
+    "lyrics": [
+        {
+            "languages": [
+                "Portuguese"
+            ],
+            "title": "Madrugada",
+            "content": "Dos que morreram sem saber porquê\nDos que teimaram em silêncio e frio\nDa força nascida no medo\nE a raiva à solta manhã cedo\nFazem-se as margens do meu rio\n\nDas cicatrizes do meu chão antigo\nE da memória do meu sangue em fogo\nDa escuridão a abrir em cor\nDo braço dado e a arma flor\nFazem-se as margens do meu povo\n\nCanta-se a gente que a si mesma se descobre\nE acorda vozes, arraiais\nCanta-se a terra que a si mesma se devolve\nQue o canto assim nunca é demais\n\nEm cada veia o sangue espera a vez\nEm cada fala se persegue o dia\nE assim se aprendem as marés\nAssim se cresce e ganha pé\nRompe a canção que não havia\n\nAcordem luzes nos umbrais que a tarde cega\nAcordem vozes e arraiais\nCantem despertos na manhã\nQue a noite entrega\nQue o canto assim nunca é demais\n\nCantem marés por essas praias de sargaços\nAcordem vozes, arraiais\nCorram descalços rente ao cais\nAbram abraços\nQue o canto assim nunca é demais\nO canto assim nunca é demаiѕ"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Dawn",
+            "content": "From those who died without knowing why\nFrom those who persevered in silence and in cold\nFrom the strength born in fear\nAnd rage liberated in the early morning\nThe banks of my river are made\n\nFrom the scars of my old ground\nAnd from the memory of my blood burning in fire\nFrom the darkness opening in colour\nArm in arm and a flower in each gun\nThe edges of my people are made\n\nI'm singing about the people that have just discovered themselves\nAnd raise their voices, celebrate\nI'm singing the praises of the land that is reborn\nThere can't be enough songs like this\n\nIn each vein the blood is waiting its turn\nIn each conversation we hunt the day\nThis is how we learn about the tides\nThis is how we grow and become men\nA new song is born\n\nAwaken lights on the evening-blind door posts\nRaise your voices and celebrate\nSing wide awake in the morning\nThat the night delivered us\nThere can't be enough songs like this\n\nSing about the tides in those sargasso beaches\nRaise your voices, celebrate\nRun, barefooted, by the wharf\nOpen your arms and hug\nThere can't be enough songs like this\nThere cаn't be enough songs like thiѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/0GBNvbY4psM",
+        "https://www.youtube.com/embed/lhDwxewFvI8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Annica Risberg",
+        "Kerstin Bagge",
+        "Kerstin Dahl"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "José Luís Tinoco"
+    ],
+    "conductor": "Pedro Osório",
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 97,
+    "broadcaster": "RTP",
+    "spokesperson": "Ana Zanatti",
+    "commentators": [
+        "Júlio Isidro"
+    ]
+}

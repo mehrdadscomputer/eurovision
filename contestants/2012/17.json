@@ -1,0 +1,49 @@
+{
+    "id": 17,
+    "country": "BA",
+    "artist": "Maya Sar",
+    "song": "Korake Ti Znam",
+    "lyrics": [
+        {
+            "languages": [
+                "Bosnian"
+            ],
+            "title": "Korake ti znam",
+            "content": "Korake ti znam, kao bez glave sad žuriš\nKuda, ne pitam, jer ako pitam, ti šutiš\nI sve se teže rastajem od tebe i tvog tijela\nI sve te manje poznajem a nisam tako htjela\n\nK'o da kradem te od svih samo za sebe\nNek' te ostave, nek' mi ne diraju tebe\nI krv i dušu otrujem najgore kad te ranim\nI opet sve to prezirem dok se pred tobom branim\n\nNemoj mi kvariti dan, nikad mi nije bilo teže\nTi nisi živio sam u zlatu paukove mreže\nKao ja\nŽivot za tebe me veže\nDa l' će ikad lakše sve biti il' teže\nEj…\n\nKad jednom cijeli život naš mirno na kocku staviš\nK'o da nismo nikad rekli mi, \"dok nas smrt ne rastavi\"\n\nNemoj mi kvariti dan, nikad mi nije bilo teže\nTi nisi živio ѕam u zlatu paukove mreže\nKao ja…\nKao ja…\n\nKorake ti znаm"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "I know your moves",
+            "content": "I know your moves, you rush like without your head\nWhere, I don't ask, because if I ask, you stay silent\nAnd it's ever harder to part with you and your body\nAnd I know you less and less, that's not what I wanted\n\nIt's as if I'm stealing you away from everybody just for me\nMay they leave you, may they not touch you\nI poisin blood and soul most when I wound you\nAnd I still hate it all while I defend myself in front of you\n\nDon't ruin my day, it's never been harder for me\nYou've never lived alone in a spider's web\nLike I have\nLife connects me to you\nWill it ever get easier or only harder\nEh….\n\nWhen you easily put our whole life in a gamble\nAs if we never said: \"Till death do us part\"\n\nDon't ruin my day, it's never been harder for me\nYou've never lived alone in a spider's web\nLike I have\nLike I hаve\n\nI know your moveѕ"
+        },
+        {
+            "languages": [
+                "Hebrew"
+            ],
+            "title": "אני מכירה את צעדיך",
+            "content": "אני מכירה את צעדיך, כאילו אתה רץ ללא ראש\nלא אשאל לאן, כי אם אשאל, אתה תשתוק\nוזה עדיין קשה לעזוב אתך ועם גופך\nוכך אני מכירה אותך פחות, ולא כך רציתי\n\nזה כמו שאגנוב אותך מכולם, רק לעצמי\nשרק יניחו לך, שלא יגעו בך\nכשאני פוגעת בך, אני כאילו מרעילה את דמי ונפשי\nוכמה שאני שונאת את הכל, כשאני מתגוננת בפניך\n\nאל תהרוס לי את היום, זה קשה לי ממילא\nמעולם לא חיית בעצמך בתוך קורי עכביש מזהב\nכמו שאותי\nהחיים מחברים אליך\nהאם זה יעשה קל יותר, או רק יותר קשה…\n\nאתה מהמר בקלות על חיינו\nכאילו שמעולם לא אמרנו \"עד שהמוות יפריד בינינו\"\n\nאל תהרוס לי את היום, זה קשה לי ממילא\nמעולם לא חיית בעצמך בתוך קורי עכביש מזהב\nכמוני\nכמוני…\n\nאני מכירה את צעדיך"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/81hIbZNoFU8",
+        "https://www.youtube.com/embed/v_fyisw2--M"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Maja Sarihodžić"
+    ],
+    "conductor": null,
+    "stageDirector": "Ahmed Imamović",
+    "tone": "A major",
+    "bpm": 123,
+    "broadcaster": "BHRT",
+    "spokesperson": "Laka",
+    "commentators": [
+        "Dejan Kukrić"
+    ]
+}

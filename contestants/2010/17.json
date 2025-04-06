@@ -1,0 +1,47 @@
+{
+    "id": 17,
+    "country": "PT",
+    "artist": "Filipa Azevedo",
+    "song": "Há Dias Assim",
+    "lyrics": [
+        {
+            "languages": [
+                "Portuguese"
+            ],
+            "title": "Há dias assim",
+            "content": "Há dias assim\nQue nos deixam sós\nA alma vazia\nA mágoa na voz\n\nGastámos as mãos\nTanto as apertámos\nJá não há palavras\nFoi de tanto as calarmos\n\nHá uma canção\nQue não te cantei\nVersos por rimar\nPoemas que nunca inventei\n\nQuem nos pôs assim?\nA vida rasgada\nQuem te me levou?\nRoubou-me a alma\nMas de ti não sabe nada\n\nHá dias assim\nNão há que esconder\nRecear palavras\nAmar ou sofrer\n\nOcultar sentidos\nFingir que não há\nHá dias perdidos\nEntre cá e lá\n\nHá uma canção\nQue não te cantei\nVersos por rimar\nPoemas que nunca inventei\n\nQuem nos pôs assim?\nA vida rasgada\nQuem te me levou?\nRoubou-me a alma\nMas de ti não sabe nada\n\nSei que um dia saberás\nQue a vida é uma só\nNão volta atrás\n\nQuem nos pôs assim?\nA vida rasgada\nQuem te me levou\nRoubou-me a alma\nMas de ti não ѕabe nadа"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "There are such days",
+            "content": "There are such days\nThat leave us alone\nThe soul empty\nThe hurt in our voice\n\nWe wore away our hands\nWe hold them tight so much\nThere are no words anymore\nBecause we kept quiet so much\n\nThere is a song\nWhich I have not sung to you\nVerses that are still to rhyme\nPoems that I have never invented\n\nWho set us this way?\nThe life torn\nWho took you from me?\nStole my soul\nBut does not know a thing about you\n\nThere are such days\nThere is no need to hide\nFear words\nTo love or to suffer\n\nTo hide senses\nTo pretend they do not exist\nThere are lost days\nHere and there\n\nThere is a song\nWhich I have not sung to you\nVerses that are still to rhyme\nPoems that I have never invented\n\nWho set us this way?\nThe life torn\nWho took you from me?\nStole my soul\nBut does not know a thing about you\n\nI know one day you will know\nThat life is only one\nIt does not turn back\n\nWho set us this way?\nThe life torn\nWho took you from me?\nStole my soul\nBut doeѕ not know a thing аbout you"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/_mTaVdnTMwo",
+        "https://www.youtube.com/embed/wNngyFnyaPM"
+    ],
+    "dancers": null,
+    "backings": [
+        "Augusto Madureira",
+        "Patrícia Antunes",
+        "Patrícia Silveira",
+        "Pedro Mimoso"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Augusto Madureira"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "B minor",
+    "bpm": 132,
+    "broadcaster": "RTP",
+    "spokesperson": "Ana Galvão",
+    "commentators": [
+        "Sérgio Mateus"
+    ]
+}

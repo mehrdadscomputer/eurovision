@@ -1,0 +1,45 @@
+{
+    "id": 9,
+    "country": "BE",
+    "artist": "Jacques Raymond",
+    "song": "Waarom?",
+    "lyrics": [
+        {
+            "languages": [
+                "Dutch"
+            ],
+            "title": "Waarom?",
+            "content": "De taal der liefde is vaak zeer wonderbaar\nEen woord, een teken, een beeld, een klein gebaar\nAlleen ons hart verstaat die taal\n\nWaarom zou de rode roos bestaan?\nSteekt men 's avonds al de sterren aan?\nWaarom fladderen de vlinders blij?\nZingt het vogelenkoor in de mei?\n\nWaarom kunnen wij vol heimwee zijn?\nWaarom kent ons hart soms vreugd en pijn?\nHoor de merel, die zingt het blij:\n\"'k Heb je lief, hou jij ook van mij?\"\n\nWaarom zou de rode roos bestaan?\nSteekt men 's avonds al de sterren aan?\nWaarom fladderen de vlinders blij?\nZingt het vogelenkoor in de mei?\n\nWaarom kunnen wij vol heimwee zijn?\nWaarom kent ons hart somѕ vreugd en pijn?\nHoor de merel, die zingt het blij:\n\"'k Heb je lief, hou jij ook vаn mij?\""
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Why?",
+            "content": "The language of love is often very miraculous\nA word, a sign, an image, a small gesture\nOnly our heart understands that language\n\nWhy would the red rose exist?\nAre all the stars lighted every evening?\nWhy do the butterflies flutter cheerfully?\nDoes the bird's choir sing in May?\n\nWhy can we be full of nostalgia?\nWhy does our heart know joy and pain?\nListen to the blackbird, singing happily:\n\"I love you, do you love me too?\"\n\nWhy would the red rose exist?\nAre all the stars lighted every evening?\nWhy do the butterflies flutter cheerfully?\nDoes the bird's choir sing in May?\n\nWhy can we be full of nostalgia?\nWhy does our heart know joy and pain?\nListen to the blackbird, ѕinging hаppily:\n\"I love you, do you love me too?\""
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/QSliEmnClSg",
+        "https://www.youtube.com/embed/AnKoxEZ5DSo"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Hans Flower"
+    ],
+    "lyricists": [
+        "Wim Brabants"
+    ],
+    "writers": null,
+    "conductor": "Francis Bay",
+    "stageDirector": null,
+    "tone": "F minor",
+    "bpm": 96,
+    "broadcaster": "BRT",
+    "spokesperson": null,
+    "commentators": [
+        "Herman Verelst",
+        "Pierre Delhasse"
+    ]
+}

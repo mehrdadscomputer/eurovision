@@ -1,0 +1,45 @@
+{
+    "id": 10,
+    "country": "SI",
+    "artist": "Darja Švajger",
+    "song": "For A Thousand Years",
+    "lyrics": [
+        {
+            "languages": [
+                "English version"
+            ],
+            "title": "For a thousand years",
+            "content": "Teardrops in my eyes, a dance of glistening rain\nFalling from the sky, a carpet of the stars\nClouds of tenderness are fleeing in the light\nNow it's here, the light for a thousand years\n\nI tremble in your eyes, I tremble in your palms\nLie inside you deep, in dreams of yours I sleep\nCaress you with my eyes and love you with my hands\nYes, I feel the light for a thousand years\n\nI know you are my love\nA touch, a kiss, your heart is mine\nI know the light is always here\nWe kiss each other in its shine\n\nI tremble in your eyes, I tremble in your palms\nLie inside you deep, in dreams of yours I sleep\nCaress you with my eyes and love you with my hands\nYes, I feel the light for a thousand years\n\nI know you are my love\nA touch, a kiss, your heart is mine\nI know the light is always here\nWe kiss eаch other in its ѕhine"
+        },
+        {
+            "languages": [
+                "Slovenian version"
+            ],
+            "title": "Še Tisoč Let",
+            "content": "Solzi v očeh, dveh dežnih kapljic ples\nSpušča se z neba, preproga zvezdnata\nOblaki nežnosti, v svetlobi se love\nZdaj je tu ta luč neskončnosti\n\nV tvojih sem očeh, v tvojih sem dlaneh\nV tebi zdaj ležim, v sanjah tvojih spim\nKo nežno božam te in s prsti ljubim te\nČutim jo še tisoč let bo tam\n\nZdaj vem čas je želja\nObjem, poljub, utrip srca\nZdaj vem Ta luč je najina\nDotik v njej poljubiva\n\nV tvojih sem očeh, v tvojih sem dlaneh\nV tebi zdaj ležim, v sanjah tvojih spim\nKo nežno božam te in s prsti ljubim te\nČutim jo še tisoč let bo tam\n\nZdaj vem čas je želja\nObjem, poljub, utrip ѕrca\nZdaj vem ta luč je najina\nDotik v njej poljubivа"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/qrQOTF10yP8",
+        "https://www.youtube.com/embed/aBLOCXJiSXE",
+        "https://www.youtube.com/embed/j3rroZVkDBU"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Sašo Fajon"
+    ],
+    "lyricists": [
+        "Primož Peterca"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "RTVSLO",
+    "spokesperson": "Mira Berginc",
+    "commentators": [
+        "Miša Molk"
+    ]
+}

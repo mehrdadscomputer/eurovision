@@ -1,0 +1,42 @@
+{
+    "id": 12,
+    "country": "NL",
+    "artist": "Linda Wagenmakers",
+    "song": "No Goodbyes",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "No goodbyes",
+            "content": "Don't you know what you are doing to me?\nThis ain't the way to work things out\nTell me something that I've never heard before\nWe gotta get off this crazy roundabout\n\nNo more doubting, no more fears\nNo more cheating, no more tears\nNo more questions, no more lies\nNo farewells, no goodbyes\nNo goodbyes\n\nI don't understand why you keep saying:\n\"Oh, everything's just fine, there's nothing wrong\"\nSomething's been happening that we cannot ignore\nIt's time for us to sing a different song\n\nNo more doubting, no more fears\nNo more cheating, no more tears\nNo more questions, no more lies\nNo farewells, no goodbyes\nNo goodbyes\n\nOh, don't say anything you'll wish you hadn't said\nJust say nothing at all (say nothing at all)\n'Cause I know love will grow when you go\nDon't say goodbye, oh no\n\nDon't say goodbye, no goodbyes\n(No goodbyes)\nDon't say anything you'll wish you hadn't said, my baby\n(No goodbyes)\nOh no, oh no, no\n\n(Yeah…)\nNo fаrewells, no goodbyeѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/XhHcrzFaAlg",
+        "https://www.youtube.com/embed/q31mvHwMofE"
+    ],
+    "dancers": null,
+    "backings": [
+        "Chaira Borderslee",
+        "Gino Emnes",
+        "Richard Rodermond",
+        "Yolanda Germain"
+    ],
+    "composers": [
+        "John O'Hare"
+    ],
+    "lyricists": [
+        "Ellert Driessen"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Bb major",
+    "bpm": 135,
+    "broadcaster": "NOS",
+    "spokesperson": "Marlayne",
+    "commentators": [
+        "Willem van Beusekom"
+    ]
+}

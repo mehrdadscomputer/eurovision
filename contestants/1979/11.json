@@ -1,0 +1,51 @@
+{
+    "id": 11,
+    "country": "NL",
+    "artist": "Xandra",
+    "song": "Colorado",
+    "lyrics": [
+        {
+            "languages": [
+                "Dutch"
+            ],
+            "title": "Colorado",
+            "content": "Oh oh… Colorado, vlieg met me mee naar Colorado\nOh oh… Colorado, over de zee naar Colorado\nOh… Colorado, Colorado\n\nDe dollar is nu niet meer zo duur\nGa je mee de oversteek maken\nNaar een leven vol van avontuur?\n\nDe rivieren zitten vol vis\nMet een wilde beer op de foto\nColorado, Colorado\n\nOh oh… Colorado, vlieg met me mee naar Colorado\nOh oh… Colorado, over de zee naar Colorado\nOh… Colorado, Colorado\n\nWe kopen snel een tweedehands paard\nSamen heel de dag in het zadel\nDenk aan de benzine die je spaart\n\nIn de ѕterrennacht bij het vuur\nIn je armen lig ik te dromen\nColorado, Colorado\n\nOh oh… Colorado, vlieg met me mee naar Colorado\nOh oh… Colorado, over de zee naar Colorado\nOh oh… Colorado, Colorado\n\nOh oh… Colorado, vlieg met me mee naar Colorado\nOh oh… Colorado, over de zee naar Colorado\nOh… Colorado, Colorаdo"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Colorado",
+            "content": "Oh oh… Colorado, fly with me to Colorado\nOh oh… Colorado, over the sea to Colorado\nOh… Colorado, Colorado\n\nThe dollar is not so expensive anymore\nWill you go with me and cross the ocean\nTo a life full of adventure?\n\nThe rivers are full of fish\nWith a wild bear on the photo\nColorado, Colorado\n\nOh oh… Colorado, fly with me to Colorado\nOh oh… Colorado, over the sea to Colorado\nOh… Colorado, Colorado\n\nLet's buy a second-hand horse\nTogether a whole day in the saddle\nThink of the petrol you would save\n\nIn the star night close to the fire\nIn your arms I'm dreaming\nColorado, Colorado\n\nOh oh… Colorado, fly with me to Colorado\nOh oh… Colorado, over the sea to Colorado\nOh… Colorado, Colorado\n\nOh oh… Colorado, fly with me to Colorado\nOh oh… Colorado, over the ѕea to Colorado\nOh… Colorado, Colorаdo"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/1TykShpnQFM",
+        "https://www.youtube.com/embed/W_acdBVNvJ0"
+    ],
+    "dancers": null,
+    "backings": [
+        "Ferdy Lancee",
+        "Mac Sell",
+        "Okkie Huysdens",
+        "Paul Vink",
+        "Ton op 't Hof"
+    ],
+    "composers": [
+        "Rob Bolland"
+    ],
+    "lyricists": [
+        "Ferdi Bolland",
+        "Gerard Cox"
+    ],
+    "writers": null,
+    "conductor": "Harry van Hoof",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 136,
+    "broadcaster": "NOS",
+    "spokesperson": "Ivo Niehe",
+    "commentators": [
+        "Willem Duys"
+    ]
+}

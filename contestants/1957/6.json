@@ -1,0 +1,50 @@
+{
+    "id": 6,
+    "country": "GB",
+    "artist": "Patricia Bredin",
+    "song": "All",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "All",
+            "content": "All the golden dreams of yesterday\nAll the fragrance of a bygone May\nAll the words two hearts in love can say\nAll you'll ever mean to me, my darling\n\nAll we've shared throughout the passing years\nAll the laughter, all the sighs, the tears\nAll the joy of living, loving and forgiving\nThese are all to me\n\nAll the laughter, all the sighs, the tears\nAll the joy of living, loving and forgiving\nTheѕe are аll to me"
+        },
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Tutti",
+            "content": "Tutti i sogni d'oro di ieri\nTutta la fragranza di un maggio passato\nTutte le parole che due cuori innamorati possono dire\nTutto ciò che significherai per me, mia cara\n\nTutto quello che abbiamo condiviso nel corso degli anni\nTutte le risate, tutti i sospiri, le lacrime\nTutta la gioia di vivere, amare e perdonare\nQuesti sono tutti per me\n\nTutte le risate, tutti i sospiri, le lacrime\nTutta la gioia di vivere, amare e perdonаre\nQuesti ѕono tutti per me"
+        },
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "Все",
+            "content": "Все золотые мечты вчерашнего дня\nВсе ароматы ушедшего мая\nВсе слова, которые могут сказать два влюбленных сердца\nВсе, что ты когда-либо будешь значить для меня, мой дорогой\n\nВсе, что мы делили на протяжении многих лет\nВесь смех, все вздохи, все слезы\nВся радость жизни, любви и прощения\nВсе это для меня\n\nВесь смех, все вздохи, все слезы\nВся радость жизни, любви и прощения\nВсе это для меня"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/LGHNEpTNcXU"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Reynell Wreford"
+    ],
+    "lyricists": [
+        "Alan Stranks"
+    ],
+    "writers": null,
+    "conductor": "Eric Robinson",
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 154,
+    "broadcaster": "BBC",
+    "spokesperson": "David Jacobs",
+    "commentators": [
+        "Berkeley Smith"
+    ]
+}

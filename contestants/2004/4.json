@@ -1,0 +1,36 @@
+{
+    "id": 4,
+    "country": "CY",
+    "artist": "Lisa Andreas",
+    "song": "Stronger Every Minute",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Stronger every minute",
+            "content": "No matter where I am\nI'm always thinking of you\nIt may be hard, but I need you to understand\nThat I don't often say what I feel\nBut now this is straight from my heart\n\nMy love grows stronger every minute\nAnd it won't ever die\nI want you to stay with me\nNot just this day, but for all my life\n\nNow, when I look into your eyes\nI can tell there's something wrong\nYou're holding back the tears\nCouldn't bare to lose you now\nSo I will make my feelings clear\n\nMy love grows stronger every minute\nAnd it won't ever die\nYou must believe I'll always be there\nFor you, all my life\n\nOh… please stay\nMmm…\n\nMy love grows stronger every minute\nAnd it won't ever die\nI want you to stay with me\nNot just this day, but for all my life\n\nOh… please ѕtаy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Dq4RNHax5ow",
+        "https://www.youtube.com/embed/rQwmqkRO7Go",
+        "https://www.youtube.com/embed/lLvZbAqVJ0c"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Mike Connaris"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A major",
+    "bpm": 147,
+    "broadcaster": "CyBC",
+    "spokesperson": "Loukas Hamatsos",
+    "commentators": [
+        "Evi Papamichail"
+    ]
+}

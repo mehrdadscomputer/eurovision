@@ -1,0 +1,43 @@
+{
+    "id": 13,
+    "country": "IL",
+    "artist": "Hovi Star",
+    "song": "Made of Stars",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Made of stars",
+            "content": "A language I don't understand \nYou speak, I listen, I'm your friend\n(You hypnotize me)\n\nTake my hand\nA million faces tied in chains\nYou ride a Black horse in the rain \n(You hypnotize me)\n\nDon't escape no more, no more, no more, no more\nWe are all\n\nMade of stars\nSilver fragments fallin'\nWe are made of stars\nWe are made of stars\nSearching for that secret promise\nMade of stars\n\nYou heal me, you fill me\nIgnite a flame within me\n(Hypnotize me)\nI'm begging you\nDon't escape no more, no more, no more, no more\nWe are all\n\nMade of stars\nSilver fragments fallin'\nWe are made of stars\nWe are made of stars\nSearching for that secret promise\nMade of stars\n\nTell me that you understand\nCome in close and take my hand\nLet's float across the sky like there's no floor and there's no ceiling\nDance with me like we are made of stars\n'cause we are, we are, we are\n\nMade of stars\nSilver fragments fallin'\nWe are made of stars\nWe are made of stars\nSearching for that secret promise\nMade of stars\n\nDance with me like we are made of stаrѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/SS5TB2XUdgs",
+        "https://www.youtube.com/embed/SpWKfcjXcp0",
+        "https://www.youtube.com/embed/xU1WtfovOWk",
+        "https://www.youtube.com/embed/E8KVkt4JNcs",
+        "https://www.youtube.com/embed/5Vukp-kbrjY"
+    ],
+    "dancers": [
+        "Amir Ner-Goan",
+        "Jennifer Cohen"
+    ],
+    "backings": [
+        "Almog Kapach",
+        "Imri Ziv",
+        "Matan Agami"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Doron Medalie"
+    ],
+    "conductor": null,
+    "stageDirector": "Doron Medalie",
+    "tone": "Bb major",
+    "bpm": 140,
+    "broadcaster": "IBA",
+    "spokesperson": "Ofer Nachshon",
+    "commentators": null
+}

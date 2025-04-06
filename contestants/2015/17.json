@@ -1,0 +1,43 @@
+{
+    "id": 17,
+    "country": "LT",
+    "artist": "Monika & Vaidas",
+    "song": "This Time",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "This Time",
+            "content": "This time I think I'm falling in love\nThis time you're sent from heaven above\nWhoo oo\n\nMy God, stop for a minute and think\nHow about we just go out for a drink\nWhoo oo\n\n'Cause every time I close my eyes I feel you\nI'm feeling love\nLove, love\nRound and round and round and round we go\nI'm feeling love\nLove, love\nRound and round and round and right in my heart\n\nThis time I hope you don't mind\nI help you put your troubles behind\nWhoo oo\n\nI know there's a reason for this\nOne kiss …\nAnd you will see what you miss\nWhoo oo\n\nI'm feeling love\nLove, love\nRound and round and round and round we go\nI'm feeling love\nLove, love\nRound and round and round and right in my heart\n\nIs this how it goeѕ?\nI don't know\nWhoo oo\n\nI'm feeling love\nI'm feeling love\nI'm feeling love\nWhoo oo\nLove\nRound and round and round and right in my heаrt"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/xtB_slM63JA",
+        "https://www.youtube.com/embed/oD0XTvKcUk4",
+        "https://www.youtube.com/embed/r13a2VUTajU"
+    ],
+    "dancers": null,
+    "backings": [
+        "Dainotas Varnas",
+        "Jurijus Veklenko",
+        "Justė Kraujelytė",
+        "Rūta Loop"
+    ],
+    "composers": [
+        "Vytautas Bikus"
+    ],
+    "lyricists": [
+        "Monika Liu"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Eb major",
+    "bpm": 130,
+    "broadcaster": "LRT",
+    "spokesperson": "Ugnė Galadauskaitė",
+    "commentators": [
+        "Darius Užkuraitis"
+    ]
+}

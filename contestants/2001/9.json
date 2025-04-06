@@ -1,0 +1,39 @@
+{
+    "id": 9,
+    "country": "HR",
+    "artist": "Vanna",
+    "song": "Strings Of My Heart",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Strings of my heart",
+            "content": "Aha… aha…\nStay now and softly play the strings of my heart\n\nDon't break my heart tonight, don't leave me when I cry\nStay now and softly play the strings of my heart\nI want you by my side, you make me feel all right\nAnd let the fiddler play on the strings of my heart\nAnd let the fiddler play on the strings of my heart\n\nDon't break my heart tonight, don't leave me when I cry\nStay now and softly play the strings of my heart\nI want you by my side, you make me feel all right\nAnd let the fiddler play on the strings of my heart\n\nDon't break my heart, oh no\n(Don't break my heart, don't break my heart, don't break my heart)\nI want you by my side, you make me feel all right\n(Right by my side, right by my side, I feel all right)\nAnd let the fiddler play on the strings of my heart\n(Strings of my heart)\nAnd let the fiddler play on the stringѕ of my heаrt"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/24ihE_vYBRs"
+    ],
+    "dancers": null,
+    "backings": [
+        "Alenka Milano",
+        "Fedor Boić"
+    ],
+    "composers": [
+        "Tonči Huljić"
+    ],
+    "lyricists": [
+        "Vjekoslava Huljić"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "F minor",
+    "bpm": 120,
+    "broadcaster": "HRT",
+    "spokesperson": "Danijela Trbović",
+    "commentators": [
+        "Ante Batinović"
+    ]
+}

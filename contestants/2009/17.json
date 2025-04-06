@@ -1,0 +1,49 @@
+{
+    "id": 17,
+    "country": "HR",
+    "artist": "Igor Cukrov feat. Andrea",
+    "song": "Lijepa Tena",
+    "lyrics": [
+        {
+            "languages": [
+                "Croatian"
+            ],
+            "title": "Lijepa Tena",
+            "content": "Bio sam oblak, lebdio\nNi sunca nisam vidio\nTebe čekao\n\nBog te je meni poslao\nOd srca otkinuo svog, da bi živio\nI čekao da ti meni daš čudo ljubavi\n\nHej draga, hej draga\nSuze u pamuk pretvaraš\nUmorne oči odmaraš\nZačaraš\n\nHej lijepa, hej sveta\nVodu u vino pretvaraš\nTi se moliš za sve nas, za sve nas\n\nTena… Tena…\n\nBio sam oblak, lebdio\nNi sunca nisam vidio\n\nHej draga, hej draga\nSuze u pamuk pretvaraš\nUmorne oči odmaraš\nZačaraš\n\nHej lijepa, hej sveta\nVodu u vino pretvaraš\nTi se moliš za sve nas, za sve naѕ\n\nTena… Tena…\nTena, Tena, Tenа…"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Beautiful Tena",
+            "content": "I was a cloud, floating\nAnd I haven't seen the sun\nI was waiting for you\n\nGod has sent you to me\nDetached you from his heart, so I could live\nAnd waited for you to give me the miracle of love\n\nHey darling, hey darling\nYou're turning tears into cotton\nYou're a sight for sore eyes\nYou enchant\n\nHey beauty, hey holy\nYou're turning water into wine\nYou're praying for all of us, for all of us\n\nTena… Tena…\n\nI was a cloud, floating\nAnd I haven't seen the sun\n\nHey darling, hey darling\nYou're turning tears into cotton\nYou're a sight for sore eyes\nYou enchant\n\nHey beauty, hey holy\nYou're turning water into wine\nYou're praying for all of us, for all of uѕ\n\nTena… Tena…\nTena, Tena, Tenа…"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/jdLct2IqcLA",
+        "https://www.youtube.com/embed/eiXiKRtjJWI"
+    ],
+    "dancers": null,
+    "backings": [
+        "Ivana Čabraja",
+        "Jelena Majić",
+        "Karmen Matković",
+        "Sanja Jukić"
+    ],
+    "composers": [
+        "Tonči Huljić"
+    ],
+    "lyricists": [
+        "Vjekoslava Huljić"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A major",
+    "bpm": 116,
+    "broadcaster": "HRT",
+    "spokesperson": "Mila Horvat",
+    "commentators": [
+        "Duško Ćurlić"
+    ]
+}

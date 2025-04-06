@@ -1,0 +1,40 @@
+{
+    "id": 5,
+    "country": "GB",
+    "artist": "Sweet Dreams",
+    "song": "I'm Never Giving Up",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "I'm never giving up",
+            "content": "I don't believe in idle gossip\nThe jealous mind can be unfair\nI hear them make their accusations\nBut baby, come what may\nNo matter what the people say\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it was before\n\nAt times it's hard to see the changes\nOr read the writing on the wall\nWe may become the best of strangers\nBut I'll keep holding on\nUntil I know my chance has gone\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it was before\n\nNever givin' up, I'm never givin' up\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it was\n\nI'm never givin' up, not givin' in\nIf there's the slightest chance that I could win\nThe battle may be lost, but I can win the war\nAnd get your lovin' back the way it waѕ before\n\nNever givin' up, I'm never givin' up\n(I'm allowed to… all I wаnt to… need your lovin')\nI'm never never givin'… never never givin'… never givin' up"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/in5hT6P9KFA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Alan Carvell",
+        "Hazell Dean",
+        "Kit Rolfe"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Jan Pulsford",
+        "Phil Wigger",
+        "Ron Roker"
+    ],
+    "conductor": "John Coleman",
+    "stageDirector": "Chrissy Wickham",
+    "tone": "G major",
+    "bpm": 143,
+    "broadcaster": "BBC",
+    "spokesperson": "Colin Berry",
+    "commentators": [
+        "Terry Wogan"
+    ]
+}

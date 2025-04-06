@@ -1,0 +1,47 @@
+{
+    "id": 30,
+    "country": "NO",
+    "artist": "Agnete",
+    "song": "Icebreaker",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Icebreaker",
+            "content": "Every night\nBefore I sleep, a shiver down my spine\nThoughts alight\nWhat can I do to make you listen?\n\nLike a northern light\nYou're dancing over every borderline\nPassing every sign\nBetween reality and fiction\n\nEvery single promise that you ever made\nSpinning in my mind like a hurricane\nBaby, as I hear your mayday\nMayday\n\nI'll be your icebreaker\nWhen you're stuck in frozen water, frozen water\nIcebreaker\nWhen you're stuck in frozen water, frozen water\n\nYou go astray\nJust like a polaroid, you fade away\nI'll be your partner\nAnd liberate you from your prison\n\nBaby, as I hear your mayday\nMayday\n\nI'll be your icebreaker\nWhen you're stuck in frozen water, frozen water\nIcebreaker\nWhen you're stuck in frozen water, frozen water\n\nWe're too young to say goodbye\nWhenever you lose faith just hold the line\nIt takes a lot of nerve to save a life…\n\nIcebreaker\nWhen you're stuck in frozen water, frozen water\nIcebreaker\nWhen you're ѕtuck in frozen water\n\nAh…\nFrozen wаter"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ACLcqZMwCSo",
+        "https://www.youtube.com/embed/S2GUS-3T7cU",
+        "https://www.youtube.com/embed/3KSh0Z8c_00",
+        "https://www.youtube.com/embed/uptjPZuyrdk",
+        "https://www.youtube.com/embed/A3bjhMC6-j8"
+    ],
+    "dancers": [
+        "Sara Christine Einbu"
+    ],
+    "backings": [
+        "Charlotte Bredesen",
+        "Gabriel Alares",
+        "Ingunn Dalland",
+        "Nicoline Berg Kaasin"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Agnete Kristin Johnsen",
+        "Gabriel Alares",
+        "Ian Curnow"
+    ],
+    "conductor": null,
+    "stageDirector": "Mattias Carlsson",
+    "tone": "F# minor",
+    "bpm": 178,
+    "broadcaster": "NRK",
+    "spokesperson": "Elisabeth Andreassen",
+    "commentators": [
+        "Olav Viksmo-Slettan"
+    ]
+}

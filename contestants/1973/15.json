@@ -1,0 +1,43 @@
+{
+    "id": 15,
+    "country": "FR",
+    "artist": "Martine Clémenceau",
+    "song": "Sans toi",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Sans toi",
+            "content": "Tout le monde, toutes choses parlaient d'amour\nIl fallait bien que cela m'arrive un jour\n\nJ'attendais, je t'espérais\nJ'espérais, je te cherchais\n\nMais c'est fou, tu existais\nL'aventure, c'était toi, et je comprends déjà\n\nSans toi, à quoi sert d'être libre?\nSans toi, dis, pourquoi faut-il vivre?\n\nTu t'en vas (Tu t'en vas)\nMa vie part avec toi\nTu reviens (Tu reviens)\nJ'ai le ciel dans mes mains\nC'est le vide, le vide autour de moi\nSans toi, sans toi\n\nComme il faisait bon ce soir dans le jardin\nJ'aime tes secrets et je n'ai peur de rien\n\nSans toi, à quoi sert d'être libre?\nSans toi, dis, pourquoi faut-il vivre?\n\nTu t'en vas (Tu t'en vas)\nMa vie part avec toi\nTu reviens (Tu reviens)\nJ'ai le ciel dans mes mains\nC'est le vide, le vide autour de moi\nSans toi\n\nTu t'en vas (Tu t'en vas)\nMa vie part avec toi\nTu reviens (Tu reviens)\nJ'ai le ciel dans mes mains\nC'est le vide, le vide autour de moi\nSans toi\n\nSаnѕ toi"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Without you",
+            "content": "Everyone, everything was talking about love\nOne day, it just had to happen to me\n\nI waited, I expected you\nI hoped, I looked for you\n\nBut good heavens, you existed\nYou were the adventure, and now I understand\n\nWithout you, what is being free good for?\nWithout you, tell me, why do we need to live?\n\nYou leave (You leave)\nMy life leaves with you\nYou come back (You come back)\nI've got the sky in my hands\nIt's the emptiness, the emptiness around me\nWithout you, without you\n\nHow good the weather was in the garden tonight\nI love your secrets and I'm afraid of nothing\n\nWithout you, what is being free good for?\nWithout you, tell me, why do we need to live?\n\nYou leave (You leave)\nMy life leaves with you\nYou come back (You come back)\nI've got the sky in my hands\nIt's the emptiness, the emptiness around me\nWithout you\n\nYou leave (You leave)\nMy life leaves with you\nYou come back (You come back)\nI've got the sky in my hands\nIt's the emptiness, the emptinesѕ аround me\nWithout you\n\nWithout you"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/_Ih4wpHaFe8"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Paul Koulak"
+    ],
+    "lyricists": [
+        "Anne Grégory"
+    ],
+    "writers": null,
+    "conductor": "Jean Claudric",
+    "stageDirector": null,
+    "tone": "F# major",
+    "bpm": 162,
+    "broadcaster": "ORTF",
+    "spokesperson": null,
+    "commentators": [
+        "Pierre Tchernia"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 17,
+    "country": "BE",
+    "artist": "Pas de Deux",
+    "song": "Rendez",
+    "lyrics": [
+        {
+            "languages": [
+                "Dutch"
+            ],
+            "title": "Rendez-vous",
+            "content": "Rendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nMaar de maat is vol\n\nRendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nMaar de maat is vol en m'n kop is toe\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nMaar de maat is vol\n\nRendez-vous\nMaar de maаt is vol en m'n kop iѕ toe"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Rendezvous",
+            "content": "Rendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nBut its over now\n\nRendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nBut its over now, I don't have a clue\n\nRendez-vous\nRendez-vous\n\nRendez-vous\nBut its over now\n\nRendez-vous\nBut itѕ over now, I don't have а clue"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/nChnO9ZaEiU"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Walter Verdin"
+    ],
+    "lyricists": [
+        "Paul Peyskens",
+        "Walter Verdin"
+    ],
+    "writers": null,
+    "conductor": "Freddy Sunder",
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 149,
+    "broadcaster": "BRT",
+    "spokesperson": "Anne Ploegaerts",
+    "commentators": [
+        "Jacques Mercier",
+        "Luc Appermont"
+    ]
+}

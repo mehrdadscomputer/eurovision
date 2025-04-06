@@ -1,0 +1,44 @@
+{
+    "id": 12,
+    "country": "FI",
+    "artist": "Fredi",
+    "song": "Varjoon",
+    "lyrics": [
+        {
+            "languages": [
+                "Finnish"
+            ],
+            "title": "Varjoon-suojaan",
+            "content": "Varjoon alta polttavan auringon\nVarjoon tieltä tuskien päästävä on\nSuojaan alta hehkuvan taivahan\nSuojaan luokse vihreän keitahan\n\nYllä auringon hohde, alla on polttava maa\nMielessä varjoisa kohde, jonne yksin kulkea saan\n\nVarjoon alta polttavan auringon\nVarjoon pian pois minun päästävä on\nSuojaan alta hehkuvan taivahan\nSuojaan alle lehdistön tuuhean\n\nVarjoon valokeilojen julkeain\nVarjoon tahdon seurasta kuuluisain\nSuojaan luota polttavan rakkauden\nSuojaan luokse kaipauksen hiljaisen\n\nRauhaton eloni on vain, kaiken nyt kestää mä saan\nJo mainetta kylliksi sain, rauhaan mä kaipailen vaan\n\nVarjoon valokeiloista tahdon pois\nVarjoon yksinäistä vaikk' siellä ois\nSuojaan tahdon viimeinkin rauhaisaan\nSilloin vasta onneni vihdoin ѕaаn"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "To the shadow – to safety",
+            "content": "Into the shadow from under the burning sun\nI must get into the shadow from the street of pain\nTo safety from under the glowing sky\nTo safety, to a green oasis\n\nAbove is the shining sun, underneath is the burning ground\nIn the mind the shady resort, where I can go by myself\n\nInto the shadow from under the burning sun\nI must soon get away, into the shadow\nTo safety from under the glowing sky\nTo safety under bushy leaves\n\nInto the shadow from the shameless spotlights\nI want to get into the shadow, away from the company of the famous\nTo safety, away from the burning love\nTo safety of silent longing\n\nMy life is just restless, now I have to stand everything\nI already got enough fame, rest is all I miss\n\nI want to get into the shadow, away from the spotlights\nInto the shadow, although it would be lonely there\nI want to go to the peaceful safety, eventually\nThat's when I could finally find my hаppinesѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/-GrU7Jfc9HM",
+        "https://www.youtube.com/embed/yJpToVQ07C8"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Lasse Mårtenson"
+    ],
+    "lyricists": [
+        "Alvi Vuorinen"
+    ],
+    "writers": null,
+    "conductor": "Ossi Runne",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "YLE",
+    "spokesperson": "Poppe Berg",
+    "commentators": [
+        "Aarno Walli"
+    ]
+}

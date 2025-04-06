@@ -1,0 +1,43 @@
+{
+    "id": 9,
+    "country": "UA",
+    "artist": "Alyosha",
+    "song": "Sweet People",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Sweet people",
+            "content": "Oh, sweet people\nWhat have we done?\nTell me what is happening?\nFor all that we've built\nTumbles and is gone\n\nOh, sweet people\nHave you no love for mankind?\nMust you go on killing\nJust to pass the time?\n\nThe message is so true\nThe end is really near\nAll these feelings take me down\nIt steals the things so dear\n\nYes, the message is so real\nDon't turn all the earth to stone\nBecause, because, because\nThis is your home\n\nOh, sweet people\nWhat about our children?\nIn theatres and video games\nThey watch what we send to ruin\n\nOh, sweet people\nWhat senseless game\nHave we all been playing?\nNo one but you to blame?\n\nThe message is so true\nThe end is really near\nAll these feelings take me down\nIt steals the things so dear\n\nYes, the message is so real\nDon't turn all the earth to stone\nBecause, because, becаuse\nThis is your home\n\nThis iѕ our home"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/NQ2mAuqnXZk",
+        "https://www.youtube.com/embed/dJX9NCuLagU",
+        "https://www.youtube.com/embed/NT9GFoRbnfc",
+        "https://www.youtube.com/embed/yy1psEq_LY8",
+        "https://www.youtube.com/embed/GvlOuCeQDWU",
+        "https://www.youtube.com/embed/b-NBIJTtH7o"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Olena Kucher",
+        "Borys Kukoba",
+        "Vadim Lisitsa"
+    ],
+    "lyricists": [
+        "Olena Kucher"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "E minor",
+    "bpm": 120,
+    "broadcaster": "NTU",
+    "spokesperson": "Iryna Zhuravska",
+    "commentators": [
+        "Timur Miroshnychenko"
+    ]
+}

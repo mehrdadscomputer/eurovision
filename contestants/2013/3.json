@@ -1,0 +1,51 @@
+{
+    "id": 3,
+    "country": "NO",
+    "artist": "Margaret Berger",
+    "song": "I Feed You My Love",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "I feed you my love",
+            "content": "A cocoon in a silent tree\nThrough the dark night you listen to me\nWhen I whisper broken words in your ear\n\nAnd you push, you push me hard to the surface\nI'm blinded at heart, but you wake me\nYou wake me up from the snow where I was born\n\nNow I can see\nThe whole world is mine\nI can touch and feel\nI feed you my love\n\nYou put a knife against my back\nAnd you dare me to face the attack\nYou say for cowards, there's no reward\nFeel the heat\n\nOh… take my hand, I trust your word\nBring the fire, I don't care if it hurts\nI have the future on my tongue\nGive me a kiss\n\nNow I can see\nThe whole world is mine\nI can touch and feel\nSo I feed you my love\n\nYou put a knife against my back\nAnd you dare me to face the attack\nYou say for cowards, there's no reward\nI have the future on my tongue\n\nNow I can see, whoh…\nThe whole world iѕ mine\nI can touch and feel, mmh yeаh…\nSo I feed you my love\nFeed you my love\nSo I feed you my love"
+        },
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Ti Nutro Il Mio Amore",
+            "content": "Un bozzolo in un albero silenzioso\nAttraverso la notte buia mi ascolti\nQuando sussurro parole spezzate nel tuo orecchio\n\nE tu spingi, mi spingi forte verso la superficie\nSono accecato nel cuore, ma tu mi svegli\nMi svegli dalla neve dove sono nato\n\nOra posso vedere\nIl mondo intero è mio\nPosso toccare e sentire\nTi nutro il mio amore\n\nMi hai messo un coltello contro la schiena\nE tu mi sfidi ad affrontare l'attacco\nTu dici che per i codardi non c'è ricompensa\nSenti il calore\n\nOh… prendi la mia mano, mi fido della tua parola\nPorta il fuoco, non mi importa se fa male\nHo il futuro sulla lingua\nDammi un bacio\n\nOra posso vedere\nIl mondo intero è mio\nPosso toccare e sentire\nCosì ti nutro il mio amore\n\nMi hai messo un coltello contro la schiena\nE tu mi sfidi ad affrontare l'attacco\nTu dici che per i codardi non c'è ricompensa\nHo il futuro sulla lingua\n\nOra posso vedere, whoh…\nIl mondo intero è mio\nPosso toccare e sentire, mmh sì…\nCosì ti nutro il mio amore\nTi nutro il mio amore\nCoѕì ti nutro il mio аmore"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/tc6a4EV63uM",
+        "https://www.youtube.com/embed/H1smofAn2sE",
+        "https://www.youtube.com/embed/jE0oOEJZ130",
+        "https://www.youtube.com/embed/1hqr0HKQR-c"
+    ],
+    "dancers": null,
+    "backings": [
+        "Alfiboy",
+        "Jorunn Hauge",
+        "Karianne Kjærnes",
+        "May Kristin Kaspersen"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Karin Park",
+        "Niklas Olovson",
+        "Robin Lynch"
+    ],
+    "conductor": null,
+    "stageDirector": "Tore Sergei Myklebust",
+    "tone": "E minor",
+    "bpm": 96,
+    "broadcaster": "NRK",
+    "spokesperson": "Tooji",
+    "commentators": [
+        "Olav Viksmo-Slettan"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 9,
+    "country": "SE",
+    "artist": "Siw Malmkvist",
+    "song": "Alla andra får varann",
+    "lyrics": [
+        {
+            "languages": [
+                "Swedish"
+            ],
+            "title": "Alla andra får varann",
+            "content": "Bara, bara du och jag måste skilda gå var dag\nMen alla andra får varann\nVarför ska det vara så\nVarför drabbas just vi två\nNär alla andra får varann\n\nOm jag blott vågade fria\nSkulle du nog ge ditt 'ja'\nMen lyckan får vänta\nTills jag repat mod en dag\n\nJag på bröllop brukar gå\nMen får sitta och se på\nHur alla andra får varann\n\nKanhända kunde det ordnas\nOch sen gick det som en dans\nOm man kunde fria liksom förr\nPer korrespondens\n\nYeah… käraste, en vacker dag, kanske ockѕå du och jag\nSom alla andra får varаnn"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "All the others get each other",
+            "content": "Only, only you and I have to be apart every day\nWhile all the others get each other\nWhy does it have to be that way\nWhy does it have to happen to us\nWhen all the others get each other\n\nIf I only had the courage to propose\nYou would probably give me your 'yes'\nBut happiness has to wait\nUntil I've picked up the courage some day\n\nI go to weddings\nBut I sit and watch\nHow all the others get each other\n\nPerhaps it could be arranged\nAnd then it would all be easy\nIf you could propose like they used to\nBy correspondence\n\nYeah… dearest, maybe one day, maybe also you and I\nLike all the otherѕ, we will have eаch other"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/t5zNjGUkUec"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Ulf Kjellqvist"
+    ],
+    "lyricists": [
+        "Åke Gerhard"
+    ],
+    "writers": null,
+    "conductor": "Thore Ehrling",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 145,
+    "broadcaster": "SR",
+    "spokesperson": "Tage Danielsson",
+    "commentators": [
+        "Jan Gabrielsson"
+    ]
+}

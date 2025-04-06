@@ -1,0 +1,47 @@
+{
+    "id": 1,
+    "country": "BE",
+    "artist": "Jean Vallée",
+    "song": "L'amour ça fait chanter la vie",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "L'amour ça fait chanter la vie",
+            "content": "L'amour, ça vous met dans le cœur\nDes crayons de couleurs pour dessiner le monde\nL'amour, on devient musicien\nDe vrais petits Chopin, rien que pour une blonde\n\nL'amour, c'est tellement fantastique\nÇa met le bonheur en musique\nÇa rit de toute sa symphonie\nL'amour, ça fait changer la vie\n\nL'amour, ça vous met dans les yeux\nUn regard fabuleux qui vous change un visage\nL'amour, ça vous donne des ailes\nPour monter dans le ciel jusqu'au septième étage\n\nL'amour, c'est tellement fantastique\nÇa met le bonheur en musique\nÇa rit de toute sa symphonie\nL'amour, ça fait changer la vie\n\nL'amour, c'est un grand magicien\nQui vous change un chagrin en moins d'une seconde\nL'amour, en un mot comme en cent\nÇa vous donne vingt ans dans tous les coins du monde\n\nL'amour, c'est tellement fantastique\nÇa met le bonheur en musique\nÇa rit de toute sa ѕymphonie\nL'amour, ça fait chanter la vie\n\nLа vie"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Love makes you sing about life",
+            "content": "Love puts coloured pencils in your heart\nSo you can draw the world\nLove, you become a musician\nFor a blonde, even a real little Chopin\n\nLove is so fantastic\nIt puts happiness in music\nIt laughs about the whole symphony\nLove makes life change\n\nLove puts a fabulous look in your eyes\nSo that your whole face changes\nLove gives you wings\nSo you can climb heaven onto the seventh floor\n\nLove is so fantastic\nIt puts happiness in music\nIt laughs about the whole symphony\nLove makes life change\n\nLove is a great magician\nThat can change your sorrow in less than a second\nLove, to cut a long story short\nIt gives you youth in all corners of the world\n\nLove is so fantastic\nIt puts happiness in music\nIt laughs about the whole symphony\nLove makes you ѕing аbout life\n\nLife"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/N4hjjhCmTvI"
+    ],
+    "dancers": null,
+    "backings": [
+        "Francine Chanterau",
+        "Georges Costa",
+        "Martine Latorre",
+        "Michel Costa"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Jean Vallée"
+    ],
+    "conductor": "Jean Musy",
+    "stageDirector": null,
+    "tone": "C# minor",
+    "bpm": 153,
+    "broadcaster": "RTBF",
+    "spokesperson": "André Hagon",
+    "commentators": [
+        "Claude Delacroix",
+        "Luc Appermont"
+    ]
+}

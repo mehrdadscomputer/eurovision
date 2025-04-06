@@ -1,0 +1,54 @@
+{
+    "id": 40,
+    "country": "EE",
+    "artist": "Kreisiraadio",
+    "song": "Leto Svet",
+    "lyrics": [
+        {
+            "languages": [
+                "Serbian",
+                "German & Finnish"
+            ],
+            "title": "Leto svet",
+            "content": "Ko ja sam? Račun molim\nNestalo mi je plina\nMi je plina\n\nDva dupla doboš torta\nMahuna, to je dosta\nTo je dosta\n\nLeto svet, eto leto svet\nLeto svet, eto leto svet\nLeto svet, eto leto svet\nLeto svet, eto leto svet\n\nKrompira, graška, luka\nJastoga, to je dosta\n\nSommerlicht, das ist Sommerlicht\nSommerlicht, das ist Sommerlicht\nSommerlicht, das ist Sommerlicht\nSommerlicht, das ist Sommerlicht\n\nKrompira, graška, luka\nJastoga, to je dosta\nSardela, to je dosta\n\nMitäs nyt? Kesävalot nyt\nMitäs nyt? Kesävalot nyt\nMitäs nyt? Kesävalot nyt\nMitäs nyt? Kesävаlot nyt\n\nLeto svet, eto leto svet\nLeto svet, eto leto svet\nLeto svet, eto leto svet\nLeto svet, eto leto ѕvet"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Summer light",
+            "content": "Who am I? Bill please\nI ran out of gas\nOut of gas\n\nTwo double drum cake\nBean pods, that's enough\nThat's enough\n\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\n\nPotatoes, beans, onions\nLobster, that's enough\n\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\n\nPotatoes, beans, onions\nLobster, that's enough\nSardine, that's enough\n\nWhat now? Summer lights now\nWhat now? Summer lights now\nWhat now? Summer lights now\nWhаt now? Summer lights now\n\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's summer light\nSummer light, it's ѕummer light"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/zyzOGzXWLgU",
+        "https://www.youtube.com/embed/ur0EyY9PF-0",
+        "https://www.youtube.com/embed/g7kDutBBAPw",
+        "https://www.youtube.com/embed/39xtYuEa4QI",
+        "https://www.youtube.com/embed/ibGWJvoMRp8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Kauna Kõrge-Hårajuvet",
+        "Laura Lambut",
+        "Merit Reigam"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Glen Pilvre",
+        "Hannes Võrno",
+        "Peeter Oja",
+        "Priit Pajusaar",
+        "Tarmo Leinatamm"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Bb minor",
+    "bpm": 132,
+    "broadcaster": "ERR",
+    "spokesperson": "Sahlene",
+    "commentators": [
+        "Marko Reikop"
+    ]
+}

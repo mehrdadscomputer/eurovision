@@ -1,0 +1,38 @@
+{
+    "id": 38,
+    "country": "BE",
+    "artist": "Ishtar",
+    "song": "O Julissi",
+    "lyrics": [
+        {
+            "languages": [
+                "Imaginary"
+            ],
+            "title": "O Julissi",
+            "content": "O julissi na jalini\nO julissi na ditini\nO bulo diti non slukati\nSestrone dina katsu\n\nO julissi na ti buku\nO julissi na katinu\nDvoranu mojani bidna\nMarusi naja otcha tu\n\n(Pokoli sestro moja kona) Moja kona\n(Pokoli meni dita boja) Dita boja\n(Jalina pitsu marusinja) Marusinja\n(Kolosali) krokodili\n\nO julissi na jalini\nO julissi na ditini\nO bulo diti non slukati\nSestrone dina katsu\n\nO julissi na ti buku\nO julissi na katinu\nDvoranu mojani bidna\nMarusi naja otcha tu\n\n(Pokoli sestro moja kona) Moja kona\n(Pokoli meni dita boja) Dita boja\n(Jalina pitsu marusinja) Marusinja\n(Kolosali) krokodili\n\nO julissi na jalini\nO julissi na ditini\nO bulo diti non slukati\nSestrone dina katsu\n\nO julissi na slukati\nO julissi na kotchali\nOd nu je dvorian ne si bili\nPrecko sti budo najali\n\nO julissi na ja\nO julissi na jalini\nO julissi na ditini\nO bulo diti non slukati\nSestrone dina katsu\n\nO julissi na jalini\nO julissi na ditini\nO bulo diti non slukati\nSestrone dina kаtѕu"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/r2IXuAO3jHY",
+        "https://www.youtube.com/embed/qilHClYSsMU",
+        "https://www.youtube.com/embed/faEj9LWcNtI"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Michel Vangheluwe"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 136,
+    "broadcaster": "VRT",
+    "spokesperson": "Sandrine Van Handenhoven",
+    "commentators": [
+        "André Vermeulen",
+        "Jean-Louis Lahaye",
+        "Jean-Pierre Hautier"
+    ]
+}

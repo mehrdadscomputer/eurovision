@@ -1,0 +1,44 @@
+{
+    "id": 4,
+    "country": "CH",
+    "artist": "Sandra Simó",
+    "song": "Canzone Per Te",
+    "lyrics": [
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Canzone per te",
+            "content": "Io questa sera vorrei sognare un po'\nCon quattro note fermare la realtà\nPoi nella mente ritorna l'allegria\nSe c'è una canzone mia\n\nLei mi riporta a scoprire dentro me\nNei miei sorrisi la tua complicità\nPoi dare un calcio alla mia tristezza che\nC'è quando te ne vai\n\nPortami via con te, non mi lasciare mai\nNon voglio perderti, stringimi forte perché\nC'è una canzone che ti parlerà di me\nA lei affiderò tutto il mio amore per te\n\nPoi ritrovarmi seduta dentro un bar\nCon le mie note e un sogno dentro me\nNo, no, non serve fermare la realtà\nDai chiudi gli occhi e vai\n\nPortami via con te, non mi lasciare mai\nNon voglio perderti, ѕtringimi forte perché\nC'è una canzone che ti parlerà di me\nA lei affiderò tutto il mio amore per te\n\nUna canzone che cаnterò e dibro con te"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "A song for you",
+            "content": "I want to dream a little tonight\nTo stop reality with four notes\nThen, joy comes back into my mind\nIf there's a song of mine\n\nIt once again shows what is inside of me\nIn my smiles and your complicity\nThen give a kick to my sadness\nIt's now that you leave\n\nTake me away with you, don't ever leave me\nI don't want to lose you, hold me tightly because\nThere's a song that will speak to you about me\nI'll entrust it all my love for you\n\nThen making out, sitting in a bar\nWith my notes and a dream inside of me\nNo, it doesn't help to stop reality\nClose your eyes and go\n\nTake me away with you, don't ever leave me\nI don't want to lose you, hold me tightly because\nThere's a song that will speak to you about me\nI'll entrust it all my love for you\n\nA song that sings аnd liveѕ for you"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ard88K87XWQ",
+        "https://www.youtube.com/embed/33g-fNcdw3A"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Renato Mascetti"
+    ],
+    "conductor": "Flaviano Cuffari",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "SSR SRG",
+    "spokesperson": "Michel Stocker",
+    "commentators": [
+        "Bernard Thurnheer",
+        "Emanuela Gaggini",
+        "Lolita Morena"
+    ]
+}

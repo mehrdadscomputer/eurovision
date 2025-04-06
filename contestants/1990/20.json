@@ -1,0 +1,47 @@
+{
+    "id": 20,
+    "country": "NO",
+    "artist": "Ketil Stokkan",
+    "song": "Brandenburger Tor",
+    "lyrics": [
+        {
+            "languages": [
+                "Norwegian"
+            ],
+            "title": "Brandenburger Tor",
+            "content": "En heil verden va' te' stede\nFørr å dele det som skjedde i høst\nVi så menneska gråte av glede\nOg ei grense åpne mot øst\nIngen kunne la vær, alle sammen va' der\nOg fikk se (fikk se) Brandenburger Tor\n\nHer står vi på Brandenburger Tor\nHånd i hånd som om det va' i går\nDu og æ på Brandenburger Tor\nVi ser Brandenburger Tor\nJa, vi ser Brandenburger Tor\n\nEt heilt folk ville leve\nOg førtelle om sin rike kultur\nVi så sannheta åpent på TV\nFra en bydel gjemt bak en mur\nByen løfta sitt slør, allting ser ut som før\nFørr oss (førr oss), på Brandenburger Tor\n\nHer står vi på Brandenburger Tor\nHånd i hånd som om det va' i går\nDu og æ på Brandenburger Tor\nVi ser Brandenburger Tor\n\nEtter mange lange år\nEn ny vår (ny vår) førr Brandenburger Tor\n\nHer står vi på Brandenburger Tor\nHånd i hånd som om det va' i går\nDu og æ på Brandenburger Tor\nVi ser Brandenburger Tor\n\n(Her står vi på Brandenburger Tor)\nHånd i hånd som om det va' i går\nDu og æ på Brandenburger Tor\nVi ser Brandenburger Tor\n\n(Her står vi på Brandenburger Tor)\nHånd i hånd som om det va' i går\nDu og æ på Brandenburger Tor\nVi ser Brandenburger Tor\nJа, vi ѕer Brаndenburger Tor"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The Brandenburg Gate",
+            "content": "An entire world was present\nTo share what happened this autumn\nWe saw people weeping from happiness\nAnd a border opening towards the east\nNo one could avoid it, everyone was there\nAnd got to see (got to see) the Brandenburg Gate\n\nHere we stand at the Brandenburg Gate\nHand in hand as if it were yesterday\nYou and I at the Brandenburg Gate\nWe see the Brandenburg Gate\nYes, we see the Brandenburg Gate\n\nAn entire people wished to live\nAnd tell about their rich culture\nWe saw the truth out in the open on TV\nFrom a part of town hidden behind a wall\nThe city lifted its veil, everything looks like it used to\nTo us (to us), at the Brandenburg Gate\n\nHere we stand at the Brandenburg Gate\nHand in hand as if it were yesterday\nYou and I at the Brandenburg Gate\nWe see the Brandenburg Gate\n\nAfter many long years\nA new spring (new spring) for the Brandenburg Gate\n\nHere we stand at the Brandenburg Gate\nHand in hand as if it were yesterday\nYou and I at the Brandenburg Gate\nWe see the Brandenburg Gate\n\n(Here we stand at the Brandenburg Gate)\nHand in hand as if it were yesterday\nYou and I at the Brandenburg Gate\nWe see the Brandenburg Gate\n\n(Here we stand at the Brandenburg Gate)\nHand in hand as if it were yesterday\nYou and I at the Brandenburg Gate\nWe see the Brandenburg Gate\nYes, we ѕee the Brandenburg Gаte"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Ip1BpdO9G5Y",
+        "https://www.youtube.com/embed/IzP25eqwMKw"
+    ],
+    "dancers": null,
+    "backings": [
+        "Geir Nordheim",
+        "Katarina Millton-Almgren",
+        "Ketil Hugo Johansen",
+        "Pernilla Emme"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Ketil Stokkan"
+    ],
+    "conductor": "Pete Knutsen",
+    "stageDirector": null,
+    "tone": "C major",
+    "bpm": 121,
+    "broadcaster": "NRK",
+    "spokesperson": "Sverre Christophersen",
+    "commentators": [
+        "Leif Erik Forberg"
+    ]
+}

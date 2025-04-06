@@ -1,0 +1,50 @@
+{
+    "id": 1,
+    "country": "IT",
+    "artist": "Mahmood",
+    "song": "Soldi",
+    "lyrics": [
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Soldi",
+            "content": "In periferia fa molto caldo\nMamma stai tranquilla, sto arrivando\nTe la prenderai per un bugiardo\nTi sembrava amore ma era altro\nBeve champagne sotto Ramadan\nAlla TV danno Jackie Chan\nFuma narghilè, mi chiede come va\n\nMi chiede come va, come va, come va\nSai già come va, come va, come va\nPenso più veloce per capire\nSe domani tu mi fregherai\nNon ho tempo per chiarire\nPerché solo ora so cosa sei\nÈ difficile stare al mondo\nQuando perdi l'orgoglio\nLasci casa in un giorno\nTu dimmi se\n\nPensavi solo ai soldi, soldi\nCome se avessi avuto soldi, soldi\nDimmi se ti manco o te ne fotti, fotti\nMi chiedevi come va, come va, come va\nAdesso come va, come va, come va\n\nCiò che devi dire non l'hai detto\nTradire è una pallottola nel petto\nPrendi tutta la tua carità\nMenti a casa ma lo sai che lo sa\nSu una sedia lei mi chiederà\n\nMi chiede come va, come va, come va\nSai già come va, come va, come va\nPenso più veloce per capire\nSe domani tu mi fregherai\nNon ho tempo per chiarire\nPerché solo ora so cosa sei\nÈ difficile stare al mondo\nQuando perdi l'orgoglio\nHo capito in un secondo\nChe tu da me\n\nVolevi solo soldi, soldi\nCome se avessi avuto soldi, soldi\nPrima mi parlavi fino a tardi, tardi\nMi chiedevi come va, come va, come va\nAdesso come va, come va, come va\n\nWaladi waladi habibi ta'aleena*\nMi dicevi giocando, giocando con aria fiera\nWaladi waladi habibi, sembrava vera\nLa voglia, la voglia di tornare come prima\n\nIo da te non ho voluto soldi\nÈ difficile stare al mondo\nQuando perdi l'orgoglio\nLasci casa in un giorno\nTu dimmi se\n\nVolevi solo soldi, soldi\nCome se avessi avuto soldi, soldi\nLasci la città ma nessuno lo sa\nIeri eri qua, ora dove sei papà?\nMi chiedi come va, come va, come va\nSai già come va, come va, come va\n\n\n\n\n\n<i style=\"color:#789\">* \"Waladi waladi habibi ta'aleena\" (ولدي, ولدي, حبيبي تعال هنا)\nLa frase ѕignifica: \"Figlio mio, figlio mio, amore, vieni quа\"</i>"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Money",
+            "content": "It's really hot down in the suburbs\nMum don't worry I'm on my way home\nYou will be upset by a liar\nIt looked like love to you, it was something else\nHe's drinking champagne during Ramadan\nOn tv they are airing Jackie Chan\nHe's smoking shisha and asks me how I'm doing\n\nHe asks me how I'm doing, doing, doing\nYou already know how things are going, going, going\nI think faster to try to figure out\nIf you're going to fool me tomorrow\nI have no time to clear things up\n'Cause I finally found out what you are\nIt hurts to be alive\nWhen you lose your pride\nYou leave home out of the blue\nYou, tell me if\n\nYou only cared for the money, money\nAs if I have had any money, money\nTell me whether you miss me or you don't give a damn\nYou used to ask me how I was doing, doing, doing\nNow how are things going, going, going\n\nWhat you're supposed to say you haven't said yet\nBetrayal is a bullet in your chest\nKeep all the compassion to yourself\nYou keep lyin' at home but you know she knows\nSittin' there she'll be asking me\n\nAsking me how I'm doing, doing, doing\nYou already know how things are going, going, going\nI think faster to try to figure out\nIf you're going to fool me tomorrow\nI have no time to clear things up\n'Cause I finally found out what you are\nIt hurts to be alive\nWhen you lose your pride\nI figured it out in one second\nThat you, from me\n\nYou only wanted money, money\nAs if I have had any money, money\nBefore you would talk to me till late\nYou used to ask me how I'm doing, doing, doing\nNow how are things going, going, going\n\nMy son, my son, my love, come here\nYou used to tell me while playing with me looking proud\nMy son, my son, my love, it seemed real\nThe desire, the desire to bring things back to what they were\n\nI didn't ask for your money\nIt hurts to be alive\nWhen you lose your pride\nYou leave home out of the blue\nYou, tell me if\n\nYou only wanted money, money\nAs if I had any money, money\nYou leave the city without anybody knowing\nYesterday you were here, where are you now, dad?\nYou ask me how I'm doing, doing, doing\nYou already know how thingѕ аre going, going, going"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/M-aoyPa41Ic",
+        "https://www.youtube.com/embed/Va-JXIhsYD0",
+        "https://www.youtube.com/embed/tEwvUu1dBTs",
+        "https://www.youtube.com/embed/LSvIOGMgxAQ",
+        "https://www.youtube.com/embed/yBj5PsgWBl4",
+        "https://www.youtube.com/embed/6kpKVCW3oVg"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Charlie Charles",
+        "Dario Faini",
+        "Mahmood"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Eb minor",
+    "bpm": 95,
+    "broadcaster": "RAI",
+    "spokesperson": "Ema Stokholma",
+    "commentators": [
+        "Ema Stokholma",
+        "Federico Russo",
+        "Flavio Insinna"
+    ]
+}

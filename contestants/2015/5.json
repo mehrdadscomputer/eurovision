@@ -1,0 +1,43 @@
+{
+    "id": 5,
+    "country": "LV",
+    "artist": "Aminata Savadogo",
+    "song": "Love Injected",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Love Injected",
+            "content": "You bring the light to my darkest side, babe\nThe day, the night split together side, ooh\nYou care, you animate\nYou got me bare, bring up the heartbreak\n\nYour love revives my soul\nAnd I know you choose it all over all\n\nYour eyes are the mirror\nLook under the cover\nLove is above all\nI'm safe into your hands\nLet's move away, the urges expand\n\nYour love revives my soul\nAnd I know you choose it all over all\n\nShow me the source of the light\nI'm becoming affected\nSeeing the glow of the way\nIs what I have detected\nSeeing it then in my life\nIt's a shiny reflected\nLove injected, love injected\n\nYour love revives my soul\nAnd I know you chooѕe it all over аll"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/-usdXbeGHi8",
+        "https://www.youtube.com/embed/PgmZaf1Sb_4",
+        "https://www.youtube.com/embed/wrdCvrobtQE",
+        "https://www.youtube.com/embed/CLtK3mxZAjc",
+        "https://www.youtube.com/embed/4FMf4XK-j_E"
+    ],
+    "dancers": null,
+    "backings": [
+        "Anna Zankovska",
+        "Katrīna Anna Vīgante",
+        "Līva Zariņa"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Aminata Savadogo"
+    ],
+    "conductor": null,
+    "stageDirector": "Nicoline Refsing",
+    "tone": "Eb major",
+    "bpm": 108,
+    "broadcaster": "LTV",
+    "spokesperson": "Markus Riva",
+    "commentators": [
+        "Toms Grēviņš",
+        "Valters Frīdenbergs"
+    ]
+}

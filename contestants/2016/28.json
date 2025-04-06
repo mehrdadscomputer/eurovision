@@ -1,0 +1,47 @@
+{
+    "id": 28,
+    "country": "BY",
+    "artist": "Ivan",
+    "song": "Help You Fly",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Help You Fly",
+            "content": "I will help you learn how to fly, how to fly\n\nDo you remember when you were younger\nYou didn't worry for a day\nNow all the questions and no direction\nThey make our reasons insane\n\nIt's time you released yourself\nBefore you can let go\n\nI will help you learn how to fly, how to fly\nFree, leave all the madness behind, far behind\n\nYou feel like you are the poison\nIt's time to heal you from the pain\nI know that you've been the hunted\nI want to free you again\n\nIt's time you released yourself\nBefore you can let go\n\nI will help you learn how to fly, how to fly\nFree, leave all the madness behind, far behind\n\nIf I can fly then you can\nIf I can fly then you can fly\nIf I can fly then you can fly\nIf I can fly (If I can fly)\nIf I can fly\n\nI will help you learn how to fly, how to fly\nFree, leave all the madnesѕ behind, fаr behind\nAll behind"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/pM07r57QqGg",
+        "https://www.youtube.com/embed/-13I_VF5d4k",
+        "https://www.youtube.com/embed/gQ0JAvLF-MM",
+        "https://www.youtube.com/embed/4sMTY2QOKgo"
+    ],
+    "dancers": null,
+    "backings": [
+        "Anna Linnéa Isbäck",
+        "Herman Gardarfve",
+        "Jimmy Claeson",
+        "Ksenia Pavroz",
+        "Melanie My Rosas"
+    ],
+    "composers": [
+        "Viktor Drobysh"
+    ],
+    "lyricists": [
+        "Alexander Ivanov",
+        "Mary Susan Applegate",
+        "Timofei Leontiev"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Viktor Drobysh",
+    "tone": "D minor",
+    "bpm": 93,
+    "broadcaster": "BTRC",
+    "spokesperson": "Uzari",
+    "commentators": [
+        "Evgeny Perlin"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 16,
+    "country": "GR",
+    "artist": "Aphroditi Fryda",
+    "song": "Kloun",
+    "lyrics": [
+        {
+            "languages": [
+                "Greek (Ellinika)"
+            ],
+            "title": "Kloun",
+            "content": "Ena tsirko xana pula sti nihta ti hara\nKe san proti skini o clown pezi ti zoi\nSinergia, kako, oli etho zun se pireto\nFota ke musiki, o hronos yinete stigmi\n\nClown, clown, ime o clown\nClown, clown, ime o clown\nHa ha ha ha…\n\nClown, clown, ime o clown\nClown, clown, ime o clown\nHa ha ha ha…\n\nTraguthao, yelo, kleo ke paramilo\nKano tubes poles, se mimume an thes\nM' oti kano yelun, oli me hirokrotun\nMa pos eho karthia, to xerun ke ta pethia\n\nClown, clown, ime o clown\nClown, clown, ime o clown\nHa ha ha ha…\n\nClown, clown, ime o clown\nClown, clown, ime o clown\nHa ha ha ha…\n\nKi otan tha'rthun stigmes horis pia theates\nPanda ego tha yelo, klegondaѕ tha tragutho\n\nClown, clown, ime o clown\nClown, clown, ime o clown\nHa ha ha ha…\n\nClown, clown, ime o clown\nClown, clown, ime o clown\nHa ha ha hа…"
+        },
+        {
+            "languages": [
+                "Greek (Ελληνικά)"
+            ],
+            "title": "Κλόουν",
+            "content": "Ένα τσίρκο ξανά πουλά στη νύχτα τη χαρά\nΚαι σαν πρώτη σκηνή ο κλόουν παίζει τη ζωή\nΣυνεργεία, κακό, όλοι εδώ ζουν σε πυρετό\nΦώτα και μουσική, o χρόνος γίνεται στιγμή\n\nΚλόουν, κλόουν, είμαι ο κλόουν\nΚλόουν, κλόουν, είμαι ο κλόουν\nΧα χα χα χά…\n\nΚλόουν, κλόουν, είμαι ο κλόουν\nΚλόουν, κλόουν, είμαι ο κλόουν\nΧα χα χα χά…\n\nΤραγουδάω, γελώ, κλαίω και παραμιλώ\nΚάνω τούμπες πολλές, σε μιμούμαι αν θες\nΜ' ότι κάνω γελούν, όλοι με χειροκροτούν\nΜα πως έχω καρδιά, το ξέρουν και τα παιδιά\n\nΚλόουν, κλόουν, είμαι ο κλόουν\nΚλόουν, κλόουν, είμαι ο κλόουν\nΧα χα χα χά…\n\nΚλόουν, κλόουν, είμαι ο κλόουν\nΚλόουν, κλόουν, είμαι ο κλόουν\nΧα χα χα χά…\n\nΚι όταν θά'ρθουν στιγμές χωρίς πια θεατές\nΠάντα εγώ θα γελώ, κλαίγοντας θα τραγουδώ\n\nΚλόουν, κλόουν, είμαι ο κλόουν\nΚλόουν, κλόουν, είμαι ο κλόουν\nΧα χα χα χά…\n\nΚλόουν, κλόουν, είμαι ο κλόουν\nΚλόουν, κλόουν, είμαι ο κλόουν\nΧα χα χα χά…"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Clown",
+            "content": "A circus sells joy again in the night\nAnd as a first act the clown portrays life\nCrews, noise, everyone here lives in a fever of activity\nLights and music, time becomes just a moment\n\nClown, Clown I am the clown\nClown, clown I am the clown\nHa ha ha ha…\n\nClown, Clown I am the clown\nClown, clown I am the clown\nHa ha ha ha…\n\nI sing, laugh, cry and babble\nI do somersaults, I imitate you if you like\nPeople laugh at everything I do, they all applaud me\nBut even the children know, that I have a heart\n\nClown, Clown I am the clown\nClown, clown I am the clown\nHa ha ha ha…\n\nClown, Clown I am the clown\nClown, clown I am the clown\nHa ha ha ha…\n\nAnd when there will come a time that I'll be without an audience\nI'll always laugh, crying I'll ѕing\n\nClown, Clown I am the clown\nClown, clown I am the clown\nHa ha ha ha…\n\nClown, Clown I am the clown\nClown, clown I am the clown\nHa ha ha hа…"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/HfUAlWFF8Rg"
+    ],
+    "dancers": null,
+    "backings": [
+        "Amanda Grand",
+        "Maria Vasiliou",
+        "Romi Roumelioti",
+        "Stelios Konstantas"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Dimitris Sakislis"
+    ],
+    "conductor": "Haris Andreadis",
+    "stageDirector": null,
+    "tone": "C major",
+    "bpm": 141,
+    "broadcaster": "ERT",
+    "spokesperson": "Fotini Giannoulatou",
+    "commentators": [
+        "Dafni Bokota"
+    ]
+}

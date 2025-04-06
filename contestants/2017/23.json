@@ -1,0 +1,55 @@
+{
+    "id": 23,
+    "country": "UA",
+    "artist": "O.Torvald",
+    "song": "Time",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Time",
+            "content": "Slow down, give me some time\nTurn down the volume of your cry\nLet's take time to find a place without violence\nLet's listen and hear the true meaning of silence\n\nTime to look, time to see, time to find\n\nTime to look into your eyes\nTime to find truth, time against the lies\nTime will give us a sign\nIt can make a promise, it's our time to shine\n\nJust listen, take a look around\nStop missing the things you haven't found\nYou will realise there's no common ground\nThere's no compromise between the time and sound\n\nTime to look, time to see\nTime to find\n\nTime to look into your eyes\nTime to find truth, time against the lies\nTime will give us a sign\nIt can make a promise, it's our time to shine\n\nTime to look, time to see\nTime to find\n\nTime to look into your eyes\nTime to find truth, time against the lies\nTime will give us a sign\nIt can make а promise, it's our time to ѕhine"
+        },
+        {
+            "languages": [
+                "Ukrainian"
+            ],
+            "title": "Час",
+            "content": "Заспокойся, дай мені трохи часу\nЗменш гучність свого крику\nДавай виділимо час, аби знайти місце без жорстокості\nДавай слухати та чути справжню суть тиші\n\nЧас дивитися, час бачити, час шукати\n\nЧас подивитися в твої очі\nЧас віднайти істину, виступити проти брехні\nЧас подасть нам знак\nВін може пообіцяти, що це наш час сяяти\n\nПросто вислухай, подивись навколо\nГоді сумувати за тим, чого ти не віднайшов\nТи зрозумієш, що немає нічого спільного\nНемає компромісу між часом та звуком\n\nЧас дивитися, час бачити\nЧас шукати\n\nЧас подивитися в твої очі\nЧас віднайти істину, виступити проти брехні\nЧас подасть нам знак\nВін може пообіцяти, що це наш час сяяти\n\nЧас дивитися, час бачити\nЧас шукати\n\nЧас подивитися в твої очі\nЧас віднайти істину, виступити проти брехні\nЧас подасть нам знак\nВін може пообіцяти, що це наш час сяяти"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/mogNLkIEI0k",
+        "https://www.youtube.com/embed/iRW8mhIPbHU",
+        "https://www.youtube.com/embed/AbTzFSMc5cQ",
+        "https://www.youtube.com/embed/VKCIsDLd_Vo",
+        "https://www.youtube.com/embed/z1plu7WAWuM",
+        "https://www.youtube.com/embed/t4vcONZWePs",
+        "https://www.youtube.com/embed/iZN_pAjOj30",
+        "https://www.youtube.com/embed/wq-YqbDSw1c"
+    ],
+    "dancers": null,
+    "backings": [
+        "Dasha Mineyeva"
+    ],
+    "composers": [
+        "Denys Myzyuk",
+        "Yevhen Halych",
+        "Zhenia Galych"
+    ],
+    "lyricists": [
+        "Yevhen Kamenchuk"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "F# major",
+    "bpm": 102,
+    "broadcaster": "UA:PBC",
+    "spokesperson": "Zlata Ognevich",
+    "commentators": [
+        "Andrii Horodyskyi",
+        "Tetyana Terekhova"
+    ]
+}

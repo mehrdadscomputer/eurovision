@@ -1,0 +1,51 @@
+{
+    "id": 24,
+    "country": "FR",
+    "artist": "Lisa Angell",
+    "song": "N’oubliez pas",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "N’oubliez pas",
+            "content": "Il ne me reste que des larmes\nCes quelques notes venues d’autrefois\nEt le chant de nos prières\nNos cœurs qui espèrent\nEt le vide sous mes pas\n\nIl ne me reste que les cendres\nDe mon village plongé dans le silence\nJe ne suis qu’une blessure\nUn cœur sans armure\nComment survivre après ça?\n\nMais je suis là\nJe n’oublie pas\nDans mon village\nBalayé par l’histoire\nEt je vis là\nN’oubliez pas\nEffacée des cartes et des mémoires\n\nJe me souviens du rire des enfants\nLa voix des hommes quand ils partaient aux champs\nLes fêtes des moissons\nL’odeur dans les maisons\nLes éclats d’amour et de joie\n\nMais je suis là\nN’oubliez pas\nEffacée des cartes et des mémoires\n\nQuand ils sont arrivés\nCachés derrière leurs armes\nIls étaient des milliers\nIls riaient de nos larmes\nIls ont voulu détruire\nMes croyances sous leurs armes\nAvec des mots de haine\nQue l’on connaissait pas\n\nJe suis ici ce soir\nAu milieu de ces ruines\nPour vous parler d’espoir\nEt vous chanter la vie\nEt je fais le serment\nQuand séchera le sang\nDe reconstruire ma ville\nBien plus belle qu’avant\nMais n’oubliez pаѕ"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Don’t forget",
+            "content": "Only tears remain for me\nThese few notes from the past\nAnd the melody of our prayers\nOur hearts, that are hoping\nAnd the emptiness beneath my steps\n\nOnly ashes remain for me\nMy village plunges into silence\nI am only a wound\nA heart without armor\nHow to survive after that?\n\nBut I am there\nI don’t forget\nIn my village\nSwept away by history\nAnd I live there\nDon’t forget\nErased from the maps and memories\n\nI remember the children laughing\nThe voices of the men leaving for the fields\nHarvest celebrations\nThe smell inside houses\nBursts of love and joy\n\nBut I am there\nDon’t forget\nErased from the maps and memories\n\nWhen they arrived\nHidden behind their weapons\nThey were thousands\nThey laughed at our tears\nThey wanted to destroy\nMy beliefs under their fire\nWith the words of hatred\nWhich were unknown to us\n\nI am here tonight\nIn the middle of these ruins\nIn order to talk about hope\nAnd to sing about life\nAnd I make the promiѕe\nThat when the blood will dry\nI will rebuild my village\nEven more beautiful thаn before\nBut don’t forget"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/tJful-Jtc9o",
+        "https://www.youtube.com/embed/kG_WJU2s5ho"
+    ],
+    "dancers": null,
+    "backings": [
+        "Delphine Elbé"
+    ],
+    "composers": [
+        "Michel Illouz",
+        "M. Albert"
+    ],
+    "lyricists": [
+        "Laure Izon",
+        "M. Albert"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A minor",
+    "bpm": 128,
+    "broadcaster": "France 2",
+    "spokesperson": "Virginie Guilhaume",
+    "commentators": [
+        "Jérémy Parayre",
+        "Mareva Galanter",
+        "Marianne James",
+        "Stéphane Bern"
+    ]
+}

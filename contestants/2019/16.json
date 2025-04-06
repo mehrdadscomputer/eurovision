@@ -1,0 +1,52 @@
+{
+    "id": 16,
+    "country": "AL",
+    "artist": "Jonida Maliqi",
+    "song": "Ktheju Tokës",
+    "lyrics": [
+        {
+            "languages": [
+                "Albanian"
+            ],
+            "title": "Ktheju Tokës",
+            "content": "Ti këndon edhe qan\nNë duar lotët mbledh\nI mban\n\nNjë ditë jeton\nNë tjetrën vdes\nSa mall, pak shpresë\nI vetëm, pa identitet\n\nKtheju tokës tënde\nO njeri që zemrën le peng\n\nKtheju tokës tënde\nTi e di një zemër të pret\n\nNjë ditë jeton\nNë tjetrën vdes\nSa mall, pak shpresë\nI vetëm, pа identitet\n\nKtheju tokës tënde\nO njeri që zemrën le peng\n\nKtheju tokëѕ tënde\nTi e di një zemër të pret"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Return to the Land",
+            "content": "You sing and cry\nIn hands, tears are gathered\nYou hold them\n\nOne day you live,\nThe next you die\nSo much nostalgia, so little hope\nAlone, no identity\n\nReturn to your land\nOh man that let the heart hostage\n\nReturn to your land\nYou know there is a heart waiting for you\n\nOne day you live\nThe next you die\nSo much nostalgia, so little hope\nAlone, no identity\n\nReturn to your land\nOh man that let the heart hostage\n\nReturn to your land\nYou know there iѕ a heart wаiting for you"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/-NAbYUoxIfg",
+        "https://www.youtube.com/embed/eo4aFzAkQkA",
+        "https://www.youtube.com/embed/OQFbA7yfzjo",
+        "https://www.youtube.com/embed/-vZDCw9Pedw",
+        "https://www.youtube.com/embed/eGH20RCBUyI",
+        "https://www.youtube.com/embed/P0lToVjUzDM",
+        "https://www.youtube.com/embed/BIIORUGI2xY",
+        "https://www.youtube.com/embed/8v0P1qewXr8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Artemisa Mithi",
+        "Tiri Gjoci",
+        "Wendi Mancaku"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Eriona Rushiti"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Eb minor",
+    "bpm": 117,
+    "broadcaster": "RTSH",
+    "spokesperson": "Andri Xhahu",
+    "commentators": [
+        "Andri Xhahu"
+    ]
+}

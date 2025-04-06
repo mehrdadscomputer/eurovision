@@ -1,0 +1,49 @@
+{
+    "id": 1,
+    "country": "FR",
+    "artist": "Catherine Ferry",
+    "song": "Un, deux, trois",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Un, deux, trois",
+            "content": "Un, deux, trois\nMa politique à moi\nC'est d'être aimée de toi\nEt chanter lalala lala lala…\n\nUn, deux, trois\nLa vie n'est pas pour moi\nUn livre de Kafka\nUn, deux, trois\n\nJouez, jouez, musiciens\nEnchantez-moi, magiciens\nTourne, tourne dans ma tête à moi\nFais briller les yeux des enfants-rois\n\nFais-moi rêver, comédien\nChante, danse, baladin\nDans la ronde folle, entraînez-moi\nDonnez-moi l'amour et la joie\n\nUn, deux, trois (Un, deux, trois)\nQu'il pleuve sur les toits (Sur les toits)\nQu'il neige sur les bois\nIl fait si bon dans tes bras, lala lala…\n\nUn, deux, trois (Un, deux, trois)\nJe n'entends que ta voix (Que ta voix)\nJe ne vis que pour toi\nJe t'aime\n\nJouez, jouez, musiciens\nEnchantez-moi, magiciens\nTourne, tourne dans ma tête à moi\nFais briller les yeux des enfants-rois\n\nFais-moi rêver, comédien\nChante, danse, baladin\nDans la ronde folle, entraînez-moi\nDonnez-moi l'amour et la joie\n\nLala lalala… lala lala…\nLala lalala… lala lala…\n\nFais-moi rêver, comédien\nChante, danse, baladin\nDans la ronde folle, entraînez-moi\nSol mi sol sol fa mi…\nSol mi sol ѕol fa mi…\nDonnez-moi l'amour et lа joie"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "One, two, three",
+            "content": "One, two, three\nMy own policy\nIs to be loved by you\nAnd to sing lalala lala lala…\n\nOne, two, three\nFor me, life is not\nA book by Kafka\nOne, two, three\n\nPlay, play, musicians\nDelight me, magicians\nMake my head spin, spin\nMake the eyes of the king-children shine\n\nMake me dream, comedian\nSing, dance, entertainer\nTake me off into the crazy circle\nGive me love and joy\n\nOne, two, three (One, two, three)\nMay it rain on the roofs (On the roofs)\nMay it snow on the woods\nIt's so nice in your arms, lala lala…\n\nOne, two, three (One, two, three)\nI only hear your voice (Only your voice)\nI only live for you\nI love you\n\nPlay, play, musicians\nDelight me, magicians\nMake my head spin, spin\nMake the eyes of the king-children shine\n\nMake me dream, comedian\nSing, dance, entertainer\nTake me off into the crazy circle\nGive me love and joy\n\nLala lalala… lala lala…\nLala lalala… lala lala…\n\nMake me dream, comedian\nSing, dance, entertainer\nTake me off into the crazy circle\nSol mi sol sol fa mi…\nSol mi sol ѕol fa mi…\nGive me love аnd joy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/lEDEd3xpbqA",
+        "https://www.youtube.com/embed/4np_wo6ugGA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Bernard Balavoine",
+        "Daniel Balavoine",
+        "Guy Balavoine",
+        "Patrice Scheider"
+    ],
+    "composers": [
+        "Tony Rallo"
+    ],
+    "lyricists": [
+        "Jean-Paul Cara"
+    ],
+    "writers": null,
+    "conductor": "Tony Rallo",
+    "stageDirector": null,
+    "tone": "A major",
+    "bpm": 149,
+    "broadcaster": "TF1",
+    "spokesperson": "Michel Drucker",
+    "commentators": [
+        "Jean-Claude Massoulier"
+    ]
+}

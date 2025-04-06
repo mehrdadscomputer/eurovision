@@ -1,0 +1,45 @@
+{
+    "id": 1,
+    "country": "RU",
+    "artist": "Polina Gagarina",
+    "song": "A Million Voices",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "A Million Voices",
+            "content": "We are the world's people\r\nDifferent yet we're the same\r\nWe believe\r\nWe believe in a dream\r\n\r\nPraying for peace and healing\r\nI hope we can start again\r\nWe believe\r\nWe believe in a dream\r\n\r\nSo if you ever feel love is fading\r\nTogether like the stars in the sky\r\nWe can sing\r\nWe can shine\r\n\r\nWhen you hear our voices call\r\nYou won't be lonely anymore\r\nA million voices\r\nYour heart is like a beating drum\r\nBurning brighter than the sun\r\nA million voices\r\n\r\nNow as the world is listening\r\nFrom cities and satellites\r\nWe believe\r\nWe believe\r\nIn a dream\r\n\r\nIf you ever feel love is fading\r\nTogether like the stars in the sky\r\nWe can sing\r\nWe can shine\r\n\r\nWhen you hear our voices call\r\nYou won't be lonely anymore\r\nA million voices\r\nYour heart is like a beating drum\r\nBurning brighter than the sun\r\n\r\nWhen I look around at these faces\r\nI can see the stars in the sky\r\nWe will sing\r\nWe will shine\r\n\r\nSinging out\r\nSinging out\r\nOoh\r\nSinging out\r\nSinging out\r\nOoh\r\nSinging out\r\nA million voices"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube.com/embed/jBVY7Glcd84"
+    ],
+    "dancers": null,
+    "backings": [
+        "Alexander Pozdnyakov",
+        "Alexandra Belyakova",
+        "Gabriel Alares",
+        "Kat Vinter",
+        "Nikita Pozdnyakov"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Gabriel Alares",
+        "Joakim Björnberg",
+        "Katrina Noorbergen",
+        "Leonid Gutkin",
+        "Vladimir Matetsky"
+    ],
+    "conductor": null,
+    "stageDirector": "Alexei Golubev",
+    "tone": "G major",
+    "bpm": 152,
+    "broadcaster": "C1R",
+    "spokesperson": "Dmitry Shepelev",
+    "commentators": [
+        "Yana Churikova",
+        "Yuriy Aksuta"
+    ]
+}

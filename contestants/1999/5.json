@@ -1,0 +1,45 @@
+{
+    "id": 5,
+    "country": "EE",
+    "artist": "Evelin Samuel & Camille",
+    "song": "Diamond Of Night",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Diamond of night",
+            "content": "Silently glowing, moonbeams are sowing silver, silver starry-eyed skies\nBurning in fire, words of desire linger, linger, long in disguise\n\nDiamond of night, burning so bright, guide me my silvery new sign\nFinding my way as I pray, now I can say it is my time\n\nVoices are calling, whilst stardust falling, reveries, reveries lighten his heart\nSilently blazing, stars so amazing, heavenly, heavenly fire from a spark\n\nDiamond of night, burning so bright, guide me my silvery new sign\nFinding my way as I pray, now I can say it is my time\n\nDiamond of night, burning so bright, guide me my silvery new sign\nFinding my way as I pray, now I can say it is my time\n\nDiamond of night, burning bright, now I can sаy it iѕ my time"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/GY4Vh-ROPu8",
+        "https://www.youtube.com/embed/ylqeC4eC6sc",
+        "https://www.youtube.com/embed/pXOg8J9-3DA",
+        "https://www.youtube.com/embed/cvcIe92Aysc",
+        "https://www.youtube.com/embed/tdMn7Wpw5Z4"
+    ],
+    "dancers": null,
+    "backings": [
+        "Anneli Tõevere",
+        "Maian-Anna Kärmas",
+        "Saale Kivimaaker"
+    ],
+    "composers": [
+        "Glen Pilvre",
+        "Priit Pajusaar"
+    ],
+    "lyricists": [
+        "Maian-Anna Kärmas"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "C# major",
+    "bpm": 140,
+    "broadcaster": "ERR",
+    "spokesperson": "Mart Sander",
+    "commentators": [
+        "Marko Reikop"
+    ]
+}

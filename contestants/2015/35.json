@@ -1,0 +1,64 @@
+{
+    "id": 35,
+    "country": "PT",
+    "artist": "Leonor Andrade",
+    "song": "Há um mar que nos Separa",
+    "lyrics": [
+        {
+            "languages": [
+                "Portuguese"
+            ],
+            "title": "Há um mar que nos Separa",
+            "content": "São três da manha e a chuva cai nas ruas da cidade\nBate uma saudade no meu peito\nVejo se me endireito mas falta-me a vontade\nEu não sou eu se tu não estás\n\nSe é o mar que nos separa\nVou secá-lo de saudade\nE apertar-te contra o peito\nBeijo feito de vontade\n\nAinda tenho as tuas mãos no meu rosto\nE o gosto a mel da tua boca\nLouca foi a noite em que te conheci\nTriste a madrugada em que te perdi\n\nSe é o mar que nos separa\nVou secá-lo de saudade\nE apertar-te contra o peito\nBeijo feito de vontade\n\nSe é o mar que nos separa\nVou secá-lo de saudade\nE apertar-te contra o peito\nBeijo feito de vontade\n\nSe é o mar que nos ѕeparа"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "If it’s the sea that separates us",
+            "content": "It's 3 a.m.\nAnd the rain falls down\nOn the city streets\nSomething's missing deep inside of me\n\nI try to straighten up\nNo will to do it at all\nI'm not myself\nIf you're not around\n\nIf it's the sea that separates us\nI will dry it with longing\nAnd press you against my chest\nIn a kiss made of yearning\n\nI still have\nYour hands on my face\nAnd the taste of honey\nOf your mouth\n\nCrazy was the night\nWhen I met you\nSad was the dawn\nWhen I lost you\n\nIf it's the sea that separates us\nI will dry it with longing\nAnd press you against my chest\nIn a kiss made of yearning\n\nIf it's the sea that separates us\nI will dry it with longing\nAnd press you against my chest\nIn a kisѕ made of yeаrning"
+        },
+        {
+            "languages": [
+                "Hebrew"
+            ],
+            "title": "יש ים שמפריד בינינו",
+            "content": "השעה שלוש לפנות בוקר, יורד גשם ברחובות העיר\nובחזה שלי פועם הגעגוע\nאני מנסה להתארגן, אבל אין לי חשק\nאני לא עצמי, אם את אינך\n\nאם זה הים שמפריד בינינו\nאייבש אותו מרוב הגעגוע\nאצמיד אותך אל חזי\nבנשיקה מלאת ערגה\n\nאני עדיין מרגישה את מגע ידייך על פניי\nואת טעם הדבש של פיך\nהלילה שבו הכרתי אותך היה מטורף\nועצוב הוא השחר שבו איבדתי אותך\n\nאם זה הים שמפריד בינינו\nאייבש אותו מרוב הגעגוע\nאצמיד אותך אל חזי\nבנשיקה מלאת ערגה\n\nאם זה הים שמפריד בינינו\nאייבש אותו מרוב הגעגוע\nאצמיד אותך אל חזי\nבנשיקה מלאת ערגה\n\nאם זה הים שמפריד בינינו…"
+        },
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Hay un mar que nos separa",
+            "content": "Son las tres de la madrugada\nY la lluvia cae, en las calles de la ciudad\nGolpea una nostalgia en mi pecho\nVeo si me enderezo pero me falta la voluntad\nY no soy yo si tú no estás\n\nSi es el mar que nos separa\nVoy a secarlo de nostalgia\nY apretarte contra el pecho\nBeso hecho de deseo\n\nAún tengo tus manos en mi rostro\nY el gusto a miel de tu boca\nLoca fue la noche en que te conocí\nTriste la madrugada en que te perdí\n\nSi es el mar que nos separa\nVoy a secarlo de nostalgia\nY apretarte contra el pecho\nBeso hecho de deseo\n\nSi es el mar que nos separa\nVoy a secarlo de nostalgia\nY apretarte contra el pecho\nBeso hecho de deseo\n\nSi es el mar que nos ѕeparа"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/vE-LqXkb0ok",
+        "https://www.youtube.com/embed/ijEsLSIaoUQ",
+        "https://www.youtube.com/embed/dYxcffHv05U",
+        "https://www.youtube.com/embed/o4rDUPPlWmM"
+    ],
+    "dancers": null,
+    "backings": [
+        "Carla Ribeiro",
+        "Pedro Mimoso",
+        "Ricardo Quintas",
+        "Tânia Tavares"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Miguel Gameiro"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A minor",
+    "bpm": 111,
+    "broadcaster": "RTP",
+    "spokesperson": "Suzy",
+    "commentators": [
+        "Hélder Reis",
+        "Ramón Galarza"
+    ]
+}

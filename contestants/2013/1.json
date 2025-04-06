@@ -1,0 +1,46 @@
+{
+    "id": 1,
+    "country": "AZ",
+    "artist": "Farid Mammadov",
+    "song": "Hold Me",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Hold me",
+            "content": "Should have seen it coming when I saw you\nShould have had the sense to stop and walk away\nIt was gonna turn out complicated\nWe've hit overload, about to explode\n\nIf love was a mountain\nI'd climb up to the highest of them all\nI'd swim across the ocean if you'd call\nI'm lost in your smile\nFreefalling for miles\n\nHold me, just unfold me\nUnchain my soul, give me love, make me whole\nHold me, if it's only for this moment in time\nNow I'm yours and you're mine\nSo hold me\n\nTake a little time then you'll know better\nThen to think about giving in on the one you love\nCan we go back and freeze the moment?\nWhere we used to be free, was only you and me\n\nHold me, just unfold me\nUnchain my soul, give me love, make me whole\nHold me, if it's only for this moment in time\nNow I'm yours and you're mine\n\nRemember how we used to laugh\nBut now you're running from the past\nLet's find a way to carry on\nRemember how love used to be\nYou said I was your fantasy\nCan't take another night alone\nSo come on home\n\nHold me, just unfold me\nUnchain my soul, give me love, make me whole\nHold me, if it's only for this moment in time\nNow I'm yourѕ аnd you're mine\nSo hold me"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/S7C3S2zuVp8",
+        "https://www.youtube.com/embed/71JHq2M0_2o",
+        "https://www.youtube.com/embed/vgzXKxiNVeo",
+        "https://www.youtube.com/embed/MaKZiwefeco"
+    ],
+    "dancers": null,
+    "backings": [
+        "Alvaro Estrella",
+        "Fernando Fuentes",
+        "Iyrine Nevmyvanaya",
+        "Jennie Jahns",
+        "Pykh"
+    ],
+    "composers": [
+        "Dimitris Kontopoulos"
+    ],
+    "lyricists": [
+        "John Ballard",
+        "Ralph Charlie Al Fahel"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Fokas Evangelinos",
+    "tone": "Bb minor",
+    "bpm": 90,
+    "broadcaster": "İctimai",
+    "spokesperson": "Tamilla Shirinova",
+    "commentators": [
+        "Konul Arifgizi"
+    ]
+}

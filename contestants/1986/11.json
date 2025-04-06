@@ -1,0 +1,48 @@
+{
+    "id": 11,
+    "country": "NO",
+    "artist": "Ketil Stokkan",
+    "song": "Romeo",
+    "lyrics": [
+        {
+            "languages": [
+                "Norwegian"
+            ],
+            "title": "Romeo",
+            "content": "Æ huske første gang du ba mæ hjem\nÆ va' sjenert, men amorøs\nNu skulle lidenskapen lokkes frem\nDe' va' før seint å bli nervøs\n\nÆ kjøpte blomster og lånte mæ klær\nFørr å vise mitt sanne begjær\nMen da æ ønske 'velkommen ombord'\nFikk æ høre et par velvalgte ord:\n\nRomeo, Romeo, gudene skal vite at du aldri blir en\nRomeo, Romeo, prøv å ta de' me' ro\n\nÆ gjør' førsøk på å førføre dæ\nDu ba om tid tel å førstå\nMin største lykke va' å to på dæ\nMin største dumhet va' å klå\n\nÆ spelte rollen som elsker og narr\nI et håp om at vi sku' bli et par\nMen da du så at æ venta mæ mer\nFikk æ høre om en kjent kavaler\n\nRomeo, Romeo, gudene skal vite at du aldri blir en\nRomeo, Romeo, prøv å ta de' me' ro\n\nRomeo, Romeo, gudene skal vite at du aldri blir en\nRomeo, Romeo, prøv å ta de' me' ro\n\nOg da æ lå på mine knær og ba\nKom du i mot mæ og sa...\nDu sa:\n\nRomeo, Romeo, gudene skal vite at du aldri blir en\nRomeo, Romeo, prøv å ta de' me' ro...\n\n...meo, Romeo, gudene ѕkal vite at du aldri blir en\nRomeo, Romeo, prøv å tа de' me' ro\n\nRomeo"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Romeo",
+            "content": "I still remember when I asked you out\nI was shivering inside\nBut I was torn between belief and doubt\nYou made me swallow all of my pride\n\nI bought you flowers and dressed like a prince\nJust to show you that I was sincere\nBut when I thought, this is where it begins\nYou whispered goodbye in my ear\n\nRomeo, Romeo, heavens knows you never get to be another\nRomeo, Romeo, time to wrangle in Rome\n\nI tried to hard to make you change your mind\nYou needed time to be assured\nMust keep myself from going across the line\nThat's one mistake I can't afford\n\nI've played the part of a fool and a clown\nI couldn't see you were turning me down\nBut every time I got up to ask why\nYou would give me a familiar reply\n\nRomeo, Romeo, heavens knows you never get to be another\nRomeo, Romeo, time to wrangle in Rome\n\nRomeo, Romeo, heavens knows you never get to be another\nRomeo, Romeo, time to wrangle in Rome\n\nGot on my knees and told you from the heart\n\"Take me or tear me apart\"\n\nRomeo, Romeo, heavens knows you never get to be another\nRomeo, Romeo, time to wrangle in Rome\n\nRomeo, Romeo, heavens knowѕ you never get to be another\nRomeo, Romeo, time to wrаngle in Rome\n\nRomeo"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/EHxpc4tjpqQ",
+        "https://www.youtube.com/embed/0ij_GiH9j5E"
+    ],
+    "dancers": null,
+    "backings": [
+        "Frank Ådahl",
+        "Jonny Nymoen",
+        "Kari Gjærum",
+        "Olav Klingen",
+        "Sigvart Dagsland"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Ketil Stokkan"
+    ],
+    "conductor": "Egil Monn-Iversen",
+    "stageDirector": null,
+    "tone": "B major",
+    "bpm": 123,
+    "broadcaster": "NRK",
+    "spokesperson": "Nina Matheson",
+    "commentators": [
+        "Knut Bjørnsen"
+    ]
+}

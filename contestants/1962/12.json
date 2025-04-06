@@ -1,0 +1,44 @@
+{
+    "id": 12,
+    "country": "BE",
+    "artist": "Fud Leclerc",
+    "song": "Ton nom",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Ton nom",
+            "content": "Ton nom qui joue avec mon nom\nPour lui donner le mien et effacer le tien\nTa joie qui chante avec ma joie\nPour qu'elles se fondent ensemble\n\nTon cœur qui joue avec mon cœur\nÀ grands coups de bonheur, de bonheur éperdu\nEt puis ta main qui garde la mienne\nEt me guide dans l'ombre jusqu'au soleil\n\nNous n'avons pas besoin des amours compliquées\nDes amants de cinéma\nNous n'avons pas besoin de nous faire du ciné\nLe bonheur c'est lorsque je vois\n\nTon nom qui joue avec mon nom\nPour lui donner le mien et effacer le tien\nTa joie qui chante avec ma joie\nPour qu'elles se fondent ensemble\n\nTon cœur qui joue avec mon cœur\nÀ grands coups de bonheur, de bonheur éperdu\nEt puis ta main qui garde la mienne\nEt me guide dans l'ombre jusqu'au soleil\n\nJusqu'аu ѕoleil"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Your name",
+            "content": "Your name that is playing with my name\nTrying to get it and to erase yours\nYour joy that is singing with my joy\nSo they would fuse together\n\nYour heart that is playing with my heart\nWith a lot of luck, of passionate luck\nAnd then your hand that is holding mine\nAnd guiding me through the shadow to the sun\n\nWe don't need complicated romances\nLike those of lovers in movies\nWe don't need to put on an act\nLuck is as I see it\n\nYour name that is playing with my name\nTrying to get it and to erase yours\nYour joy that sings with my joy\nSo that they would fuse together\n\nYour heart that is playing with my heart\nWith a lot of luck, of passionate luck\nAnd then your hand that is holding mine\nAnd guiding me through the shаdow to the sun\n\nTo the ѕun"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/nJ5wY_NIEGM"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Eric Channe"
+    ],
+    "lyricists": [
+        "Tony Golan"
+    ],
+    "writers": null,
+    "conductor": "Henri Segers",
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 101,
+    "broadcaster": "RTB",
+    "spokesperson": "Arlette Vincent",
+    "commentators": [
+        "Nicole Védrès",
+        "Willem Duys"
+    ]
+}

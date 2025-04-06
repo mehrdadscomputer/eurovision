@@ -1,0 +1,36 @@
+{
+    "id": 1,
+    "country": "GB",
+    "artist": "Pearl Carr & Teddy Johnson",
+    "song": "Sing Little Birdie",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Sing Little Birdie",
+            "content": "Sing, sing, sing, little birdie\nSing, sing, sing it\n\nThere's a bird on a branch\nThere's a branch on a tree\nThere's a tree in the meadow\nAnd that's where I long to be\n\n'Neath that bird on a branch\n'Neath that branch on a tree\n'Neath that tree in the meadow\nWhere you said you love me\n\nSing, little birdie, sing your song\nSing, you'll help our love along\nSing, little birdie up above\nSing a song of love\n\nThere's a bird on a branch\nThere's a branch on a tree\nWhere we carved our initials there\nFor all the world to see\n\n'Neath that bird on a branch\n'Neath that branch on a tree\nWhere we promised our true love\nFor all eternity\n\nSing, little birdie, sing your song\nSing, you'll help our love along\nSing, little birdie up above\nSing a song of love\n\nWhen the years pass on by\nAnd we're wed, you and I\nAnd the bluebirds are singing\nTheir sweet love songs in the sky\n\nWe will dream of that bird\nOn a branch, on a tree\nAnd that tree in the meadow\nWhere you said you love me\n\nSing, little birdie, sing your song\nSing, you'll help our love along\nSing, little birdie up above\nSing a song of love\n\nSing, little birdie, sing your song\nSing, you'll help our love along\nSing, little birdie up above\nSing а ѕong of love"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/MNt9g_03dmc"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Stan Butcher"
+    ],
+    "lyricists": [
+        "Syd Cordell"
+    ],
+    "writers": null,
+    "conductor": "Eric Robinson",
+    "stageDirector": null,
+    "tone": "A major",
+    "bpm": 115,
+    "broadcaster": "BBC",
+    "spokesperson": "Pete Murray",
+    "commentators": [
+        "Tom Sloan"
+    ]
+}

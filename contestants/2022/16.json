@@ -1,0 +1,46 @@
+{
+    "id": 16,
+    "country": "CH",
+    "artist": "Marius Bear",
+    "song": "Boys Do Cry",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Boys Do Cry",
+            "content": "In my room, lives a boy who could be blue\nAnd you might never know, oh, oh\nYou think he's cavalier, he would shed more than a crocodile tear\nIf you'd go, oh\n\nHearts they get broken\nGod only knows why\nAnd sometimes aeroplanes, fall down from the sky\nAnd mountains they crumble and rivers they run dry\nAnd oh, boys do cry\n\nWhen night falls, and the moon is all we see\nDon't fear the wolf that lives in me, oh, oh\nYou think he's tough enough, he would cry love till the sun comes up\nIf you go, ooh\n\nHearts they get broken\nGod only knows why\nAnd sometimes aeroplanes, fall down from the sky\nAnd mountains they crumble and rivers they run dry\nAnd oh, boys do cry\nAnd how they cry\n\nMountains they crumble аnd rivers they run dry\nAnd oh, boyѕ do cry"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/hq2HCmHv5p4",
+        "https://www.youtube.com/embed/EnsqrM40uaY",
+        "https://www.youtube.com/embed/e6DMf-hVi7s",
+        "https://www.youtube.com/embed/HAdu0H9UU6c",
+        "https://www.youtube.com/embed/8Hr3bZLD070",
+        "https://www.youtube.com/embed/EvYtKKtJQMQ"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Marius Bear",
+        "Martin Gallop"
+    ],
+    "conductor": null,
+    "stageDirector": "Sacha Jean-Baptiste",
+    "tone": "F major",
+    "bpm": 120,
+    "broadcaster": "SSR SRG",
+    "spokesperson": "Julie Berthollet",
+    "commentators": [
+        "Boris Piffaretti",
+        "Clarissa Tami",
+        "Francesca Margiotta",
+        "Gjon's Tears",
+        "Jean-Marc Richard",
+        "Nicolas Tanner",
+        "Sven Epiney"
+    ]
+}

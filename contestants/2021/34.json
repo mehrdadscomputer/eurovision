@@ -1,0 +1,42 @@
+{
+    "id": 34,
+    "country": "MK",
+    "artist": "Vasil",
+    "song": "Here I Stand",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Here I Stand",
+            "content": "There are times when I remember back\nWish to hug\nThe child about to crack\nI'll tell him: Wait, you won't be long\nTrust your heart and just stay strong\n\n'Cause baby, they all tried to break us\nNot knowing it's what makes us\nThis is how we found our way\nNow here I stand\nThere's no pretend\nMy walls are down, my heart's in your hand\nUnchain my wings\nAnd the oceans of tears will fade to black\nWith the song of my years, ooh-ooh-ooh\n\nThey all tried to break us\nNot knowing it's what makes us\nThis is how we found our way\n<i style=\"color:#789\">Here I stand</i>\nMy walls are down, my heart's in your hand\n<i style=\"color:#789\">They all tried to break us\nNot knowing it's what makes us\nThis is how we found our way</i>\n\nThere are times when I remember back\nAnd all I do is smile\nAll for you\n\n<i style=\"color:#789\">They all tried to break us\nNot knowing it's what makes us\nAnd this iѕ how we found our wаy</i>"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/WRcSHPb_Qwc",
+        "https://www.youtube.com/embed/zOHwiWElR1A",
+        "https://www.youtube.com/embed/nd4YfjVWrro",
+        "https://www.youtube.com/embed/LR2aKaL5yb0",
+        "https://www.youtube.com/embed/s19KtKXwTcg"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Borče Kuzmanovski",
+        "Davor Jordanovski",
+        "Vasil Garvanliev"
+    ],
+    "lyricists": [
+        "Vasil Garvanliev"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Mari Ryberger, Tine Matulessy",
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "MKRTV",
+    "spokesperson": "Vane Markoski",
+    "commentators": [
+        "Eli Tanaskovska"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 10,
+    "country": "RU",
+    "artist": "Julia Savicheva",
+    "song": "Believe Me",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Believe me",
+            "content": "Believe me, I just don't care\nIf you look away or stare,\nIf you choose to go or stay\nDon't believe me, I pray\n\nIn my head – every day, everywhere – oh, no\nYou and I can talk, and I sound colder\nIn my heart, though I say I don't care\nI just cry and cry on your big shoulder\n\nBelieve me, I just don't care\nIf you look away or stare\nIf you choose to go or stay\nDon't believe me, I pray\n\nBelieve me, I just don't care\nIf you look away or stare\nIf you choose to go or stay\nDon't believe me, I pray\n\nFar away, like the man in the moon, my dear\nYou just wave to me, you're always lying\nEvery face, every voice, every tune\nBrings you back to me, and I start crying\n\nBelieve me, I just don't care\nIf you look away or stare\nIf you choose to go or stay\nDon't believe me, I pray\n\nBelieve me, I just don't care\nIf you look away or stare\nIf you choose to go or stay\nDon't believe me, I pray\n\nBelieve me, I juѕt don't cаre"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Cs76CYGjfIs",
+        "https://www.youtube.com/embed/6F1fFlXbmp4"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Maxim Fadeev"
+    ],
+    "lyricists": [
+        "Brenda Loring"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Kamel Ouali",
+    "tone": "F major",
+    "bpm": 120,
+    "broadcaster": "C1R",
+    "spokesperson": "Yana Churikova",
+    "commentators": [
+        "Elena Batinova",
+        "Yuriy Aksuta"
+    ]
+}

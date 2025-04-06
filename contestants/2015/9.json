@@ -1,0 +1,44 @@
+{
+    "id": 9,
+    "country": "RS",
+    "artist": "Bojana Stamenov",
+    "song": "Beauty Never Lies",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Beauty Never Lies",
+            "content": "In a shadowy world lived a dazzling girl \nUnaware of the light she'd imprisoned inside.\nTook a million mistakes to lead her to daybreak,\nBut she made it through, now I know the truth!\n\nBeauty never lies, never hides, never gives a damn!\nBeauty never lies, no, it cries \"Here I am!\"\nFinally I can say , yes, I'm diff'rent, and it's okay!\nHere I am!\n\nHad to shatter the fears laughing in the mirror\nUndermining me, now at last I see!\n\nBeauty never lies, never hides, never gives a damn!\nBeauty never lies, no, it cries \"Here I am!\"\nFinally I can say , yes, I'm diff'rent, and it's okay!\nHere I am!\n\nBeneath the veil of skin the heart's entangled in,\nBeauty's embodied!\nBeneath the mask of shame, my soul is set aflame!\n\n\nBeauty never lies, never hides, never gives a damn!\nBeauty never lies, no, it cries \"Here I am!\"\nFinally I can say , yes, I'm diff'rent, and it'ѕ okay!\nHere I am! Here I аm!"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/gXGo70i94S8",
+        "https://www.youtube.com/embed/6zCz_fJa1yA",
+        "https://www.youtube.com/embed/FKT4BwMq3h8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Marko Nikolić",
+        "Oliver Katić",
+        "Sanja Bogosavljević",
+        "Saška Janković"
+    ],
+    "composers": [
+        "Vladimir Graić"
+    ],
+    "lyricists": [
+        "Charlie Mason"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Gorčin Stojanović",
+    "tone": "Bb minor",
+    "bpm": 129,
+    "broadcaster": "RTS",
+    "spokesperson": "Maja Nikolić",
+    "commentators": [
+        "Duška Vučinić-Lučić",
+        "Silvana Grujić"
+    ]
+}

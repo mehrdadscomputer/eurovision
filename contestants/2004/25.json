@@ -1,0 +1,55 @@
+{
+    "id": 25,
+    "country": "IL",
+    "artist": "David D'or",
+    "song": "Le'ha'amin",
+    "lyrics": [
+        {
+            "languages": [
+                "Hebrew & English (Leha'amin)"
+            ],
+            "title": "Leha'amin",
+            "content": "Lalalala… lalala lala…\nLalala lala… lalala la…\n\nLeha'amin\nLeha'amin bechol hatov sheba'olam haze\nLeha'amin\nLeha'amin sheyesh sikui od la'olam haze\n\nLeha'amin ba'ahava\nShelo avda lanu tikva\nLeha'amin\n\nTo have a dream\nTo have a dream that maybe one day\nWe can find the way\nTo have a dream\nTo have a dream that people help each other\nOn a cloudy day\n\nTo have a dream of you and me\nLiving together, feeling free\nTo have a dream of love\n\nTo have a dream\nTo have a dream\n\nLeha'amin\nLeha'amin bechol hatov sheba'olam haze\nI do believe\nI do believe that maybe one day\nWe can find the way\n\nI do believe that love will rise\nAnd shine again before our eyes\nI ѕtill believe in life\n\nLeha'amin\nLeha'amin\nLeha'amin\nLeha'amin\nLeha'аmin"
+        },
+        {
+            "languages": [
+                "Hebrew & English (להאמין)"
+            ],
+            "title": "להאמין",
+            "content": "Lalalala… lalala lala…\nLalala lala… lalala la…\n\nלהאמין\nלהאמין בכל הטוב שבעולם הזה\nלהאמין\nלהאמין שיש סיכוי עוד לעולם הזה\n\nלהאמין באהבה\nשלא אבדה לנו תקווה\nלהאמין\n\nTo have a dream\nTo have a dream that maybe one day\nWe can find the way\nTo have a dream\nTo have a dream that people help each other\nOn a cloudy day\n\nTo have a dream of you and me\nLiving together, feeling free\nTo have a dream of love\n\nTo have a dream\nTo have a dream\n\nלהאמין\nלהאמין בכל הטוב שבעולם הזה\nI do believe\nI do believe that maybe one day\nWe can find the way\n\nI do believe that love will rise\nAnd shine agаin before our eyes\nI ѕtill believe in life\n\nלהאמין\nלהאמין\nלהאמין\nלהאמין\nלהאמין"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "To believe",
+            "content": "Lalalala… lalala lala…\nLalala lala… lalala la…\n\nTo believe\nTo believe in all the good that exists in this world\nTo believe\nTo believe that there's still a chance for this world\n\nTo believe in love\nThat we haven't lost our hope\nTo believe\n\nTo have a dream\nTo have a dream that maybe one day\nWe can find the way\nTo have a dream\nTo have a dream that people help each other\nOn a cloudy day\n\nTo have a dream of you and me\nLiving together, feeling free\nTo have a dream of love\n\nTo have a dream\nTo have a dream\n\nTo believe\nTo believe in all the good that exists in this world\nI do believe\nI do believe that maybe one day\nWe can find the way\n\nI do believe that love will rise\nAnd shine agаin before our eyes\nI ѕtill believe in life\n\nTo believe\nTo believe\nTo believe\nTo believe\nTo believe"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/5NrtXPjwLB4"
+    ],
+    "dancers": null,
+    "backings": [
+        "Karni Postel",
+        "Merav Shalom",
+        "Raz Meirman",
+        "Tali Tevlov-Azulay",
+        "Tomer Bachar"
+    ],
+    "composers": [
+        "David D'or",
+        "Ofer Meiri"
+    ],
+    "lyricists": [
+        "David D'or"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "F# major",
+    "bpm": 90,
+    "broadcaster": "IBA",
+    "spokesperson": "Merav Miller",
+    "commentators": null
+}

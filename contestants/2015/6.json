@@ -1,0 +1,46 @@
+{
+    "id": 6,
+    "country": "EE",
+    "artist": "Elina Born & Stig Rästa",
+    "song": "Goodbye to Yesterday",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Goodbye to Yesterday",
+            "content": "I woke up at six AM,\nmy eyes were closed but my mind was awake,\npretended I was breathing in a deep sleep pace\n\nGot dressed so quietly,\nI was frozen by the jingle of my keys at the door\nas I got outside I smiled to the dog\n\nI didn't wanna wake you up,\nmy love was never gonna be enough,\nso I took my things and got out of the way now, girl\n\nWhy didn't you wake me up?\nI'm pretty sure I would have told you to stop,\nlet's try again and say goodbye\nGoodbye to yesterday\n\nWhy would you think like that\nyeah, we fight a lot, but in the end,\nyou and I, we're a perfect match\n\nI wouldn't want it any other way,\nbut now you're gone and I'm all alone,\nlying here naked and staring at the phone\n\nI didn't wanna wake you up,\nmy love was never gonna be enough,\nso I took my things and got out of the way now, girl\n\nWhy didn't you wake me up?\nI'm pretty sure I would have told you to stop,\nlet's try again and say goodbye,\nGoodbye to yesterday\n\nI didn't wanna wake you up,\nmy love was never gonna be enough,\nso I took my things and got out of the way now, girl\n\nWhy didn't you wake me up?\nI'm pretty sure I would have told you to stop,\nlet's try again and say goodbye,\nGoodbye to yesterday\n\nGoodbye to yesterday\n\nOoh, goodbye to yeѕterdаy"
+        },
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "Прощай, вчерашний день",
+            "content": "Я проснулся в шесть утра\nМои глаза закрыты, но разум не дремал\nПритворно продолжая быть в глубокой фазе сна\n\nОделся достаточно быстро\nЗамерзшими руками взял ключи от двери\nИ выйдя на улицу, улыбнулся собаке\n\nЯ не хотел разбудить тебя\nМоей любви все равно не хватало\nПоэтому я собрал вещи и освободил тебе путь, девочка\n\nПочему ты не разбудил меня?\nЯ почти уверена, мы могли остановиться\nДавай начнем все заново и скажем\n\"Прощай, вчерашний день\"\n\nПочему ты так подумал?\nДа, мы много боролись, но в конце концов\nМы с тобой - идеальная пара\n\nМне не нужен никто другой\nНо, как бы то ни было, ты ушел и я одна\nЛежу в своей постели голая, уткнувшись в телефон\n\nЯ не хотел разбудить тебя\nМоей любви нам все равно не хватит\nПоэтому я собрал вещи и освободил тебе путь, девочка\n\nНо почему ты не разбудил меня?\nЯ почти уверена, мы могли остановиться\nДавай начнем все заново и скажем \"Прощай\"\n\"Прощай, вчерашний день\"\n\nЯ не хотел разбудить тебя\nМоей любви все равно не хватит\nПоэтому я собрал вещи и освободил тебе путь, девочка\n\nПочему ты не разбудил меня?\nЯ почти уверена, мы могли остановиться\nДавай начнем все заново и скажем\n\"Прощай, вчерашний день\"\n\n\"Прощай вчерашний день\"\n\nО-о, прощай вчерашний день…"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Xsx_dIJOtgI",
+        "https://www.youtube.com/embed/gSWbx3CvVUk",
+        "https://www.youtube.com/embed/viwKuw_idZw",
+        "https://www.youtube.com/embed/4jYNaiGsPRE",
+        "https://www.youtube.com/embed/oJRCCn_ro9k",
+        "https://www.youtube.com/embed/qfR0bQZhlqM"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Stig Rästa"
+    ],
+    "conductor": null,
+    "stageDirector": "René Vilbre",
+    "tone": "G minor",
+    "bpm": 138,
+    "broadcaster": "ERR",
+    "spokesperson": "Tanja",
+    "commentators": [
+        "Marko Reikop"
+    ]
+}

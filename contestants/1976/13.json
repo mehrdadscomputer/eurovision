@@ -1,0 +1,45 @@
+{
+    "id": 13,
+    "country": "LU",
+    "artist": "Jürgen Marcus",
+    "song": "Chansons pour ceux qui s'aiment",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Chansons pour ceux qui s'aiment",
+            "content": "Tant de mélodies marquent notre vie\nEt sans elles, le monde aujourd'hui serait plus pauvre\n\nPrésentes ou passées, elles nous font rêver\nEt chacun parmi nous gardera cachées dans son cœur\n\nDes chansons pour ceux qui s'aiment\nChansons anciennes avec des mots de toujours\nChansons qui se souviennent et qui reviennent après l'amour\n\nDes chansons pour ceux qui s'aiment\nChansons nouvelles avec des mots d'amoureux\nChansons toujours fidèles qui nous rappellent les jours heureux\n\nOn peut tout refaire, changer la terre\nVivre sans frontières, on chantera\nOublier l'histoire, croire, ne plus croire\nDans nos mémoires, il restera\n\nDes chansons pour ceux qui s'aiment\nQui se souviennent et que les hommes attendaient\nUn jour, chante la même et qu'elle devienne\nL'hymne de paix désormais, désormаiѕ"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Songs for those who love each other",
+            "content": "So many melodies mark our life\nAnd without them, the world would be poorer today\n\nPresents or pasts, they make us dream\nAnd everyone among us will keep hidden in their heart\n\nSongs for those who love each other\nOld songs with eternal words\nSongs that are remembered and come back after love\n\nSongs for those who love each other\nNew songs with words of lovers\nAlways loyal songs that recall us the happy days\n\nWe can redo everything, change the world\nTo live without frontiers, we'll sing\nTo forget history, to believe, not to believe anymore\nIn our memories, it will stay\n\nSongs for those who love each other\nThat are remembered and that people were waiting for\nOne day, sing the ѕame and may it become\nThe hymn of peаce from now on, from now on"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/J3uZs6JLN8w",
+        "https://www.youtube.com/embed/hRRJUnyEi0c"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Jack White"
+    ],
+    "lyricists": [
+        "Fred Jay",
+        "Vline Buggy"
+    ],
+    "writers": null,
+    "conductor": "Jo Plée",
+    "stageDirector": null,
+    "tone": "Bb major",
+    "bpm": 163,
+    "broadcaster": "CLT",
+    "spokesperson": "Jacques Harvey",
+    "commentators": [
+        "Jacques Navadic"
+    ]
+}

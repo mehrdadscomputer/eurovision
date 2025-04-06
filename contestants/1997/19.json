@@ -1,0 +1,49 @@
+{
+    "id": 19,
+    "country": "IS",
+    "artist": "Paul Oscar",
+    "song": "Minn Hinsti Dans",
+    "lyrics": [
+        {
+            "languages": [
+                "Icelandic"
+            ],
+            "title": "Minn hinsti dans",
+            "content": "London, París, Róm – urðu orðin tóm\nGekk þann gyllta breiða, blindaður af ást\nFalskir kunningjar, snerust um mig einan\nFékk mér kavíar, núna er allt um seinan\n\nÞví ég stíg minn hinsta dans\nOg ég kveð mitt líf með glans\nEn ég iðrast aldrei neins, iðrast aldrei\n\nKristals kampavín, perlur postulín\nDemantar í matinn, ást í eftirrétt\nEf ég elsk' í dag, blöðin birta á morgun\nFæ mér freyðibað, drekki mínum sorgum\n\nOg ég stíg minn hinsta dans\nOg þannig kveð mitt líf með glans\nEn ég iðrast ég aldrei neins, iðrast aldrei\n\nAllt sem ég fæ í dag, farið burt á morgun\n\nSvo ég stíg minn hinsta dans\nOg þannig kveð mitt líf með glans\nEn ég iðrast ég aldrei neins, iðraѕt аldrei"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "My final dance",
+            "content": "London, Paris, Rome, became empty words\nI walked the wide and golden road, blinded by love\nFalse acquaintances, revolved around me alone\nI had some caviar, it's all too late now\n\nFor I take my final dance\nAnd bid my life farewell in style\nYet I never regret a thing, never regret\n\nCrystal champagne, pearls, porcelain\nDiamonds for dinner, love for dessert\nIf I love today, it will be in the papers tomorrow\nI take a bubblebath, drown my sorrows\n\nAnd I take my final dance\nAnd that's how I bid my life farewell in style\nYet I never regret a thing, never reget\n\nAll that I get today, has gone away tomorrow\n\nSo I take my final dance\nAnd that's how I bid my life farewell in ѕtyle\nYet I never regret а thing, never regret"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ttMMQW-_KHA"
+    ],
+    "dancers": [
+        "Guðrún Kaldal",
+        "Helena Jónsdóttir",
+        "Hlíf Þorgeirsdóttir",
+        "Ingibjörg Agnes Jónsdóttir"
+    ],
+    "backings": null,
+    "composers": [
+        "Páll Óskar Hjálmtýsson",
+        "Trausti Haraldsson"
+    ],
+    "lyricists": [
+        "Páll Óskar Hjálmtýsson"
+    ],
+    "writers": null,
+    "conductor": "Szymon Kuran",
+    "stageDirector": null,
+    "tone": "C# major",
+    "bpm": 141,
+    "broadcaster": "RÚV",
+    "spokesperson": "Svanhildur Konráðsdóttir",
+    "commentators": [
+        "Jakob Frímann Magnússon"
+    ]
+}

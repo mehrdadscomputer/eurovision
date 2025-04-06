@@ -1,0 +1,46 @@
+{
+    "id": 14,
+    "country": "HR",
+    "artist": "Put",
+    "song": "Don't Ever Cry",
+    "lyrics": [
+        {
+            "languages": [
+                "Croatian & English"
+            ],
+            "title": "Don't ever cry",
+            "content": "Tisuće snova dalekih, ruža u srcima zaspalih\nLeptira tisuće šarenih, k'o duše nevinih\n\nOsamnaest godina, moga Ivana\nMoli za njega, pjesmo anđela\n\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\n\nOsamnaest godina, moga Ivana\nMoli za njega, pjesmo anđela\n\nMir daj nam ti, mir daj nam ti\nNebo ljubavi, nebo ljubavi\nMir daj nam ti, mir daj nam ti\nNebo ljubavi, nebo ljubavi\n\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\n\nDon't ever cry, my Croatiаn ѕky"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Don't ever cry",
+            "content": "Thousands of distant dreams, roses asleep in our hearts\nThousands of colourful butterflies, innocent like souls\n\nMy Ivan is eighteen years old\nPray for him, angels' song\n\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\n\nMy Ivan is eighteen years old\nPray for him, angels' song\n\nGive us peace, give us peace\nSky of love, sky of love\nGive us peace, give us peace\nSky of love, sky of love\n\nDon't ever cry. don't ever cry\nNever say goodbye, never say goodbye\nDon't ever cry, don't ever cry\nNever say goodbye, never say goodbye\n\nDon't ever cry, my Croatiаn ѕky"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/NqBcDIzfID8",
+        "https://www.youtube.com/embed/RWBLGLop6PE",
+        "https://www.youtube.com/embed/KS054XROrIs",
+        "https://www.youtube.com/embed/uA_SpE5m2Cs"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Andrej Basa"
+    ],
+    "lyricists": [
+        "Đorđe Novković"
+    ],
+    "writers": null,
+    "conductor": "Andrej Basa",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 92,
+    "broadcaster": "HRT",
+    "spokesperson": "Veljko Đuretić",
+    "commentators": [
+        "Aco Kostadinov"
+    ]
+}

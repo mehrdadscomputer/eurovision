@@ -1,0 +1,40 @@
+{
+    "id": 6,
+    "country": "UA",
+    "artist": "Tina Karol",
+    "song": "Show Me Your Love",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Show me your love",
+            "content": "Hi, baby, here I am\nFeel like I'm born again\nYou see it in my eyes, my heart is on fire\nDon't hide your love away, don't wait another day\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nI love the way you shine\nLove when you cross the line\nJust give me one more sign, show me your desire\nDon't hide your love away, don't wait another day\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nLai la dada dala dei… lai dada…\nLai la dada dala dei… lai dada…\nLai la dada dala dei… lai dada…\nLei da… lei da…\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part, that's why I came\n\nDon't hide your love away\nShow feelings every day\n\nShow me your love, show me how much you care\nTalk to my heart, whisper my name\nShow me your love, I need you more than air\nYou'll be my part\nThat's why, that's why, that'ѕ why I cаme"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/mRqhkwTIuU8",
+        "https://www.youtube.com/embed/y84MEQExWIk",
+        "https://www.youtube.com/embed/4m4_FzOl7Es",
+        "https://www.youtube.com/embed/KhFdMSof1B4"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Mikhail Nekrasov",
+        "Tina Karol"
+    ],
+    "lyricists": [
+        "Pavlo Shylko"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "E minor",
+    "bpm": 130,
+    "broadcaster": "NTU",
+    "spokesperson": "Igor Posypaiko",
+    "commentators": [
+        "Pavlo Shylko"
+    ]
+}

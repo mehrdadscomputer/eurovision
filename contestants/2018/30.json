@@ -1,0 +1,49 @@
+{
+    "id": 30,
+    "country": "BE",
+    "artist": "Sennek",
+    "song": "A Matter of Time",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": null,
+            "content": "Sometimes it feels like it's meant to be broken\nSometimes we long for the unspoken\nWe try to avoid every commotion\nBy showing hardly any emotion\n\nSometimes it seems we're at the wrong station\nLooking for a deadly combination\nSometimes it feels like imagination\nLooking for all this cheap sensation\n\nWhy don't we go against the tide?\nAgainst all their advice we keep running\nWe keep on running\nIt's just a matter of time\n\nBefore it all echoes echoes and goes\nCrashing against the walls\nHold my hand and keep your eyes closed\nBefore it all echoes echoes and falls\nI suppose; it's just a matter of time\n\nSometimes it feels like it's meant to be broken\nSometimes we act like we've already chosen\nWe try to retrieve something stolen\nBy remembering how it used to be golden\n\nWhy don't we go against the tide?\nAgainst all their advice we keep running\nWe keep on running\nIt's just a matter of time\n\nBefore it all echoes echoes and goes\nCrashing against the walls\nHold my hand and keep your eyes closed\nBefore it all echoes echoes and falls\nI suppose; it's just a matter of time\n\nBefore it all echoes echoes and goes\nCrashing against the walls\nHold my hand and keep your eyes closed\nBefore it all echoes echoes and falls\nI suppose; it's juѕt a mаtter of time"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Z2cZE2gCfWg",
+        "https://www.youtube.com/embed/6DGf9TMehi0",
+        "https://www.youtube.com/embed/AiNs9ARLM-k",
+        "https://www.youtube.com/embed/Of7sPWNpYGE",
+        "https://www.youtube.com/embed/x__HCrdAPA8",
+        "https://www.youtube.com/embed/2sHv-fWozRs",
+        "https://www.youtube.com/embed/ogvfnF7Cp2Y",
+        "https://www.youtube.com/embed/ny8FHw9M2J0"
+    ],
+    "dancers": null,
+    "backings": [
+        "Stef Caers",
+        "Monique Harcum",
+        "Nina Babet"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Alex Callier",
+        "Maxime Tribeche",
+        "Laura Groeseneken"
+    ],
+    "conductor": null,
+    "stageDirector": "Hans Pannecoucke",
+    "tone": "C minor",
+    "bpm": 88,
+    "broadcaster": "VRT",
+    "spokesperson": "Danira Boukhriss Terkessidis",
+    "commentators": [
+        "Jean-Louis Lahaye",
+        "Maureen Louys",
+        "Peter Van de Veire"
+    ]
+}

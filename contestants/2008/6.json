@@ -1,0 +1,46 @@
+{
+    "id": 6,
+    "country": "TR",
+    "artist": "Mor ve Ötesi",
+    "song": "Deli",
+    "lyrics": [
+        {
+            "languages": [
+                "Turkish"
+            ],
+            "title": "Deli",
+            "content": "Aranıyor, sahibi ruhumun\nTam yerine mi düştüm?\nDireniyor, faili tutkunun\nKızmış ve küçülmüş\n\nAranıyor, sahibi ruhumun\nTam yerine mi düştüm?\nDireniyor, direniyor, direniyor\n\nBeni büyütün, ağlatmayın\nSevginiz nerde, övündüğünüz?\nBeni büyütün, ağlatmayın\nSahte düşlerle oyalamayın\n\nAranıyor, sahibi ruhumun\nTam yerine mi düştüm?\nDireniyor, faili tutkunun\nKızmış ve küçülmüş\n\nAranıyor, sahibi ruhumun\nTam yerine mi düştüm?\nDireniyor, direniyor, direniyor\n\nBeni büyütün, ağlatmayın\nSevginiz nerde, övündüğünüz?\nBeni büyütün, ağlatmayın\nSahte düşlerle\n\nBir yarım akıllı, bir yarım deli\nDört yanım akıllı, bir yanım deli\nHerkeѕ akıllı, bir ben deli\nBir ben deli, bir ben deli\n\nBeni büyütün, ağlatmayın\nSevginiz nerde, övündüğünüz?\nBeni büyütün, ağlatmayın\nSahte düşlerle oyalamаyın"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Insane",
+            "content": "The owner of my soul is looked for\nDid I land in the right place?\nThe perpetrator of my passion is resisting\nHe's angry and diminished\n\nThe owner of my soul is looked for\nDid I land in the right place?\nHe's resisting, resisting, resisting\n\nRaise me, don't make me cry\nWhere's the love you're proud of?\nRaise me, don't make me cry\nDon't waste my time with fake dreams\n\nThe owner of my soul is looked for\nDid I land in the right place?\nThe perpetrator of my passion is resisting\nHe's angry and diminished\n\nThe owner of my soul is looked for\nDid I land in the right place?\nHe's resisting, resisting, resisting\n\nRaise me, don't make me cry\nWhere's the love you're proud of?\nRaise me, don't make me cry\nFake dreams\n\nI'm one half sane, one half insane\nI'm four sides sane, one side insane\nEverybody is sane, only I am insane\nOnly I am insane, only I am insane\n\nRaise me, don't make me cry\nWhere's the love you're proud of?\nRaise me, don't make me cry\nDon't waste my time with fake dreаmѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/A__hliu_9UE",
+        "https://www.youtube.com/embed/GQdwd4rSMmk",
+        "https://www.youtube.com/embed/ARQWYnh76O4"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Burak Güven",
+        "Harun Tekin",
+        "Kerem Kabadayı",
+        "Kerem Özyeğen"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A minor",
+    "bpm": 151,
+    "broadcaster": "TRT",
+    "spokesperson": "Meltem Ersan Yazgan",
+    "commentators": [
+        "Bülend Özveren"
+    ]
+}

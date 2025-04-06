@@ -1,0 +1,49 @@
+{
+    "id": 2,
+    "country": "FR",
+    "artist": "Anne",
+    "song": "Marie David",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Je suis l'enfant-soleil",
+            "content": "(La lala... la lala... la lala...)\n\nIl est arrivé du nord et moi, j'étais une enfant-soleil\nIl a dit des mots plus forts et plus doux que le coton du ciel\nIl a partagé le pain et mon père lui a donné un lit:\n\"Tu commenceras demain, près du chêne gris\"\n\nJe n'ai pas rêvé de lui, je ne dormais pas\nEtendue au pied du chêne gris, je guettais son pas\nEt tout un hiver brûlant, notre amour a fait chanter la terre\nComme un recommencement, comme une prière\n\nIl était un homme-neige, et moi, j'étais une enfant-soleil\nLe printemps sur son manège déroulait pour nous ses arcs-en-ciel\nS'il avait voulu partir, je n'aurais même pas su pleurer\nJ'aurais gardé le sourire qu'il m'avait donné\n\nQuand des hommes sont venus, je n'ai pas compris\nAu-devant de moi il a couru, vers le chêne gris\nMais sans qu'il ait rien pu faire, le piège s'était fermé sur lui\nIls ont remercié mon père, puis ils sont partis\n\nIl est retourné au nord, et moi, j'étais une enfant-soleil\nIl avait ses mains dehors et sur son dos le coton du ciel\nIl a partagé le pain et mon père lui a donné un lit\nCe jour-là me paraît loin, près du chêne gris\n\nHé, reviens, je suis l'enfant-soleil\nHé, reviens, je suis l'enfаnt-soleil\nSoleil, ѕoleil"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "I'm the sun-child",
+            "content": "(La lala... la lala... la lala...)\n\nHe came from the North and I was a sun-child\nHe said words stronger and softer than the cotton of the sky\nHe shared the bread and my father gave him a bed:\n\"You'll begin tomorrow, close to the grey oak\"\n\nI didn't dream of him, I didn't sleep\nStretched out near the grey oak, I was on the lookout for his step\nAnd an entire burning winter, our love made the earth sing\nLike a renewal, like a prayer\n\nHe was a snow-man and I was a sun-child\nSpring on its roundabout unrolled its rainbows for us\nIf he wanted to leave, I even wouldn't have known how to cry\nI would have kept the smile that he had given me\n\nWhen men came, I didn't understand\nHe ran ahead of me, towards the grey oak\nBut he couldn't do anything, the trap was closed on him\nThey thanked my father, then they left\n\nHe returned to the North and I was a sun-child\nHe had his hands outside and on his back the cotton of the sky\nHe shared the bread and my father gave him a bed\nThat day seems far away for me, close to the grey oak\n\nHey, come back, I'm the sun-child\nHey, come bаck, I'm the sun-child\nSun, ѕun"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/7rGavYdklEQ"
+    ],
+    "dancers": null,
+    "backings": [
+        "Dominique Poulain",
+        "Francine Chanterau",
+        "Georges Costa",
+        "Martine Latorre",
+        "Michel Costa"
+    ],
+    "composers": [
+        "Eddy Marnay"
+    ],
+    "lyricists": [
+        "Hubert Giraud"
+    ],
+    "writers": null,
+    "conductor": "Guy Mattéoni",
+    "stageDirector": null,
+    "tone": "F minor",
+    "bpm": 144,
+    "broadcaster": "TF1",
+    "spokesperson": "Fabienne Égal",
+    "commentators": [
+        "Marc Menant"
+    ]
+}

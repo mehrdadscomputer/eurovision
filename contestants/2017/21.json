@@ -1,0 +1,44 @@
+{
+    "id": 21,
+    "country": "PL",
+    "artist": "Kasia Moś",
+    "song": "Flashlight",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Flashlight",
+            "content": "Like a bullet from a smoking gun\nThey try to tell us that we don't belong\nCreeping round at the depth of night\nJust two shadows in love we were ghosts\n\nTwo hearts we're invincible\nWhen we're together we're untouchable\nHaunted by if it's wrong or right\nShadows in love we were ghosts\n\nFire, like a burning desire\nTaking me higher\nWalk in a wire\nWe will never come down\n\nIt's like a flashlight burning in our eyes\nYou call the dogs off, I got them hypnotized\nYou never catch us, take us by suprise\nRunning faster at the speed of light\nFalling deeper got you in the sight\nBringing down your eyes in the sky\n\nLike two animals on the run\nNot afraid to fly into the sun\nInvisible we don't leave a trace\nWe're shadows in love we were ghosts\n\nFire, like a burning desire\nTaking me higher\nWalk in a wire\nWe will never come down\n\nIt's like a flashlight burning in our eyes\nYou call the dogs off, I got them hypnotized\nYou never catch us, take us by suprise\nRunning faster at the speed of light\nFalling deeper got you in а sight\nBringing down your eyes in the ѕky"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/xVCokUW3BUo",
+        "https://www.youtube.com/embed/dh9k78jPWDg",
+        "https://www.youtube.com/embed/c3S3g0MKx08",
+        "https://www.youtube.com/embed/MKZuK2UPqiE",
+        "https://www.youtube.com/embed/b8-35qPY8sg",
+        "https://www.youtube.com/embed/yn1Nb6p2FwY",
+        "https://www.youtube.com/embed/QSbzfpiewmY",
+        "https://www.youtube.com/embed/Kjmq5WTsmVM",
+        "https://www.youtube.com/embed/rSM4kGKbwdk"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Kasia Moś",
+        "Pete Barringer",
+        "Rickard Bonde Truumeel"
+    ],
+    "conductor": null,
+    "stageDirector": "Konrad Smuga",
+    "tone": "G minor",
+    "bpm": 120,
+    "broadcaster": "TVP",
+    "spokesperson": "Anna Popek",
+    "commentators": [
+        "Artur Orzech"
+    ]
+}

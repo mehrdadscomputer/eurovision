@@ -1,0 +1,43 @@
+{
+    "id": 6,
+    "country": "FI",
+    "artist": "Marion Rung",
+    "song": "Tipi",
+    "lyrics": [
+        {
+            "languages": [
+                "Finnish"
+            ],
+            "title": "Tipi-tii",
+            "content": "Tipi-tii, tipi, tipi, tipi-tii\nKevät on vallaton\nTipi-tii, tipi, tipi, tipi-tii\nLintunen kertoi sen\nTipi-tii, tipi, tipi, tipi-tii\nEtsimään riennetään\nTipi-tii, tipi, tipi, tipi-tii\nArmahin kummankin\n\nKuorolaulu kun lauletaan, tässä kumpikin oksallaan\nSaamme kauemmas kuulumaan, kutsun rakkauden\n\nTipi-tii, tipi, tipi, tipi-tii\nPesänkin rakensin\nTipi-tii, tipi, tipi, tipi-tii\nTule vain armahain\n\nKevät siivin iloisin, liihoittelee meillekin\nPyöritellen tullessaan, aurinkoista vannettaan\n\nLa la la… la la la…\nLa la la… la la la la…\nTipi-tii, tipi, tipi, tipi-tii\nTipi-tii, tipi, tipi, tipi-tii\n\nKuorolaulu kun lauletaan, tässä kumpikin oksallaan\nSaamme kauemmas kuulumaan, kutsun rakkauden\n\nTipi-tii, tipi, tipi, tipi-tii\nPesänkin rakenѕin\nTipi-tii, tipi, tipi, tipi-tii\nTule vain armahain\nTule vain armahаin\nTipi-tii"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Chirpy-chirp",
+            "content": "Chirpy-chirp, chirpy, chirpy, chirpy-chirp\nThe spring is wonderful\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nIt was told by a bird\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nLet's hasten to find\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nA sweetheart for both of us\n\nWhen we're singing in chorus, each one here on its branch\nWe can make it be heard further, the call of love\n\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nI also built a nest\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nCome along my dearest\n\nThe spring with happy wings floats for us too\nIt comes twiddling its sunny hoop\n\nLa la la… la la la…\nLa la la… la la la la…\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\n\nWhen we're singing in chorus, each one here on its branch\nWe can make it be heard further, the call of love\n\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nI also built a nest\nChirpy-chirp, chirpy, chirpy, chirpy-chirp\nCome along my dearest\nCome along my deаreѕt\nChirpy-chirp"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/vn3ufKi2PXw",
+        "https://www.youtube.com/embed/d3S3CSxHpWI"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Jaakko Salo",
+        "Kari Tuomisaari"
+    ],
+    "conductor": "George de Godzinsky",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 165,
+    "broadcaster": "YLE",
+    "spokesperson": "Poppe Berg",
+    "commentators": [
+        "Aarno Walli"
+    ]
+}

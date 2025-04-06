@@ -1,0 +1,49 @@
+{
+    "id": 20,
+    "country": "LU",
+    "artist": "Marion Welter and Kontinent",
+    "song": "Sou Fräi",
+    "lyrics": [
+        {
+            "languages": [
+                "Luxembourgish"
+            ],
+            "title": "Sou fräi",
+            "content": "Wéi en Draach am Wand\nPabeierschëff um Himmel\nFaarweg Koplabunz\nUm bloen Trampolin\nWéi en Draach am Wand\nIwwer all Grenze fléien\n\nSou fräi wëll ech gin\nWéi Gedanke sin\n\nKuck dat Kand um Wee\nSou liicht säi Liewe spillen\nWa säi Laache kléngt\nGët an der Däischtert Liicht\nKuck dat Kand um Wee\nAus Dreem en Heem erfannen\n\nSou fräi wëll ech gin\nWéi Gedanke sin\n\nFléi mat mir an d'Sonn\nMir gräife no de Stären\n'T gët eng aner Welt\nWou mir eis all verstin\nFléi mat mir an d'Sonn\nIwwer on eege Grenzen\n\nSou fräi wëll ech gin\nWéi Gedаnke ѕin"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "As free",
+            "content": "Like a kite in the wind\nA paper boat in the sky\nA coloured whirligig\nOn big blue trampoline\nLike a kite in the wind\nFlying over all frontiers\n\nI want to be as free\nAs thoughts can be\n\nSee that child on his way\nPlaying his life so easily\nWhen his laughter bubbles out\nThe dark turns to light\nSee that child on his way\nBuilding his home on dreams\n\nI want to be as free\nAs thoughts can be\n\nFly with me to the sun\nAnd reach out for the stars\nThere is another world\nWhere all is understood\nFly with me to the sun\nBeyond ourselves\n\nI want to be as free\nAs thoughtѕ cаn be"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/QxvKroREYdk",
+        "https://www.youtube.com/embed/QiZHgVGtzXI"
+    ],
+    "dancers": null,
+    "backings": [
+        "Ab van Goor",
+        "Ander Hirtt",
+        "Gordon Smith",
+        "Patrick Hartert",
+        "Rom Heck"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Ab van Goor",
+        "Jang Linster"
+    ],
+    "conductor": "Christian Jakob",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 130,
+    "broadcaster": "CLT",
+    "spokesperson": null,
+    "commentators": [
+        "Maurice Molitor"
+    ]
+}

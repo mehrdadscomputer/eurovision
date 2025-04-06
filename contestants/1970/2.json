@@ -1,0 +1,51 @@
+{
+    "id": 2,
+    "country": "DE",
+    "artist": "Katja Ebstein",
+    "song": "Wunder gibt es immer wieder",
+    "lyrics": [
+        {
+            "languages": [
+                "German"
+            ],
+            "title": "Wunder gibt es immer wieder",
+            "content": "Vielen Menschen fragen: was ist Schuld daran?\nWarum kommt das Glück nicht zu mir?\nFangen mit dem Leben viel zu wenig an\nDabei steht das Glück schon vor der Tür\n\nWunder gibt es immer wieder\nHeute oder morgen können sie geschehn\nWunder gibt es immer wieder\nWenn sie dir begegnen, musst du sie auch sehn\n\nViele Menschen suchen jeden Tag auf neu\nJemand, der sein Herz ihnen gibt\nUnd wenn sie schon glauben, er kommt nie vorbei\nFinden sie den einen, der sie liebt\n\nWunder gibt es immer wieder\nHeute oder morgen können sie geschehn\nWunder gibt es immer wieder\nWenn sie dir begegnen, musst du sie auch sehn\n\nWunder gibt es immer wieder\nHeute oder morgen können sie geschehn\nWunder gibt es immer wieder\nWenn sie dir begegnen, musst du sie аuch ѕehn"
+        },
+        {
+            "languages": [
+                "English translation"
+            ],
+            "title": "Miracles keep happening, again and again",
+            "content": "A lot of people ask: what's the reason?\nWhy does happiness never come to me?\nMaking far too little of life\nWhen all the time happiness is near\n\nMiracles keep happening, again and again\nToday or tomorrow they can occur\nMiracles keep happening, again and again\nWhen one happens to you, you also have to see it\n\nMany people seek each and every day\nSomeone who gives his heart to you\nAnd just when they're thinking he will never come\nThey find someone who loves them\n\nMiracles keep happening, again and again\nToday or tomorrow they can occur\nMiracles keep happening, again and again\nWhen one happens to you, you also have to see it\n\nMiracles keep happening, again and again\nToday or tomorrow they can occur\nMiracles keep happening, again and again\nWhen one happens to you, you also hаve to ѕee it"
+        },
+        {
+            "languages": [
+                "Japanese version"
+            ],
+            "title": "愛のおとずれ (Ai No Otozure)",
+            "content": "悲しい恋に泣きたいけれど\n忘れることでみんな\n朝日の中を一人で行くの\nもう、泣いたりしないわ\n\n寂しくてもいいの\n一人きりで歩くのよ\n胸の中でそっと祈るの\n愛のおとずれ\n\n冷たい夜も消えていくのよ\n朝の光に遠く\n貴方のことが許せる今は\nもう、泣いたりしないわ\n\n寂しくてもいいの\n一人きりで歩くのよ\n胸の中でそっと祈るの\n愛のおとずれ\n\n寂しくてもいいの\n一人きりで歩くのよ\n胸の中でそっと祈るの\n愛のおとずれ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/sPI1wyizGL0",
+        "https://www.youtube.com/embed/KDOSUSWL6zc"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Christian Bruhn"
+    ],
+    "lyricists": [
+        "Günter Loose"
+    ],
+    "writers": null,
+    "conductor": "Christian Bruhn",
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 164,
+    "broadcaster": "ARD",
+    "spokesperson": "Hans-Otto Grünefeldt",
+    "commentators": [
+        "Marie-Louise Steinbauer"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 11,
+    "country": "DK",
+    "artist": "Debbie Cameron & Tommy Seebach",
+    "song": "Krøller eller ej",
+    "lyrics": [
+        {
+            "languages": [
+                "Danish"
+            ],
+            "title": "Krøller eller ej",
+            "content": "Jeg har en søn på to\nMed store, lyse krøller\nJeg har en dreng på tre\nMed store, brune øjne\nJamen, jeg har bare én mer' end du har\nOkay, måske, men ingen er bedre end min\nFor han er bare helt speciel\nHvis jeg må si' det selv\n\nKrøller eller ej, vi elsker vores børn\nBrune øjne eller ej, I elsker jeres børn\nFor én ting er givet\nVi håber alle på at de må få de ting, de ønsker sig\nOm de' fire eller tres, har krøller eller ej\n\nFor én ting er givet\nVi håber alle på at de må få de ting, de ønsker sig\nOm de' fire eller tres, har krøller eller ej\n\nLænge leve alle børn\nLyse krøller eller ej, vi elsker vores børn\nBrune øjne eller ej, I elsker jeres børn\nFor én ting er givet\nVi håber alle på at de må få de ting, de ønsker sig\nOm de' fire eller treѕ, har krøller eller ej\n\n(Længe leve børn)\n(Om de hаr krøller eller ej)"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Curly hair or not",
+            "content": "I have a two year old son\nWith big, blond curls\nI have a three year old boy\nWith big, brown eyes\nBut I've got one more than you\nOK, perhaps, but none is better than mine\nFor he's very special\nIf I do say so myself\n\nCurly hair or not, we love our children\nBrown eyes or not, you love your children\nFor one thing is certain\nWe all hope that they'll get the things they want\nWhether they're four or sixty, have curly hair or not\n\nFor one thing is certain\nWe all hope that they'll get the things they want\nWhether they're four or sixty, have curly hair or not\n\nLong live all children\nBlond curls or not, we love our children\nBrown eyes or not, you love your children\nFor one thing is certain\nWe all hope that they'll get the things they want\nWhether they're four or ѕixty, have curly hair or not\n\n(Long live children)\n(Whether they have curly hаir or not)"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Vgc6NF3ynFM",
+        "https://www.youtube.com/embed/fylocFovYWE"
+    ],
+    "dancers": [
+        "Louise Frevert",
+        "Unknown"
+    ],
+    "backings": [
+        "Ianne Elo",
+        "Michael Elo"
+    ],
+    "composers": [
+        "Tommy Seebach"
+    ],
+    "lyricists": [
+        "Keld Heick"
+    ],
+    "writers": null,
+    "conductor": "Allan Botschinsky",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "DR",
+    "spokesperson": "Bent Henius",
+    "commentators": [
+        "Jørgen de Mylius"
+    ]
+}

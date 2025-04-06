@@ -1,0 +1,39 @@
+{
+    "id": 26,
+    "country": "BG",
+    "artist": "Deep Zone & Balthazar",
+    "song": "DJ, Take Me Away",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "DJ, take me away",
+            "content": "When the night falls down, I want you\nDJ, please, take me away\nAnd when the lights go down, I need you\nDJ, please, take me away\n\nWhen the night falls down, I want you\nDJ, please, take me away\nAnd when the lights go down, I need you\nDJ, please, take me away\n\nI'll take you away\nTake me away\nI'll take you away\nTake me away\n\nWhen the night falls down, I want you\nDJ, please, take me away\nAnd when the lights go down, I need you\nDJ, please, take me away\n\nWhen the night falls down, I want you\nDJ, please, take me away\nAnd when the lights go down, I need you\nDJ, pleaѕe, take me away\n\nI'll take you away\nTake me away\nI'll take you away\nTake me away\nTake me awаy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/yXSRbgM8cvs",
+        "https://www.youtube.com/embed/jl-rJoNofgo",
+        "https://www.youtube.com/embed/yVSu6_dQT8o",
+        "https://www.youtube.com/embed/XOJnk-1NVAg",
+        "https://www.youtube.com/embed/HWq-Qv3gu2M"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Dian Savov"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Bb major",
+    "bpm": 130,
+    "broadcaster": "BNT",
+    "spokesperson": "Valentina Voykova",
+    "commentators": [
+        "Elena Rosberg",
+        "Georgi Kushvaliev"
+    ]
+}

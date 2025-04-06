@@ -1,0 +1,40 @@
+{
+    "id": 12,
+    "country": "GB",
+    "artist": "Rikki",
+    "song": "Only the Light",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Only the Light",
+            "content": "It's only the light\nThat fades through the night\nA shadow has fallen\nAnd the darkness, it's callin'\nHo…\n\nShadows walkin' behind me\nStrange lights, won't let them blind me\nVoices runnin' on through my mind\nSurvival, got to get on with life\n\nIt's only the light\nThat fades through the night\nA shadow has fallen\nAnd the darkness, it's callin'\nIt's only the light\nAfter me\n\nIt's only the light\nI can see the light\nIt's only the light\nCan't you see the light?\nIt's only the light\nOnly light\n\nMirrors, I see your reflection\nMoving in every direction\nI can't see, it seems so confusing\nSo touch me, remove this illusion\n\nIt's only the light\nThat glows in the night\nThe spirit that moves me\nThe spirit that moves free\nIt's only the light\nAfter me\n\nIt's only the light\nI can see the light\nIt's only the light\nCan't you see the light?\nIt's only the light\nOnly light\n\nIt's only the light\nI can see the light\nIt's only the light\nCаn't you see the light?\nIt's only the light\nOnly light\n\nIt'ѕ only the light"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/QJ778bwvxfk"
+    ],
+    "dancers": null,
+    "backings": [
+        "David Watson",
+        "James Welsh",
+        "Katie Budd",
+        "Neil Danns",
+        "Robin Rankin"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Richard Peebles"
+    ],
+    "conductor": "Ronnie Hazlehurst",
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 144,
+    "broadcaster": "BBC",
+    "spokesperson": "Colin Berry",
+    "commentators": [
+        "Terry Wogan"
+    ]
+}

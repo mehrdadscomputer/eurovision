@@ -1,0 +1,51 @@
+{
+    "id": 18,
+    "country": "MK",
+    "artist": "Vlado Janevski",
+    "song": "Ne Zori, Zoro",
+    "lyrics": [
+        {
+            "languages": [
+                "Macedonian (Makedonski)"
+            ],
+            "title": "Ne Zori, Zoro",
+            "content": "Stoj, ne zori, zoro, dušmanke\nV pušti nokjta da gi sokrie\nOčive što ragjaat biseri\nSrcevo što druga ne ljubi\nVinoto me vodi do nea\nA se podaleku od pametta\n\nJas moram da pijam\nDa se opijam\nBez nea da živeam\nMajko, ne možam\n\nOdi majko prašaj, kaj nejzinite\nLaukedi ja dadat za mene\nAko ja dadat, vikni svirači\nAko ne, mesto kletva\nPo mene zaplači\n\nJas moram da pijam\nDa se opijam\nBez nea sam da živeam\nMajko, ne možam\n\nJas moram da pijam\nDa se opijam\nBez nea ѕam da živeam\nMajko, ne možam\n\nNe zori, zoro\nPijano oro\nSo mene zaigrаj"
+        },
+        {
+            "languages": [
+                "Macedonian (Македонски)"
+            ],
+            "title": "Не зори, зоро",
+            "content": "Стој, не зори, зоро, душманке\nВ пушти ноќта да ги сокрие\nОчиве што раѓаат бисери\nСрцево што друга не љуби\nВиното ме води до неа\nА се подалеку од паметта\n\nЈас морам да пијам\nДа се опијам\nБез неа да живеам\nМајко, не можам\n\nОди мајко прашај, кај нејзините\nЛаукеди ја дадат за мене\nАко ја дадат, викни свирачи\nАко не, место клетва\nПо мене заплачи\n\nЈас морам да пијам\nДа се опијам\nБез неа сам да живеам\nМајко, не можам\n\nЈас морам да пијам\nДа се опијам\nБез неа сам да живеам\nМајко, не можам\n\nНе зори, зоро\nПијано оро\nСо мене заиграј"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Dawn, don't rise",
+            "content": "Stop, dawn, don't rise, you fiend\nLet the night hide\nThese eyes which bear pearls\nThis heart which can't love another\nThe wine leads me to her\nAnd further away from my senses\n\nI have to drink\nTo get drunk\nTo live without her\nMother, I can't do it\n\nMother, go and ask her elders\nWhether they will give her to me\nIf they do, call the musicians\nIf they don't, instead of curses\nCry for me\n\nI have to drink\nTo get drunk\nTo live alone, without her\nMother, I can't do it\n\nI have to drink\nTo get drunk\nTo live alone, without her\nMother, I can't do it\n\nDawn, don't riѕe\nA drunken dance\nDаnce with me"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/bLLfUOIeswQ",
+        "https://www.youtube.com/embed/_kVE2qrzM8U"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Grigor Koprov"
+    ],
+    "lyricists": [
+        "Vlado Janevski"
+    ],
+    "writers": null,
+    "conductor": "Alexandar Dzambazov",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "MKRTV",
+    "spokesperson": "Evgenija Teodosievska",
+    "commentators": [
+        "Milanka Rašik"
+    ]
+}

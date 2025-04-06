@@ -1,0 +1,49 @@
+{
+    "id": 12,
+    "country": "IS",
+    "artist": "Inga",
+    "song": "þá Veistu Svarið",
+    "lyrics": [
+        {
+            "languages": [
+                "Icelandic"
+            ],
+            "title": "Þá veistu svarið",
+            "content": "Opnaðu augun, sjáðu hvar þú ert\nÉg er og bíð þín þar\nHugurinn ber þig aðra leið en hvert?\nEnn heldur' af stað brenna spurningar\n\nÉg bíð\nÞú leitar svarar út um allt\nHvar endar þessi ferð?\nTil hvers er farið?\nÞá líða ár\nOg láta uppi lítið ráð\nEf leitarðu til mín\nÞá veistu svarið\n\nÞví ert að hlaupa, leita langt og skammt?\nÉg leynist þér ei, ég er allsstaðar\n\nÉg bíð\nÞú leitar svarar út um allt?\nHvar endar þessi ferð?\nTil hvers er farið\nÞá líða ár\nOg láta uppi lítið ráð\nEf leitarðu til mín\nÞá veistu svarið\n\nÉg bíð\nÞú leitar svarar út um allt\nEf leitarðu til mín\nÞá veistu ѕvаrið"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Then you'll know the answer",
+            "content": "Open your eyes, see where you are\nI am and wait for you there\nThe mind carries you through another path, but where?\nStill carrying on, questions start to burn\n\nI wait\nYou look for answers all around\nWhere does this journey end?\nFor what are you leaving?\nThen years pass by\nAnd leave a little advise\nIf you come to me\nThen you'll know the answer\n\nWhy are you running, searching far and near?\nI'm not hiding from you, I am everywhere\n\nI wait\nYou look for answers all around\nWhere does this journey end?\nFor what are you leaving?\nThen years pass by\nAnd leave a little advise\nIf you come to me\nThen you'll know the answer\n\nI wait\nYou look for answers all around\nIf you come to me\nThen you'll know the аnѕwer"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/eRXaQgwLEs4"
+    ],
+    "dancers": null,
+    "backings": [
+        "Einar Bragi Bragason",
+        "Erna Þórarinsdóttir",
+        "Eva Ásrún Albertsdóttir",
+        "Eyjólfur Kristjánsson",
+        "Guðrún Gunnarsdóttir"
+    ],
+    "composers": [
+        "Jon Kjell Seljeseth"
+    ],
+    "lyricists": [
+        "Friðrik Sturluson"
+    ],
+    "writers": null,
+    "conductor": "Jon Kjell Seljeseth",
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 103,
+    "broadcaster": "RÚV",
+    "spokesperson": "Guðrún Skúladóttir",
+    "commentators": [
+        "Jakob Frímann Magnússon"
+    ]
+}

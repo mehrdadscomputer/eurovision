@@ -1,0 +1,55 @@
+{
+    "id": 27,
+    "country": "HU",
+    "artist": "Joci Pápai",
+    "song": "Az én apám",
+    "lyrics": [
+        {
+            "languages": [
+                "Hungarian"
+            ],
+            "title": "Az én apám",
+            "content": "Az én apám\nÚgy nevelt mint a szél\nHalkan fújt énekelt\nÚgy mesélt\nOtt lakott hol minden út véget ért\nEzeregy év is kevés egy életért egy életért\n\nHallom őt az ő szívét a húrokon\nLatom őt múló idővel arcomon\nAz ő hitét büszkeség vallanom\nEzer egy dalból azt az egyet dúdolom\n\nRégi napok gyönyörű napok\nSzeretem az emlékét\nŐ hív\nÉs hozzá szaladok\nJátszani így volt szép\nRégi dalok megidézik\nMég érzem a nap fényét\nA szél zúgasát is hallom még\nA szél hangjában is hallom még\n\nEgy dallal űzte messze el a bánatom\nMit adhatok csak azt, hogy hozzá tartozom\nS az én fiamnak büszkeséggel mondhatom\nŐ az én apám és itt az én otthonom\n\nRégi napok gyönyörű napok\nSzeretem az emlékét\nŐ hív\nÉs hozzá szaladok\nJátszani így volt szép\nRégi dalok megidézik\nMég érzem a napfényét\nA szél fütyült altatót\nLegyen álmom szép\nA szél fütyült altatót\nMa iѕ hаllom még"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "My father",
+            "content": "My father raised me like the wind\nBlowing softly, singing, telling fairy tales\nHe lived where every road ended\nOne thousand and one years aren't enough for a life, for a life\n\nI can hear him, his heart on the strings\nI can see him, bearing the passing time on my face\nI'm proud to confess his faith\nOf a thousand and one songs this is the one that I hum\n\nOld days, beautiful days\nI love his memory\nHe calls me and I run to him\nThat was a lovely way to play\n\nOld songs summon him\nI still feel the sun's light\nI can still hear the drone of the wind\nI can still hear him in the voice of the wind\n\nWith a song he drove my sadness far away\nAll I can give him is that I belong to him\nAnd I can say to my son with pride\nHe's my father, and here's my home\n\nOld days, beautiful days\nI love his memory\nHe calls me and I run to him\nThat was a lovely way to play\n\nOld songs summon him\nI still feel the sun's light\nThe wind whistled a lullaby so my dream would be beautiful\nThe wind whistled a lullaby, I can ѕtill hear it todаy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/IpVr0pBLfI4",
+        "https://www.youtube.com/embed/WVW_vZHYnkk",
+        "https://www.youtube.com/embed/QjVyhLbiIPw",
+        "https://www.youtube.com/embed/aonagB1PBKA",
+        "https://www.youtube.com/embed/tYKWmkOrO34",
+        "https://www.youtube.com/embed/OZkENZ4PXZw",
+        "https://www.youtube.com/embed/aHTSYXTzCZ8",
+        "https://www.youtube.com/embed/hoJlAgIm7kw"
+    ],
+    "dancers": null,
+    "backings": [
+        "Ferenc Feng Ya Ou",
+        "Petra Katona"
+    ],
+    "composers": [
+        "Ferenc Molnár",
+        "Joci Pápai"
+    ],
+    "lyricists": [
+        "Ferenc Molnár"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Szabolcs Gyöngyösi",
+    "tone": "Eb minor",
+    "bpm": 96,
+    "broadcaster": "MTV",
+    "spokesperson": "Bence Forró",
+    "commentators": [
+        "Bogi",
+        "Freddie"
+    ]
+}

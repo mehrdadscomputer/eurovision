@@ -1,0 +1,49 @@
+{
+    "id": 7,
+    "country": "NO",
+    "artist": "Mørland & Debrah Scarlett",
+    "song": "A Monster Like Me",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "A Monster Like Me",
+            "content": "Honey, I'm telling the truth\nI did something terrible in my early youth\nMy mind went blank, I lost control\nI was just a little boy, I did not know\n\nI better let you go\nTo find the prince you thought you found in me\nI better set you free and give you up\nJust wave and say goodbye and let you live\nWithout a monster like me\n\nHoney, what am I to do?\nI have pulled the trigger on this awful truth\nOh, hold me now 'cause I'm burning up\nSing this song so beautiful, just make it stop\n\nI better let you go\nTo find the prince you thought you found in me\nI better set you free and give you up\nJust wave and say goodbye and let you live\nWithout a monster like me\n\nOh… oh…\nOh… oh…\n\nJust go\nTo find the prince you thought you found in me\nI better set you free and give you up\nJust wave and say goodbye and let you live\nWithout a monster like me, oh\n\nWithout а monѕter like me"
+        },
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "Монстр, как я",
+            "content": "Милая, я говорю правду\nЯ совершил что-то ужасное, будучи юнцом\nМой разум помутнен, а контроль потерян\nЯ был мальчишкой, я ничего не понимал\n\nМне лучше отпустить тебя\nТы найдешь своего принца, которого ты когда-то видела во мне\nЯ освобожу тебя, но откажусь\nПомашу рукой, крикну \"Прощай\", чтобы ты продолжила жить\nБез такого монстра, как я\n\nМилый, что я должна сделать?\nТы нажал на курок ружья правды\nОбними меня, ведь я выгораю\nСпою эту чудесную песню, попробуй остановить все это\n\nМне лучше отпустить тебя\nТы найдешь своего принца, которого ты когда-то видела во мне\nЯ освобожу тебя, но откажусь\nПомашу рукой, крикну \"Прощай\", чтобы ты продолжила жить\nБез такого монстра, как я\n\nО-о… о-о…\nО-о… о-о…\n\nПросто уходи\nНайди своего принца, которого видела во мне\nОсвободись и откажись\nПомаши рукой, крикни \"Прощай\", чтобы продолжить жить\nБез такого монстра, как я, о-о\n\nБез такого монстра, как я"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/oVKJK9yb5xY",
+        "https://www.youtube.com/embed/T0VSKeptWHc",
+        "https://www.youtube.com/embed/LYMzvVyo0I4",
+        "https://www.youtube.com/embed/8VbwwgxlVQo"
+    ],
+    "dancers": null,
+    "backings": [
+        "Bjørnar Reime Erlandsen",
+        "Håvard Gryting",
+        "Julie Lillehaug Kaasa",
+        "May Kristin Kaspersen"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Kjetil Mørland"
+    ],
+    "conductor": null,
+    "stageDirector": "Mattias Carlsson",
+    "tone": "E major",
+    "bpm": 147,
+    "broadcaster": "NRK",
+    "spokesperson": "Margrethe Røed",
+    "commentators": [
+        "Olav Viksmo-Slettan"
+    ]
+}

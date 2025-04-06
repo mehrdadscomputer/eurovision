@@ -1,0 +1,47 @@
+{
+    "id": 4,
+    "country": "NO",
+    "artist": "Silje Vige",
+    "song": "Alle Mine Tankar",
+    "lyrics": [
+        {
+            "languages": [
+                "Norwegian"
+            ],
+            "title": "Alle mine tankar",
+            "content": "Når eg treffe deg på gadå\nOg du stanse og smile dette underlige smil\nOg du står der og late som ingenting\nTør ikkje møda mitt blikk\nIngen må se det, bare du og eg vett det\n\nNår eg treffe deg om kvelden\nOg du ser på meg med dette underlege lys\nOg du stryge meg forsiktig\nØve hånnå når du går forbi\nIngen må se det, bare du og eg vett det\n\nAlle mine tankar, de flyr te deg\nAlle mine drømmar é åbne\nI alle mine rom ser eg bare deg\nDu ligge i mi seng og sove og sove\n\nNår du é blant dine venner\nOg din trillande latter smelte min hud\nOg du late som du aldri har sett meg\nDu é som en fjern og kjølig gud\nIngen må se det, bare du og eg vett det\n\nAlle mine tankar, de flyr te deg\nAlle mine drømmar é åbne\nI alle mine rom ser eg bare deg\nDu ligge i mi seng og sove og sove\n\nAlle mine tankar, de flyr te deg\nAlle mine drømmar é åbne\nI alle mine rom ser eg bаre deg\nDu ligge i mi seng og sove og ѕove"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "All my thoughts",
+            "content": "When I meet you in the street\nAnd you stop and smile this strange smile\nAnd you stand there, pretending nothing has happened\nAfraid to meet my glance\nNo one can see it only you and I know it\n\nWhen I meet you in the evening\nAnd you look at me with this strange light\nAnd you gently touch me\nOn the hand as you walk past me\nNo one must see it, only you and I know it\n\nAll my thoughts, they fly to you\nAll my dreams are open\nIn all my rooms, I can only see you\nYou are lying in my bed sleeping\n\nWhen you're among your friends\nAnd your beautiful laughter melts my skin\nAnd you pretend you've never seen me before\nYou are like a distant and cool god\nNo one must see it, only you and I know it\n\nAll my thoughts, they fly to you\nAll my dreams are open\nIn all my rooms, I can only see you\nYou are lying in my bed sleeping\n\nAll my thoughts, they fly to you\nAll my dreams are open\nIn all my rooms, I can only see you\nYou аre lying in my bed sleeping, ѕleeping"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/h74oY9bfvOw",
+        "https://www.youtube.com/embed/KMfw_tEqXhs",
+        "https://www.youtube.com/embed/mtnp1-l7RWw"
+    ],
+    "dancers": null,
+    "backings": [
+        "Hilde Kjeldsen",
+        "Lakis Karnezis",
+        "Tom Lund"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Bjørn-Erik Vige"
+    ],
+    "conductor": "Rolf Løvland",
+    "stageDirector": null,
+    "tone": "F minor",
+    "bpm": 112,
+    "broadcaster": "NRK",
+    "spokesperson": "Sverre Christophersen",
+    "commentators": [
+        "Leif Erik Forberg"
+    ]
+}

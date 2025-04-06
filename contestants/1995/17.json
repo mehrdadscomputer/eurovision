@@ -1,0 +1,53 @@
+{
+    "id": 17,
+    "country": "PL",
+    "artist": "Justyna",
+    "song": "Sama",
+    "lyrics": [
+        {
+            "languages": [
+                "Polish"
+            ],
+            "title": "Sama",
+            "content": "Teraz o tym wiem\nKiedy świat na mnie czasem rozgniewa się\nDaje smutek bym\nTam gdzie wieżowca oko\nCzekała aż do zmroku\nW tym najdalszym z miejsc\nBy pchłą stać się małą\n\nTeraz o tym wiem\nKiedy świat na mnie czasem rozgniewa się\nDaje smutek bym\nTam gdzie wieżowca oko\nCzekała aż do zmroku\nSama tak\nI czuła się tak marnie\nPoczuła ѕię tak marnie\nJakby Bóg, dobry Bóg\nNie lubił pcheł\n\nOne - nah - wanna - ee - yeаh…"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Alone",
+            "content": "Now I know\nThat when the world is angry with me\nIt's sad and I remain\nThere at that skyscraper's stair's eye\nUntil the dusk comes\nIn this faraway place\nTo become a little flea\n\nNow I know\nThat when the world is angry with me\nIt's sad and I remain\nThere at that skyscraper's stair's eye\nUntil the dusk comes\nI'm alone\nAnd I feel poor\nFeeling so poor\nAs if God, the good God\nDidn't love little fleaѕ\n\nOne - nah - wanna - ee - yeаh…"
+        },
+        {
+            "languages": [
+                "Ukrainian"
+            ],
+            "title": "На самоті",
+            "content": "Зараз це знаю\nКоли світ на мене часом злиться\nНавіює мені смуток\nТам де око хмарочоса\nЧекала аж до темряви\nВ тому найдальшому місці\nЗробити блоху маленькою\n\nЗараз о тим знаю\nКоли світ на мене часом злиться\nНавіює мені смуток\nТам де око хмарочоса\nЧекала аж до темряви\nНа самоті так\nІ почувалася такою нещасною\nПочувалася такою нещасною\nЯкби Бог, Добрий Бог\nНе любив бліх\n\nOne - nah - wannа - ee - yeаh…"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/KELqbDEJdJY"
+    ],
+    "dancers": null,
+    "backings": [
+        "Magda Steczkowska"
+    ],
+    "composers": [
+        "Mateusz Pospieszalski",
+        "Wojciech Waglewski"
+    ],
+    "lyricists": [
+        "Wojciech Waglewski"
+    ],
+    "writers": null,
+    "conductor": "Noel Kelehan",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 178,
+    "broadcaster": "TVP",
+    "spokesperson": "Jan Chojnacki",
+    "commentators": [
+        "Artur Orzech"
+    ]
+}

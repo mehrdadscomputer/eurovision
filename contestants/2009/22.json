@@ -1,0 +1,41 @@
+{
+    "id": 22,
+    "country": "LT",
+    "artist": "Sasha Son",
+    "song": "Love",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Love",
+            "content": "I've had it all, as a little child\nI've done it all, as a little child\nBut the pain that I had\nFor the fame that I got, was for what?\n\nA little girl is crying alone\nA little boy, searching for his home\nGiving up to a sin for a heart-craving dream\nIs that a sin?\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love would love to love you back\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love will love you back\n\nFor just one moment, we all wanna be\nJust as happy as one can be\n(So don't you make the same mistake)\n(You gotta give for what you take)\nAnd don't you break\n\nA little girl or boy crying at home alone\nA faithful song will lead the way\nTo make you strong\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love would love to love you back\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love\n\nIf you really love\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love would love to love you back\n\nIf you really love the love you say you love, really love\nThen surely that love would love\nThen surely that love\nThen surely that love\nThen ѕurely that love will love you back\nWill love you bаck"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ukSmGIp_xVk",
+        "https://www.youtube.com/embed/8G1uPPmTx5A",
+        "https://www.youtube.com/embed/Ctkw_95OwqQ",
+        "https://www.youtube.com/embed/uxUboko95vQ"
+    ],
+    "dancers": null,
+    "backings": [
+        "Baiba Skurstene",
+        "Nora Strolyte",
+        "Sam Hywel James"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Sasha Son"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A minor",
+    "bpm": 103,
+    "broadcaster": "LRT",
+    "spokesperson": "Ignas Krupavičius",
+    "commentators": [
+        "Darius Užkuraitis"
+    ]
+}

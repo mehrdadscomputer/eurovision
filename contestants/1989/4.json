@@ -1,0 +1,47 @@
+{
+    "id": 4,
+    "country": "AT",
+    "artist": "Thomas Forstner",
+    "song": "Nur ein Lied",
+    "lyrics": [
+        {
+            "languages": [
+                "German"
+            ],
+            "title": "Nur ein Lied",
+            "content": "Damit morgen früh die Sonne wieder scheint\nUnd es Tränen nur noch gibt, wenn man sich freut\nDamit jedes Kind noch Hoffnung haben kann\nAuf ein Leben ohne Kriege, ohne Angst\nDafür lohnt es sich, ein Träumer zu sein\n\nIch singe nur ein Lied heut' Nacht\nEin Lied, das uns zu Freunden macht\nIch singe nur ein Lied und weiß\nMit jedem Wort zerbricht das Eis\n\nDamit keiner mehr allein im Dunkeln steht\nUnd sie wiederkommt, die Liebe auf der Welt\nDamit jeder Mensch in Freiheit leben kann\nUnd die Waffen werden Blumen irgendwann\nDafür lohnt es sich, ein Träumer zu sein\n\nIch singe nur ein Lied heut' Nacht\nEin Lied, das uns zu Freunden macht\nIch singe nur ein Lied und weiß\nMit jedem Wort zerbricht das Eis\n\nIch singe nur ein Lied heut' Nacht\nEin Lied, das wie ein Feuer macht\nIch singe eѕ für dich und mich\nUnd für die gаnze Welt"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Just a song",
+            "content": "To make the sun shine again tomorrow\nAnd to make tears only be for laughter\nFor every child to have hope inside\nFor a life without war and fear\nFor this reason it's good to be a dreamer\n\nI'm singing just a song tonight\nA song to make friends\nI'm singing just a song and I know\nThat with every word the ice breaks\n\nSo that nobody will have to standing alone in the darkness\nAnd love returns to the earth\nTo let every human being live in freedom\nAnd turn guns into flowers sometime\nFor this reason it's good to be a dreamer\n\nI'm singing just a song tonight\nA song to make friends\nI'm singing just a song and I know\nThat with every word the ice breaks\n\nI'm singing just a song tonight\nA song that does like fire\nI'm ѕinging it for you аnd me\nAnd for the whole world"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/IsAUqpXiw58"
+    ],
+    "dancers": null,
+    "backings": [
+        "Detlef Wiedeke",
+        "Michael Scholz",
+        "Rolf Köhler"
+    ],
+    "composers": [
+        "Dieter Bohlen"
+    ],
+    "lyricists": [
+        "Joachim Horn-Bernges"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 148,
+    "broadcaster": "ORF",
+    "spokesperson": "Tilia Herold",
+    "commentators": [
+        "Ernst Grissemann"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 24,
+    "country": "GB",
+    "artist": "Josh",
+    "song": "That Sounds Good To Me",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "That sounds good to me",
+            "content": "How do I begin to imagine\nAll the happy faces I'd like to see?\nThe final destination\nWith sounds of celebration\nIf I could find the opportunity\n\nSo I wonder, who can I turn to?\nWho can make these wishes and dreams come true?\nAnd with you there beside me\nAnd loving hands to guide me\nAnything is possible to do\n\nSo if you bring the sunshine\nI'll bring the good times\nJust add your laughter\nIt's happy ever after\nI don't know about you\nBut that sounds good to me\n\nI can feel it coming together\nAll the loving working so very well\nThere's nothing left to do now\nI'm gonna see it through now\nAnd we can let the future write itself\n\nSo if you bring the sunshine\nI'll bring the good times\nJust add your laughter\nIt's happy ever after\nI don't know about you\nBut that sounds good to me\n\nWhoa… (Oh whoa whoa yeah…)\n\nYou bring the sunshine\nI'll bring the good times\nJust add your laughter\nIt's happy ever after\nI don't know about you\nBut that sounds good to me\n\nI don't know about you\nBut that sounds good to me\n\nThаt soundѕ good to me"
+        },
+        {
+            "languages": [
+                "Hebrew"
+            ],
+            "title": "זה טוב מבחינתי",
+            "content": "איך אתחיל לדמיין\nאת כל הפרצופים השמחים שארצה לראות?\nהיעד הסופי\nוקולות החגיגה\nלו יכֹלתי למצוא הזדמנות\n\nאז אני שואל אל מי אוכל לפנות?\nמי יכול להגשים את המשאלות והחלומות האלו\nואיתכם לצידי\nוידיים אוהבות שינחו אותי\nאפשר לעשות הכל\n\nאז אם אתם מביאים את אור השמש\nאני אביא את הכיף\nרק תוסיפו את צחוקכם\nוזה אושר עד עצם היום הזה\nאנ'לא יודע מה אתכם\nאבל זה טוב מבחינתי\n\nאני מרגיש שהכל מתחבר\nכל האהבה פועלת כל כך טוב\nולא נשאר עוד מה לעשות\nנראה מה יצא עכשיו\nוניתן לעתיד לכתוב את עצמו\n\nאתם מביאים את אור השמש\nאני אביא את הכיף\nרק תוסיפו את צחוקכם\nוזה אושר עד עצם היום הזה\nאנ'לא יודע מה אתכם\nאבל זה טוב מבחינתי\n\nהו…\n\nאתם מביאים את אור השמש\nאני אביא את הכיף\nרק תוסיפו את צחוקכם\nוזה אושר עד עצם היום הזה\nאנ'לא יודע מה אתכם\nאבל זה טוב מבחינתי\n\nאנ'לא יודע מה אתכם\nאבל זה טוב מבחינתי\n\nזה טוב מבחינתי"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/fR7l2xC4cOY",
+        "https://www.youtube.com/embed/wlUGdYXB5T8"
+    ],
+    "dancers": [
+        "Ciarán Connolly",
+        "Filippo Calvagno"
+    ],
+    "backings": [
+        "Joanna Breheny",
+        "Kirsten Joy",
+        "Suzanne Carley"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Mike Stock",
+        "Pete Waterman",
+        "Steve Crosby"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Ab major",
+    "bpm": 126,
+    "broadcaster": "BBC",
+    "spokesperson": "Scott Mills",
+    "commentators": [
+        "Graham Norton",
+        "Paddy O'Connell",
+        "Sarah Cawood"
+    ]
+}

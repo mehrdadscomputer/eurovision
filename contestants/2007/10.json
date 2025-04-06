@@ -1,0 +1,50 @@
+{
+    "id": 10,
+    "country": "BA",
+    "artist": "Marija Sestic",
+    "song": "Rijeka Bez Imena",
+    "lyrics": [
+        {
+            "languages": [
+                "Serbian"
+            ],
+            "title": "Rijeka bez imena",
+            "content": "Rijekom bez imena, kao val\nNeka krene moja bol da te nađe\nRužo svih vjetrova\nSamo ja staze preko vode znam\n\nDan po dan i noć po noć\nJa zidam svoju bol\nKao most na rijeci za tobom\nKo još te voli k'o ja\nDa te u dušu zna, tako baš kao ja?\n\nTugo nevjero, moja nevoljo\nKako da te vratim?\nDa te zagrlim, k'o da je prvi put\nRijeke suza da ti pozlatim\n\nTugo nevjero, eh, da mogu to\nJa bih opet s tobom bilo gdje\nNeka ide bol na moju dušu što za tobom umirem\n\nTugo nevjero, moja nevoljo\nKako da te vratim?\nDa te zagrlim, k'o da je prvi put\nRijeke suza da ti pozlatim\n\nTugo nevjero, (moja nevoljo)\nJa bih opet ѕ tobom bilo gdje\nNeka ide bol na moju dušu što zа tobom umirem\n(Tugo nevjero, tugo nevjero)"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Nameless river",
+            "content": "Down a river without a name, like a wave\nMay my pain begin its journey to find you\nRose of all winds\nOnly I know the paths over water\n\nDay by day and night by night\nI build my pain\nLike a bridge on a river, after you\nWho still loves you like I do\nKnows your soul, just the way I do?\n\nUnfaithful sorrow, my pain\nHow do I return you?\nTo embrace you, like it's the first time\nCover with gold rivers of tears for you\n\nUnfaithful sorrow, eh, if I only could\nI would still go anywhere with you\nMay this pain bind to my soul for dying for you\n\nUnfaithful sorrow, my pain\nHow do I return you?\nTo embrace you, like it's the first time\nCover with gold rivers of tears for you\n\nUnfaithful sorrow, (my pain)\nI would still go anywhere with you\nMay this pain bind to my soul for dying for you\n(Unfaithful sorrow, unfаithful ѕorrow)"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/b2h52r1oOYA",
+        "https://www.youtube.com/embed/bVoDMfsnvaQ"
+    ],
+    "dancers": null,
+    "backings": [
+        "Aleksandar Sedlar Bogoev",
+        "Danijela Večerinović",
+        "Dunja Gallineo Kajević",
+        "Jelena Majić",
+        "Marina Đurović"
+    ],
+    "composers": [
+        "Goran Kovačić"
+    ],
+    "lyricists": [
+        "Aleksandra Milutinović"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 156,
+    "broadcaster": "BHRT",
+    "spokesperson": "Vesna Andrée-Zaimović",
+    "commentators": [
+        "Dejan Kukrić"
+    ]
+}

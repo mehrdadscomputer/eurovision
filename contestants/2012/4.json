@@ -1,0 +1,44 @@
+{
+    "id": 4,
+    "country": "AL",
+    "artist": "Rona Nishliu",
+    "song": "Suus",
+    "lyrics": [
+        {
+            "languages": [
+                "Albanian"
+            ],
+            "title": "Suus",
+            "content": "Në këtë botë, dashuria s'jeton më\nKoha më për ne s'ka kohë, jo\nHo… jo oh oh, oh oh\nJo oh oh oh…  jo oh oh oh…\nKoha më për ne s'ka kohë\n\nAtëron aeroplani im\nNë pistë pa drita të shpirtit tënd\nMe bërryla ngjiten sot\nAta që dje s'jetonin dot\nPor të djeshmet s'kanë rëndësi\nNga detëra të trazuar u përpinë\nË, të nesërmet nuk do t'sjellin gjë\nVeç  shpresë pa shpresë e marrëzi\n\nMë lerni të qaj… qaj… qaj…\nSe ktë gjë më së miri di ta bëj tani\nSe ktë gjë më së miri di ta bëj tani\n\nMë ler ni të qaj… qaj… qaj…\nSe ktë gjë më së miri di ta bëj tani\nSe ktë gjë më së miri di ta bëj tani\n\nMë ler ni të qaj… qaj… qaj…\nSe ktë gjë më së miri di ta bëj tani\nSe ktë gjë më ѕë miri di ta bëj tаni"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Personal",
+            "content": "In this world, love lives no more\nTime no longer has time for us, no\nHo… no oh oh, oh oh\nNo oh oh oh… no oh oh oh…\nTime no longer has time for us\n\nMy plane is landing\nOn the unlit runway of your soul\nThey elbow their way through today –\nThose who couldn't live yesterday\nBut yesterdays have no importance\nThey were swallowed by the turbulent seas\nOh, tomorrows won't bring anything\nBut hopeless hope and insanity\n\nJust let me cry… cry… cry…\nFor this is the best I can do now\nFor this is the best I can do now\n\nJust let me cry… cry… cry…\nFor this is the best I can do now\nFor this is the best I can do now\n\nJust let me cry… cry… cry…\nFor this is the best I can do now\nFor this is the beѕt I cаn do now"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/QeBL2UHhyEc",
+        "https://www.youtube.com/embed/v9zIP4FA-1Y"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Florent Boshnjaku"
+    ],
+    "lyricists": [
+        "Rona Nishliu"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Bb minor",
+    "bpm": 151,
+    "broadcaster": "RTSH",
+    "spokesperson": "Andri Xhahu",
+    "commentators": [
+        "Andri Xhahu"
+    ]
+}

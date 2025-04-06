@@ -1,0 +1,61 @@
+{
+    "id": 13,
+    "country": "BG",
+    "artist": "Equinox",
+    "song": "Bones",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Bones",
+            "content": "Love is like a black hole\nEverything is dark\nYou just gotta let go\nAnd feel it, feel it, feel it\nWe fall off the deep end\nJust to get a rush\nYou know that it's right when\nYou feel it, feel it, feel it\n\nWhat is life\nIf it's just of the earth\nOnly of the flesh and bones\nWanna thrive\nIn the dust\nOf the universe and way into unknown\n\nSo I love beyond the bones\nGoes deep inside your soul\nI love beyond the bones\n\nWanna be the fire\nEven if it burns\nOffer up my fibers\nTo feel it, feel it, it\n\nWhat is life\nIf it's just of the earth\nOnly of the flesh and bones\nWanna thrive in the dust\nOf the universe and wаy\nInto unknown\n\nSo I love beyond\nThe bones\nGoes deep inside your soul\n\nI love beyond the bones\nInto the unknown\nWhere no other love goeѕ"
+        },
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Des os",
+            "content": "L'amour est comme un trou noir\nTout est sombre\nOn doit lâcher prise\nEt le sentir, le sentir, le sentir\nOn saute hors du grand bain\nJustement afin de s'exciter\nOn sais qu'il est bon quand\nOn le sent, le sent, le sent\n\nQu'est-ce que la vie\nSi elle n'est que de ce monde\nRéduite à la peau et les os\nOn veut prospérer\nDans la poussière\nDe l'univers et lointaine vers l'inconnu\n\nDonc, j'aime au-delà des os\nÇa va profondement dans l'âme\nJ'aime au-delà des os\n\nOn veut être le feu\nMême si l'on se brûle\nJ'offre mes fibres en sacrifice\nAfin de le sentir, de le, le sentir\n\nQu'est-ce que la vie\nSi elle n'est que de ce monde\nRéduite à la peau et les os\nOn veut prospérer\nDans la poussière\nDe l'univers et lointaine vers l'inconnu\n\nDonc, j'aime au-delà\nDes os\nÇa va profondement dans l'âme\n\nJ'aime au-delà des os\nVerѕ l'inconnu\nOù aucun autre amour ne vа …"
+        },
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Huesos",
+            "content": "El amor es como un agujero negro\nTodo es oscuro\nSolo tienes que dejarlo ir\nY sentirlo, sentirlo, sentirlo\nNos caemos del fondo\nSolo para tener prisa\nSabes que es correcto cuando\nLo sientes, lo sientes, lo sientes\n\n¿Qué es la vida?\nSi es sólo de la tierra\nSólo de carne y huesos\nQuiero prosperar\nEn el polvo\nDel universo y camino hacia lo desconocido\n\nAsí que amo más allá de los huesos\nVa profundamente dentro de tu alma\nAmo más allá de los huesos\n\nQuiero ser el fuego\nIncluso si arde\nOfrezco mis fibras\nPara sentirlo, sentirlo\n\n¿Qué es la vida?\nSi es sólo de la tierra\nSólo de carne y huesos\nQuiero prosperar en el polvo\nDel universo y camino\nHacia lo desconocido\n\nAsí que amo más allá\nDe los huesos\nVa profundamente dentro de tu alma\n\nAmo más allá de los huesos\nHacia lo deѕconocido\nDonde ningún otro amor vа"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/vC-1tdGDFQc",
+        "https://www.youtube.com/embed/ajOe6ZmHq-0",
+        "https://www.youtube.com/embed/Uvy_R3fTHQ4",
+        "https://www.youtube.com/embed/2qlPAzoWYkk",
+        "https://www.youtube.com/embed/81H41Qvfhi0",
+        "https://www.youtube.com/embed/BNF8KMhd9Ok",
+        "https://www.youtube.com/embed/EoRfu01ZjKw",
+        "https://www.youtube.com/embed/AkeQi9WfOUg"
+    ],
+    "dancers": null,
+    "backings": [
+        "Maria Georgieva"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Borislav Milanov",
+        "Brandon Treyshun Campbell",
+        "Dag Lundberg",
+        "Joacim Persson"
+    ],
+    "conductor": null,
+    "stageDirector": "Sacha Jean-Baptiste",
+    "tone": "F# minor",
+    "bpm": 88,
+    "broadcaster": "BNT",
+    "spokesperson": "Yoanna Dragneva",
+    "commentators": [
+        "Elena Rosberg",
+        "Georgi Kushvaliev"
+    ]
+}

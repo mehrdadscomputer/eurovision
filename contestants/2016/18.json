@@ -1,0 +1,52 @@
+{
+    "id": 18,
+    "country": "HU",
+    "artist": "Freddie",
+    "song": "Pioneer",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Pioneer",
+            "content": "When you need to run away\nFrom what other people say\nYour enemy might be your own mind\n\nA smile, a hug, a little praise\nYou haven't received for days\nFor long you feel mistreated\n\nIn a world where the poems sound fake\nAnd the love is replaced by the fame\n\nA million hearts of a million people\nBe proud, you were born to be real\nA million lies in a million temples\nIt's only fear, become a pioneer\n\nYou've been weird, been a mess\nThey don't know how to value uniqueness\nSo they turn their heads away, away\n\nWhen there no more products to sell\nEveryone will cast their own spell\n\nA million hearts of a million people\nBe proud, you were born to be real\nA million lies in a million temples\nIt's only fear, become a pioneer\n\nNo right time, no right place\nTo meet your inner grace\nApproval is found within\n\nA million hearts of a million people\nBe proud, you were born to be real\nNo right time, no right place, yeah\nA million lies in a million temples\nIt's only fear, become а pioneer\n\nYou should know, you should know\nOh, you should know, you ѕhould know"
+        },
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "Особенный",
+            "content": "Когда тебе нужно сбежать\nОт того, что говорят другие\nТвоим главным врагом оказывается собственный разум\n\nУлыбка, объятие, маленькая похвала\nВсе это было так давно\nТак сложно быть изгоем\n\nВ мире, где слова отдают ложью\nА место любви заняло тщеславие\n\nМиллионы сердец миллионов людей\nГордитесь тем, кто вы есть\nА миллионы мольб в миллионах храмов\nЭто просто страх быть особенным\n\nТы странный, ты недотрога\nПросто никто не понимает твоей уникальности\nПоэтому они уводят свой взгляд от тебя, от тебя\n\nНо когда нечем будет выделяться\nКаждый сбросит свою маску\n\nМиллионы сердец миллионов людей\nГордитесь тем, кто вы есть\nА миллионы мольб в миллионах храмов\nЭто просто страх быть особенным\n\nНет нужного места и времени\nЧтобы понять себя\nТы - настоящий, это скрыто внутри\n\nМиллионы сердец миллионов людей\nГордитесь тем, кто вы есть\nНет нужного места, нет нужного времени, нет\nА миллионы мольб в миллионах храмов\nЭто просто страх быть особенным\n\nПоймите это, поймите\nО, поймите это, поймите"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/bT2DcpqvorI",
+        "https://www.youtube.com/embed/SD1ESQeYU3U",
+        "https://www.youtube.com/embed/wpIg3bJ__GE",
+        "https://www.youtube.com/embed/U0_FjDoin3c",
+        "https://www.youtube.com/embed/yE0ZzBY5sLY"
+    ],
+    "dancers": null,
+    "backings": [
+        "Barnabás Wodala",
+        "Dávid Baranya",
+        "Gábor Molnár",
+        "Tamás Mészáros"
+    ],
+    "composers": [
+        "Zé Szabó"
+    ],
+    "lyricists": [
+        "Borbála Csarnai"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Szabolcs Gyöngyösi",
+    "tone": "C minor",
+    "bpm": 144,
+    "broadcaster": "MTV",
+    "spokesperson": "Csilla Tatár",
+    "commentators": [
+        "Gábor Gundel Takács"
+    ]
+}

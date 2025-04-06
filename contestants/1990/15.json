@@ -1,0 +1,44 @@
+{
+    "id": 15,
+    "country": "SE",
+    "artist": "Edin",
+    "song": "Ådahl",
+    "lyrics": [
+        {
+            "languages": [
+                "Swedish"
+            ],
+            "title": "Som en vind",
+            "content": "Ut ur en dröm och in i mitt hjärta\nKom en känsla och fyllde min själ\nOch jag, en man, som reser i tankar\nFylld av visioner ur en dröm\nOch jag känner…\n\nSom en vind, sveper inom mig\nSkänker mig värme, kom var mig närmre\nSom en vind, visa mig vägen\nRör vid mig som en vind\n\nTillsammans, men långt ifrån varann\nVi vet att vi vill och vi kan\nEn tanke säger mer än tusen ord\nÄndå vet jag inte vad jag ska tro\nMen jag känner…\n\nSom en vind, sveper inom mig\nSkänker mig värme, kom var mig närmre\nSom en vind, visa mig vägen\nRör vid mig som en vind\n\nJag, en man, fylld av visioner\nStanna och rör mig\n\nSom en vind, sveper inom mig\nSkänker mig värme, kom var mig närmre\nSom en vind, visa mig vägen\nKom till mig, stannа\nVänd inte från mig\nRör vid mig som en vind\nRör vid mig ѕom en vind"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Like a wind",
+            "content": "Out from a dream and into my heart\nCame a feeling and filled my soul\nAnd I'm a man who travels in thoughts\nFilled with visions from a dream\nAnd I feel…\n\nLike a wind is sweeping inside of me\nMaking me warm, come, be closer to me\nLike a wind, show me the way\nTouch me like a wind\n\nTogether, but far apart\nWe know that we want and we can\nA thought says more than thousand words\nStill I don't know what to believe\nBut I feel…\n\nLike a wind is sweeping inside of me\nMaking me warm, come, be closer to me\nLike a wind, show me the way\nTouch me like a wind\n\nI'm a man filled with visions\nStay and touch me\n\nLike a wind is sweeping inside of me\nMaking me warm, come, be closer to me\nLike a wind, show me the way\nCome to me, ѕtay\nDon't turn away\nTouch me like a wind\nTouch me like а wind"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/3TIXDUyDcBw"
+    ],
+    "dancers": null,
+    "backings": [
+        "Katarina Millton-Almgren",
+        "Peter Åhs"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Mikael Wendt"
+    ],
+    "conductor": "Curt-Eric Holmquist",
+    "stageDirector": null,
+    "tone": "A major",
+    "bpm": 165,
+    "broadcaster": "SVT",
+    "spokesperson": "Jan Ellerås",
+    "commentators": [
+        "Jan Jingryd"
+    ]
+}

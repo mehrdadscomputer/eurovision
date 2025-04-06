@@ -1,0 +1,44 @@
+{
+    "id": 13,
+    "country": "PT",
+    "artist": "António Calvário",
+    "song": "Oração",
+    "lyrics": [
+        {
+            "languages": [
+                "Portuguese"
+            ],
+            "title": "Oração",
+            "content": "Senhor, a teus pés eu confesso\nSenhor, meu amor maltratei\nSenhor, se perdão aqui peço, não mereço\nSenhor, meu amor desprezei e pequei\nPerdão, no entanto eu imploro\nSenhor, Tu que És a redenção\nEu sei que a perdi e que a adoro e eu choro\nSenhor, ao rogar seu perdão\n\nSenhor, eu confesso o perjúrio de tantas promessas\nSenhor, eu errei mas na vida encontrei a lição\nSenhor, eu Te imploro, Senhor,\nÓ meu Deus, não Te esqueças da minha oração\nSenhor, ó bondade infinita, dai-me o seu perdão\n\nAmor, por amor eu na vida jamais encontrara\nÉ tarde, caminho p'la vida perdido na dor\nSenhor, este amor é mais puro que a jóia mais rara\nQue o mais puro amor\nSenhor, se o amor é cаѕtigo, perdão, meu Senhor"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Prayer",
+            "content": "God, at your feet I confess\nGod, I hurted my love\nGod, I ask for your forgiveness, but I don't deserve it\nGod, I despised my love and sinned\nPardon me, I beg You\nGod, You are redemption\nI know I lost her, but I love her, so I cry\nGod, asking for her forgiveness\n\nGod, I confess the perjury of so many promesses\nGod, I made some mistakes, but in life I found a lesson\nGod, I beg You, God\nOh my God, don't forget my prayer\nGod, oh endless kindness, give me your forgiveness\n\nLove, I had never found love in life\nIt's late, I walk through life, lost in pain\nGod, this love is more precious than the rarest jewells\nIt's the most precious one of loves\nGod, if love is а puniѕhment, forgive me, my God"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/kcfRGNTJVKI"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "João Nobre"
+    ],
+    "lyricists": [
+        "Francisco Nicholson",
+        "Rogério Bracinha"
+    ],
+    "writers": null,
+    "conductor": "Kai Mortensen",
+    "stageDirector": null,
+    "tone": "C major",
+    "bpm": 126,
+    "broadcaster": "RTP",
+    "spokesperson": "Maria Manuela Furtado",
+    "commentators": [
+        "Gomes Ferreira"
+    ]
+}

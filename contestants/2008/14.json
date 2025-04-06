@@ -1,0 +1,45 @@
+{
+    "id": 14,
+    "country": "DK",
+    "artist": "Simon Mathew",
+    "song": "All Night Long",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "All night long",
+            "content": "The sun is up\nI'm feeling great\nI'm just enjoying life\nRight here in the shade\n\nLet's take a ride, right away\nI'll be by your side\nSo easy the easy life\n\nCelebrate the good times\n\nAll night long\nAll night long\nCelebrate good times – come on\nAll night long\n\nWho's to tell\nWhat's to come\nAll I know is tomorrow\nToday will be gone\n\nGet out, out of bed\nPut on your blue suede shoes – aha\nGet up, up and dance\n\nCelebrate the good times\n\nAll night long\nAll night long\nCelebrate good times – come on\nAll night long\n\nIf your life is like a sad song maybe\nYou should try and celebrate it\nCelebrate it\n\nAll night long\nAll night long\nCelebrаte good timeѕ – come on\nAll night long"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/bA_qUXpQFfg",
+        "https://www.youtube.com/embed/vvj_gv1B7Og",
+        "https://www.youtube.com/embed/1KwQuoQr-T8",
+        "https://www.youtube.com/embed/r8sp_Xz0PNk"
+    ],
+    "dancers": null,
+    "backings": [
+        "Anders Øhrstrøm",
+        "Kim Nowak-Zorde",
+        "Mette Dahl Trudslev",
+        "Morten Hellmann",
+        "Oliver McEwan"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Jacob Launbjerg",
+        "Nis Bøgvad",
+        "Svend Gudiksen"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "DR",
+    "spokesperson": "Maria Montell",
+    "commentators": [
+        "Nicolai Molbech"
+    ]
+}

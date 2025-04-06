@@ -1,0 +1,65 @@
+{
+    "id": 18,
+    "country": "IS",
+    "artist": "Hera Björk",
+    "song": "Je Ne Sais Quoi",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Je ne sais quoi",
+            "content": "I am standing strong, I've overcome the sadness in my life\nNow I look up and see the brightest sky above me\nAnd it's reflecting in your eyes\n\nJe ne sais quoi, I know you have a special something\nJe ne sais quoi, oh, something I just can't explain\nAnd when I see your face, I wanna follow my emotions\nJe ne sais pas pourquoi\n\nWhen the clouds are gone the stars come out around us, shining\nAnd all that we see is the love, our hearts aligned together\nTell me, do you feel the same?\n\nJe ne sais quoi, I know you have a special something\nJe ne sais quoi, oh… something I just can't explain\nAnd when I see your face, I wanna follow my emotions\nJe ne sais pas pourquoi\n\nI just love this crazy feeling\nIt's like I've known you all my life\nJe ne sais quoi\n\nJe ne sais quoi, I know you have a special something\nJe ne sais quoi, oh… something I just can't explain\nAnd when I see your face, I wanna follow my emotions\nJe ne sais pаѕ pourquoi"
+        },
+        {
+            "languages": [
+                "Dutch"
+            ],
+            "title": "Ik weet niet wat",
+            "content": "Ik sta sterk, ik ben mijn verdriet overkomen\nNu kijk ik omhoog en zie de helderste hemel boven me\nEn het reflecteert in je ogen\n\nIk weet niet wat, ik weet dat je iets speciaals hebt\nIk weet niet wat, oh, iets wat ik niet uit kan leggen\nEn wanneer ik je gezicht zie, wil ik mijn emoties volgen\nIk weet niet waarom\n\nWanneer de wolken weg zijn verschijnen de sterren rond ons heen, schitteren\nEn alles wat we zien is de liefde, onze harten samen uitgelijnd\nVertel me, voel je hetzelfde?\n\nIk weet niet wat, ik weet dat je iets speciaals hebt\nIk weet niet wat, oh… iets wat ik niet uit kan leggen\nEn wanneer ik je gezicht zie, wil ik mijn emoties volgen\nIk weet niet waarom\n\nIk hou van dit gekke gevoel\nHet is alsof ik je al mijn hele leven ken\nIk weet niet wat\n\nIk weet niet wat, ik weet dat je iets speciaals hebt\nIk weet niet wat, oh… iets wat ik niet uit kan leggen\nEn wanneer ik je gezicht zie, wil ik mijn emotieѕ volgen\nIk weet niet waаrom"
+        },
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Yo no sé qué",
+            "content": "Yo me mantengo fuerte, he superado la tristeza en mi vida\nAhora miro arriba y veo el cielo brillante sobre mí\nY se refleja en tus ojos\n\nYo no sé qué, sé que tienes algo especial\nYo no sé qué, oh, algo que no puedo explicar\nY cuando veo tu cara, quiero seguir mis emociones\nYo no lo sé por qué\n\nCuando las nubes se van las estrellas vienen a nuestro alrededor, brillando\nY todo lo que vemos es el amor, nuestros corazones enlazados juntos\nDime, tú sientes lo mismo?\n\nYo no sé qué, sé que tienes algo especial\nYo no sé qué, oh, algo que no puedo explicar\nY cuando veo tu cara, quiero seguir mis emociones\nYo no lo sé por qué\n\nMe encanta este sentimiento loco\nEs como si te conociera de toda la vida\nYo no sé qué\n\nYo no sé qué, sé que tienes algo especial\nYo no sé qué, oh, algo que no puedo explicar\nY cuando veo tu carа, quiero seguir mis emociones\nYo no lo ѕé por qué"
+        },
+        {
+            "languages": [
+                "Ukrainian"
+            ],
+            "title": "Я не знаю, чому",
+            "content": "Я стою міцно, я подолав смуток у своєму житті\nТепер я дивлюся вгору і бачу найяскравіше небо над собою\nІ це відбивається в твоїх очах\n\nЯ не знаю що, я знаю, що у тебе є щось особливе\nЯ не знаю що, о, щось, що я просто не можу пояснити\nІ коли я бачу твоє обличчя, я хочу стежити за своїми емоціями\nЯ не знаю чому\n\nКоли хмари зникають, зірки виходять навколо нас, сяючи\nІ все, що ми бачимо, - це любов, наші серця вирівняні разом\nСкажи мені, ти відчуваєш те саме?\n\nЯ не знаю що, я знаю, що у тебе є щось особливе\nЯ не знаю що, о… щось, що я просто не можу пояснити\nІ коли я бачу твоє обличчя, я хочу стежити за своїми емоціями\nЯ не знаю, чому\n\nМені просто подобається це божевільне почуття\nНачив я знав тебе все своє життя\nЯ не знаю що\n\nЯ не знаю що, я знаю, що у тебе є щось особливе\nЯ не знаю що, о… щось, що я просто не можу пояснити\nІ коли я бачу твоє обличчя, я хочу стежити за своїми емоціями\nЯ не знаю чому"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/8vM7XAM6fzo",
+        "https://www.youtube.com/embed/b28niWxgWuI",
+        "https://www.youtube.com/embed/XB8V0fjDuog",
+        "https://www.youtube.com/embed/ucsNrY2EoW0"
+    ],
+    "dancers": null,
+    "backings": [
+        "Erna Hrönn Ólafsdóttir",
+        "Heiða Ólafsdóttir",
+        "Kristján Gíslason",
+        "Kristjana Stefánsdóttir",
+        "Pétur Örn Guðmundsson"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Hera Björk Þórhallsdóttir",
+        "Örlygur Smári"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Eb major",
+    "bpm": 132,
+    "broadcaster": "RÚV",
+    "spokesperson": "Jóhanna Guðrún Jónsdóttir",
+    "commentators": [
+        "Sigmar Guðmundsson"
+    ]
+}

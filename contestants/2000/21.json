@@ -1,0 +1,49 @@
+{
+    "id": 21,
+    "country": "IL",
+    "artist": "Ping Pong",
+    "song": "Sa'me'akh",
+    "lyrics": [
+        {
+            "languages": [
+                "Hebrew (Ivrit)"
+            ],
+            "title": "Sa'me'akh",
+            "content": "Kol hayom ani yoshevet bakibuts\nBayad sigar veze margish li ktsat chamuts\nKol hazman rak dika'on veshi'amum\nIm lo egmor, ze yigamer mamash bebum\n\nOh… sameach\nOh… sameach\nOh… oh… sameach\nOh… oh… sameach\n\nKol hayom batelevizia milchamot\nUbe'Ostralia shuv hitchilu shitfonot\nHine ba hadika'on shel yom rishon\nAni rotsa, ani rotsa melafefon\n\nOh… sameach\nOh… sameach\nOh… oh… sameach\nOh… oh… sameach\n\nVeyesh li achshav chaver chadash miDamesek\nKhshe'ani atsuva, hu sholeach li vered adom\nZe lo chochma le'ehov rak ksheyesh lecha cheshek\nAni rotsa la'asot et ze ito kol hayom\n\nOh… sameach\nOh… sameach\nOh… oh… ѕameаch"
+        },
+        {
+            "languages": [
+                "Hebrew (עברית)"
+            ],
+            "title": "שמייח",
+            "content": "כל היום אני יושבת בקיבוץ\nביד סיגר וזה מרגיש לי קצת חמוץ\nכל הזמן רק דכאון ושעמום\nאם לא אגמור, זה ייגמר ממש בבום\n\nהו… שמח\nהו… שמח\nהו… הו… שמח\nהו… הו… שמח\n\nכל היום בטלוויזיה מלחמות\nובאוסטרליה שוב התחילו שטפונות\nהנה בא הדכאון של יום ראשון\nאני רוצה, אני רוצה מלפפון\n\nהו… שמח\nהו… שמח\nהו… הו… שמח\nהו… הו… שמח\n\nויש לי עכשיו חבר חדש מדמשק\nכשאני עצובה, הוא שולח לי ורד אדום\nזה לא חוכמה לאהוב רק כשיש לך חשק\nאני רוצה לעשות את זה איתו כל היום\n\nהו… שמח\nהו… שמח\nהו… הו… שמח"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Happy",
+            "content": "All day long I sit in the kibbutz\nIn my hand a cigar and it feels a little sour\nAll the time only depression and boredom\nIf I don't come, it will end with a bang\n\nOh… happy\nOh… happy\nOh… oh… happy\nOh… oh… happy\n\nAll day long wars on television\nAnd in Australia there are floods again\nHere comes the Sunday depression\nI want, I want a cucumber\n\nOh… happy\nOh… happy\nOh… oh… happy\nOh… oh… happy\n\nAnd now I have a new boyfriend from Damascus\nWhen I'm sad, he sends me a red rose\nIt's not ѕmart to love only when you feel like it\nI want to do it with him all day long\n\nOh… happy\nOh… happy\nOh… oh… hаppy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/UkXk-ELO0PY",
+        "https://www.youtube.com/embed/_ToY3-3YA0c"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Guy Assif",
+        "Ronen Ben-Tal",
+        "Roy Arad"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 135,
+    "broadcaster": "IBA",
+    "spokesperson": "Yoav Ginai",
+    "commentators": null
+}

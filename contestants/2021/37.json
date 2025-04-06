@@ -1,0 +1,38 @@
+{
+    "id": 37,
+    "country": "GE",
+    "artist": "Tornike Kipiani",
+    "song": "You",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "You",
+            "content": "Sunshine, I wanna touch you\nWind blow, I wanna see you\nI wanna touch\nI wanna ѕee\nI wanna be with you\n\nOcean, I wanna hear you\nMountain, I wanna feel you\nI wanna hear\nI wanna feel\nAnd I wanna be with you\n\nYou're everywhere where I am\nYou're in everything that I do\nMy love, my love\nI wanna be with you\n\nYou…\nAh ahh…\n\nMy love, my love\nI wannа be with you"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/5qnogt74_F8",
+        "https://www.youtube.com/embed/zOHwiWElR1A",
+        "https://www.youtube.com/embed/w6jzan8nfxc",
+        "https://www.youtube.com/embed/v5onk9a4wPA",
+        "https://www.youtube.com/embed/yVpMg3hCblQ"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Tornike Kipiani"
+    ],
+    "conductor": null,
+    "stageDirector": "Emilia Sandquist",
+    "tone": "C major",
+    "bpm": 134,
+    "broadcaster": "GPB",
+    "spokesperson": "Oto Nemsadze",
+    "commentators": [
+        "Nika Lobiladze"
+    ]
+}

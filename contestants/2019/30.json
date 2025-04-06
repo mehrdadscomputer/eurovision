@@ -1,0 +1,47 @@
+{
+    "id": 30,
+    "country": "BE",
+    "artist": "Eliot",
+    "song": "Wake Up",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": null,
+            "content": "I wake up every night\nI can't find anyone to pray\nSomewhere in the light\nChanging all up\nI'm afraid on the side\nLooking out for the lies to say\nSomeone has the light\nFeeding our fire\n\nI came to fight\nI came to fight over you\nDon't want your lies\nDon't want your lies, I need truth\nI came to fight\nI came to fight over you\nNo one will try\nNo one will try if that's true\n\nI won't wait for the sign\nI can't find anyone to stay\nBut there's something in the light\nSaving our lives\n\nI came to fight\nI came to fight over you\nDon't want your lies\nDon't want your lies, I need truth\nI came to fight\nI came to fight over you\nNo one will try\nNo one will try if that's true\n\nAnd I can face you now\nNo, I won't break you down\nIf I can find you, I won't hide you\nIt's not what I do\n\nI came to fight\nI came to fight over you\nDon't want your lies\nDon't want your lies, I need truth\nI came to fight\nI came to fight over you\nNo one will try\nNo one will try if thаt'ѕ true"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/iFB9NnjU4ns",
+        "https://www.youtube.com/embed/17QXkQEckE4",
+        "https://www.youtube.com/embed/aJrLcRkCBo4",
+        "https://www.youtube.com/embed/T5o9-9Uo3yQ",
+        "https://www.youtube.com/embed/ndo1uDzV1ck",
+        "https://www.youtube.com/embed/hDSe8qZnc-8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Elya Lufwa",
+        "Julien Michel",
+        "Mahdy Coulibaly",
+        "Renato Bennardo"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Eliot Vassamillet",
+        "Pierre Dumoulin"
+    ],
+    "conductor": null,
+    "stageDirector": "Jean-Jacques Marotte",
+    "tone": "Bb major",
+    "bpm": 145,
+    "broadcaster": "RTBF",
+    "spokesperson": "David Jeanmotte",
+    "commentators": [
+        "Jean-Louis Lahaye",
+        "Maureen Louys",
+        "Peter Van de Veire"
+    ]
+}

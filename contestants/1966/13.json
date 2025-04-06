@@ -1,0 +1,44 @@
+{
+    "id": 13,
+    "country": "DK",
+    "artist": "Ulla Pia",
+    "song": "Stop, mens legen er go'",
+    "lyrics": [
+        {
+            "languages": [
+                "Danish"
+            ],
+            "title": "Stop, mens legen er go'",
+            "content": "Går en pige hjem fra sit første bal\nSker det, at hendes ven går blot lidt for vidt\nJa, det sker så tit, men hun svarer igen:\n\nStop, ja, stop, ja, stop, mens legen er go'\nFor jeg kan fornemme, at du nok vil glemme\nAt jeg må hjem klokken to\nTænk, ja, tænk, ja, tænk om drømmene brast\nFor du ka' vel nok forstå\nTiden går helt i stå, når du holder så fast\n\nLad os bare vandre af sted uden mål eller med\nNyde stjernehimmelens ro, den er skabt for os to\n\nKom, ja, kom, ja, kom, måske si'r jeg top\nNår tiden er inde til kærlighedspuslespil\nDet bli'r uden et 'stop'\n\nLad os bare vandre af sted uden mål eller med\nNyde stjernehimmelens ro, den er skabt for os to\n\nKom, ja, kom, jа, kom, måske si'r jeg top\nNår tiden er inde til kærlighedspuslespil\nDet bli'r uden et 'ѕtop'"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Stop, while the going is good",
+            "content": "When a girl's going home from her first dance\nIt happens that her friend, goes just a bit too far\nYes, that happens so often, but she answers back:\n\nStop, yes stop, yes stop, while the going is good\nFor I can feel, that you'll forget\nThat I should be home by two o'clock\nWhat if, yes what if, yes what if the dreams would burst\nFor I think you can see\nTime stops completely, when you hold so tight\n\nLet's just aimlessly wander on\nEnjoy the tranquillity of the starry sky, it was made for us\n\nCome, yes come, yes come, perhaps I'll say yes\nWhen the time has come for the puzzle of love\nIt will be without a 'stop'\n\nLet's just aimlessly wander on\nEnjoy the tranquillity of the starry sky, it was made for us\n\nCome, yes come, yes come, perhaps I'll say yes\nWhen the time has come for the puzzle of love\nIt will be without а 'ѕtop'"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/XrR8OkoX4y0"
+    ],
+    "dancers": [
+        "Steen Hasle",
+        "Ulla Pedersen"
+    ],
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Erik Kåre"
+    ],
+    "conductor": "Arne Lamberth",
+    "stageDirector": null,
+    "tone": "Bb major",
+    "bpm": 155,
+    "broadcaster": "DR",
+    "spokesperson": "Claus Toksvig",
+    "commentators": [
+        "Skat Nørrevig"
+    ]
+}

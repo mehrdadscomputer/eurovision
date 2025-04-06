@@ -1,0 +1,45 @@
+{
+    "id": 18,
+    "country": "TR",
+    "artist": "Semiha Yankı",
+    "song": "Seninle Bir Dakika",
+    "lyrics": [
+        {
+            "languages": [
+                "Turkish"
+            ],
+            "title": "Seninle bir dakika",
+            "content": "Seninle bir dakika, mutlandırıyor beni\nBir dakika siliyor canım, yılların özlemini\nSeninle bir dakika, mutlandırıyor beni\nBir dakika siliyor canım, yılların özlemini\n\nHasret tükenmez gibi, kavuşmak bir dakika\nSevmek bir ömür sürer, sevişmek bir dakika\n\nLa la la la la la la…\n\nSeninle buluşmamız, bir dakikada geçti\nGözlerim gözlerini canım, bir dakikada içti\nSeninle buluşmamız, bir dakikada geçti\nGözlerim gözlerini canım, bir dakikada içti\n\nHasret tükenmez gibi, kavuşmak bir dakika\nSevmek bir ömür sürer, sevişmek bir dakika\n\nHasret tükenmez gibi, kavuşmak bir dakika\nSevmek bir ömür sürer, ѕevişmek bir dakika\n\nLa la la la la la lа…"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "A minute with you",
+            "content": "A minute with you, makes me happy\nOne minute darling, to forget these lost years\nA minute with you, makes me happy\nOne minute darling, to forget these lost years\n\nDesire is endless, seeing each other only lasts one minute\nLove lasts a whole life, making love only a minute\n\nLa la la la la la la…\n\nWe met each other, only one minute\nDarling, my eyes were drinking from your eyes for one minute\nWe met each other, only one minute\nDarling, my eyes were drinking from your eyes for one minute\n\nDesire is endless, seeing each other only lasts one minute\nLove lasts a whole life, making love only a minute\n\nDesire is endless, seeing each other only lasts one minute\nLove lastѕ a whole life, making love only a minute\n\nLa la la la la la lа…"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/yU8hcIfDlWU",
+        "https://www.youtube.com/embed/MokYkMcMBUY",
+        "https://www.youtube.com/embed/wgtv8atVW1s"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Kemal Ebcioğlu"
+    ],
+    "lyricists": [
+        "Hikmet Münir Ebcioğlu"
+    ],
+    "writers": null,
+    "conductor": "Timur Selçuk",
+    "stageDirector": null,
+    "tone": "B minor",
+    "bpm": 164,
+    "broadcaster": "TRT",
+    "spokesperson": "Bülent Osma",
+    "commentators": [
+        "Bülend Özveren"
+    ]
+}

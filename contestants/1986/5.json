@@ -1,0 +1,47 @@
+{
+    "id": 5,
+    "country": "DK",
+    "artist": "Lise Haavik & Trax",
+    "song": "Du er fuld af løgn",
+    "lyrics": [
+        {
+            "languages": [
+                "Danish"
+            ],
+            "title": "Du er fuld af løgn",
+            "content": "Se, li'som sidst\nStår du der og laver øjne\nUh… så bevidst, imod mig\nStår og ser ud\nSom om det er no'et du leger\nJeg spytter ud nu, for ved du hva' du er?\n\nDu er fuld af løgn\nNår du si'r vi kun er venner\nJeg er med på spøg'n lidt endnu\nOg før der går et døgn\nSå tror jeg dine løgne ender\nFor du slår gnister når du rør' ved mig\n\nDu spiller op\nOg underholder dine venner\nDet holder op første gang\nHvor du ka' se at det er os to\nOg du end'lig vil være ved\nAt alt det jeg si'r er sandt\n\nDu er fuld af løgn\nNår du si'r vi kun er venner\nJeg er med på spøg'n lidt endnu\nOg før der går et døgn\nSå tror jeg dine løgne ender\nFor du slår gnister når du rør' ved mig\n\nBare puds din glorie\nKør en kølig stil\nFortæl en ny historie, du ka' gøre som du vil\n\nFor jeg kan se at… (Jeg kan se at…)\nDu er fuld af løgn\nTyd'lig som en åben bog\nSå gi' mig fire døgn, kun med dig\n\nDu er fuld аf løgn\nNår du si'r vi kun er venner\nJeg er med på spøg'n lidt endnu\nOg før der går et døgn\nSå tror jeg dine løgne ender\nFor det' så enkelt, du er lun som jeg\nFor du slår gnister når jeg rør' ved dig\nDet' ѕå enkelt, du er lun på mig"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "You're full of lies",
+            "content": "Look, just like before\nYou stand there making eyes,\nOoh… so confidently, to me\nStanding there looking\nAs if it's a game you're playing\nI say it honestly now, do you know what you are?\n\nYou're full of lies\nWhen you say we're just friends\nI go along with the joke for a little longer\nAnd before 24 hours have passed\nI think your lies will come to an end\nFor you strike sparks when you touch me\n\nYou play up\nAnd entertain your friends\nThat will stop the first time\nWhen you see, it's the two of us\nAnd you finally admit\nThat everything I say is true\n\nYou're full of lies\nWhen you say we're just friends\nI go along with the joke for a little longer\nAnd before 24 hours have passed\nI think your lies will come to an end\nFor you strike sparks when you touch me\n\nJust polish your halo\nDo a cool style\nTell a new story, you can do whatever you want\n\nFor I can see that… (I can see that…)\nYou're full of lies\nClear as an open book\nSo give me four days, just with you\n\nYou're full of lies\nWhen you say we're just friends\nI go along with the joke for a little longer\nAnd before 24 hours have passed\nI think your lies will come to an end\nIt's so simple, you're hot like me\nFor you strike spаrks when I touch you\nIt's so ѕimple, you're hot for me"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/TeKay_HxlIQ",
+        "https://www.youtube.com/embed/7EzShFBsIvA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Caroline Henderson",
+        "David Johnson",
+        "Maria Bramsen",
+        "Mary Johnson"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "John Hatting"
+    ],
+    "conductor": "Egil Monn-Iversen",
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 98,
+    "broadcaster": "DR",
+    "spokesperson": "Bent Henius",
+    "commentators": [
+        "Jørgen de Mylius"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 33,
+    "country": "NL",
+    "artist": "Hind",
+    "song": "Your Heart Belongs To Me",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Your heart belongs to me",
+            "content": "I remember the time when I was in love with a fool\nHe stepped on my heart, bruised me, broke the golden rule\nThere was a time when I couldn't tell weak from strong\nA voice in my head kept saying: this can't go on\nEven though I longed, something's wrong\n\nYou know your heart belongs to me\nYou made it clear to see\nThat we were never meant to be\nOnly a memory remains\n\nOh yes, your heart belongs to me\nBut I've got to set you free\n'Cause we were never meant to be\nTogether\n\nI've learned my lesson, now I know where I stand\nTime heals all wounds, and broken hearts will mend\nI've read all the signs, now I've moved along\nThis carousel keeps turning on and on\nAnd on and on, life goes on\n\nYou know your heart belongs to me\nYou made it clear to see\nThat we were never meant to be\nOnly a memory remains\n\nOh yes, your heart belongs to me\nBut I've got to set you free\n'Cause we were never meant to be\nTogether\n\nI wish I was the wind, the sun, the rain\nAnd I could hold time in my hands\nIn my dreams I'll fly high so I can reach the stars\nI sit on top of a mountain\nAnd scream when nobody hears me\nNobody sees me, ho…\n\nYou know your heart belongs to me\nYou made it clear to see\nThat we were never meant to be\nOnly a memory remains\n\nOh yes, your heart belongs to me\nBut I've got to set you free\n'Cause we were never meant to be\nTogether\n\nYou know your heаrt belongѕ to me"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/IlUGHhQ3hOc",
+        "https://www.youtube.com/embed/d3eY1L_S5dU",
+        "https://www.youtube.com/embed/Ur7we7JLSik"
+    ],
+    "dancers": null,
+    "backings": [
+        "Carolina Dijkhuizen",
+        "Deniz Kumas",
+        "Ellen Eeftink",
+        "Peggy Sandaal",
+        "Serge Dominique Monpellier"
+    ],
+    "composers": [
+        "Bas van den Heuvel",
+        "Hind",
+        "Tjeerd van Zanen"
+    ],
+    "lyricists": [
+        "Hind",
+        "Tjeerd van Zanen"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "C# major",
+    "bpm": 94,
+    "broadcaster": "NOS",
+    "spokesperson": "Esther Hart",
+    "commentators": [
+        "Cornald Maas"
+    ]
+}

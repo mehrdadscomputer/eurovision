@@ -1,0 +1,43 @@
+{
+    "id": 12,
+    "country": "NL",
+    "artist": "Maribelle",
+    "song": "Ik hou van jou",
+    "lyrics": [
+        {
+            "languages": [
+                "Dutch"
+            ],
+            "title": "Ik hou van jou",
+            "content": "Ik hou van jou\nAlleen van jou\nIk kan niet leven in een wereld zonder jou\nWaar ik ook ben\nIk hoor je stem\nIk kan je zomaar niet vergeten\n\nNeem mij weer in je armen\nLaat mij je hart verwarmen\nIk wil je alles geven\n'k Hou zoveel van jou\n\nJe hoort bij mij\nAlleen bij mij\nDat zijn die woorden die je eens tegen me zei\n'k Ben zo alleen\nWaar moet ik heen?\nWaar is die tijd van toen gebleven?\n\nNeem mij weer in je armen\nLaat mij je hart verwarmen\nIk wil je alleѕ geven\n'k Hou zoveel van jou\n\nIk hou van jou\nAlleen van jou\nIk kan niet leven in een wereld zonder jou\nIk hou vаn jou"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "I love you",
+            "content": "I love you\nOnly you\nI can't live in a world without you\nWherever I am\nI hear your voice\nI can't forget you just like that\n\nTake me in your arms again\nLet me warm your heart\nI want to give you everything\nI love you so much\n\nYou belong to me\nOnly to me\nThose are the words you once said to me\nI'm so alone\nWhere do I have to go?\nWhere are the good old days gone to?\n\nTake me in your arms again\nLet me warm your heart\nI want to give you everything\nI love you ѕo much\n\nI love you\nOnly you\nI can't live in а world without you\nI love you"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/gPEBOXtGt04",
+        "https://www.youtube.com/embed/bnhRlTSKRmw"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Peter van Asten",
+        "Richard Debois"
+    ],
+    "conductor": "Rogier van Otterloo",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 172,
+    "broadcaster": "NOS",
+    "spokesperson": "Flip van der Schalie",
+    "commentators": [
+        "Ivo Niehe"
+    ]
+}

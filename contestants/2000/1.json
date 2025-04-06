@@ -1,0 +1,39 @@
+{
+    "id": 1,
+    "country": "RU",
+    "artist": "Alsou",
+    "song": "Solo",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Solo",
+            "content": "Sitting alone, here in my room\nStaring at your picture from midnight till noon\nCounting the hours, counting the days\nYou know that I'll miss you in a million ways\n\nNow I wait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my actions you should know – I'm going solo\nGoing solo\n\nMy friends try to tell me, I didn't want to listen\n'Cause I'm the kind of person gotta find out on my own\nI gave you my heart, you tore it apart\nBut I'm coming back strong, I knew it was wrong\n\nNow I wait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my actions you should know\n\nNow I wait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my actions you should know – I'm going solo\nGoing solo\n\nNow I wait…\nWait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my actions you should know\n\nNow I wait in the cold and this is getting old\nNo more stories, no more lies, take me off this ride\nWhen you see me in the hall, I'll look at the wall\nBy my аctions you should know – I'm going ѕolo"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ISHSkWFHcI0",
+        "https://www.youtube.com/embed/I7pZQ1T20xA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Beverley Skeete"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Andrew Lane",
+        "Brandon Barnes"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Bb minor",
+    "bpm": 105,
+    "broadcaster": "C1R",
+    "spokesperson": "Zhanna Agalakova",
+    "commentators": [
+        "Aleksej Zhuravlev",
+        "Tatjana Godunova"
+    ]
+}

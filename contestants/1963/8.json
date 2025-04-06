@@ -1,0 +1,41 @@
+{
+    "id": 8,
+    "country": "DE",
+    "artist": "Heidi Brühl",
+    "song": "Marcel",
+    "lyrics": [
+        {
+            "languages": [
+                "German"
+            ],
+            "title": "Marcel",
+            "content": "Marcel, das geht mir viel zu schnell\nEs tut mir schrecklich leid, ich brauch ein bisschen Zeit\nMarcel, kannst du eventuell ein bisschen netter sein?\nDann will ich dir verzeihn\n\nEs geht, wenn sich's um Liebe dreht\nNur mit sehr viel Gefühl, sonst bleib ich sehr, sehr kühl\nMarcel, Marcel, das geht mir viel zu schnell\n'ne Chance hat bei mir allein ein Kavalier\n\nLala… lalala lalala…\nLalala lalala… lalala lalala…\n\nMarcel, Marcel, das geht mir viel zu schnell\nEs tut mir schrecklich leid, ich brauch ein bisschen Zeit\nMarcel, kannst du eventuell ein bisschen netter sein?\nDann will ich dir verzeihn\n\nEs geht, wenn sich's um Liebe dreht\nNur mit sehr viel Gefühl, sonst bleib ich sehr, sehr kühl\nMarcel, Marcel, das geht mir viel zu ѕchnell\n'ne Chance hat bei mir allein ein Kavаlier"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Marcel",
+            "content": "Marcel, this is going much too quickly for me\nI'm really very sorry, but I need a little time\nMarcel, could you possibly be a little nicer?\nThen I want to forgive you\n\nWhen it comes to love, it has to be\nWith a lot of feeling, or else I remain very, very cool\nMarcel, Marcel, this is going much too quickly for me\nOnly a gentleman has a chance with me\n\nLala… lalala lalala…\nLalala lalala… lalala lalala…\n\nMarcel, Marcel, this is going much too quickly for me\nI'm really very sorry, but I need a little time\nMarcel, could you possibly be a little nicer?\nThen I want to forgive you\n\nWhen it comes to love, it has to be\nWith a lot of feeling, or else I remain very, very cool\nMarcel, Marcel, this is going much too quickly for me\nOnly a gentleman haѕ a chаnce with me"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/7huFUkPV0V4"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Charly Niessen"
+    ],
+    "conductor": "Willy Berking",
+    "stageDirector": null,
+    "tone": "F minor",
+    "bpm": 136,
+    "broadcaster": "ARD",
+    "spokesperson": "Werner Veigel",
+    "commentators": [
+        "Hanns Joachim Friedrichs"
+    ]
+}

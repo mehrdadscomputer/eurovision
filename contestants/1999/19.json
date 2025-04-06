@@ -1,0 +1,42 @@
+{
+    "id": 19,
+    "country": "LT",
+    "artist": "Aiste Smilgeviciute",
+    "song": "Strazdas",
+    "lyrics": [
+        {
+            "languages": [
+                "Samogitian"
+            ],
+            "title": "Strazdas",
+            "content": "\"Aja ja ja…\" Strazdas dejavo:\n\"Strazdo kojos nušalo\"\n\nNuo strazdo kojų, lejai lūžinėjo\nŠaltinėlis tekėjo\n\nTekėk, saulele, anksti rytelį\nTirpink strazdo kojelę\n\"Ja ja ja ja…\"\n\n\"Aja ja ja…\" Strazdas dejavo:\n\"Strazdo kojoѕ nušаlo\""
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The Blackbird",
+            "content": "\"Aja-ja-ja…\" complained the blackbird:\n\"The blackbird's feet are freezing\"\n\nHere and then the ice would break from the blackbird's feet\nAnd waters would slowly flow\n\nOh, come up, early morning sun\nAnd let the blackbird's feet melt\n\"Aja-ja-ja-ja\"\n\n\"Aja-ja-ja-ja\", complained the blackbird:\n\"The blackbird'ѕ feet аre freezing\""
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ai6zMnVVicY",
+        "https://www.youtube.com/embed/lsKSPXq5T9E"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Linas Rimša"
+    ],
+    "lyricists": [
+        "Sigitas Geda"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 102,
+    "broadcaster": "LRT",
+    "spokesperson": "Andrius Tapinas",
+    "commentators": null
+}

@@ -1,0 +1,53 @@
+{
+    "id": 4,
+    "country": "HU",
+    "artist": "András Kállay",
+    "song": "Saunders",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Running",
+            "content": "Silent cry, every night\nThis pain don't ever leave her life\nDaddy's home, so she tries to hide\nShe calls her mom, but never a reply\n\nShe cries, cries, cries\nShe's all alone\nDaddy why, why, why, leave me alone\nShe calls for help\nShe calls for help, but no one seems to care\nShe calls for help but no one seems to care\nShe keeps on running, running, running from this crazy life\nShe keeps on running, running, running, never sees the light\n\nI can see the angels standing by your side\nIt'll be alright\n\nHe's back again, just one more time\nJust wants to see her mother smile\nShe can't forget her only child\nMama, let the devil in the house\n\nShe cries, cries, cries\nShe's all alone\nDaddy why, why, why, leave me alone\nShe calls for help\nShe calls for help, but no one seems to care\nShe calls for help but no one seems to care\nShe keeps on running, running, running from this crazy life\nShe keeps on running, running, running, never sees the light\n\nI can see the angels standing by your side\nIt'll be alright\n\nShe keeps on running, running, running from this crazy life\nShe keeps on running, running, running, never sees the light\nI can see the angels standing by your side\nIt'll be alright\n\nShe cries, cries, cries\nDaddy why, why, why\n\nShe keeps on running, running, running from this crazy life\nKeepѕ on running, running, running\nIt'll be аlright"
+        },
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "Бежать",
+            "content": "Тихий плач, каждую ночь\nЭта боль от нее не уходит никогда\nОна пытается спрятаться в отцовском доме\nЗовет свою маму, но никто не отвечает\n\nОна плачет, плачет, плачет\nОна совсем одна\n\"Папочка, почему? Почему? Почему? Оставь меня в покое\"\nОна просит о помощи\nОна зовет на помощь, но никого это не беспокоит\nОна кричит, но никому нет дела\nОна пытается сбежать, сбежать, сбежать от этого безумия\nПытается убежать, убежать, убежать, не видя света\nЯ могу быть твоим ангелом-хранителем\nВсе будет хорошо\n\nОн вернулся, всего один раз\nОна хочет увидеть улыбку своей мамы\nНе может забыть свою единственную дочь\nМама, ты впустила дьявола в дом\n\nОна плачет, плачет, плачет\nОна совсем одна\n\"Папочка, почему? Почему? Почему? Оставь меня в покое\"\nОна просит о помощи\nОна зовет на помощь, но никого это не беспокоит\nОна кричит, но никому нет дела\nОна пытается сбежать, сбежать, сбежать от этого безумия\nПытается убежать, убежать, убежать, не видя света\nЯ могу быть твоим ангелом-хранителем\nВсе будет хорошо\n\nОна пытается сбежать, сбежать, сбежать от этого безумия\nПытается убежать, убежать, убежать, не видя света\nЯ могу быть твоим ангелом-хранителем\nВсе будет хорошо\n\nОна плачет, плачет, плачет\n\"Папа, почему? Почему? Почему?\"\n\nОна пытается сбежать, сбежать, сбежать от этого безумия\nПытается убежать, убежать, убежать…\nВсе будет хорошо"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/T_RxJZ3N9kE",
+        "https://www.youtube.com/embed/QzfRDZmuFUI",
+        "https://www.youtube.com/embed/71oOTdHfULY",
+        "https://www.youtube.com/embed/7RzDmKLCW-Y"
+    ],
+    "dancers": [
+        "Alexandra Likovics",
+        "Tibor Nagy"
+    ],
+    "backings": [
+        "Kyra Fedor",
+        "Rozina Cselovszky"
+    ],
+    "composers": [
+        "András Kállay-Saunders",
+        "Krisztián Szakos"
+    ],
+    "lyricists": [
+        "András Kállay-Saunders"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Bb minor",
+    "bpm": 90,
+    "broadcaster": "MTV",
+    "spokesperson": "Éva Novodomszky",
+    "commentators": [
+        "Gábor Gundel Takács"
+    ]
+}

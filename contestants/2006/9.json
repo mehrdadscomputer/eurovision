@@ -1,0 +1,39 @@
+{
+    "id": 9,
+    "country": "IE",
+    "artist": "Brian Kennedy",
+    "song": "Every Song Is A Cry For Love",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Every song is a cry for love",
+            "content": "Every song is a cry for love\nEvery voice can rise above\nSo don't be afraid\nJust show what you're made of\nSing it out: every song is a cry for love\n\nEvery day is a brand new start\nEvery night you could fall apart\nAnytime you doubt the truth that's in your heart\nSing it out: every song is a cry for love\n\nBeing strong, being tough\nNever tender, always rough\nIt was never enough for me\n\nIn the dead of the night\nOnly love can hold you tight\nSing it out: every song is a cry for love\n\nEvery kiss is a call for home\nEvery touch means you're not alone\nYou don't always have to make it on your own\nSing it out: every song is a cry for love\n\nBeing strong, being tough\nNever tender, always rough\nIt was never enough for me\n\nIn the dead of the night\nOnly love can hold you tight\nSing it out: every song is a cry for love\n\nSing it out: every song is a cry for love\nSing it out: every song is a cry for love\nEvery song iѕ а cry for love"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/6BzFlczwSf8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Callum McColl",
+        "Fran King",
+        "Paula Gilbert",
+        "Una Healy"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Brian Kennedy"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 133,
+    "broadcaster": "RTÉ",
+    "spokesperson": "Eimear Quinn",
+    "commentators": [
+        "Marty Whelan"
+    ]
+}

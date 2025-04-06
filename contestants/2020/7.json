@@ -1,0 +1,60 @@
+{
+    "id": 7,
+    "country": "BG",
+    "artist": "Victoria",
+    "song": "Tears Getting Sober",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Tears Getting Sober",
+            "content": "Great, feel my head is taking over me\nTen déjà vus a day\nand each time I'm getting colder,\npain, I should let it go\n\nYour lies burn like sugar in my wounds\nIn time my wound will be a scar\n\nStrained but my tears are getting sober now\nand I've been here before so,\nweight that I'm holding on my shoulders,\nI'm gonna let it go\n\nThis is my first time trying\nLook how the tables turn\nI've got this dirt inside me\nI've got some space to grow\n\nYour lies burn like sugar in my wounds\nSo I have sweet bruises\nIn time I'll forget what you have done\nIn time my wound will be a scar\n\nMy pain will soon be over\nOh, how the tables turn\nTears are getting sober\nI got some space to grow\n\nYour lies burn like sugar in my wounds\nSo I have sweet bruises\nIn time I'll forget what you have done\nIn time my wound will be a ѕcаr"
+        },
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Les larmes deviennent sobres",
+            "content": "Bien, je sens que ma tête prend le dessus sur moi\nDix fois par jour\nEt à chaque fois je deviens plus froide\nLa douleur, je devrais laisser tomber\n\nTes mensonges brûlent comme du sucre sur mes blessures\nAvec le temps mes blessures deviendront des cicatrices\n\nTendue mais mes larmes deviennent sobres maintenant\nMais j'ai été la avant donc\nLe poids que je porte sur mes épaules\nJe vais le laisser tomber\n\nC'est la première fois que j'essaie\nRegarde comment les choses tournent\nJ'ai cette saleté en moi\nJ'ai de la place pour grandir\n\nTes mensonges brûlent comme du sucre sur mes blessures\nAlors j'ai de doux bleus\nAvec le temps je vais oublier ce que tu as fais\nAvec le temps mes blessures deviendront des cicatrices\n\nMa douleur va bientôt se terminer\nOh, comment les choses tournent ?\nLes larmes deviennent sobres\nJ'ai de la place pour grandir\n\nTes mensonges brûlent comme du sucre sur mes blessures\nDonc j'ai des bleus doux\nAvec le temps je vais oublier ce que tu as fais\nAvec le temps mes blessures deviendront des cicаtriceѕ"
+        },
+        {
+            "languages": [
+                "Romanian"
+            ],
+            "title": "Lacrimile devin treze",
+            "content": "Super, simt că mintea mea mă învinge\nZece déjà vu-uri pe zi\nȘi de fiecare dată mă răcesc\nDurerea, ar trebui să o las să plece\n\nMinciunile tale ard ca zahărul în rănile mele\nÎn timp, rana mea va deveni o cicatrice\n\nÎncordat, dar lacrimile mele devin treze acum\nȘi am mai fost aici, deci\nGreutatea pe care o port pe umeri\nO să o las să plece\n\nEste prima dată când încerc\nUită-te cum se schimbă situația\nAm această murdărie în mine\nAm spațiu să cresc\n\nMinciunile tale ard ca zahărul în rănile mele\nAșa că am vânătăi dulci\nÎn timp, voi uita ce ai făcut\nÎn timp, rana mea va deveni o cicatrice\n\nDurerea mea va lua sfârșit curând\nOh, cum se schimbă situația\nLacrimile devin treze\nAm spațiu să creѕc\n\nMinciunile tale ard ca zahărul în rănile mele\nAșa că am vânătăi dulci\nÎn timp, voi uita ce ai făcut\nÎn timp, rana mea va deveni o cicаtrice"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/V_hgYnwZR8I",
+        "https://www.youtube.com/embed/mLLO4O-vvK4",
+        "https://www.youtube.com/embed/tgBSabVRWL0",
+        "https://www.youtube.com/embed/vnkKnKQ892U",
+        "https://www.youtube.com/embed/uaLGbjY1UNg",
+        "https://www.youtube.com/embed/mV57MVzZQhk",
+        "https://www.youtube.com/embed/QEG-YB3mH9o",
+        "https://www.youtube.com/embed/4xLi8Cp2_x8"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Borislav Milanov",
+        "Cornelia Wiebols",
+        "Lukas Oscar Janisch",
+        "Victoria"
+    ],
+    "lyricists": [
+        "Borislav Milanov",
+        "Lukas Oscar Janisch",
+        "Victoria"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "BNT",
+    "spokesperson": null,
+    "commentators": null
+}

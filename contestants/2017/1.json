@@ -1,0 +1,61 @@
+{
+    "id": 1,
+    "country": "BG",
+    "artist": "Kristian Kostov",
+    "song": "Beautiful Mess",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Beautiful Mess",
+            "content": "When the world shakes us\nTrying to take us out of line\nFear of tomorrow\nFeelings we borrow for a time\n\nWater so deep, how do we breathe?\nHow do we climb?\nSo we stay in this mess\nThis beautiful mess tonight\n\nAnd we don't have a thing to lose\nNo matter what they say or do\nI don't want nothing more\nOur love is untouchable\n\nEven in the line of fire\nWhen everything is on the wire\nEven up against the wall\nOur love is untouchable\n\nOur love is untouchable\n\nWhen the colours turn grey\nAnd the lights all fade to black again\nWe're in over our heads\nBut somehow we make it back again\n\nWater so deep, how do we breathe?\nHow do we climb?\nSo we stay in this mess\nThis beautiful mess tonight\n\nAnd we don't have a thing to lose\nNo matter what they say or do\nI don't want nothing more\nOur love is untouchable\n\nEven in the line of fire\nWhen everything is on the wire\nEven up against the wall\nOur love is untouchable\n\nEven in the line of fire\nWhen everything is on the wire\nEven up against the wall\nOur love iѕ untouchаble"
+        },
+        {
+            "languages": [
+                "Polish"
+            ],
+            "title": "Piękny bałagan",
+            "content": "Kiedy świat trzęsie nami\nPróbując nas wyeliminować\nStrach przed jutrem\nUczucia, które pożyczamy na jakiś czas\n\nWoda tak głęboka, jak oddychamy?\nJak się wspinamy?\nWięc zostajemy w tym bałaganie\nW tym pięknym bałaganie tej nocy\n\nNie mamy nic do stracenia\nNie ma znaczenia co oni powiedzą\nNie chcę nic więcej\nNasza miłość jest nietykalna\n\nNawet na linii ognia\nKiedy wszystko wisi na włosku\nNawet pod ścianą\nNasza miłość jest nietykalna\n\nNasza miłość jest nietykalna\n\nKiedy kolory szarzeją\nI światła znowu zanikają na czarno\nJesteśmy w naszych głowach\nAle jakoś robimy to ponownie\n\nWoda tak głęboka, jak oddychamy?\nJak się wspinamy?\nWięc zostajemy w tym bałaganie\nW tym pięknym bałaganie tej nocy\n\nNie mamy nic do stracenia\nNie ma znaczenia co oni powiedzą\nNie chcę nic więcej\nNasza miłość jest nietykalna\n\nNawet na linii ognia\nKiedy wszystko wisi na włosku\nNawet pod ścianą\nNasza miłość jest nietykalna\n\nNawet na linii ognia\nKiedy wszystko wisi na włosku\nNawet pod ścianą\nNasza miłość jeѕt nietykalnа"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/OMmm-G078LM",
+        "https://www.youtube.com/embed/OCZjiCqEaog",
+        "https://www.youtube.com/embed/jDXQm5JPEJc",
+        "https://www.youtube.com/embed/nM7s8lBNdLg",
+        "https://www.youtube.com/embed/1oiZs3-2mok",
+        "https://www.youtube.com/embed/aX2viNRWFq8",
+        "https://www.youtube.com/embed/bgxz23-i3lA",
+        "https://www.youtube.com/embed/axnS-ij6_zQ",
+        "https://www.youtube.com/embed/dOD80CrDPyw",
+        "https://www.youtube.com/embed/gFv_yAnm_IQ",
+        "https://www.youtube.com/embed/JpN--TxpR7I",
+        "https://www.youtube.com/embed/hiFOo885Hp4"
+    ],
+    "dancers": null,
+    "backings": [
+        "Bobo",
+        "Cesár Sampson",
+        "Vlado Mihailov"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Alex Omar",
+        "Alexander V. Blay",
+        "Borislav Milanov",
+        "Joacim Persson",
+        "Sebastian Arman"
+    ],
+    "conductor": null,
+    "stageDirector": "Sacha Jean-Baptiste",
+    "tone": "Eb major",
+    "bpm": 126,
+    "broadcaster": "BNT",
+    "spokesperson": "Boryana Gramatikova",
+    "commentators": [
+        "Elena Rosberg",
+        "Georgi Kushvaliev"
+    ]
+}

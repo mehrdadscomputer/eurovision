@@ -1,0 +1,46 @@
+{
+    "id": 2,
+    "country": "LU",
+    "artist": "Sherisse Laurence",
+    "song": "L'amour de ma vie",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "L'amour de ma vie",
+            "content": "J'ai tant d'amour en moi sans raison\nTellement le cœur qui bat sans raison\nQue je veux bien partir un jour pour la raison d'amour\n\nVers l'homme qui me dira sans raison\nDes choses qu'on ne dit pas sans raison\nDes mots plus beaux que les enfants\nPlus forts, plus grands et plus hauts que les volcans\n\nJe volerai sans aile pour l'amour de ma vie\nJ'inventerai des soleils, des jours en pleine nuit\nJe changerai le temps pour garder plus longtemps\nL'amour de ma vie\n\nJe rêve d'un sourire sans raison\nD'une rose qu'il va m'offrir sans raison\nEt d'un regard couleur d'espoir\nComme dans la nuit, les étoiles brillent dans le noir\n\nJe volerai sans aile pour l'amour de ma vie\nJ'inventerai des soleils, des jours en pleine nuit\nJe changerai le temps pour garder plus longtemps\nL'amour de ma vie\n\nJe volerai sans aile pour l'amour de ma vie\nJ'inventerai des soleils, des jours en pleine nuit\nJe changerai le temps pour garder plus longtemps\nL'amour de ma vie\n\nJe volerai sans aile pour l'amour de ma vie\nJ'inventerai des soleils, des jours en pleine nuit\nJe changerai le temps pour garder plus longtempѕ\nL'amour de mа vie"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The love of my life",
+            "content": "I've got so much love in me for no reason\nMy heart beats so much for no reason\nHow I'd like to leave one day for love\n\nTowards the man who'll tell me for no reason\nThings that aren't said for no reason\nWords more beautiful than children\nStronger, bigger and higher than volcanoes\n\nI'll fly without wings for the love of my life\nI'll make suns to turn days into nights\nI'll change time to keep longer\nThe love of my life\n\nI dream of a smile for no reason\nOf a rose he'll give me for no reason\nAnd of a look coloured with hope\nJust like in the night, the shining stars in the dark\n\nI'll fly without wings for the love of my life\nI'll make suns to turn days into nights\nI'll change time to keep longer\nThe love of my life\n\nI'll fly without wings for the love of my life\nI'll make suns to turn days into nights\nI'll change time to keep longer\nThe love of my life\n\nI'll fly without wings for the love of my life\nI'll make suns to turn days into nightѕ\nI'll chаnge time to keep longer\nThe love of my life"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/T7CJcQXp6_8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Claire Aimee Guerin"
+    ],
+    "composers": [
+        "Rolf Soja"
+    ],
+    "lyricists": [
+        "Alain Garcia",
+        "Frank Dostal"
+    ],
+    "writers": null,
+    "conductor": "Rolf Soja",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 156,
+    "broadcaster": "CLT",
+    "spokesperson": "Frédérique Ries",
+    "commentators": [
+        "Valérie Sarn"
+    ]
+}

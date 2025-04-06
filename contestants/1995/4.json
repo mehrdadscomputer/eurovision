@@ -1,0 +1,50 @@
+{
+    "id": 4,
+    "country": "DK",
+    "artist": "Aud Wilken",
+    "song": "Fra Mols til Skagen",
+    "lyrics": [
+        {
+            "languages": [
+                "Danish"
+            ],
+            "title": "Fra Mols til Skagen",
+            "content": "La' mig vide hvornår\nAlle togene går\nFor jeg vil vågne hos dig\nNu har sneen låst mig\n\nKun en vinter herfra\nKold og frysende klar\nSend mig dine tanker\nFor mit hjerte banker\n\nFra Mols til Skagen, fra Mols til Skagen\nFra Mols til Skagen, jeg savner dig\nOg dine silkelagner\nOg morgenmad på blå altaner\nDer findes ingen vilde svaner\nSå længe sneen daler\n\nDu var det hele for mig\nNu' jeg stille og bleg\nDu er solens kejser\nMine drømme rejser\n\nFra Mols til Skagen, fra Mols til Skagen\nFra Mols til Skagen, jeg savner dig\nOg dine silkelagner\nOg morgenmad på blå altaner\nDer findes ingen vilde svaner\nSå længe sneen daler\n\nSilkelagner\nOg morgenmad på blå altaner\nDer findes ingen vilde svaner\nSå længe sneen daler\n\nSilkelagner\n(Fra Mols til Skagen)\nOg morgenmad på blå altaner\n(Fra Mols til Skagen)\nDer findes ingen vilde svaner\nSå længe ѕneen dаler"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "From Mols to Skagen",
+            "content": "Let me know when\nAll the trains are leaving\n'Cause I want to wake up with you\nNow the snow has incarcerated me\n\nJust a winter away\nCold and clear as ice\nSend your thoughts to me\n'Cause my heart is pounding\n\nFrom Mols to Skagen, from Mols to Skagen\nFrom Mols to Skagen, I'm missing you\nAnd your silky sheets\nAnd breakfast on blue balconies\nThere will be no wild swans\nAs long as this snow keeps falling\n\nYou were everything to me\nNow I am quiet and pale\nYou are the Emperor of the Sun\nMy dreams are soaring\n\nFrom Mols to Skagen, from Mols to Skagen,\nFrom Mols to Skagen, I'm missing you\nAnd your silky sheets\nAnd breakfast on blue balconies\nThere will be no wild swans\nAs long as this snow keeps falling\n\nSilky sheets\nAnd breakfast on blue balconies\nThere will be no wild swans\nAs long as this snow keeps falling\n\nSilky sheets\n(From Mols to Skagen)\nAnd breakfast on blue balconies\n(From Mols to Skagen)\nThere will be no wild swans\nAs long as this snow keepѕ fаlling"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/gsFw1GwbBjI",
+        "https://www.youtube.com/embed/YOTF0A-U8Zg"
+    ],
+    "dancers": null,
+    "backings": [
+        "Anders Ørsager",
+        "Arvid Nielsen",
+        "Josephine Akvana",
+        "Pia Trojgård"
+    ],
+    "composers": [
+        "Lise Cabble",
+        "Mette Mathiesen"
+    ],
+    "lyricists": [
+        "Lise Cabble"
+    ],
+    "writers": null,
+    "conductor": "Frede Ewert",
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 101,
+    "broadcaster": "DR",
+    "spokesperson": "Bent Henius",
+    "commentators": [
+        "Jørgen de Mylius"
+    ]
+}

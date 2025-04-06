@@ -1,0 +1,43 @@
+{
+    "id": 16,
+    "country": "NO",
+    "artist": "Britt Synnøve Johansen",
+    "song": "Venners nærhet",
+    "lyrics": [
+        {
+            "languages": [
+                "Norwegian"
+            ],
+            "title": "Venners nærhet",
+            "content": "Du søker mine tanker, jeg vet hva du vil si\nMen sa du det du visste, ville tausheten forbli\n\nNår venners nærhet er blitt en trussel\nOg håpefulle smil blir visket bort\nKom da og vekk meg, la oss danse\nSå forblir du min, du er min venn\n\nJeg vet at du er liten, men likevel så stor\nAll verden vil du favne, jeg hilser deg, min bror\n\nNår venners nærhet er blitt en trussel\nOg håpefulle smil blir visket bort\nKom da og vekk meg, la oss danse\nSå forblir du min, du er min venn\n\n(Din stemme den har nådd meg, og jeg slipper deg inn)\nFor det er rom for oss begge, for tanker og for sinn\n\nNår venners nærhet er blitt en trussel\nOg håpefulle smil blir visket bort\nKom da og vekk meg, la oss dаnѕe\nSå forblir du min, du er min venn"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The closeness of friends",
+            "content": "You seek out my thoughts, I know what you will say\nBut if you told me what you know, the silence would remain\n\nWhen the closeness of friends has become a threat\nAnd smiles of hope are erased\nThen come and wake me up, let's dance\nThen you'll remain mine, you are my friend\n\nI know you are small, but still very big\nYou want to embrace the whole world, I greet you, brother\n\nWhen the closeness of friends has become a threat\nAnd smiles of hope are erased\nThen come and wake me, let's dance\nThen you'll remain mine, you are my friend\n\n(Your voice has reached me, and I let you in)\nFor there is room for us both, for thoughts and minds\n\nWhen the closeness of friends has become a threat\nAnd smiles of hope are erased\nThen come and wake me, let'ѕ dance\nThen you'll remain mine, you аre my friend"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/DGIUODWyzD4"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Inge Enoksen"
+    ],
+    "lyricists": [
+        "Leiv N. Grøtte"
+    ],
+    "writers": null,
+    "conductor": "Pete Knutsen",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 76,
+    "broadcaster": "NRK",
+    "spokesperson": "Sverre Christophersen",
+    "commentators": [
+        "John Andreassen"
+    ]
+}

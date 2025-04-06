@@ -1,0 +1,43 @@
+{
+    "id": 26,
+    "country": "RO",
+    "artist": "The Humans",
+    "song": "Goodbye",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Goodbye",
+            "content": "It's time\nFor me to say goodbye\nIt's fine\nI've tried a million times\nTo kiss\nThe emptiness\nAnd make her mine\n\nI should've stayed\nBut I already left a thousand times\nI've won my fights\nNobody new nothin' about\nAll alone\nTrapped in a void\nCan't see the light\nGoodbye\n\nWhy don't you see the beauty that surrounds you everywhere\nWhy can't you feel the joy in all the small things people share\nAnd all the happiness that by the way is all for free\nOpen your heart, recieve the love and stay with me\n\nPlease\nDon't be afraid\nI hear your cry\nDon't cry\n\nWe should all see the beauty of the precious gifts we have\n'Cause everyone deserves the power to go straight ahead\n\nNever give up, don't hit the floor, don't trust in all the lies\nNo matter what the odds will bring you, please don't ѕаy goodbye"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/DGR4S3y7qcw",
+        "https://www.youtube.com/embed/1FRArITJ6Wc",
+        "https://www.youtube.com/embed/B_7dBLmtNXk",
+        "https://www.youtube.com/embed/aE2jjscWTUs",
+        "https://www.youtube.com/embed/Q1zPlS8Z0TM",
+        "https://www.youtube.com/embed/VUZmyZCNnDY"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Alexandru Mihai Matei",
+        "Alin Neagoe"
+    ],
+    "lyricists": [
+        "Cristina Caramarcu"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Petre Năstase",
+    "tone": "E major",
+    "bpm": 101,
+    "broadcaster": "TVR",
+    "spokesperson": "Sonia Argint-Ionescu",
+    "commentators": [
+        "Liliana Ștefan",
+        "Radu Andrei Tudor"
+    ]
+}

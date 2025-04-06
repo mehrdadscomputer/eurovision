@@ -1,0 +1,43 @@
+{
+    "id": 23,
+    "country": "HU",
+    "artist": "Compact Disco",
+    "song": "Sound Of Our Hearts",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The sound of our hearts",
+            "content": "The whole big world is just one place\nYou can say it's all the same\nYou may feel hatreds it sows\nWe can show it's no way to go\n\nThis is the sound of our hearts, if you listen\nThis is a zeal from above and it can say it all\nThis is a fever they can't take away\nThis is the sound of… the sound of… the sound of our hearts\n\nThe sound of our hearts\nThe sound of our hearts\n\nHarmony can be achieved\nJust find some way to get connected\nDifferences may not be wrong\nThey enrich the things that we know\n\nDifferent faiths, different views\nAll we can do is to turn them in key\n\nThis is the sound of our hearts, if you listen\nThis is a zeal from above and it can say it all\nThis is a fever they can't take away\nThis is the sound of… the sound of… the sound of…\n\nThis is the sound of our hearts, if you listen\nThis is a zeal from above and it can say it all\nThis a fever they can't take away\nThis is the sound of… the sound of… the sound of our hearts\n\nThe sound of our hearts\nThe sound of our heаrtѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/sw85G2AlU2c",
+        "https://www.youtube.com/embed/qVXhElLlWb8",
+        "https://www.youtube.com/embed/vCAlNahM8HY",
+        "https://www.youtube.com/embed/e9h64LrjuUg"
+    ],
+    "dancers": null,
+    "backings": [
+        "Helga Wéber",
+        "Krisztián Szakos"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Attila Sándor",
+        "Behnam Lotfi",
+        "Csaba Walkó",
+        "Gábor Pál"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 162,
+    "broadcaster": "MTV",
+    "spokesperson": "Éva Novodomszky",
+    "commentators": [
+        "Gábor Gundel Takács"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2,
+    "country": "GB",
+    "artist": "Cliff Richard",
+    "song": "Power to All Our Friends",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Power to All Our Friends",
+            "content": "Power to all our friends\nTo the music that never ends\nTo the people we want to be\nBaby, power to you and me\n\nThere's one old man\nSpends his life growing flowers\nAnd caring for the bees\nPower to the bees\nThere's one old lady\nSpent her days making wine\nThe wine tasted fine\nPower to the vine\n\nPower to the boys who played rock 'n' roll\nAnd made my life so sweet\nAnd to the girls I knew before\nAnd those I've yet to meet\n\nPower to all our friends\nTo the music that never ends\nTo the people we want to be\nBaby, power to you and me\n\nThere's one strong man\nPloughing in the valley\nHe's living off the land\nPower to the land\n\nThere's some young girl\nLayin' down in Monte Carlo\nLayin' in the sun\nPower to the sun\n\nPower to the boys who played rock 'n' roll\nAnd made my life so sweet\nAnd to the girls I knew before\nAnd those I've yet to meet\n\nPower to all our friends\nTo the music that never ends\nTo the people we want to be\nBaby, power to you and me\n\nPower to the boys who played rock 'n' roll\nAnd made my life so sweet\nAnd to the girls I knew before\nAnd those I've yet to meet\n\nPower to all our friends\nTo the music that never ends\nTo the people we want to be\nBaby, power to you and me\n\nTo the music that never ends\nBaby, power to аll our friendѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/KAOwf78KKmY"
+    ],
+    "dancers": null,
+    "backings": [
+        "Alan Tarney",
+        "John Farrar",
+        "Terry Britten",
+        "Trevor Spencer"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Doug Flett",
+        "Guy Fletcher"
+    ],
+    "conductor": "David McKay",
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 91,
+    "broadcaster": "BBC",
+    "spokesperson": null,
+    "commentators": [
+        "Terry Wogan"
+    ]
+}

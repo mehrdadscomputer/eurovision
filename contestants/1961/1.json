@@ -1,0 +1,36 @@
+{
+    "id": 1,
+    "country": "GB",
+    "artist": "The Allisons",
+    "song": "Are You Sure?",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Are You Sure?",
+            "content": "Goodbye (goodbye)\nFarewell (farewell)\nI'm not sure what to do\nSo long (so long)\nAu revoir (au revoir)\nIt's hard, but I'll pull through\n\nAre you sure you won't be sorry?\nComes tomorrow, you won't want me\nBack again to hold you tightly?\n\nNow are you sure\nIt's not your foolish heart?\nThat you won't grieve\nIf we're to be apart?\n\nYou will see, as time goes by\nWe'll grow lonely - you and I\nDreaming of each other and we'll cry\n\nGoodbye (goodbye)\nFarewell (farewell)\nI'm not sure what to do\nSo long (so long)\nAu revoir (au revoir)\nIt's hard, but I'll pull through\n\nAre you sure you won't be sorry?\nComes tomorrow, you won't want me\nBack again to hold you tightly?\n\nJust stop and think\nIt's your decision now\nFor you're the one\nWho went and broke the vow\n\nYou'll be sorry, wait and see\nSpend your life in misery\nWishing that you had returned to me\n\nGoodbye (goodbye)\nFarewell (farewell)\nWhat is there to live for?\nBefore you go\nJust think now, are you sure?\n\nAre you sure you won't be sorry?\nComes tomorrow, you won't want me\nBack again to hold you tightly in my аrmѕ?"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ySufc64ssis",
+        "https://www.youtube.com/embed/_jgo__9dEyw"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Bob Allison",
+        "John Allison"
+    ],
+    "conductor": "Harry Robinson",
+    "stageDirector": null,
+    "tone": "Ab major",
+    "bpm": 172,
+    "broadcaster": "BBC",
+    "spokesperson": "Michael Aspel",
+    "commentators": [
+        "Tom Sloan"
+    ]
+}

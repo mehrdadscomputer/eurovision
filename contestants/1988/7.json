@@ -1,0 +1,41 @@
+{
+    "id": 7,
+    "country": "IE",
+    "artist": "Jump the Gun",
+    "song": "Take Him Home",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Take him home",
+            "content": "So much to do, so little time\nYou ask me, can I change the world?\nAnd then, for everybody's sake\nWhat are the changes I would make?\nAnd you can dream, dream on, my friend\nYou have the right\nThere is something we can do\nSomething we can do, it's so easy\n\nIf I light a candle for everybody I know\nI could see forever down that long, long road\n\nSo if you meet somebody, it might be someone I know\nBrother, if he needs you, take him home\n\nYou can look him in the eye and hold out your hand\nTell him you're a brother and he'll understand\n\nSo if you meet somebody, it might be someone I know\nBrother, if he needs you…\nBrother, if he needs you, take him home\n\nSo if you meet somebody, it might be someone I know\nBrother, if he needs you…\nBrother, if he needs you…\nBrother, if he needs you, take him home\n\nBrother, if he needѕ you, tаke him home"
+        },
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Portalo a casa",
+            "content": "Così tanto da fare, così poco tempo\nMi chiedi: posso cambiare il mondo?\nE poi, per il bene di tutti\nQuali sono i cambiamenti che farei?\nE puoi sognare, sognare, amico mio\nHai la giusta\nC'è qualcosa che possiamo fare\nQualcosa che possiamo fare, è così facile\n\nSe accendo una candela per tutti quelli che conosco\nHo potuto vedere per sempre lungo quella lunga, lunga strada\n\nQuindi, se incontri qualcuno, potrebbe essere qualcuno che conosco\nFratello, se ha bisogno di te, portalo a casa\n\nPuoi guardarlo negli occhi e allunga la mano\nDigli che sei un fratello e capirà\n\nQuindi, se incontri qualcuno, potrebbe essere qualcuno che conosco\nFratello, se ha bisogno di te…\nFratello, se ha bisogno di te, portalo a casa\n\nQuindi, se incontri qualcuno, potrebbe essere qualcuno che conosco\nFratello, se ha bisogno di te…\nFratello, se ha bisogno di te…\nFratello, se ha bisogno di te, portalo a casa\n\nFratello, se ha bisogno di te, portalo a caѕа"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/dMXggK8o3fA"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Peter Eades"
+    ],
+    "conductor": "Noel Kelehan",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 89,
+    "broadcaster": "RTÉ",
+    "spokesperson": "John Skehan",
+    "commentators": [
+        "Mike Murphy"
+    ]
+}

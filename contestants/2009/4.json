@@ -1,0 +1,41 @@
+{
+    "id": 4,
+    "country": "GB",
+    "artist": "Jade Ewen",
+    "song": "It's My Time",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "My time",
+            "content": "I've been down, down so long\nBut those days are gone now\nI've got the will, I've earned the right\nTo show you it's my time tonight\n\nIt's my time, it's my time\nMy moment, I'm not gonna let go of it\nMy time, it's my time\nAnd I'll stand proud\nThere's nothing I'm afraid of\nI'll show you what I'm made of\nShow you all it's my time now\n\nI'll break through, I've made my move\nAnd my faith is strong now\nI've got the heart to reach the heights\nTo show you it's my time tonight\n\nIt's my time, it's my time\nMy moment, I'm not gonna let go of it\nMy time, it's my time\nAnd I'll stand proud\nThere's nothing I'm afraid of\nI'll show you what I'm made of\nShow you all it's my time now\n\nI've got the will, I've earned the right\nTonight, tonight\n\nIt's my time, it's my time\nMy moment, I'm not gonna let go of it\nMy time, it's my time\nAnd I'll stand proud\nThere's nothing I'm afraid of\nI'll show you what I'm made of\nShow you all it's my time now\n\nI'll show you аll it'ѕ my time now"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/-GwOojK3VRU",
+        "https://www.youtube.com/embed/i-RJc1i9q34",
+        "https://www.youtube.com/embed/eADt1lFpmCA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Andrew Lloyd Webber"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Andrew Lloyd Webber",
+        "Diane Eve Warren"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A minor",
+    "bpm": 98,
+    "broadcaster": "BBC",
+    "spokesperson": "Duncan James",
+    "commentators": [
+        "Graham Norton",
+        "Paddy O'Connell",
+        "Sarah Cawood"
+    ]
+}

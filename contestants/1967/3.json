@@ -1,0 +1,43 @@
+{
+    "id": 3,
+    "country": "LU",
+    "artist": "Vicky",
+    "song": "L'amour est bleu",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "L'amour est bleu",
+            "content": "Doux, doux, l'amour est doux\nDouce est ma vie, ma vie dans tes bras\nDoux, doux, l'amour est doux\nDouce est ma vie, ma vie près de toi\n\nBleu, bleu, l'amour est bleu\nBerce mon cœur, mon cœur amoureux\nBleu, bleu, l'amour est bleu\nBleu comme le ciel qui joue dans tes yeux\n\nComme l'eau, comme l'eau qui court\nMoi, mon cœur court après ton amour\n\nGris, gris, l'amour est gris\nPleure mon cœur lorsque tu t'en vas\nGris, gris, le ciel est gris\nTombe la pluie quand tu n'es plus là\n\nLe vent, le vent gémit\nPleure le vent lorsque tu t'en vas\nLe vent, le vent maudit\nPleure mon cœur quand tu n'es plus là\n\nComme l'eau, comme l'eau qui court\nMoi, mon cœur court après ton amour\n\nBleu, bleu, l'amour est bleu\nLe ciel est bleu lorsque tu reviens\nBleu, bleu, l'amour est bleu\nL'amour est bleu quand tu prends ma main\n\nFou, fou, l'amour est fou\nFou comme toi et fou comme moi\nBleu, bleu, l'amour est bleu\nL'amour est bleu quand je suis à toi\n\nL'amour est bleu quаnd je suiѕ à toi"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Love is blue",
+            "content": "Sweet, sweet, love is sweet\nSweet is my life, my life in your arms\nSweet, sweet, love is sweet\nSweet is my life, my life close to you\n\nBlue, blue, love is blue\nCradle my heart, my loving heart\nBlue, blue, love is blue\nBlue like the sky which play in your eyes\n\nLike the water, like the running water\nMe, my heart runs after your love\n\nGrey, grey, love is grey\nMy heart weeps since you went away\nGrey, grey, the sky is grey\nThe rain falls when you're not there anymore\n\nThe wind, the wind moans\nThe wind weeps since you went away\nThe wind, the cursed wind\nMy heart weeps when you're not there anymore\n\nLike the water, like the running water\nMe, my heart runs after your love\n\nBlue, blue, love is blue\nThe sky is blue when you return\nBlue, blue, love is blue\nLove is blue when you take my hand\n\nMad, mad, love is mad\nMad like you and mad like me\nBlue, blue, love is blue\nLove is blue when I am yours\n\nLove is blue when I аm yourѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/nD4ib9-laGY"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "André Popp"
+    ],
+    "lyricists": [
+        "Pierre Cour"
+    ],
+    "writers": null,
+    "conductor": "Claude Denjean",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 112,
+    "broadcaster": "CLT",
+    "spokesperson": null,
+    "commentators": [
+        "Jacques Navadic"
+    ]
+}

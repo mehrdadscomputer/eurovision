@@ -1,0 +1,34 @@
+{
+    "id": 4,
+    "country": "IE",
+    "artist": "Dickie Rock",
+    "song": "Come Back to Stay",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Come Back to Stay",
+            "content": "My love, I need your touch\nI need your love so very much\nSince you went away\nI cried for you each night and day\n\nThe day you went away\nI said I didn't mind\nNow I know that you have left\nA broken heart behind\n\nPlease, come back to stay\nAnd promise me you'll never stray\nI promise I'll be true\nAnd that I'll never make you blue\n\nFor no one else can take your place\nYour smile, your lips, your eyes, your face\nPlease, darling, oh please\nCome back to me to stay\n\nPlease, come back to stay\nAnd promise me you'll never stray\nI promise that I'll be true\nAnd that I'll never make you blue\n\nFor no one else can take your place\nYour smile, your lips, your eyes, your face\nPlease, darling, oh please\nCome back to me to stay\n\nOh darling, please come back to ѕtаy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/-G2-nTW6QxM"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Rowland Soper"
+    ],
+    "conductor": "Noel Kelehan",
+    "stageDirector": null,
+    "tone": "C# minor",
+    "bpm": 105,
+    "broadcaster": "RÉ",
+    "spokesperson": "Frank Hall",
+    "commentators": [
+        "Brendan O'Reilly"
+    ]
+}

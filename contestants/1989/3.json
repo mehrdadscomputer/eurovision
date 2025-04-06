@@ -1,0 +1,52 @@
+{
+    "id": 3,
+    "country": "SE",
+    "artist": "Tommy Nilsson",
+    "song": "En dag",
+    "lyrics": [
+        {
+            "languages": [
+                "Swedish"
+            ],
+            "title": "En dag",
+            "content": "En dag när vindarna bär\nEn dag står du och jag här\nEn dag när drömmen når fram\nNär vägarna möts förstår vi varann\n\nEn dag vi alla förstår\nEn dag, när stillheten rår\nEn dag jag finner din hand\nNär vägarna möts förstår vi varann\n\nVi bär på en längtan och vandrar omkring\nVandrar men utan att se\nVad som än händer, jag kommer till dig\nStannar fast timmen är sen\nStannar fast timmen är sen\n\nÅh… en dag när vindarna bär\nEn dag står du och jag här\nEn dag när drömmen når fram\nNär vägarna möts förstår vi varann\n\nÅh… allt det vi söker, det finns här intill\nAllt som vi hoppas ska ske\nÅh… vad som än händer, jag kommer till dig\nStannar fast timmen är sen\nÅh… stannar fast timmen är sen\n\nÅh… en dag när vindarna bär\nEn dag står du och jag här\n\nÅh… en dag\nNär vägarna möts förstår vi varann\n\nEn dag vi alla förstår\nÅh… en dag, när stillheten rår\nEn dag jag finner din hand\nNär vägarna möts förstår vi varann\n\n(En dag när vindarna bär)\nEn dag står du och jag här\nEn dag när drömmen når fram\nNär vägarna möts förѕtår vi varаnn"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "One day",
+            "content": "One day, when the winds carry\nOne day, you and I are standing there\nOne day, when the dream reaches out\nWhen our roads meet, we will understand each other\n\nOne day, we all understand\nOne day, when silence rules\nOne day, I find your hand\nWhen our roads meet, we will understand each other\n\nWe carry a yearning, and wander around\nWander without seeing\nWhatever happens, I will come to you\nStay even though it's late\nStay even though it's late\n\nOh… one day, when the winds carry\nOne day, you and I are standing there\nOne day, when the dream reaches out\nWhen our roads meet, we will understand each other\n\nOh… everything we're looking for, is right here\nEverything we hope for will happen\nOh… whatever happens, I will come to you\nStay even though it's late\nOh… stay even though it's late\n\nOh… one day, when the winds carry\nOne day, you and I are standing there\n\nOh… one day\nWhen our roads meet, we will understand each other\n\nOne day, we all understand\nOh… one day, when silence rules\nOne day, I find your hand\nWhen our roads meet, we will understand each other\n\n(One day, when the winds carry)\nOne day, you and I are standing there\nOne day, when the dream reaches out\nWhen our roads meet, we will underѕtand eаch other"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/7dl1zoGU9sc"
+    ],
+    "dancers": null,
+    "backings": [
+        "Ankie Bagger",
+        "Jean Paul Wall",
+        "Jerry Williams",
+        "Tommy Ekman",
+        "Vicki Benckert"
+    ],
+    "composers": [
+        "Alexander Bard",
+        "Ola Håkansson",
+        "Tim Norell"
+    ],
+    "lyricists": [
+        "Ola Håkansson",
+        "Tim Norell"
+    ],
+    "writers": null,
+    "conductor": "Anders Berglund",
+    "stageDirector": null,
+    "tone": "C# major",
+    "bpm": 94,
+    "broadcaster": "SVT",
+    "spokesperson": "Agneta Bolme-Börjefors",
+    "commentators": [
+        "Jacob Dahlin"
+    ]
+}

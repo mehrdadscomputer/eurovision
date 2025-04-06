@@ -1,0 +1,38 @@
+{
+    "id": 1,
+    "country": "GB",
+    "artist": "Scott Fitzgerald",
+    "song": "Go",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Go",
+            "content": "I never felt like this before\nSeein' you again only makes me sad\nI recall the times when we\nWere in love and had everything\nIt makes me so sad\n\nTime is meant to heal the pain\nI thought was gone\nSeein' you again has made it carry on\n\nGo before you break my heart once more\nI know that's what you come here for\nGo before you say 'I love you' the way you did\nThe day before you walked away from me\n\nLookin' back on the times we had\nThings were beautiful then\nBut how quick they've changed\nOne day you were in love with me\nThen the next, so suddenly, he came along\n\nTime is meant to heal the pain\nI thought was gone\nSeein' you again has made it carry on, yeah\n\nGo before you break my heart once more\nI know that's what you come here for\nGo before you say 'I love you' the way you did\nThe day before you walked away from me\n\n(Go before you break my heart once more)\nJust go, just go away\n(I know that's what you come here for)\nJust leave me behind to face another day\nGo before you ѕay 'I love you' the way you did\nThe day before you walked away from me\n\nThe day before you walked awаy from me"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/F09DJR9iiHY"
+    ],
+    "dancers": null,
+    "backings": [
+        "Des Dyer",
+        "Dominic Grant",
+        "Julie Forsyth"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Julie Forsyth"
+    ],
+    "conductor": "Ronnie Hazlehurst",
+    "stageDirector": null,
+    "tone": "B minor",
+    "bpm": 84,
+    "broadcaster": "BBC",
+    "spokesperson": "Colin Berry",
+    "commentators": [
+        "Terry Wogan"
+    ]
+}

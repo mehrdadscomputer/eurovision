@@ -1,0 +1,42 @@
+{
+    "id": 19,
+    "country": "NO",
+    "artist": "Didrik Solli",
+    "song": "Tangen",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "My heart is yours",
+            "content": "You are like a sunset behind a mountain somewhere\nAnd when I cannot see you, I know you're still there\n\nBecause my heart is yours, I'll never leave you\nThough we are far apart, I'm by your side\nMy love is never gone, I feel it rise again\nThrough it all, now my heart is yours\n\nYou say I am the moonlight, I watch you at night\nAnd when you cannot see me, I'm still there in the sky\n\nBecause my heart is yours, I'll never leave you\nThough we are far apart, I'm by your side\nMy love is never gone, I feel it rise again\nThrough it all, now my heart is yours\n\nBecause my heart is yours, I'll never leave you\nThough we are far apart, I'm by your side\nMy love is never gone, I feel it rise again\nThrough it all, now my heаrt is yourѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/9w527tADNpc",
+        "https://www.youtube.com/embed/mTSvd12_lwM"
+    ],
+    "dancers": null,
+    "backings": [
+        "Håkon Sigernes",
+        "Jorunn Hauge",
+        "Karianne Kjærnes",
+        "May Kristin Kaspersen",
+        "Øyvind Boye Løvold"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Fredrik Kempe",
+        "Hanne Margrethe Fredriksen Sørvaag"
+    ],
+    "conductor": null,
+    "stageDirector": "Mattias Carlsson",
+    "tone": "E major",
+    "bpm": 132,
+    "broadcaster": "NRK",
+    "spokesperson": "Anne Rimmen",
+    "commentators": [
+        "Olav Viksmo-Slettan"
+    ]
+}

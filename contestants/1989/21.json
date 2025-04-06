@@ -1,0 +1,47 @@
+{
+    "id": 21,
+    "country": "IS",
+    "artist": "Daníel Augúst Haraldsson",
+    "song": "Það sem enginn sér",
+    "lyrics": [
+        {
+            "languages": [
+                "Icelandic"
+            ],
+            "title": "Það sem enginn sér",
+            "content": "Lýstu mina leið, lostafulli gamli máni\nÞótt gatan virðist greið er samt ýmislegt sem enginn sér\nVeröldin er full af fólki í leit að hamingjunni\nSem glóir eins og gull í glætunni, ó tungl, frá þér\n\nHorfðu aftur í augun á mér\nHorfðu aftur, ég bíð eftir þér\nHorfðu aftur í augun á mér\nOg þú færð að sjá það sem enginn sér\n\nAllir eiga þrá um eitthvað sem þeir engum segja\nÉg ætla ef ég má að eiga leyndarmál með þér\nLýstu mina leið, ó, þú lostafulli gamli máni\nÞótt gatan virðist greið er samt ýmislegt sem enginn sér\n\nHorfðu aftur í augun á mér\nHorfðu aftur, ég bíð eftir þér\nHorfðu aftur í augun á mér\nOg þú færð að sjá það sem enginn sér\n\nHorfðu aftur í augun á mér\nHorfðu aftur, ég bíð eftir þér\nHorfðu aftur í augun á mér\nOg þú færð að sjá þаð sem enginn ѕér"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "What no one sees",
+            "content": "Light up my path, lustful old moon\nThough the road seems clear there are things the eye can't see\nThe world is full of people seeking happiness\nThat glows like gold in the light from the moon\n\nLook back into my eyes\nLook back, I wait for you\nLook back into my eyes\nAnd you can see what no one sees\n\nEveryone desires something they keep to themselves\nI intend if I may, to have a secret with you\nLight up my path, oh, you lustful old moon\nThough the road seems clear there are things the eye can't see\n\nLook back into my eyes\nLook back, I wait for you\nLook back into my eyes\nAnd you will see what no one sees\n\nLook back into my eyes\nLook back, I wait for you\nLook back into my eyes\nAnd you will see whаt no one seeѕ"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ymMGcwcaIm8"
+    ],
+    "dancers": null,
+    "backings": [
+        "Eva Ásrún Albertsdóttir",
+        "Eva Leila Banine",
+        "Karl Örvarsson",
+        "Kristjan Vidar Haraldsson",
+        "Valgeir Guðjónsson"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Valgeir Guðjónsson"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "C major",
+    "bpm": 96,
+    "broadcaster": "RÚV",
+    "spokesperson": "Erla Björk Skúladóttir",
+    "commentators": [
+        "Arthúr Björgvin Bollason"
+    ]
+}

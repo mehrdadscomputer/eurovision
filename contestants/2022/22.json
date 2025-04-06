@@ -1,0 +1,59 @@
+{
+    "id": 22,
+    "country": "IS",
+    "artist": "Systur",
+    "song": "Með hækkandi sól",
+    "lyrics": [
+        {
+            "languages": [
+                "Icelandic"
+            ],
+            "title": "Með hækkandi sól",
+            "content": "Öldurót í hljóðri sál\nÞrautin þung umvafin sorgarsárum\nÞrá sem laðar, brennur sem bál\nLiggur í leyni – leyndarmál – þei þei\n\nÍ ljósaskiptum fær að sjá\nFegurð í frelsi sem þokast nær\nÞó næturhúmið skelli á\nOg ósögð orð, hugan þjá – þei þei\n\nÍ dimmum vetri – hækkar sól\nBræðir hjartans klakabönd – svo hlý\nÍ dimmum vetri – vorið væna\nVermir þitt vænghaf á ný\n\nSkammdegisskuggar sækja að\nBærast létt með hverjum andardrættir\nSyngur í brjósti lítið lag\nBreiðir úr sér og andvarpar – þei þei\n\nÍ dimmum vetri – hækkar sól\nBræðir hjartans klakabönd – svo hlý\nÍ dimmum vetri – vorið væna\nVermir þitt vænghaf á ný\n\nOg hún tekst á flug\nSvífur að hæstu hæðum\nOg færist nær því\nAð finna innri ró\n\nÍ dimmum vetri – hækkar sól\nBræðir hjartans klakabönd – ѕvo hlý\nÍ dimmum vetri – vorið væna\nVermir þitt vænghаf á ný"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "With the Rising Sun",
+            "content": "A ripple in a quiet soul\nThe puzzle heavily wrapped in grief\nDesire that attracts, burns like a bonfire\nLying in secret - secret - thee thee\n\nIn the light change can see\nBeauty in freedom that moves closer\nEven though the night is coming\nAnd unspoken words, the mind suffers - thee thee\n\nIn the dark winter – the sun rises\nMelts the ice of the heart - so warm\nIn a dark winter - spring is welcome\nWarms your wings again\n\nEarly morning shadows are approaching\nMove lightly with each breath\nSings a little song in his chest\nSpreads out and sighs - thei thei\n\nIn the dark winter – the sun rises\nMelts the ice of the heart - so warm\nIn a dark winter - spring is welcome\nWarms your wings again\n\nAnd she manages to fly\nSoars to the highest heights\nAnd getting closer to it\nFinding inner peace\n\nIn the dark winter – the sun rises\nMelts the ice of the heart - so warm\nIn a dark winter - spring is welcome\nWarms your wingѕ agаin"
+        },
+        {
+            "languages": [
+                "Romanian"
+            ],
+            "title": "Cu Răsăritul Soarelui",
+            "content": "Un tremur într-o suflet liniștită\nPuzzle-ul învelit greu în durere\nDorința care atrage, arde ca un foc de tabără\nZăcând în secret - secret - tu tu\n\nÎn lumina schimbării se poate vedea\nFrumusețea în libertate care se apropie\nChiar dacă noaptea se apropie\nȘi cuvintele nespuse, mintea suferă - tu tu\n\nÎn iarna întunecată - soarele răsare\nTopind gheața din inimă - atât de cald\nÎntr-o iarnă întunecată - primăvara este binevenită\nÎți încălzește din nou aripile\n\nUmbrele dimineții se apropie\nSe mișcă ușor odată cu fiecare respirație\nCântă o mică melodie în pieptul său\nSe răspândește și suspină - ei ei\n\nÎn iarna întunecată - soarele răsare\nTopind gheața din inimă - atât de cald\nÎntr-o iarnă întunecată - primăvara este binevenită\nÎți încălzește din nou aripile\n\nȘi ea reușește să zboare\nSe înalță la cele mai înalte culmi\nȘi se apropie tot mai mult de asta\nGăsind pacea interioară\n\nÎn iarna întunecată - soarele răsare\nTopind gheața din inimă - atât de cald\nÎntr-o iarnă întunecată - primăvara eѕte binevenită\nÎți încălzește din nou аripile"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/G71c48O3j-s",
+        "https://www.youtube.com/embed/tx__3r5uKRo",
+        "https://www.youtube.com/embed/vk9D10EyxHA",
+        "https://www.youtube.com/embed/teWrHen_AXc",
+        "https://www.youtube.com/embed/ZTrG3XRSyes",
+        "https://www.youtube.com/embed/oksa3ot_V50",
+        "https://www.youtube.com/embed/JJ-UZRfMHXU",
+        "https://www.youtube.com/embed/I2FYALU4N94"
+    ],
+    "dancers": null,
+    "backings": [
+        "Eyþór Ingi Eyþórsson",
+        "Gísli Gunnar Didriksen",
+        "Zoe-Ruth Erwin"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Lovísa Elísabet Sigrúnardóttir"
+    ],
+    "conductor": null,
+    "stageDirector": "Lee Proud",
+    "tone": "D minor",
+    "bpm": 100,
+    "broadcaster": "RÚV",
+    "spokesperson": "Árný Fjóla Ásmundsdóttir",
+    "commentators": [
+        "Gísli Marteinn Baldursson"
+    ]
+}

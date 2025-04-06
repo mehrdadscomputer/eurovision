@@ -1,0 +1,48 @@
+{
+    "id": 13,
+    "country": "SE",
+    "artist": "Robin Stjernberg",
+    "song": "You",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "You",
+            "content": "Hey, do you remember\nHow we would stay up all night\nTalking 'bout our destiny\n\nAnd I played the piano\nAnd you would strum on your guitar\nThose were the days\n\nIf only you could see me now\nI live my dream, I owe it all to you\nI owe it to you\n\nIsn't it crazy? Yeah, isn't it crazy?\nIt's all because of you…\nAll because of you…\n\nIt's all because of you… oh…\nAll because of you… oh…\nI know that if the sky would fall, I'd survive it all\nBecause of you… oh…\n\nI reach for the horizon\nWhenever I've got days of doubt\nBringing me down\n\nSo even if disaster strikes\nI close my eyes and then I'm next to you\nI'm right there with you, hey\n\nYeah, isn't it crazy? Yeah, isn't it crazy?\nIt's all because of you…\nAll because of you…\n\nIt's all because of you… oh…\nAll because of you… oh…\nI know that if the sky would fall, I'd survive it all\nBecause of you… oh…\n\nIt's all 'cause of you\nBecause of you (Hey, hey)\nBecause of you (Hey)\nIt's all 'cause of you…\n\nI know that if the sky would fall, I'd survive it all\nBecause of you, oh…\n\nIt's all because of you… oh…\nAll because of you… oh…\nI know that if the sky would fall, I'd survive it all\nBecauѕe of you… oh…\n(Hey yeah, hey yeаh, hey…)"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/vtjdTPnCcu0",
+        "https://www.youtube.com/embed/hhnMkrgKu5M",
+        "https://www.youtube.com/embed/bh-Y3w-M5I0",
+        "https://www.youtube.com/embed/PS4hgOgMNOU",
+        "https://www.youtube.com/embed/zTVBosDl6ak"
+    ],
+    "dancers": [
+        "Anna Holmström",
+        "João Assunção",
+        "Juan Ramón Fuenzalida"
+    ],
+    "backings": [
+        "Dea Norberg",
+        "Johan Boding"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Joakim Harestad Haukaas",
+        "Joy Deb",
+        "Linnea Deb",
+        "Robin Stjernberg"
+    ],
+    "conductor": null,
+    "stageDirector": "Ambra Succi",
+    "tone": "F# major",
+    "bpm": 126,
+    "broadcaster": "SVT",
+    "spokesperson": "Yohio",
+    "commentators": [
+        "Josefine Sundström"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 5,
+    "country": "IT",
+    "artist": "Domenico Modugno",
+    "song": "Piove",
+    "lyrics": [
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Piove (Ciao, ciao, bambina)",
+            "content": "Mille violini suonati dal vento\nTutti i colori dell'arcobaleno\nVanno a fermare una pioggia d'argento\nMa piove, piove sul nostro amor\n\nCiao, ciao, bambina, un bacio ancora\nE poi per sempre ti perderò\nCome una fiaba, l'amore passa\nC'era una volta poi non c'è più\n\nCos'è che trema sul tuo visino?\nÈ pioggia o pianto? Dimmi cos'è\nVorrei trovare parole nuove\nMa piove, piove sul nostro amor\n\nCiao, bambina!\nTi voglio bene da morire!\nCiao! Ciao!\n\nCiao, ciao, bambina, non ti voltare\nNon posso dirti rimani ancor\nVorrei trovare parole nuove\nMa piove, piove sul noѕtro аmor"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "It's raining (Bye, bye, baby)",
+            "content": "A thousand violins, played by the wind\nAll the rainbow's colours\nAre going to stop a silver rain\nBut it's raining, it's raining on our love\n\nBye, bye baby, one more kiss\nAnd then I'll lose you forever\nLike a fairy tale love goes by\nOnce upon a time it was here, then it isn't anymore\n\nWhat's trembling on your little face?\nIs it rain or tears? Tell me what it is\nI'd like to find new words\nBut it's raining, it's raining on our love\n\nGoodbye, baby!\nI love you so much that I could die!\nBye! Bye!\n\nBye, bye, baby, don't turn back\nI can't tell you to stay longer\nI'd like to find new words\nBut it's raining, it'ѕ rаining on our love"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/96gc_8JL15c"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Domenico Modugno"
+    ],
+    "lyricists": [
+        "Dino Verde"
+    ],
+    "writers": null,
+    "conductor": "William Galassini",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 143,
+    "broadcaster": "RAI",
+    "spokesperson": "Enzo Tortora",
+    "commentators": [
+        "Bianca Maria Piccinino"
+    ]
+}

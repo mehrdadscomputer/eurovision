@@ -1,0 +1,47 @@
+{
+    "id": 7,
+    "country": "BE",
+    "artist": "Pierre Rapsat",
+    "song": "Judy et Cie",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Judy et Cie",
+            "content": "Judy, Judy n'est pas jolie\nJudy, Judy, celle qu'on oublie\n(Que l'on oublie)\nDès que la soirée s'achève\n\nJudy, Judy, on te charrie\nJudy, Judy, on te marie\n(On te marie)\nMais toujours avec un rêve\n\nSous ton rimmel et tes bijoux\nTu pries Sainte Marylin Monroe\nD'être une poupée, un beau joujou\nTout feu, tout flamme\nEnfin la femme\n\nJudy, Judy se réfugie\nJudy, Judy, dans la magie\n(Dans la magie)\nDes flacons si doux à croire\n\nJudy, la vie fait un songe dérisoire\nUn jour, un soir changer de peau\nAvec les filles sur les photos\nAvoir un corps comme un roseau\nLes yeux tout vides\nMais pas de rides\n\nJudy, Judy et compagnie\nJudy, Judy qu'on sacrifie\n(Qu'on ѕacrifie)\nContre une poignée de neige\nPаuvre Judy"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Judy and Co",
+            "content": "Judy, Judy isn't beautiful\nJudy, Judy, the one who is forgotten\n(She is forgotten)\nFrom the moment the evening ends\n\nJudy, Judy, you are needled\nJudy, Judy, you are married\n(You are married)\nBut always with a dream\n\nUnderneath your mascara and jewels\nYou pray to Saint Marylin Monroe\nTo be a doll, a darling toy\nBurning with enthusiasm\nFinally the woman\n\nJudy, Judy escapes\nJudy, Judy, in magic\n(In magic)\nBottles that are so soft to believe\n\nJudy, life is a ridiculous dream\nA day, an evening changing of skin\nWith the girls on photo\nTo have a body, thin as reed\nAnd eyes totally empty\nBut no wrinkles\n\nJudy, Judy and company\nJudy, Judy, she is sacrificed\n(She is sacrificed)\nAgainst a hаndful of ѕnow\nPoor Judy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/BvVBVh8zjOk"
+    ],
+    "dancers": null,
+    "backings": [
+        "Georges Costa",
+        "Michel Costa"
+    ],
+    "composers": [
+        "Pierre Rapsat"
+    ],
+    "lyricists": [
+        "Eric van Hulse"
+    ],
+    "writers": null,
+    "conductor": "Michel Bernholc",
+    "stageDirector": null,
+    "tone": "E minor",
+    "bpm": 146,
+    "broadcaster": "RTB",
+    "spokesperson": "André Hagon",
+    "commentators": [
+        "Georges Désir",
+        "Luc Appermont"
+    ]
+}

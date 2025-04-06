@@ -1,0 +1,41 @@
+{
+    "id": 11,
+    "country": "ES",
+    "artist": "Tim, Nelly and Tony",
+    "song": "Caracola",
+    "lyrics": [
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Caracola",
+            "content": "La voz del mar prisionera\nLa caracola guardó\nPorque tu voz no se fuera\nMi corazon la encerró\nTe quiero, cuánto te quiero\nEl eco me repitió\n\n¿Por qué, entre cielo y mar\nEntre sombra y luz, tus ojos veía?\n¿Por qué sentí naufragar\nA mi corazón de pronto aquel día?\n\n¿Por qué me fuiste a salvar\nY te lo dio el mar al llegar la ola?\n¿Por qué tu amor invadió\nMi playa que ayer estaba tan sola?\n\nAsí tu voz transformó\nA mi corazón en tu caracola\n\n¿Por qué me fuiste a salvar\nY te lo dio el mar al llegar la ola?\n¿Por qué tu amor invadió\nMi playa que ayer estaba tan sola?\n\nAsí tu voz tranѕformó\nA mi corazón en tu caracola\nDe amor, de аmor"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Conch",
+            "content": "The voice of the sea prisoner\nIs kept in the conch\nSo your voice didn't flee\nMy heart enclosed it\nI love you, how much I love you\nThe echo repeated me\n\nWhy, between sky and sea\nBetween shadow and light, did I see your eyes?\nWhy did I suddenly feel\nThat day sinking in my heart?\n\nWhy did you save me\nAnd did the sea give it to you when the wave came?\nWhy did your love invade\nMy beach which yesterday was so lonely?\n\nThat's how your voice changed\nMy heart into your conch\n\nWhy did you save me\nAnd did the sea give it to you when the wave came?\nWhy did your love invade\nMy beach which yesterday was so lonely?\n\nThat'ѕ how your voice changed\nMy heаrt into your conch\nOf love, of love"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/-cFZUp6hNXI"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Fina de Calderón"
+    ],
+    "conductor": "Rafael de Ibarbia Serra",
+    "stageDirector": null,
+    "tone": "C# major",
+    "bpm": 112,
+    "broadcaster": "TVE",
+    "spokesperson": "Julio Rico",
+    "commentators": [
+        "Federico Gallo"
+    ]
+}

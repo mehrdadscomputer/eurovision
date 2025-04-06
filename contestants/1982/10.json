@@ -1,0 +1,34 @@
+{
+    "id": 10,
+    "country": "IE",
+    "artist": "The Duskeys",
+    "song": "Here Today, Gone Tomorrow",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Here today, gone tomorrow",
+            "content": "Lala lalalala... la lalalala... la lalalala...\nLa lalalala... la lalalala... la lalalala...\n\nHey baby, tell me please\nHow can you come back to me as cool as a breeze?\nYou can fool some people with your big brown eyes\nBut I'm the one who knows that you've been telling me lies\nYou tell me that you love me so\nThen you pack up and off you go\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirst you give, then you borrow\nHere today, gone tomorrow\nBaby, love me all of the time\nOr I don't really wanna know\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirst you give, then you borrow\nHere today, gone tomorrow\nBaby, give me all of your love\nOr I don't really wanna know\n\nLala lalalala... la lalalala... la lalalala...\nLa lalalala... la lalalala... la lalalala...\n\nHey baby, would it be nice\nIf I paid attention to my friends' advice?\nThey've been telling me that I should turn you down\n'Cause you've another girlfriend on the far side of town\nI always hoped when you'd go away\nThat you would change your rovin' ways\nAnd come back to stay\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirst you give, then you borrow\nHere today, gone tomorrow\nBaby, love me all of the time\nOr I don't really wanna know\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirst you give, then you borrow\nHere today, gone tomorrow\nBaby, give me all of your love\nOr I don't really wanna know\n\nHere today, gone tomorrow\nOne day love, next day sorrow\nFirѕt you give, then you borrow\nHere todаy, gone tomorrow"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Ms_aDsasL4Y"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Sally Keating"
+    ],
+    "conductor": "Noel Kelehan",
+    "stageDirector": null,
+    "tone": "C minor",
+    "bpm": 134,
+    "broadcaster": "RTÉ",
+    "spokesperson": "John Skehan",
+    "commentators": [
+        "Larry Gogan"
+    ]
+}

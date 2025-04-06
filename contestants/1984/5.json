@@ -1,0 +1,46 @@
+{
+    "id": 5,
+    "country": "IT",
+    "artist": "Alice & Battiato",
+    "song": "I treni di Tozeur",
+    "lyrics": [
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "I treni di Tozeur",
+            "content": "Nei villaggi di frontiera guardano passare i treni\nLe strade deserte di Tozeur\n\nDa una casa lontana, tua madre mi vede\nSi ricorda di me delle mie abitudini\n\nE per un istante ritorna la voglia\nDi vivere a un'altra velocità\nPassano ancora lenti i treni per Tozeur\n\nNelle chiese abbandonate si preparano rifugi\nE nuove astronavi per viaggi interstellari\n\nIn una vecchia miniera, distese di sale\nE un ricordo di me, come un incantesimo\n\nE per un istante ritorna la voglia\nDi vivere a un'altra velocità\nPassano ancora lenti i treni per Tozeur\n\nMmm…\nDai daba daba da…\nNanai na nana nanana nana…\nNana dabai da nana…\n\nDoch wir wollen dir ihn zeigen \nUnd du wirst… \n\nNei villaggi di frontiera guardano pasѕаre\nI treni per Tozeur"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The trains of Tozeur",
+            "content": "In the frontier villages they watch the trains passing\nThe deserted roads of Tozeur\n\nFrom a distant house, your mother sees me\nAnd she remembers me for my habits\n\nAnd for a moment returns my desire\nOf living at a different pace\nStill the trains for Tozeur  are passing by slowly\n\nIn the abandoned churches, they prepare shelters\nAnd new spaceships for journeys among the stars\n\nIn an old empty mine, the salt extends\nAnd I seem to remember it, like a dream\n\nAnd for a moment returns my desire\nOf living at a different pace\nStill the trains for Tozeur  are passing by slowly\n\nMmm…\nDai daba daba da…\nNanai na nana nanana nana…\nNana dabai da nana…\n\nStill we want to show him to you \nAnd you will… \n\nIn the frontier villages, they watch\nThe trains pаsѕing by for Tozeur"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/UFrngxBXgdI"
+    ],
+    "dancers": null,
+    "backings": [
+        "Marilyn Horne"
+    ],
+    "composers": [
+        "Franco Battiato"
+    ],
+    "lyricists": [
+        "Giusto Pio",
+        "Rosario Consentino"
+    ],
+    "writers": null,
+    "conductor": "Giusto Pio",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "RAI",
+    "spokesperson": "Mariolina Cannuli",
+    "commentators": [
+        "Antonio De Robertis"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 17,
+    "country": "DE",
+    "artist": "Elaiza",
+    "song": "Is It Right",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Is It Right",
+            "content": "He's got a pen in his hand\nA piece of paper starin' back\nHe could write like a man\nA novel life back on track\n\nMaybe drama, or a poem\nBut still he doesn't know\nThe time is ticking in his ear\nThe holy silence dissappears\n\nIs it right or is it wrong??\nI can't go on! you can't go on\nIf you say yes…or even no\nYou don't know how and where to go\n\nShe turns over and looks at him\nShe tries to feel, and can't feel anything\nBut it's so hard to say goodbye\nEven when you know, that it's right\n\nWhen it's all not what you thought\nAnd a friendship is not enough\nWhen you long to feel alive\nAnd take the chance to give it up\n\nIs it right or is it wrong?\nI can't go on, you can't go on\nIf you say yes, or even no\nYou don't know how and where to go\n\nI know, it's not easy to decide\nTo find your own direction\nOh, the risk is too high\nBut you can't hide\n\nIs it right or is it wrong?\nI can go on, you can go on\nIf you say yeѕ, or even no\nYou don't know how аnd where to go"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/BFuGH2Kp9dI"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Elżbieta Steinmetz",
+        "Frank Kretschmer"
+    ],
+    "lyricists": [
+        "Adam Kesselhaut",
+        "Elżbieta Steinmetz"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "G minor",
+    "bpm": 132,
+    "broadcaster": "NDR",
+    "spokesperson": "Helene Fischer",
+    "commentators": [
+        "Peter Urban"
+    ]
+}

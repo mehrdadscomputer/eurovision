@@ -1,0 +1,55 @@
+{
+    "id": 3,
+    "country": "IS",
+    "artist": "Daði & Gagnamagnið",
+    "song": "10 Years",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "10 Years",
+            "content": "We've been together for a decade now\nStill everyday I'm loving you more\nIf I could do it all again\nI'd probably do it all the same as before\n\nI don't wanna know what would have happened if I never had had your love\nI didn't become myself before I met you\nI don't wanna know what would have happened if I never had felt your love\n\nEverything about you I like\nWe started out so fast\nNow we can take it slower\n\nLove takes some time, takes a little time, so take a little time\n\nAs it ages like wine\nHow does it keep getting better?\nEveryday our love finds a new way to grow\nThe time we spend together\nMmm, simply feels good\nWe got a good thing going\nAnd just when I thought that my heart was full\nI found places that I never explored\nYou're so fascinating\nI can't remember the last time I was bored\n\nI don't wanna know what would have happened if I never had had your love\nI didn't become myself before I met you\nI don't wanna know what would have happened if I never had felt your love\nEverything about you I like\n\nHow does it keep getting better?\nEveryday our love finds a new way to grow\nThe time we spend together\nMmm, feels good\nHow does it keep getting better\nEveryday our love finds a new way to grow\nThe time we spend together\nSimply feelѕ good\nWe got а good thing going"
+        },
+        {
+            "languages": [
+                "Romanian"
+            ],
+            "title": "10 Ani",
+            "content": "Suntem împreună de un deceniu acum\nÎn fiecare zi te iubesc și mai mult\nDacă aș putea face totul din nou\nProbabil aș face totul la fel ca înainte\n\nNu vreau să știu ce s-ar fi întâmplat dacă nu aș fi avut dragostea ta\nNu am devenit cine sunt acum înainte să te întâlnesc\nNu vreau să știu ce s-ar fi întâmplat dacă nu aș fi simțit dragostea ta\n\nTotul la tine îmi place\nAm început atât de repede\nAcum putem lua lucrurile mai încet\n\nDragostea își ia puțin timp, își ia puțin timp, așa că ia-ți puțin timp\n\nPe măsură ce îmbătrânește ca un vin\nCum reușește să devină tot mai bună?\nÎn fiecare zi, dragostea noastră găsește o nouă modalitate de a crește\nTimpul petrecut împreună\nMmm, pur și simplu se simte bine\nAvem ceva bun în desfășurare\nȘi chiar când credeam că inima mea era plină\nAm descoperit locuri pe care nu le-am explorat niciodată\nEști atât de fascinant\nNu-mi amintesc ultima dată când m-am plictisit\n\nNu vreau să știu ce s-ar fi întâmplat dacă nu aș fi avut dragostea ta\nNu am devenit cine sunt acum înainte să te întâlnesc\nNu vreau să știu ce s-ar fi întâmplat dacă nu aș fi simțit dragostea ta\nTotul la tine îmi place\n\nCum reușește să devină tot mai bună?\nÎn fiecare zi, dragostea noastră găsește o nouă modalitate de a crește\nTimpul petrecut împreună\nMmm, se simte bine\nCum reușește să devină tot mai bună?\nÎn fiecare zi, dragostea noastră găsește o nouă modalitate de a crește\nTimpul petrecut împreună\nPur și simplu se simte bine\nAvem ceva bun în deѕfășurаre"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/YSMhu-PrLME",
+        "https://www.youtube.com/embed/1zTbVRPh5EI",
+        "https://www.youtube.com/embed/ORDK1XQToAY",
+        "https://www.youtube.com/embed/XaRcaImszE4",
+        "https://www.youtube.com/embed/tFwGuT3q21s",
+        "https://www.youtube.com/embed/C_igWddS-iY",
+        "https://www.youtube.com/embed/3b4JvffUxyM"
+    ],
+    "dancers": [
+        "Árný Fjóla Ásmundsdóttir",
+        "Jóhann Sigurður Jóhannsson",
+        "Stefán Hannesson"
+    ],
+    "backings": [
+        "Hulda Kristín Kolbrúnardóttir",
+        "Sigrún Birna Pétursdóttir"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Daði Freyr Pétursson"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "A major",
+    "bpm": 123,
+    "broadcaster": "RÚV",
+    "spokesperson": "Hannes Óli Ágústsson",
+    "commentators": [
+        "Alex Elliott",
+        "Gísli Marteinn Baldursson"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 10,
+    "country": "HR",
+    "artist": "Vesna Pisarovic",
+    "song": "Everything I Want",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Everything I want",
+            "content": "Since you came into my life, I've been touched by happiness\nI feel love is all around 'cause there is no more loneliness\nAnd there's one thing that is true\nYou should know how much I love you\n\nLove is everything I want, love is everything I need\nThinking of the day we met as sign of destiny\nLove is everything I want, I believe in you and me\nLet me show you what I feel because my love is real\n\nThe girl I was, I left behind, incomplete and insecure\nNow I got you on my mind and I feel like I've been cured\nAnd there's one thing that is true\nYou should know how much I love you\n\nLove is everything I want, love is everything I need\nThinking of the day we met as sign of destiny\nLove is everything I want, I believe in you and me\nLet me show you what I feel because my love is real\n\n(Ah… ah… ah…) Whoa…\n\n(Love is everything I want, love is everything I need)\n(Thinking of the day we met as sign of destiny)\nLove is everything I want, I believe in you and me\nLet me show you what I feel because my love is real\n\n(Love is everything I want, love is everything I need)\n(Thinking of the day we met as sign of destiny) Thinking of the day\n(Love is everything I want, I believe in you and me)\n(Let me show you what I feel) because my love is real\nBecause my love iѕ reаl"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Ck7ql_nJ02g",
+        "https://www.youtube.com/embed/DIfrXlMNWIY",
+        "https://www.youtube.com/embed/mznNzI2v2m4",
+        "https://www.youtube.com/embed/inhKavEv4Nw"
+    ],
+    "dancers": null,
+    "backings": [
+        "Daria Hodnik",
+        "Dragan Brnas-Fudo",
+        "Ivana Čabraja",
+        "Vladimir Pavelić-Bubi"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Milana Vlaović"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "D minor",
+    "bpm": 100,
+    "broadcaster": "HRT",
+    "spokesperson": "Duško Ćurlić",
+    "commentators": [
+        "Ante Batinović"
+    ]
+}

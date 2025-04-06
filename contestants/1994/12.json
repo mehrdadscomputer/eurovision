@@ -1,0 +1,43 @@
+{
+    "id": 12,
+    "country": "SE",
+    "artist": "Marie Bergman & Roger Pontare",
+    "song": "Stjärnorna",
+    "lyrics": [
+        {
+            "languages": [
+                "Swedish"
+            ],
+            "title": "Stjärnorna",
+            "content": "God morgon, min sol\nSäg har du vaknat för att ge mig av din härlighet\nEller försvinner du nå'n stans i ett regn\nDär dina tårar blir en spegel av den ensamhet som jag känner nu?\nMen om du ger mig av det ljus du har\nStannar dagen kvar tills månen tänder\n\nStjärnorna som lyser upp min natt\nSom ger vår kärlek kraft\nSom leder oss när vinden vänder\nStjärnorna som styr med ödets hand\nNär hjärtan sätts i brand\nSom leder oss till drömmens land\nÅh… kom och ta min hand, följ mig i natt\n\nGod morgon, min sol\nTänk om jag kunde se allt det som bara du kan se\nDå visste jag allt det du vet\nOm vad som händer med oss båda i morgon dag\nOm du stannar kvar\nSå om du ger mig av det ljus du har\nStannar dagen kvar tills månen tänder\n\nStjärnorna som lyser upp min natt\nSom ger vår kärlek kraft\nSom leder oss när vinden vänder\nStjärnorna som styr med ödets hand\nNär hjärtan sätts i brand\nOch jag kan ej en tanke sända\n\nStjärnorna som lyser upp min natt\nSom ger vår kärlek kraft\nSom leder oss…\nStjärnorna som styr med ödets hand\nNär hjärtan sätts i brand\nTill drömmenѕ land, åh… ta min hand\nÅh… ta min hand, följ mig i nаtt"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The stars",
+            "content": "Good morning, my sun\nTell me, did you wake up to give me some of your glory\nOr will you disappear somewhere in a rainshower\nWhere your tears become a mirror of the solitude I feel right now?\nBut if you give me some of the light you have\nThe day will stay until the moon enlightens\n\nThe stars, enlightening my night\nGiving power to our love\nLeading us when the winds are changing\nThe stars, ruling with the hand of destiny\nWhen hearts are set on fire\nWhich lead us to the land of dreams\nOh… come and take my hand, follow me tonight\n\nGood morning, my sun\nImagine that I could see all the things that only you can see\nThen I knew all the things that you know\nAbout what will happen with the two of us tomorrow\nIf only you stay\nSo if you gave me some of your light\nThe day will remain until the moon turns on\n\nThe stars, enlightening my night\nGiving power to our love\nLeading us when the winds are changing\nThe stars, ruling with the hand of destiny\nWhen hearts are set on fire\nAnd I can't send a thought\n\nThe stars, enlightening my night\nGiving power to our love\nLeading us…\nThe stars, ruling with the hand of destiny\nWhen hearts are set on fire\nTo the land of dreamѕ, oh… take my hand\nOh… take my hаnd, follow me tonight"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/8nM8vPTh_S0"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Peter Bertilsson"
+    ],
+    "lyricists": [
+        "Mikael Littwold"
+    ],
+    "writers": null,
+    "conductor": "Anders Berglund",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 151,
+    "broadcaster": "SVT",
+    "spokesperson": "Marianne Anderberg",
+    "commentators": [
+        "Pekka Heino"
+    ]
+}

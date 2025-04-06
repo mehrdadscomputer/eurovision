@@ -1,0 +1,55 @@
+{
+    "id": 21,
+    "country": "FR",
+    "artist": "Anggun",
+    "song": "Echo (You And I)",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Écho (You and I)",
+            "content": "You and I, you and I\n\nJ'entends l'écho de nos pas, tous en cadence\nMarche au pas, jamais dans le même sens\nOn avance, mais on court après quoi?\n\nJ'entends l'écho de nos rêves, de nos envies\nAu-delà du jour jusqu'à la nuit\nOn s'entraîne, et on court après quoi?\n\nOn se perd, on s'espère\nQuelque part on s'égare\nUn jour au-delà on se retrouvera\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there is you and I\n\nJ'entends l'écho de nos pas qui se balancent\nÇa et là, toujours sur la même dance\nOn avance, mais on court après quoi?\n\nOn se perd, on s'espère\nQuelque part on s'égare\nUn jour au-delà on se retrouvera\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there is you and I\n\nThere is you and I\nThere is you and I\n\nJ'entends l'écho de ta voix s'éloigner de moi\nL'écho d'un amour un jour reviendra\nIl m'entraîne et je cours après toi\n\nOn se perd, on s'espère\nQuelque part on s'égare\nUn jour au-delà on se retrouvera\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there iѕ you аnd I"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Echo (You and I)",
+            "content": "You and I, you and I\n\nI hear the echo of our rhythmic steps\nMarching, never in the same direction\nWe move on, but what are we running after?\n\nI hear the echo of our dreams, of our desires\nEvery day until the night\nWe practice, and what are we running after?\n\nWe're confused, we hope\nSomewhere we get lost\nOne day we will see each other again\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there is you and I\n\nI hear the echo of our swinging steps\nThat and there, always the same dance\nWe move on, but what are we running after?\n\nWe're confused, we hope\nSomewhere we get lost\nOne day we will see each other again\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there is you and I\n\nThere is you and I\nThere is you and I\n\nI hear the echo of your voice moving away from me\nThe echo of a love that one day will return\nIt carries me off and I run after you\n\nWe're confused, we hope\nSomewhere we get lost\nOne day we will see each other again\n\nIn my dreams, in my dreams\nIn my heart, in my mind\nI see you and I, there iѕ you аnd I"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/0DZ7DbdeOeE",
+        "https://www.youtube.com/embed/SnSmB7uBo-Y"
+    ],
+    "dancers": null,
+    "backings": [
+        "Andréa Catozzi",
+        "Caroline Devismes",
+        "Jeremy Maupilet",
+        "Jimmy Bourcereau",
+        "Sebastien Demeaux"
+    ],
+    "composers": [
+        "Jean-Pierre Pilot",
+        "William Rousseau"
+    ],
+    "lyricists": [
+        "Anggun",
+        "William Rousseau"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Bb major",
+    "bpm": 137,
+    "broadcaster": "France 3",
+    "spokesperson": "Amaury Vassili",
+    "commentators": [
+        "Audrey Chauveau",
+        "Bruno Berberes",
+        "Cyril Féraud",
+        "Mireille Dumas"
+    ]
+}

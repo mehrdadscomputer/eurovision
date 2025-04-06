@@ -1,0 +1,43 @@
+{
+    "id": 7,
+    "country": "IS",
+    "artist": "Birgitta",
+    "song": "Open Your Heart",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Open your heart",
+            "content": "Every time you close your eyes\nI can see the light that you're hiding\nLike a shadow in the sky\nOf an eagle's wing when it's gliding\n\nDon't be afraid, I'm not gonna run away\nDon't let it wait, until it's too late\nFor what you have to say\n\nOpen your heart, show me the pain\nIt's all part of who you are\nTell me your dreams, your hopes and your fears\nJust open your beating heart to me\n\nEverything you share with me\nTurns a little darkness into light\nAnd that is how we're meant to be\nTruth will keep the light shining brighter\n\nOpen your heart, show me the pain\nIt's all part of who you are\nTell me your dreams, your hopes and your fears\nJust open your heart to me\n\nReach out, I'm right by your side\nExactly where I want to be\nThe sum of you and me is we, yeah\n\nOpen your heart, show me the pain\nShow me who you are\nTell me your dreams, your hopes and your fears\nJust open your heart to me\n\nOpen your heart, show me the pain\nIt's all part of who you are\nTell me your dreams, your hopes and your fears\nLet go and just show me who you are, yeah\nHey… your heart\n\nLet go and just ѕhow me who you аre"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ZI7l5WSJPIA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Herbert Viðarsson",
+        "Jóhann Bachman Ólafsson",
+        "Margrét Eir",
+        "Regína Ósk",
+        "Vignir Snær Vigfússon"
+    ],
+    "composers": [
+        "Birgitta Haukdal Brynjarsdóttir",
+        "Hallgrímur Óskarsson"
+    ],
+    "lyricists": [
+        "Hallgrímur Óskarsson"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "B major",
+    "bpm": 105,
+    "broadcaster": "RÚV",
+    "spokesperson": "Eva María Jónsdóttir",
+    "commentators": [
+        "Gísli Marteinn Baldursson"
+    ]
+}

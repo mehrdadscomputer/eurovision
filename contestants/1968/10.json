@@ -1,0 +1,44 @@
+{
+    "id": 10,
+    "country": "PT",
+    "artist": "Carlos Mendes",
+    "song": "Verão",
+    "lyrics": [
+        {
+            "languages": [
+                "Portuguese"
+            ],
+            "title": "Verão",
+            "content": "Como tudo o que acaba\nComo pedra rolando duma fraga\nComo fumo subindo no ar\n\nAssim estou quase indiferente\nCaminhando sem mais notar a gente\nQue por mim vejo passar\n\nO Verão já terminou\nFoi um sonho que findou\nNão interessa mais pensar\n\nAssim deixo esta tristeza\nVogando embalado na certeza\nQue o Verão há-de voltar\n\nE o Verão que sonho perto\nVai trazer para mim eu sei de certo\nAquilo que eѕte agora veio tirаr"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Summer",
+            "content": "Like an ending to everything\nLike a stone rolling from a crag\nLike a smoke rising in the air\n\nI'm almost indifferent\nWalking by, without looking to people\nThat I watch passing me by\n\nThe summer is over\nIt was a dream that ended\nI won't think about it\n\nTherefore I leave this sadness\nDrifting, rocked, by being certain\nThat the summer will return\n\nAnd the summer that I long to come near\nWill surely bring me\nWhat this ѕummer took awаy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ppiDaJG7YAU",
+        "https://www.youtube.com/embed/S0GpirEvTyY"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Pedro Osório"
+    ],
+    "lyricists": [
+        "José Alberto Diogo"
+    ],
+    "writers": null,
+    "conductor": "Joaquim Luís Gomes",
+    "stageDirector": null,
+    "tone": "Eb major",
+    "bpm": 132,
+    "broadcaster": "RTP",
+    "spokesperson": "Maria Manuela Furtado",
+    "commentators": [
+        "Fialho Gouveia"
+    ]
+}

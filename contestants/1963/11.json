@@ -1,0 +1,43 @@
+{
+    "id": 11,
+    "country": "ES",
+    "artist": "José Guardiola",
+    "song": "Algo prodigioso",
+    "lyrics": [
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Algo prodigioso",
+            "content": "Alguien vela por el niño cuando se quedó dormido\nAlguien que un millón de estrellas puso sobre el infinito\nAlguien que a las golondrinas\nA lejanas tierras siempre guiará\nAlguien que al desesperado\nUn camino indica que le salvará\n\nEse algo prodigioso que a mi vida iluminó\nCon un sol maravilloso - la ternura de tu amor\nTú, sólo tú, que en mi vida eres rayo de luz\nTú, manantial de alegría, de calma y de paz\n\nEse algo prodigioso que a mi vida iluminó\nCon un sol maravilloso - la ternura de tu amor\nTú, sólo tú, que en mi vida eres rayo de luz\nTú, manantial de alegría, de calma y de paz\n\nAlguien vela por el niño cuando se quedo dormido\nAlguien que un millón de estrellаs puso ѕobre el infinto"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Something marvellous",
+            "content": "Someone who looks after the child when he fell asleep\nSomeone who puts a million stars in the infinity\nSomeone who will always guide\nThe swallows to faraway lands\nSomeone who shows to the desperate\nThe way that will save him\n\nThat something marvellous that lighted my life\nWith a wonderful sun - the tenderness of your love\nYou, only you, are a ray of light in my life\nYou, joy, calm and peace spring\n\nThat something marvellous that lighted my life\nWith a wonderful sun - the tenderness of your love\nYou, only you, are a ray of light in my life\nYou, joy, calm and peace spring\n\nSomeone looks after the child when he fell asleep\nSomeone that put a million stаrѕ on the infinity"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/tu2zrI6esbU"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Fernando García Morcillo"
+    ],
+    "lyricists": [
+        "Camillo Murillo Janero"
+    ],
+    "writers": null,
+    "conductor": "Rafael de Ibarbia Serra",
+    "stageDirector": null,
+    "tone": "G minor",
+    "bpm": 163,
+    "broadcaster": "TVE",
+    "spokesperson": "Julio Rico",
+    "commentators": [
+        "Federico Gallo"
+    ]
+}

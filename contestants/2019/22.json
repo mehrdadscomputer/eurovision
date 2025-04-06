@@ -1,0 +1,48 @@
+{
+    "id": 22,
+    "country": "IL",
+    "artist": "Kobi Marimi",
+    "song": "Home",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": null,
+            "content": "Oh-oh-oh-oh-oh-oh-oh-oh-ooh\n\nCaught up in this moment 'til my heartbeat stops\nI've been running barefoot to the mountain tops\nNothing comes as easy as it goes\nI can hug the water when it snows\n\nI feel the sun upon my skin\nAnd I am someone, I am someone\nYou pulled my heart, I took it in\nIt made me someone, I am someone\nAnd now I'm done, I'm coming home\n\nI used to listen to the way they talk\nCounting down the minutes from the ticking clock\n\nI feel the sun upon my skin\nAnd I am someone, I am someone\nYou pulled my heart, I took it in\nIt made me someone, I am someone\nAnd now I'm done, I'm coming\n\nHome was so far, collecting scars, I refuse\nAnother touch won't be another bruise\n\nI feel the sun upon my skin\nAnd I am someone, I am someone\nYou pulled my heart, I took it in\nIt made me someone, I am someone\n\nI am standing tall not giving in\n'Cause I am someone, I аm ѕomeone\n\nAnd now I'm done, I'm coming\nNow I'm done, I'm coming\nNow I'm done, I'm coming home"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/uCdS42uCqP0",
+        "https://www.youtube.com/embed/wEZRK8KIkKc",
+        "https://www.youtube.com/embed/7d__XXiVJkE",
+        "https://www.youtube.com/embed/TBYqgW4E7qY",
+        "https://www.youtube.com/embed/AIMOgw8gZVI",
+        "https://www.youtube.com/embed/e0B58heGK3I",
+        "https://www.youtube.com/embed/tlzrW0Tk0IQ"
+    ],
+    "dancers": null,
+    "backings": [
+        "Lera Axelrod",
+        "Liron Nathan Levo",
+        "Maayan Bukris",
+        "Ofree Israeli",
+        "Yossi Mark"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Inbar Weitzman",
+        "Ohad Shargai"
+    ],
+    "conductor": null,
+    "stageDirector": "Moshe Kepten",
+    "tone": "Eb major",
+    "bpm": 109,
+    "broadcaster": "KAN",
+    "spokesperson": "Izhar Cohen",
+    "commentators": [
+        "Eran Zarachowicz",
+        "Sharon Taicher"
+    ]
+}

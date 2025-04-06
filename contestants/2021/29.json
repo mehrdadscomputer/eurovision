@@ -1,0 +1,49 @@
+{
+    "id": 29,
+    "country": "AT",
+    "artist": "Vincent Bueno",
+    "song": "Amen",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Amen",
+            "content": "Amen, I guess\nYou said that it's time for us to put\nOur love to rest\nDressed in black, you left my neighborhood\n\nNo, I never thought you'd bury me and you\nNo, I never thought we'd die\n\nBut amen, amen\nTell me, is this what you wanted?\nIs this what you wanted?\nAmen, amen\nTell me, is this what you wanted?\nIs this what you wanted?\nAmen\n\nI bet it's just another funeral to you\nBut for me it's the end\nA marching band are playing gone too soon\n\nNo, I never thought you'd bury me and you\nNo, I never thought we'd die\n\nBut amen, amen\nTell me, is this what you wanted?\nIs this what you wanted?\nAmen, amen\nTell me, is this what you wanted?\nIs this what you wanted?\n\n'Cause it all feels like you didn't even try\nOh try, oh try, try to save us\nAll this time wasted on a lie\n\nBut amen, amen\nTell me, is this what you wanted?\nTell me, is thiѕ what you wanted?\nAmen, amen, yeah\nAre you getting what you wanted?\nAre you getting what you wаnted?\nAmen"
+        },
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "Да будет так",
+            "content": "Да будет так, я вспомнил\nКак ты хотела похоронить\nНашу любовь\nОдета в черное, ты покинула меня\n\nНет, я никогда не думал, ты будешь хоронить нас\nНет, я никогда не думал, что мы умрем\n\nИ да будет так! Да будет так\nСкажи, это что ты хотела?\nТо, что ты хотела?\nДа будет так, будет так\nСкажи мне, это то, что ты хотела?\nТо, что ты хотела?\nДа будет так\n\nУверен, тебе не впервой приходится хоронить\nНо для меня настал конец\nИграет оркестр, отпевающий слишком рано\n\nНет, я никогда не думал, ты будешь хоронить нас\nНет, я никогда не думал, что мы умрем\n\nИ да будет так! Да будет так\nСкажи, это что ты хотела?\nТо, что ты хотела?\nДа будет так, будет так\nСкажи мне, это то, что ты хотела?\nТо, что ты хотела?\n\nЭто все выглядит так, будто ты даже не старалась\nНе старалась, нет, не старалась спасти нас\nВсе время мы потратили на ложь\n\nИ да будет так! Да будет так\nСкажи, это что ты хотела?\nСкажи, это что ты хотела?\nИ да будет так! Да будет так, да\nТы получила, что хотела?\nСкажи, ты получила что хотела?\nДа будет так"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/xV9_pKj8Df8",
+        "https://www.youtube.com/embed/zOHwiWElR1A",
+        "https://www.youtube.com/embed/1sY76L68rfs",
+        "https://www.youtube.com/embed/qw5EAkKR5y0",
+        "https://www.youtube.com/embed/7dVXbIBEluU"
+    ],
+    "dancers": null,
+    "backings": [
+        "Tobias Carshey"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Ashley Hicklin",
+        "Jonas Thander",
+        "Tobias Carshey"
+    ],
+    "conductor": null,
+    "stageDirector": "Dan Shipton, Marvin Dietmann",
+    "tone": "F# minor",
+    "bpm": 80,
+    "broadcaster": "ORF",
+    "spokesperson": "Philipp Hansa",
+    "commentators": [
+        "Andi Knoll"
+    ]
+}

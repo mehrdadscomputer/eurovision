@@ -1,0 +1,40 @@
+{
+    "id": 32,
+    "country": "BY",
+    "artist": "Aleksandra & Konstantin",
+    "song": "My Galileo",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "My Galileo",
+            "content": "I'm no stay-at-home, and heady\nIs my quest and venture mode\nAnd the road is there to tread it\nAll-dimensional road\n\nRound I go, desperate to reach new horizons\nCircles grow, but you…\n\nYou're my pier, centre in my life\nMy Galileo - I rotate to you, I'm here\n\nWind is high and branches rattle\nOn the shuttered window pane\nAnd the dust has not yet settled\nI'm leavin' again\n\nRound I go, desperate to reach new horizons\nCircleѕ grow, but you…\n\nYou're my pier, centre in my life\nMy Galileo - I rotate to you, I'm here\nI'm here again\n\n(Hey la la… hey la la… hey la…)\n(Hey la la… hey la la… hey la…)\n\nMy Galileo\n(Hey la la… hey la la… hey la…)\n(Hey la la… hey la la… hey la…)\n\nYou're my pier, centre in my life\n(Hey la la… hey la la… hey la…)\nMy Galileo - I rotate to you, I'm here\n(Hey la la… hey la la… hey la…)\nI'm here again\n\nI'm here agаin"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/bINn55fuScE",
+        "https://www.youtube.com/embed/_NaDXI4Dews"
+    ],
+    "dancers": null,
+    "backings": [
+        "Petr Elfimov"
+    ],
+    "composers": [
+        "Alexandra Kirsanova",
+        "Konstantin Drapezo"
+    ],
+    "lyricists": [
+        "Alexey Solomakha"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 128,
+    "broadcaster": "BTRC",
+    "spokesperson": "Denis Kurian",
+    "commentators": [
+        "Ales Kruglyakov"
+    ]
+}

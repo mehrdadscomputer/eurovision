@@ -1,0 +1,68 @@
+{
+    "id": 16,
+    "country": "BY",
+    "artist": "Naviband",
+    "song": "Historyja majho žyccia",
+    "lyrics": [
+        {
+            "languages": [
+                "Belarusian (Bielaruskaja)"
+            ],
+            "title": "Historyja majho žyccia",
+            "content": "Koĺki dzion, koĺki spatkanniaŭ\nNovyja vobrazy i harady\nŠerah padziej, nas pakidaje\nU sercy trymajem\nIdziem daliej\n\nHistoryja majho žyccia\nBudzie sviacić jašče jarčej\nU našaj kryvi sonca zajhraje\nUsia pryhažosć Tvaich vačej\n\nDzie budzieš ty – ja adšukaju\nJarkija momanty znojdziem chučej\nSienniašni dzień, stanie pačatkam\nNovych žadanniaŭ, liepšych idej\n\nHistoryja majho žyccia\nBudzie sviacić jašče jarčej\nU našaj kryvi sonca zajhraje\nUsia pryhažoѕć Tvaich vаče"
+        },
+        {
+            "languages": [
+                "Belarusian (Беларуская)"
+            ],
+            "title": "Гісторыя майго жыцця",
+            "content": "Колькі дзён, колькі спатканняў\nНовыя вобразы і гарады\nШэраг падзей, нас пакідае\nУ сэрцы трымаем\nІдзем далей\n\nГісторыя майго жыцця\nБудзе свяціць яшчэ ярчэй\nУ нашай крыві сонца зайграе\nУся прыгажосць Тваіх вачэй\n\nДзе будзеш ты – я адшукаю\nЯркія моманты знойдзем хутчэй\nСенняшні дзень, стане пачаткам\nНовых жаданняў, лепшых ідэй\n\nГісторыя майго жыцця\nБудзе свяціць яшчэ ярчэй\nУ нашай крыві сонца зайграе\nУся прыгажосць Тваіх вачэй"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Story of My Life",
+            "content": "How many days, how many dates\nNew figures and towns\nThe Chain of events falls behind us\nKeeping in a heart \nand moving on\n\nStory of my life\nWill shine brighter\nThe sun will sparkle in our blood\nThe entire beauty of your eyes\n\nI will seek you out wherever you may be\nTo discover vivid impressions rapidly\nPresent day will become a birth\nOf new wills and better thoughts\n\nStory of my life\nWill shine brighter\nThe sun will sparkle in our blood\nThe entire beаuty of your eyeѕ"
+        },
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "История моей жизни",
+            "content": "Сколько дней, сколько встреч\nНовые образы и города\nВсё, что произошло, - уходит\nНо мы храним это в сердце\nИ идём дальше\n  \nИстория моей жизни\nБудет светить ещё ярче\nВ нашей крови солнце заиграет\nВся красота твоих глаз\n\nГде будешь ты - я отыщу\nЯркие моменты мы быстро найдём\nСегодняшний день станет началом\nНовых желаний, прекрасных идей\n\nИстория моей жизни\nБудет светить ещё ярче\nВ нашей крови солнце заиграет\nВся красота твоих глаз"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/coFfFZvPmRY",
+        "https://www.youtube.com/embed/pDLWeVePpqM",
+        "https://www.youtube.com/embed/1zR3KyVw1-Q",
+        "https://www.youtube.com/embed/XuI3RqTF4jQ",
+        "https://www.youtube.com/embed/Q0d8zUMn_RM",
+        "https://www.youtube.com/embed/A-LLpP1JmUk",
+        "https://www.youtube.com/embed/RWefjNremzw",
+        "https://www.youtube.com/embed/hG0nLEMl3QQ",
+        "https://www.youtube.com/embed/KwG7Te6DLn4"
+    ],
+    "dancers": null,
+    "backings": [
+        "Alena Verbitskaya",
+        "Anna Chet",
+        "Michael Soul",
+        "Olga Rozaleon-Sashalskaya"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Arciom Lukjanienka"
+    ],
+    "conductor": null,
+    "stageDirector": "Tatyana Ostroverkh",
+    "tone": "E major",
+    "bpm": 155,
+    "broadcaster": "BTRC",
+    "spokesperson": "Alyona Lanskaya",
+    "commentators": [
+        "Evgeny Perlin"
+    ]
+}

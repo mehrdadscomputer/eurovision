@@ -1,0 +1,59 @@
+{
+    "id": 2,
+    "country": "GR",
+    "artist": "Antique",
+    "song": "Die For You",
+    "lyrics": [
+        {
+            "languages": [
+                "English & Greek (English & Ellinika)"
+            ],
+            "title": "(I would) Die for you",
+            "content": "Kathisa ke skeftika\nKi eitha oti m' agapas\nMono esi, mono esi\nOla t' ala pseftika\nMono i thiki su agalia\nMe krata sti zoi\n\n'Cause I would die for you\nLook into my eyes and see it's true\nReally, I could never lie to you\nJust to make you see that\nNo one else could ever love you like the way I do\n\nDie for you\nLook into my eyes and see it's true\nReally, I could never lie to you\nJust to make you see that\nNo one else could ever love you like the way I do\n\nKathisa ke skeftika\nKi eitha oti m' agapas\nMono esi, mono esi\n\n'Cause I would die for you\nLook into my eyes and see it's true\nReally, I could never lie to you\nJust to make you see that\nNo one else could ever love you like the way I do\n\nDie for you\nLook into my eyes and see it's true\nReally, I could never lie to you\nJust to make you see that\nNo one else could ever love you like the way I do\n\n'Cаuѕe I would die for you"
+        },
+        {
+            "languages": [
+                "English & Greek (English & Ελληνικά)"
+            ],
+            "title": "(I would) Die for you",
+            "content": "Κάθησα και σκέφτηκα\nΚι είδα ότι μ' αγαπάς\nΜόνο εσύ, μόνο εσύ\nΌλα τ' αλλα ψεύτικα\nΜόνο η δίκη σου αγκαλιά\nΜε κρατά στη ζωή\n\n'Cause I would die for you\nLook into my eyes and see it's true\nReally, I could never lie to you\nJust to make you see that\nNo one else could ever love you like the way I do\n\nDie for you\nLook into my eyes and see it's true\nReally, I could never lie to you\nJust to make you see that\nNo one else could ever love you like the way I do\n\nΚαθησά και σκέφτηκα\nΚι είδα ότι μ' αγαπάς\nΜόνο εσύ, μονό εσύ\n\n'Cause I would die for you\nLook into my eyes and see it's true\nReally, I could never lie to you\nJust to make you see that\nNo one else could ever love you like the way I do\n\nDie for you\nLook into my eyes and see it's true\nReally, I could never lie to you\nJust to make you see that\nNo one else could ever love you like the way I do\n\n'Cаuѕe I would die for you"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "(I would) Die for you",
+            "content": "I sat down and thought\nRealised that you love me\nOnly you, only you\nEverything else is a lie\nOnly your hug\nKeeps me alive\n\n'Cause I would die for you \nLook into my eyes and see it's true \nReally, I could never lie to you \nJust to make you see that \nNo one else could ever love you like the way I do \n\nDie for you \nLook into my eyes and see it's true \nReally, I could never lie to you \nJust to make you see that \nNo one else could ever love you like the way I do \n\nI sat down and thought\nRealised that you love me\nOnly you, only you\n\n'Cause I would die for you \nLook into my eyes and see it's true \nReally, I could never lie to you \nJust to make you see that \nNo one else could ever love you like the way I do \n\nDie for you \nLook into my eyes and see it's true \nReally, I could never lie to you \nJust to make you see that \nNo one else could ever love you like the way I do \n\n'Cаuѕe I would die for you"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/qNs-R9NU82I",
+        "https://www.youtube.com/embed/Mz1p868y9pc",
+        "https://www.youtube.com/embed/vk0z2G2UNSc",
+        "https://www.youtube.com/embed/ImvTdmhxTmA",
+        "https://www.youtube.com/embed/vLOhvFL9ZgE"
+    ],
+    "dancers": null,
+    "backings": [
+        "Britta Bergström",
+        "Jeanette Olsson",
+        "Jenny Petersson",
+        "Shirley Clamp"
+    ],
+    "composers": [
+        "Nikos Terzis"
+    ],
+    "lyricists": [
+        "Antonis Pappas"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 124,
+    "broadcaster": "ERT",
+    "spokesperson": "Alexis Kostalas",
+    "commentators": [
+        "Dafni Bokota"
+    ]
+}

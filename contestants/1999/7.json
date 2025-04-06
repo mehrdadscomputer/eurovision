@@ -1,0 +1,47 @@
+{
+    "id": 7,
+    "country": "DK",
+    "artist": "Trine Jepsen & Michael Teschl",
+    "song": "This Time (I Mean It)",
+    "lyrics": [
+        {
+            "languages": [
+                "English version"
+            ],
+            "title": "This time I mean it",
+            "content": "(This time I mean it, oh baby)\n\nI don't know what it's all about, but I'm startin' to figure out\nSimple songs on the radio kinda colour the way I go\n\nEvery song holds an inner key to my dreams and my fantasy\nDefences down and suddenly all your love comes back to me\n\nAnd this time I mean it, oh baby, this time I mean it and now\nYou got me goin' so crazy even though I don't know how\nTried it before but we never happened, we just gotta try it again\nWell, this time I mean it, oh baby, I'm in love with you again\n\nOh… I know what was said and done, it's been hard just to carry on\nThe sweetest love left a bitter taste, who's to say it was all a waste?\n\nMmm… 'cause in each quarrel, in every fight, there's a lesson 'bout wrong and right\nOh… looking back, I'm sure to say that we learned from yesterday\n\nSo this time I mean it, oh baby, this time I mean it and now\nYou got me goin' so crazy even though I don't know how\nWe tried it before but we never happened, we just gotta try it again\nWell, this time I mean it, oh baby, I'm in love with you again\n\nThiѕ time I mean it, oh baby, I'm in love with you agаin"
+        },
+        {
+            "languages": [
+                "Danish version"
+            ],
+            "title": "Denne gang",
+            "content": "Her i morges i radio'n, på min morgenmusikstation\nKom de endnu en gang af sted med at spille mit liv af led\nBar' en stump af en melodi, som du pluds'lig var indeni\nOg uden at jeg ku' forsvarer mig, rejste jeg tilbage til dig\n\nMen denne gang si'r jeg det ærligt, denne gang si'r jeg det klart\nDet var alt for besværligt, hvis det skal være så smart\nJeg kender din krop, jeg vil se dit hjerte, eller jeg rejser igen\nDenne gang siger vi det ærligt, hvis det skal være os igen\n\nDet der virk'lig betyder noget, kan så nemt blive misforstå't\nDet gør ondt når for dybe ord, graver grøfter hvor roden bor\nMen for meget facaderi, er der slet ingen mening i\nOg vil vi videre sammen her, må vi vise hvem vi er\n\nSå denne gang si'r vi det ærligt, denne gang si'r vi det klar\n(Sig det til mig)\nDet var alt for besværligt, hvis det skal være så smart\nJeg kender din krop, jeg vil se dit hjerte, eller jeg rejser igen\nDenne gang si'r vi det ærligt, hvis det ska' vær' os igen\nDenne gang si'r vi det ærligt, hvis det skа' vær' oѕ igen"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/qfwa8iUFnvQ",
+        "https://www.youtube.com/embed/6XVTirMDGSA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Kenny Lübcke",
+        "Lei Moe",
+        "Lupe Moe",
+        "Peter Busborg"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Ebbe Ravn"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 100,
+    "broadcaster": "DR",
+    "spokesperson": "Kirsten Siggaard",
+    "commentators": [
+        "Keld Heick"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": 8,
+    "country": "AU",
+    "artist": "Kate Miller",
+    "song": "Heidke",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Zero Gravity",
+            "content": "Hey you\nIt's me again\nHey you\nStone in my shoe\n\nI've been aching\nFeeling low\nYou're so heavy\nI have got to let you go\n\nI'm going where there's zero gravity\nZero gravity\nZero gravity\nI'm free, ah…\n\nHey you\nLock with no key\nHey you\nEarth with no sea\n\nI've been freezing\nOn the ground\nYou're so heavy\nI can't let you keep me down anymore\n\nZero gravity\nZero gravity\n\n(and it feels like)\nAh…\n(and it feels like)\nAh…\n(and it feels like)\nAh…\n(аnd it feelѕ like)\nAh…\n\nNothing holding me down\nNothing holding me down\nNothing holding me down now\nNothing holding me down\n\nNothing holding me down\nNothing holding me down\nNothing holding me down now\nNothing holding me down"
+        },
+        {
+            "languages": [
+                "Polish"
+            ],
+            "title": "Brak grawitacji",
+            "content": "Hej ty\nTo znowu ja\nHej ty\nKamień w moim bucie\n\nCierpiałam\nCzułam się słabo\nJesteś zbyt ciężki\nMuszę Cię puścić\n\nZmierzam do miejsca, gdzie jest brak grawitacji\nBrak grawitacji\nBrak grawitacji\nJestem wolna, ooo\n\nHej ty\nZamek bez klucza\nHej ty\nZiemia bez morza\n\nZamarzałam\nZa ziemi\nJesteś zbyt ciężki\nNie mogę pozwalać Ci, dalej mnie ograniczać\n\nBrak grawitacji\nBrak grawitacji\n\n(To uczucie jest niczym…)\nOoo\n(To uczucie jest niczym…)\nOoo\n(To uczucie jest niczym…)\nOoo\n(To uczucie jeѕt niczym…)\nOoo\n\nNic mnie nie ogranicza\nNic mnie nie ogranicza\nNic mnie teraz nie ogranicza\nNic mnie nie ogranicza\n\nNic mnie nie ogranicza\nNic mnie nie ogranicza\nNic mnie teraz nie ogranicza\nNic mnie nie ograniczа"
+        },
+        {
+            "languages": [
+                "Russian"
+            ],
+            "title": "Ноль гравитации",
+            "content": "Эй, ты\nЭто снова я\nЭй, ты\nКамень у меня в ботинке\n\nМне было больно\nЯ чувствовала себя подавленной\nТы такой тяжелый\nЯ должна отпустить тебя\n\nЯ иду туда, где ноль гравитации\nНоль гравитации\nНоль гравитации\nЯ свободна, ах…\n\nЭй, ты\nЗамок без ключа\nЭй, ты\nЗемля, на которой нет моря\n\nЯ замерзала\nНа земле\nТы такой тяжелый\nЯ больше не могу позволить тебе удерживать меня на дне\n\nНоль гравитации\nНоль гравитации\n\n(И это чувствуется, как)\nАх…\n(И это чувствуется, как)\nАх…\n(И это чувствуется, как)\nАх…\n(И это чувствуется, как)\nАх…\n\nНичто не удерживает меня на дне\nНичто не удерживает меня на дне\nТеперь ничто не удерживает меня на дне\nНичто не удерживает меня на дне\n\nНичто не удерживает меня на дне\nНичто не удерживает меня на дне\nТеперь ничто не удерживает меня на дне\nНичто не удерживает меня на дне"
+        },
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Gravedad cero",
+            "content": "Hey tú\nSoy yo otra vez\nHey tú\nPiedra en mi talón\n\nHe estado sufriendo\nSintiéndome mal\nEres muy pesado\nTengo que dejarte marchar\n\nMe voy donde haya gravedad cero\nGravedad cero\nGravedad cero\nSoy libre, ah…\n\nHey tú\nCandado sin llave\nHey tú\nTierra sin mar\n\nMe he estado helando\nEn el suelo\nEres muy pesado\nNo puedo dejar que me deprimas más\n\nGravedad cero\nGravedad cero\n\n(y se siente así)\nAh…\n(y se siente así)\nAh…\n(y se siente así)\nAh…\n(y se siente aѕí)\nAh…\n\nNada me para ya\nNada me para ya\nNada me para ya no\nNada me para ya\n\nNada me para ya\nNada me para ya\nNada me para ya no\nNada me para yа"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Eo5H62mCIsg",
+        "https://www.youtube.com/embed/m3WF2AsxLB8",
+        "https://www.youtube.com/embed/VlpBPO9_L4E",
+        "https://www.youtube.com/embed/D2WGWG9RkeA",
+        "https://www.youtube.com/embed/5YI623ePilI",
+        "https://www.youtube.com/embed/jEMJ9PYGDfY",
+        "https://www.youtube.com/embed/HpmgUJ8tloc"
+    ],
+    "dancers": null,
+    "backings": [
+        "Adam Lahav",
+        "Emily Ryan",
+        "Emma Waite",
+        "Jess Hitchcock",
+        "Lilah Eliash"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Kate Miller-Heidke",
+        "Keir Nuttall"
+    ],
+    "conductor": null,
+    "stageDirector": "Philip Gleeson",
+    "tone": "F# major",
+    "bpm": 132,
+    "broadcaster": "SBS",
+    "spokesperson": "Michael Ross, Zaachariaha Fielding",
+    "commentators": [
+        "Joel Creasey",
+        "Myf Warhurst"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": 8,
+    "country": "FI",
+    "artist": "Sonja Lumme",
+    "song": "Eläköön elämä",
+    "lyrics": [
+        {
+            "languages": [
+                "Finnish"
+            ],
+            "title": "Eläköön elämä",
+            "content": "Kaupungissa on yö, en silti tähtiä nää\nEi tähdet tuhannet tuikikkaan\nNe taakse harmaiden harsojen jää\nKaupungissa on yö, puistoon kanssasi jäin\nSä seisot edessäin täynnä toivoa\nJa silmäsi kertovat näin\n\nEläköön elämä ja yö\nEläköön tumma taivas ja tähtien vyö\nToivo kanssani ettei tähti tähteä lyö\nSitä sielujen sympatiaa\nJosta isoisä kertoi sitä tarvitsee maa\nJotta maailman lapset tähtiä katsella saa\n\nKaupungissa on yö, sun tähtisilmäsi nään\nJa hyvän kaverin kainaloon\nMä työnnän piiloon tän pörröisen pään\nMä olen onnellinen, kun sun seuraasi jäin\nSä seisot edessäin täynnä toivoa\nJa silmäsi kertovat näin\n\nEläköön elämä ja yö\nEläköön tumma taivas ja tähtien vyö\nToivo kanssani ettei tähti tähteä lyö\nSitä sielujen sympatiaa\nJosta isoisä kertoi sitä tarvitsee maa\nJotta maailman lapset tähtiä katsella saa\n\nTäynnä toivoa tänne jäin\nKun silmäsi kertovan näin\n\nEläköön elämä ja yö\nEläköön tumma taivas ja tähtien vyö\nToivo kanssani ettei tähti tähteä lyö\nSitä sielujen sympatiaa\nJosta isoisä kertoi sitä tarvitsee maa\nJotta maailman lapset tähtiä katsella ѕaа"
+        },
+        {
+            "languages": [
+                "English translation"
+            ],
+            "title": "Long live life",
+            "content": "It's night in the city but I don't see any stars\nA thousand stars aren't shining\nThey're left behind a grey veil\nIt's night in the city, I stayed in the park with you\nYou're standing in front me full of hope\nAnd your eyes are telling me this\n\nLong live life and the night\nLong live the dark sky and the belt of stars\nWish like I do that a star doesn't hit a star\nThe feeling of sympathy\nWhich grandfather told of is what the earth needs\nSo that the children of the world can watch the stars\n\nIt's night in the city, I see your starry eyes\nUnder a good friends arm\nI'll hide my furry head\nI am happy because I stayed with you\nYou're standing in front of me full of hope\nAnd your eyes are telling me this\n\nLong live life and the night\nLong live the dark sky and the belt of stars\nWish like I do that a star doesn't hit a star\nThe feeling of sympathy\nWhich grandfather told of is what the earth needs\nSo that the children of the world can watch the stars\n\nI stayed here full of hope\nBecause your eyes are telling me this\n\nLong live life and the night\nLong live the dark sky and the belt of stars\nWish like I do that a star doesn't hit a star\nThe feeling of sympathy\nWhich grandfather told of is what the earth needs\nSo that the children of the world can watch the stаrѕ"
+        },
+        {
+            "languages": [
+                "Swedish version"
+            ],
+            "title": "Lita På Livet",
+            "content": "Natten börjar i stan\nJag söker avlägsna ljus\nDet vackra glimret från stjärnorna\nFlyr bakom höga och hotande hus\n\nNatten börjar i stan\nJag står i parken med dig\nDitt unga hjärta är fullt av hopp\nOch dina ögon berättar för mig\n\nLita på livet och livets lag\nLita på stjärnor i natten som lovar ny dag\nLyssna inte på de som står på världens tak\n\nÄlska rymden och datamaskin\nÄlska farfar som säger \"morgondagen är din\"\nTro med mig att vår vintergata får vara så fin\n\nNatten börjar i stan\nDu torkar tårarna bort\nOch sedan tar du mig i famn igen och viskar\n\"Älskling vår natt är så kort\"\n\nDagen börjar i stan\nJag står i parken med dig\nDitt unga hjärta är fullt av hopp\nOch dina ögon berättar för mig\n\nLita på livet och livets lag\nLita på stjärnor i natten som lovar ny dag\nLyssna inte på de som står på världens tak\n\nÄlska rymden och datamaskin\nÄlska farfar som säger \"morgondagen är din\"\nTro med mig att vår vintergata får vara så fin\n\nDen lilla flickan såg bara sig\nOch dina ögon berättar för mig\nLita på livet och livets lag\nLita på stjärnor i natten som lovar ny dag\nLyssna inte på de som står på världens tak\n\nÄlska rymden och datamaskin\nÄlska farfar som säger \"morgondagen är din\"\nTro med mig att vår vintergata får varа ѕå fin"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/lM5IJPhHnN8",
+        "https://www.youtube.com/embed/fxpQgfnlaCE"
+    ],
+    "dancers": null,
+    "backings": [
+        "Anita Pajunen",
+        "Jokke Seppälä",
+        "Kaija Koo",
+        "Rele Kosunen"
+    ],
+    "composers": [
+        "Petri Laaksonen"
+    ],
+    "lyricists": [
+        "Veli-Pekka Lehto"
+    ],
+    "writers": null,
+    "conductor": "Ossi Runne",
+    "stageDirector": null,
+    "tone": "D minor",
+    "bpm": 138,
+    "broadcaster": "YLE",
+    "spokesperson": "Annemi Genetz",
+    "commentators": [
+        "Heikki Harma",
+        "Kari Lumikero"
+    ]
+}

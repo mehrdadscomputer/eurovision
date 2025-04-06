@@ -1,0 +1,47 @@
+{
+    "id": 5,
+    "country": "YU",
+    "artist": "Srebrna Krila",
+    "song": "Mangup",
+    "lyrics": [
+        {
+            "languages": [
+                "Croatian"
+            ],
+            "title": "Mangup",
+            "content": "Danima te sljedim, znadem sve o tebi\nProđeš pored mene, pogled'o me nebi\nA ja bih dala sve, sve moje godine\nDa me dirneš jednom, zagrliš na tren\n\nA ti si mangup, veliki mangup\nI nećeš d'jete kao ja\nJer ti si mangup, veliki mangup\nI nećeš d'jete kao ja\n\nE baš si mangup, veliki mangup\nNe želiš d'jete kao ja\nJer ti si mangup, veliki mangup\nI nećeš d'jete kao ja\nWhoa…\n\nDanima te pratim, ispred tebe stojim\nProlaziš kroz mene k'o da ne postojim\nA ja bih dala sve, sve moje godine\nDa me dirneš jednom, zagrliš na tren\n\nA ti si mangup, veliki mangup\nI nećeš d'jete kao ja\nJer ti si mangup, veliki mangup\nI nećeš d'jete kao ja\n\nE baš si mangup, veliki mangup\nNe želiš d'jete kao ja\nJer ti si mangup, veliki mangup\nI nećeš d'jete kao ja\n\nJer ti ѕi mangup, veliki mangup\nNe želiš d'jete kao ja\nWhoа…"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Rascal",
+            "content": "I'm following you for days, know all about you\nYou walk beside me and don't even look at me\nAnd I'd give it all, all my years\nTo have you touch me, hug me for a moment\n\nAnd you are a rascal, a big rascal\nYou don't want a child like me\nBecause you are a rascal, a big rascal\nYou don't want a child like me\n\nBecause you are a rascal, a big rascal\nYou don't want a child like me\nBecause you are a rascal, a big rascal\nYou don't want a child like me\nWhoa…\n\nI'm following you for days, you're right in front of me\nYou walk straight through me as if I don't exist\nAnd I'd give it all, all my years\nTo have you touch me, hug me for a moment\n\nAnd you are a rascal, a big rascal\nYou don't want a child like me\nBecause you are a rascal, a big rascal\nYou don't want a child like me\n\nYou are really a rascal, a big rascal\nYou don't want a child like me\nBecause you are a rascal, a big rascal\nYou don't want a child like me\n\nBecause you are a rascal, a big raѕcal\nYou don't want a child like me\nWhoа…"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/mPnRNwH_uSs",
+        "https://www.youtube.com/embed/R87zUXkMaFE"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Rajko Dujmić"
+    ],
+    "lyricists": [
+        "Rajko Dujmić",
+        "Stevo Cvikić"
+    ],
+    "writers": null,
+    "conductor": "Nikica Kalogjera",
+    "stageDirector": null,
+    "tone": "G major",
+    "bpm": 118,
+    "broadcaster": "JRT",
+    "spokesperson": "Miša Molk",
+    "commentators": [
+        "Mladen Popović",
+        "Oliver Mlakar",
+        "Slobodan Kaloper"
+    ]
+}

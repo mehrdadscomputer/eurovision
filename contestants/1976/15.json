@@ -1,0 +1,41 @@
+{
+    "id": 15,
+    "country": "ES",
+    "artist": "Braulio",
+    "song": "Sobran las palabras",
+    "lyrics": [
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Sobran las palabras",
+            "content": "A veces, hasta sobran las palabras\nCuando se trata de hablar sencillamente de amor\nY prefiero la elocuencia de un silencio\nA esa frase desgastada\nQue a nada suena en mi voz\n\nYa sé que tú puedes creer\nQue a mí me falta el interés\nPero a veces las promesas más fervientes\nSólo tratan de ocultar que está muriendo el amor\n\nAmor, amor, mi amor\nTendrías que aceptarme así\nSi ves que no me gusta conversar\nAprende a interpretar mi ausencia\n\nAmor, amor, mi amor\nEs todo cuanto sé decir\nAmar es algo más que hacer reír\nYo sé que llenaré tu vida de amor\n\nA veces, hasta sobran las palabras\nCuando se trata de hablar sencillamente de amor\nY el gesto que hasta pasa inadvertido\nPuede ser más importante\nQue un juramento ante Dios\n\nAmor, amor, mi amor\nTendrías que aceptarme así\nSi ves que no me gusta conversar\nAprende a interpretar mi ausencia\n\nAmor, amor, mi amor\nTendrías que aceptarme así\nEs todo cuanto ѕé decir, amor, аmor"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Words are unnecessary",
+            "content": "Sometimes, even words are unnecessary\nWhen we're simply talking about love\nAnd I prefer the eloquence of a silence\nTo a used phrase\nWhich means nothing in my heart\n\nI know that you can think\nThat I don't have interest\nBut sometimes the most fervent promises\nOnly try to hide that love is dying\n\nLove, love, my love\nYou should accept me that way\nIf you see that I don't like to talk\nLearn to interpret my absence\n\nLove, love, my love\nThat's all I can say\nLoving is different from laughing\nI know that I'll fill your life with love\n\nSometimes, even words are unnecessary\nWhen we're simply talking about love\nAnd the sign that even escapes attention\nCan be more important\nThan an oath to God\n\nLove, love, my love\nYou should accept me that way\nIf you see that I don't like to talk\nLearn to interpret my absence\n\nLove, love, my love\nYou should accept me that way\nThat's all I can ѕаy, love, love"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/glDKvjKX20c"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Braulio"
+    ],
+    "conductor": "Juan Barcons",
+    "stageDirector": null,
+    "tone": "D major",
+    "bpm": 90,
+    "broadcaster": "TVE",
+    "spokesperson": "José María Íñigo",
+    "commentators": [
+        "José Luis Uribarri"
+    ]
+}

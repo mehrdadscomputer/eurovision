@@ -1,0 +1,59 @@
+{
+    "id": 1,
+    "country": "CY",
+    "artist": "Eleni Foureira",
+    "song": "Fuego",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Fuego",
+            "content": "Take a dive\nInto my eyes\nYeah the eyes of lioness\nFeel the power \nThey ain't lying\n\nA little look\nA little touch\nYou know the power of silence\nYeah keep it up keep it up\n\nI was looking for some high high highs yeah\nTill I got a doze of you \nYou got me pelican fly fly flyin'\n\nCoz I'm way up and I ain't comin' down, keep taking me higher \nAh yeah ah yeah ah yeah yeah ah yeah ah yeah\nCoz I'm burning up and I ain't coolin' down, yeah I got the the fire \nAh yeah ah yeah ah yeah yeah ah yeah ah yeah\n\nFuego\nFuego\nAh yeah ah yeah ah yeah yeah ah yeah ah yeah\nFuego\n\nTake me in\nTake a breath\nAin't no hidden agenda\nWhat you see is what you get\n\nI was looking for some high high highs yeah\nTill I got a doze of you \nYou got me pelican fly fly flyin'\n\nCoz I'm way up and I ain't comin' down, keep taking me higher \nAh yeah ah yeah ah yeah yeah ah yeah ah yeah\nCoz I'm burning up and I ain't coolin' down, yeah I got the the fire \nAh yeah ah yeah ah yeah yeah ah yeah ah yeah\n\nFuego\nFuego\nAh yeah ah yeah ah yeah yeah ah yeah ah yeah\nFuego\n\nOh your love iѕ like wild wild fire\nYou got me pelican fly fly flyin'\n\nCoz I'm way up and I ain't comin' down, keep taking me higher \nAh yeah ah yeah ah yeah yeah ah yeah ah yeah\nCoz I'm burning up and I ain't coolin' down, yeah I got the the fire \nAh yeah ah yeah ah yeah yeah ah yeah ah yeah\n\nFuego\nFuego\nAh yeah ah yeah ah yeah yeah ah yeah ah yeаh"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/vyDTbJ4wenY",
+        "https://www.youtube.com/embed/54PHdAEmJkM",
+        "https://www.youtube.com/embed/-DRsfNObKIQ",
+        "https://www.youtube.com/embed/QXLBLwPhNYM",
+        "https://www.youtube.com/embed/6cRDQaBFiIA",
+        "https://www.youtube.com/embed/KX6T9kHF6WM",
+        "https://www.youtube.com/embed/R890Y1fYzXY",
+        "https://www.youtube.com/embed/uwia7U2uynw",
+        "https://www.youtube.com/embed/17EVpC8a1-g"
+    ],
+    "dancers": [
+        "Celia Caap",
+        "Keisha von Arnold",
+        "Lovisa Bengtsson",
+        "Marlene Lindahl"
+    ],
+    "backings": [
+        "Teddy Sky"
+    ],
+    "composers": [
+        "Alex Papaconstantinou",
+        "Anderz Wrethov",
+        "Didrick",
+        "Geraldo Sandell",
+        "Viktor Svensson"
+    ],
+    "lyricists": [
+        "Anderz Wrethov",
+        "Didrick",
+        "Geraldo Sandell",
+        "Viktor Svensson"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Sacha Jean-Baptiste",
+    "tone": "A major",
+    "bpm": 101,
+    "broadcaster": "CyBC",
+    "spokesperson": "Hovig",
+    "commentators": [
+        "Kostas Konstantinou",
+        "Vaso Komninou"
+    ]
+}

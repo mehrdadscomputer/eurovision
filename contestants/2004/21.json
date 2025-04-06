@@ -1,0 +1,43 @@
+{
+    "id": 21,
+    "country": "BE",
+    "artist": "Xandee",
+    "song": "1 Life",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "1 life",
+            "content": "Lift me up, take me down\nYou can turn my world around\nI can hear what people say\nIt doesn't matter anyway\n\nWe're not the same, but so much alike\nYou are my brother, my sister tonight\n\nWe got one life, living together\nIn one life, let us be free\nOne life, you take my troubles away\nLight up my day, yeah\n\nYou came here in the night\nTake the worries off your mind\nIn your eyes, beneath your skin\nI feel the pain you're in\n\nWe're not the same, but so much alike\nYou are my brother, my sister tonight\n\nWe got one life, living together\nIn one life, let us be free\nOne life, you take my troubles away\nLight up my day, yeah\n\nOne life, living together\nIn one life, let us be free\nOne life, you take my troubleѕ away\nLight up my dаy"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/w5mX3ecBtTI"
+    ],
+    "dancers": null,
+    "backings": [
+        "Chantal Kashala",
+        "Clift Ferdy Bell",
+        "Daniel Pires",
+        "Jessica Cruz De Pina",
+        "Patrick Vinx"
+    ],
+    "composers": [
+        "Marc Paelinck"
+    ],
+    "lyricists": [
+        "Dirk Paelinck"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "E minor",
+    "bpm": 130,
+    "broadcaster": "VRT",
+    "spokesperson": "Martine Prenen",
+    "commentators": [
+        "André Vermeulen",
+        "Jean-Pierre Hautier"
+    ]
+}

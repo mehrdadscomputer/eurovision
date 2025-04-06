@@ -1,0 +1,46 @@
+{
+    "id": 2,
+    "country": "CH",
+    "artist": "Annie Cotton",
+    "song": "Moi, Tout Simplement",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Moi, tout simplement",
+            "content": "Vous, Messieurs, vendeurs de vent\nVous, les montreurs de chiens savants\nMagiciens, charmeurs de serpents\nPoudre aux yeux pour les enfants\nAu grand bal des rêves truqués\nLa où vos tréteaux sont plantés\nLes guitares ont beau jouer\nJe ne viendrai pas danser\n\nPas question de brûler mes ailes\nPas question de suivre vos pas\nJe n'ai pas le temps\nEt si demain la chance m'appelle\nAvant tout, je veux être moi\nMoi, tout simplement\n\nVous, Messieurs, faiseurs d'argent\nVous, les chercheurs de faux talents\nMarionnettes à faire semblant\nDisques d'or et chèques en blanc\nAu palais des mondanités\nLimousines et publicités\nTous vos flash ont beau crépiter\nJe n'irai pas m'afficher\n\nPas question de brûler mes ailes\nPas question de suivre vos pas\nJe n'ai pas le temps\nEt si demain la chance m'appelle\nAvant tout, je veux être moi\nMoi, tout simplement\n\nPas question de brûler mes ailes\nPas question de suivre vos pas\nJe n'ai pas le temps\nN'ai pas le temps\nEt si demain la chance m'appelle\nAvant tout, je veux être moi\nMoi, tout simplement\nTout simplement\n\nEt si demain la chance m'appelle\nAvаnt tout, je veux être moi\nMoi, tout ѕimplement"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Quite simply myself",
+            "content": "You, gentlemen, wind sellers\nYou, trainers of performing dogs\nMagicians, snake charmers\nDust in the eyes for children\nOn the great ball of fake dreams\nWhere the stage is erected\nThe guitars play in vain\nI won't come dancing\n\nOut of question to burn my wings\nOut of question to follow your steps\nI don't have time\nAnd if tomorrow luck is with me\nFirst of all, I want to be myself\nQuite simply myself\n\nYou, gentlemen, money makers\nYou, the false-talent seekers\nPuppets in appearance\nGolden records and blank cheques\nIn the palace of vanities\nLimousins and  publicity\nAll your flashlights crackle in vain\nI won't come prancing\n\nOut of question to burn my wings\nOut of question to follow your steps\nI don't have time\nAnd if tomorrow luck is with me\nFirst of all, I want to be myself\nQuite simply myself\n\nOut of question to burn my wings\nOut of question to follow your steps\nI don't have time\nDon't have time\nAnd if tomorrow luck is with me\nFirst of all, I want to be myself\nQuite simply myself\nQuite simply\n\nAnd if tomorrow luck is with me\nBefore all, I wаnt to be myself\nQuite simply myѕelf"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/5QG-kvD7GHo",
+        "https://www.youtube.com/embed/ihiyD5H3c9M"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Christophe Duc"
+    ],
+    "lyricists": [
+        "Jean-Jacques Egli"
+    ],
+    "writers": null,
+    "conductor": "Marc Sorrentino",
+    "stageDirector": null,
+    "tone": "Bb major",
+    "bpm": 132,
+    "broadcaster": "SSR SRG",
+    "spokesperson": "Michel Stocker",
+    "commentators": [
+        "Bernard Thurnheer",
+        "Emanuela Gaggini",
+        "Jean-Marc Richard"
+    ]
+}

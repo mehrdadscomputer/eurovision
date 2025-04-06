@@ -1,0 +1,55 @@
+{
+    "id": 35,
+    "country": "LV",
+    "artist": "Carousel",
+    "song": "That Night",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "That Night",
+            "content": "It was a lonely night\nNo stars were shining, there was no light\nOne troubled thought broke through\nAnd colored my world so blue\n\nLove… where are you?\nLove… I need you\nLove… all night through\nWhere are you my love? Oh\n\nI travelled through the time\nIt felt for me like doing a crime\nMy mind did crazy things\nImagination opened their wings\n\nA river dark as cold\nIt took me far away from the shore\nPlease come to me till sunrise\nAnd take me back to my paradiѕe\n\nLove… where are you?\nLove… I need you\nLove… all night through\nWhere are you my love? Oh\n\nLove… where are you?\nLove… I need you\nLove… all night through\nWhere are you my love? Oh\n\nLove, love\nLove… where are you?\nLove… I need you\nLove… all night through\nWhere are you my love? Oh\n\nLove… where are you?\nLove… I need you\nLove… all night through\nWhere are you my love? Where аre you?"
+        },
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Cette Nuit",
+            "content": "C'était une nuit solitaire\nAucune étoile ne brillait, il n'y avait pas de lumière\nUne pensée troublée a surgi\nEt j'ai coloré mon monde en bleu\n\nAmour… Où es-tu ?\nAmour… J'ai besoin de toi\nAmour… Toute la nuit\nOù es-tu mon amour? Oh\n\nJ'ai voyagé à travers le temps\nC'était pour moi comme commettre un crime\nMon esprit faisait des choses folles\nL'imagination a ouvert ses ailes\n\nUne rivière sombre et froide\nCela m'a emmené loin du rivage\nS'il te plaît, viens à moi jusqu'au lever du soleil\nEt ramène-moi à mon paradis\n\nAmour… Où es-tu ?\nAmour… J'ai besoin de toi\nAmour… Toute la nuit\nOù es-tu mon amour? Oh\n\nAmour… Où es-tu ?\nAmour… J'ai besoin de toi\nAmour… Toute la nuit\nOù es-tu mon amour? Oh\n\nAmour, amour…\nAmour… Où es-tu ?\nAmour… J'ai besoin de toi\nAmour… Toute la nuit\nOù es-tu mon amour? Oh\n\nAmour… Où es-tu ?\nAmour… J'ai besoin de toi\nAmour… Toute la nuit\nOù es-tu mon аmour? Où eѕ-tu ?"
+        },
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Quella Notte",
+            "content": "Era una notte solitaria\nNon brillavano stelle, non c'era luce\nUn pensiero turbato sfondò\nE ha colorato il mio mondo così blu\n\nAmore… dove?\nAmore… ho bisogno di te\nAmore… all tutta la notte\nDove amore mio? Oh\n\nHo viaggiato attraverso il tempo\nPer me è stato come commettere un crimine\nLa mia mente ha fatto cose folli\nL'immaginazione ha aperto loro ali\n\nUn fiume buio come freddo\nMi ha portato lontano dalla riva\nPer favore vieni da me fino all'alba\nE riportami nel mio paradiso\n\nAmore… dove?\nAmore… ho bisogno di te\nAmore… all tutta la notte\nDove amore mio? Oh\n\nAmore… dove?\nAmore… ho bisogno di te\nAmore… all tutta la notte\nDove amore mio? Oh\n\nAmore, amore\nAmore… dove?\nAmore… ho bisogno di te\nAmore… all tutta la notte\nDove amore mio? Oh\n\nAmore… dove?\nAmore… ho biѕogno di te\nAmore… all tutta la notte\nDove аmore mio? Dove?"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/NCtKU3m3R-8",
+        "https://www.youtube.com/embed/6j61TWsjcJY",
+        "https://www.youtube.com/embed/RurBGJIdAOI",
+        "https://www.youtube.com/embed/TjDnAtgrJCo",
+        "https://www.youtube.com/embed/xs7GvrBGy54"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Mārcis Vasiļevskis"
+    ],
+    "lyricists": [
+        "Sabīne Žuga"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Filip Adamo, Rennie Mirro",
+    "tone": "G minor",
+    "bpm": 93,
+    "broadcaster": "LTV",
+    "spokesperson": "Laura Rizzotto",
+    "commentators": [
+        "Ketija Šēnberga",
+        "Toms Grēviņš"
+    ]
+}

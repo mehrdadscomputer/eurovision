@@ -1,0 +1,46 @@
+{
+    "id": 2,
+    "country": "MC",
+    "artist": "Mary Christy",
+    "song": "Toi, la musique et moi",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Toi, la musique et moi",
+            "content": "Et Paris se déchire sous la pluie\nEt Paris se déchire dans tes yeux\nDans ta chambre là-haut, tu t'ennuies\nTu t'endors comme un clown malheureux\n\nLaisse là ces rues mouillées\nEt ces gens toujours pressés\nLaisse là ton désespoir et suis-moi\n\nSi tu veux, nous vivrons - toi, la musique et moi\nOui, simplement toi, la musique et moi\nDans un autre univers à fleur de ciel\nSi tu veux, nous vivrons - toi, la musique et moi\nOui, simplement toi, la musique et moi\nDans un monde nouveau, presque irréel\n\nImagine une ville au soleil\nImagine le retour d'un amour\nLe sourire d'un enfant qui s'éveille\nUne page dans le petit jour\n\nMon amour, prends-moi la main\nDès demain, nous serons un\nN'aie plus peur\nN'hésite pas et suis-moi\n\nSi tu veux, nous vivrons - toi, la musique et moi\nOui, simplement toi, la musique et moi\nDans un autre univers à fleur de ciel\nSi tu veux, nous vivrons - toi, la musique et moi\nOui, simplement toi, la musique et moi\nDans un monde nouveau, presque irréel\n\nNous vivrons - toi, la musique et moi\nOui, simplement toi, la musique et moi\nDans un autre univers à fleur de ciel\nSi tu veux, nous vivrons - toi, la musique et moi\nOui, simplement toi, la musique et moi\nDans un monde nouveau, presque irréel\n\nLa musique et moi\nLа muѕique et moi"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "You, the music and I",
+            "content": "And Paris looks sad under the rain\nAnd Paris looks sad in your eyes\nIn your room up there, you are bored\nYou fall asleep like an unhappy clown\n\nLet go of these wet streets\nAnd of these people who are always hasty\nLet go of your despair and follow me\n\nIf you want, we'll live - you, the music and I\nYes, simply you, the music and I\nIn another universe above the clouds\nIf you want, we'll live - you, the music and I\nYes, simply you, the music and I\nIn a new world, almost unreal\n\nImagine a town in the sun\nImagine the return of a lover\nThe smile of a child who's waking up\nA page of life at daybreak\n\nMy love, take my hand\nFrom tomorrow on, we'll be one\nDon't be afraid anymore\nDon't hesitate and follow me\n\nIf you want, we'll live - you, the music and I\nYes, simply you, the music and I\nIn another universe above the clouds\nIf you want, we'll live - you, the music and I\nYes, simply you, the music and I\nIn a new world, almost unreal\n\nWe'll live - you, the music and I\nYes, simply you, the music and I\nIn another universe above the clouds\nIf you want, we'll live - you, the music and I\nYes, simply you, the music and I\nIn a new world, almost unreal\n\nThe music and I\nThe muѕic аnd I"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/uoo_2aO2XPM"
+    ],
+    "dancers": null,
+    "backings": [
+        "Georges Costa",
+        "Michel Costa"
+    ],
+    "composers": [
+        "Georges Costa"
+    ],
+    "lyricists": [
+        "Gilbert Sinoué"
+    ],
+    "writers": null,
+    "conductor": "Raymond Donnez",
+    "stageDirector": null,
+    "tone": "Eb major",
+    "bpm": 145,
+    "broadcaster": "TMC",
+    "spokesperson": "Carole Chabrier",
+    "commentators": [
+        "Jean-Claude Massoulier"
+    ]
+}

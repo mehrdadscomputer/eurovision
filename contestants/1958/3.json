@@ -1,0 +1,50 @@
+{
+    "id": 3,
+    "country": "SE",
+    "artist": "Alice Babs",
+    "song": "Lilla stjärna",
+    "lyrics": [
+        {
+            "languages": [
+                "Swedish"
+            ],
+            "title": "Lilla stjärna",
+            "content": "La la la la la la la la la… la la la la la la la la la…\nLa la la la la la la la la… la la la la la la la la la…\n\nNatt över land och stad, sovande hus\nRutor som blänker av stjärnornas ljus\nFlicka i fönstret står, ser mot det blå\nÄr bara femton år, tänker ändå\n\nLilla stjärna i det höga, svara mig, svara mig\nKommer han som jag ska få så kär?\nJa, du vet nog vem han är\n\nFår jag läsa i hans öga, samma svar, samma svar\nSom jag tycker att du blinkar nu\nLilla stjärna, du?\n\nKommer han? Kommer han?\nJa, du vet nog vem han är\n\nFår jag läsa i hans öga, samma svar, samma svar\nSom jag tycker att du blinkar nu\nLilla ѕtjärnа, du?"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Little star",
+            "content": "La la la la la la la la la… la la la la la la la la la…\nLa la la la la la la la la… la la la la la la la la la…\n\nNight over countryside and town, sleeping houses\nThe windows glitter, because of the star light\nA girl standing by the window, looking up to the blue\nJust fifteen years old, but still she's thinking\n\nLittle star up above, answer me, answer me\nIs he coming, the man that I will love?\nYes, you'll probably know who he is\n\nWill I read in his eye, the same answer, the same answer\nThat I think I see you twinkling to me now\nYou, little star?\n\nIs he coming? Is he coming?\nYes, you'll probably know who he is\n\nWill I read in his eye, the same answer, the same answer\nThat I think I see you twinkling to me now\nYou, little ѕtаr?"
+        },
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "Stellina",
+            "content": "La la la la la la la la la… la la la la la la la la la…\nLa la la la la la la la la… la la la la la la la la la…\n\nNotte sopra la campagna e la città, case di sonno\nLe finestre brillano, a causa della luce della stella\nUna ragazza in piedi vicino alla finestra, guardando il blu\nHa solo quindici anni, ma sta ancora pensando\n\nStellina sopra, rispondimi, rispondimi\nSta arrivando, l'uomo che amerò?\nSì, probabilmente saprai chi è\n\nLeggerò nei suoi occhi la stessa risposta, la stessa risposta\nChe penso di vederti scintillare per me ora\nTu, stellina?\n\nViene? Viene?\nSì, probabilmente saprai chi è\n\nLeggerò nei suoi occhi la stessa risposta, la stessa risposta\nChe penso di vederti scintillare per me ora\nTu, ѕtellinа?"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/z486v131XwQ"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Åke Gerhard"
+    ],
+    "lyricists": [
+        "Gunnar Wersén"
+    ],
+    "writers": null,
+    "conductor": "Dolf van der Linden",
+    "stageDirector": null,
+    "tone": "Bb major",
+    "bpm": 178,
+    "broadcaster": "SR",
+    "spokesperson": "Tage Danielsson",
+    "commentators": [
+        "Jan Gabrielsson"
+    ]
+}

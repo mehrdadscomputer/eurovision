@@ -1,0 +1,45 @@
+{
+    "id": 3,
+    "country": "DE",
+    "artist": "Michael Schulte",
+    "song": "You Let Me Walk Alone",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": null,
+            "content": "I'm a dreamer, a make believer\nI was told that you were, too\nI love the silence and the clear horizon\nAnd I got that all from you\n\nEvery now and then I'm drawn to places\nWhere I hear your voice or see your face\nAnd every little thought will lead me right back to you\n\nI was born from one love\nOf two hearts\nWe were three kids and a loving mum\nYou made this place a home\nA shelter from the storm\nYou said I had one life\nAnd a true heart\nI tried my best\nAnd I came so far\nBut you will never know\n'Cause you let me walk this road alone\n\nMy childhood hero will always be you\nAnd no one else comes close\nI thought you'd lead me\nWhen life's misleading\nThat's when I miss you most\n\nEvery now and then I'm drawn to places\nWhere I hear your voice or see your face \nAnd every little thought will lead me right back to you\n\nI was born from one love\nOf two hearts\nWe were three kids and a loving mum\nYou made this place a home\nA shelter from the storm\nYou said I had one life\nAnd a true heart\nI tried my best\nAnd I came so far\nBut you will never know\n'Cause you let me walk this road alone\n\nOhhhh, ohhhh, ohhhh\n\nI was born from one love\nOf two hearts\nWe were three kids and a loving mum\nYou made this place a home\nA shelter from the storm\nYou said I had one life\nAnd a true heart\nI tried my best\nAnd I came so far\nBut you will never know\n'Cause you let me walk thiѕ road аlone"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/N4YwSy4Q9k0",
+        "https://www.youtube.com/embed/rp27Ggo_edo",
+        "https://www.youtube.com/embed/YLbC-k3nnJQ",
+        "https://www.youtube.com/embed/GxP3WlahA_g",
+        "https://www.youtube.com/embed/z7xgIWK_a_w",
+        "https://www.youtube.com/embed/zS_comaMCgc",
+        "https://www.youtube.com/embed/hR_TlrGITGQ",
+        "https://www.youtube.com/embed/kwrPpjGyDhQ",
+        "https://www.youtube.com/embed/M45ACY2MV8Q"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Katharina Müller",
+        "Michael Schulte",
+        "Nisse Ingwersen",
+        "Thomas Stengaard"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "B major",
+    "bpm": 149,
+    "broadcaster": "NDR",
+    "spokesperson": "Barbara Schöneberger",
+    "commentators": [
+        "Peter Urban"
+    ]
+}

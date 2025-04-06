@@ -1,0 +1,46 @@
+{
+    "id": 1,
+    "country": "IS",
+    "artist": "Selma Björnsdóttir",
+    "song": "All Out Of Luck",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "All out of luck",
+            "content": "Don't work on a Sunday, don't sleep on a Monday\nJust think of a fun day when your life is getting you down, yeah\nTo get through a heartache, just picture a spring day\nAnd play in the bright daylight a while\nSo give it a chance - you won't regret it\n\n'Cause you know today won't last forever, tomorrow has a brand new name\nI'll give you all that I can offer, the rest is all up to you, yeah\n\nYou're all out of luck, if you wanna give up, you've got to let go of all your bad memories\nBreakin' it up means bringing it down, you need to get right back on track\n'Cause you're all out of luck, if you wanna give up, you've got to believe in yourself\nYou'll be fine 'cause you'll be mine, so just wake up before it's too late\nAnd you're all out of love, you're all out of love\nHey yeah... hey yeah... oh yeah...\n\nDon't work on a Sunday, don't sleep on a Monday\nTomorrow's a new day, all the time, just waiting for you, yeah\nFrom dawn until midnight, or asleep in the moonlight\nYou'll always be all right just as long as you follow your heart, yeah\n\nYou're all out of luck, if you wanna give up, you've got to let go of all your bad memories\nBreakin' it up means bringing it down, you need to get right back on track\n'Cause you're all out of luck, if you wanna give up, you've got to believe in yourself\nYou'll be fine 'cause you'll be mine, so just wake up before it'ѕ too late\nAnd you're all out of love, you're all out of love\n(Hey yeah... hey yeah... oh yeah...)\nYou're all out of love\nHey yeah... hey yeah... oh yeаh..."
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/B-Fw2EHzIro",
+        "https://www.youtube.com/embed/NbWGt2RX-mY",
+        "https://www.youtube.com/embed/k2bav4LmKdk"
+    ],
+    "dancers": null,
+    "backings": [
+        "Brynjar Örn Thorleifsson",
+        "Daniel Traustason",
+        "Jóhanna Vigdís Arnardóttir",
+        "Rúna Stefansdottir",
+        "Stefán Hilmarsson"
+    ],
+    "composers": [
+        "Selma Björnsdóttir",
+        "Sveinbjörn I. Baldvinsson",
+        "Þorvaldur Bjarni Þorvaldsson"
+    ],
+    "lyricists": [
+        "Þorvaldur Bjarni Þorvaldsson"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "E major",
+    "bpm": 132,
+    "broadcaster": "RÚV",
+    "spokesperson": "Áslaug Dóra Eyjólfsdóttir",
+    "commentators": [
+        "Gísli Marteinn Baldursson"
+    ]
+}

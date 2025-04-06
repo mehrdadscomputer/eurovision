@@ -1,0 +1,48 @@
+{
+    "id": 6,
+    "country": "IT",
+    "artist": "Marco Mengoni",
+    "song": "L'Essenziale",
+    "lyrics": [
+        {
+            "languages": [
+                "Italian"
+            ],
+            "title": "L'essenziale",
+            "content": "Sostengono gli eroi se il gioco si fa duro, è da giocare\nBeati loro poi se scambiano le offese con il bene\nSuccede anche a noi, di far la guerra e ambire poi alla pace\nE nel silenzio mio, annullo ogni tuo singolo dolore\nPer apprezzare quello che non ho saputo scegliere\n\nMentre il mondo cade a pezzi\nIo compongo nuovi spazi e desideri che\nAppartengono anche a te\nChe da sempre sei per me, l'essenziale\n\nNon accetteró un altro errore di valutazione\nL'amore è in grado di celarsi dietro amabili parole\nChe ho pronunciato prima che\nFossero vuote e stupide\n\nMentre il mondo cade a pezzi\nIo compongo nuovi spazi e desideri che\nAppartengono anche a te\n\nMentre il mondo cade a pezzi\nMi allontano dagli eccessi e dalle cattive abitudini\nTornerò all'origine\nTorno a te che sei per me, l'essenziale\n\nL'amore non segue le logiche\nTi toglie il respiro e la sete\n\nMentre il mondo cade a pezzi\nIo compongo nuovi spazi e desideri che\nAppartengono anche a te\n\nMentre il mondo cade a pezzi\nMi allontano dagli eccessi e dalle cattive abitudini\nTornerò all'origine\nTorno a te che sei per me, l'esѕenziаle"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The essential",
+            "content": "Heroes claim that if the game gets tough, it's time to play\nThen bless them who confuse insults with good acts\nIt also happens to us, making war and then aspiring peace\nAnd in my silence, I annul your every single pain\nAnd appreciate what I could not choose\n\nAs the world falls to pieces\nI compose new spaces and desires\nThat also belong to you\nWho will always be the essential to me\n\nI won't accept another error of judgement\nLove is able to hide behind kind words\nWhich I have spoken before\nThey were empty and stupid\n\nAs the world falls to pieces\nI compose new spaces and desires\nThat also belong to you\n\nAs the world falls to pieces\nI distance from excesses and from bad habits\nI will go back to the origin\nI go back to you, who are the essential to me\n\nLove doesn't follow logic\nIt takes away your breath and thirst\n\nAs the world falls to pieces\nI compose new spaces and desires\nThat also belong to you\n\nAs the world falls to pieces\nI distance from excesses and from bad habits\nI will go back to the origin\nI go back to you, who are the esѕentiаl to me"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/S8oaxDV1q6o"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Francesco De Benedittis",
+        "Marco Mengoni",
+        "Roberto Casalino"
+    ],
+    "lyricists": [
+        "Roberto Casalino"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "F# minor",
+    "bpm": 126,
+    "broadcaster": "RAI",
+    "spokesperson": "Federica Gentile",
+    "commentators": [
+        "Federica Gentile",
+        "Filippo Solibello",
+        "Marco Ardemagni",
+        "Natasha Lusenti"
+    ]
+}

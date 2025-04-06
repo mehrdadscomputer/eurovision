@@ -1,0 +1,50 @@
+{
+    "id": 3,
+    "country": "YU",
+    "artist": "Danijel",
+    "song": "Džuli",
+    "lyrics": [
+        {
+            "languages": [
+                "Croatian"
+            ],
+            "title": "Džuli",
+            "content": "Stigla je sama sa ljetom\nPrišla i rekla hello\nPogledi su nam govorili više od riječi\nK'o da se zvijezda sa neba\nSpustila meni na dlan\nZnao sam samo o njoj da zove se Džuli\n\nDžuli, Džuli\nA htio sam da dugo traje taj san\n\nPamtim još dodir te ruke\nLice i njen pogled blag\nOdmah je jasno mi bilo da ludo je volim\nKao i sve ljetne snove\nI nju mi je odnio dan\nOstalo samo je sjećanje na jedan juli\n\nDžuli, Džuli\nA htio sam da dugo traje taj san\n\nPitam u noćima nebo\nDa li je to bio san\nIli je stvarno te noći me ljubila Džuli\nProšetam sam pored mora\nDočekam tako i dan\nZamolim more da vrati mi Džuli i juli\n\nDžuli, o… Džuli, o…\nDžuli, o… Džuli\nA htio sam da dugo traje taj ѕan\nO mojа Džuli"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Julie",
+            "content": "She arrived alone with summer\nCame over and said hello\nOur looks said more than words\nAs if a star from the sky\nHad fallen into my hand\nI only knew that her name was Julie\n\nJulie, Julie\nAnd I wanted that dream to last for long\n\nI still remember the touch of that hand\nHer face and her subtle look at me\nI knew then that I love her madly\nLike all the summer dreams\nThe day took her away\nOnly a memory of a July was left\n\nJulie, Julie\nAnd I wanted that dream to last for long\n\nAt night, I ask the skies\nIf that was only a dream\nOr if it was really Julie kissing me that night\nTonight I'm alone by the sea\nAnd the daylight had arrived\nI asked the sea to give me back Julie and July\n\nJulie, oh… Julie, oh…\nJulie, oh… Julie\nAnd I wanted that dream to lаѕt for long\nOh my Julie"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/uBm1VEzrcGA",
+        "https://www.youtube.com/embed/R0xQH4ZDkuc"
+    ],
+    "dancers": null,
+    "backings": [
+        "Eleonora Barudžija",
+        "Izolda Barudžija",
+        "Mato Došen"
+    ],
+    "composers": [
+        "Milan Popović"
+    ],
+    "lyricists": [
+        "Mario Mihaljević"
+    ],
+    "writers": null,
+    "conductor": "Radovan Papović",
+    "stageDirector": null,
+    "tone": "F major",
+    "bpm": 90,
+    "broadcaster": "JRT",
+    "spokesperson": "Boško Negovanović",
+    "commentators": [
+        "Mladen Popović",
+        "Oliver Mlakar",
+        "Tomaž Terček"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 2,
+    "country": "RU",
+    "artist": "Sergey Lazarev",
+    "song": "Scream",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Scream",
+            "content": "No I can't stay here longer\nYou cannot make me cry\nSo, I will leave you to wonder\nWhat will become of our lives\n\nI'll swallow hard\nFall apart\nBreak and bleed but\nYou won't see\n\nTears won't fall\nWhile pride stands tall\nMaybe they can't be heard or seen\nBut tears aren't quiet things\n\nThey scream\nThey scream\nThey scream\n\nThough my throat is on fire\nMy eyes will be liars\nAnd they'll try to stay drier\nUntil you turn away\n\nI'll swallow hard\nFall apart\nBreak and bleed but\nYou won't see\n\nTears will fall\nI hear them all\n\nThey scream\nThey scream\n\nNot so silent and innocent\nAcid rain from your finger prints\nEchoes rivers of loneliness\nHitting the walls of my heart\n\nThey scream\n<i style=\"color:#789\">Not so silent and innocent\nAcid rain from your finger prints</i>\nThey scream\n<i style=\"color:#789\">Echoes rivers of loneliness\nHitting the wallѕ of my heаrt</i>"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/eNzlxEZ_JG4",
+        "https://www.youtube.com/embed/gEpUgRtXBss",
+        "https://www.youtube.com/embed/wCKHUldGcEI",
+        "https://www.youtube.com/embed/wQ8XADgKZ1s",
+        "https://www.youtube.com/embed/4kk-tv3Zzk4",
+        "https://www.youtube.com/embed/ZA1oAQPoOvQ"
+    ],
+    "dancers": null,
+    "backings": [
+        "Adam Svensson",
+        "Erik Segerstedt",
+        "Jennie Jahns",
+        "Marie Nordmark Sjöström",
+        "Simon Lingmerth"
+    ],
+    "composers": [
+        "Dimitris Kontopoulos",
+        "Philipp Kirkorov"
+    ],
+    "lyricists": [
+        "Sharon Vaughn"
+    ],
+    "writers": null,
+    "conductor": null,
+    "stageDirector": "Fokas Evangelinos",
+    "tone": "D major",
+    "bpm": 92,
+    "broadcaster": "RTR",
+    "spokesperson": "Ivan Bessonov",
+    "commentators": [
+        "Dmitry Guberniev",
+        "Olga Shelest"
+    ]
+}

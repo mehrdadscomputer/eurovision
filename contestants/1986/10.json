@@ -1,0 +1,46 @@
+{
+    "id": 10,
+    "country": "YU",
+    "artist": "Doris Dragović",
+    "song": "Željo moja",
+    "lyrics": [
+        {
+            "languages": [
+                "Croatian"
+            ],
+            "title": "Željo moja",
+            "content": "Voljela sam te i još te volim\nDajem iskreno sve\nNoć je ova crna bez tebe\n\nAko ima sreće, vratit ćeš se\nMoja kazna, moj grijeh\nTiho, tiho, suzo, ne daj se\n\nŽeljo moja, tugo moja\nJoš sam tvoja, još si moj (Još si moj)\nSve, sve me boli od tebe\nŽeljo moja, tugo moja\n\nAko ima sreće, vratit ćeš se\nMoja kazna, moj grijeh\nTiho, tiho, suzo, ne daj se\n\nŽeljo moja, tugo moja\nJoš sam tvoja, još si moj (Još si moj)\nSve, sve me boli od tebe\nŽeljo moja, tugo moja\n\nSve, ѕve me boli od tebe\nŽeljo moja, tugo mojа"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "My desire",
+            "content": "I loved you and still do\nI give it all truly\nThis night is dark without you\n\nIf there's luck, you'll come back\nMy punishment, my sin\nQuiet, quiet, my tear, don't give up\n\nMy desire, my sorrow\nI'm still yours, you're still mine\nEverything is aching because of you\nMy desire, my sorrow\n\nIf there's luck, you'll come back\nMy punishment, my sin\nQuiet, quiet, my tear, don't give up\n\nMy desire, my sorrow\nI'm still yours, you're still mine\nEverything is aching because of you\nMy desire, my sorrow\n\nEverything is aching becаuse of you\nMy desire, my ѕorrow"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/EZyOqsLnFw4"
+    ],
+    "dancers": null,
+    "backings": [
+        "Mato Došen"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Zrinko Tutić"
+    ],
+    "conductor": "Nikica Kalogjera",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "JRT",
+    "spokesperson": "Enver Petrovci",
+    "commentators": [
+        "Ksenija Urličić",
+        "Miša Molk",
+        "Mladen Popović",
+        "Oliver Mlakar"
+    ]
+}

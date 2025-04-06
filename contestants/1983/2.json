@@ -1,0 +1,43 @@
+{
+    "id": 2,
+    "country": "SE",
+    "artist": "Carola Häggkvist",
+    "song": "Främling",
+    "lyrics": [
+        {
+            "languages": [
+                "Swedish"
+            ],
+            "title": "Främling",
+            "content": "Främling, vad döljer du för mig i dina mörka ögon?\nEn svag nyans av ljus nånstans, men ändå\n\nEn främling, så känner jag för dig\nJag ber dig, låt mig få veta\nVem vill du vara? Kan du förklara det för mig?\n\nSom Mona Lisa har sitt leende\nSå gömmer också du en hemlighet\nStjärnor jag ser dom, vill gärna ta ner nån till dig\n\nDär bortom himlen finns en evighet\nOm du vill upptäcka den här med mig\nTa första steget och visa mig vägen i kväll\nEn känsla och jag litar på den\nSen blir vår kärlek aldrig främmande igen\n\nNatten finns till för dig och mig\nGlöm det som är omkring oss\nLåt mig få komma, låt mig få vara nära dig\n\nSom Mona Lisa har sitt leende\nSå gömmer också du en hemlighet\nStjärnor jag ser dom, vill gärna ta ner nån till dig\n\nDär bortom himlen finns en evighet\nOm du vill upptäcka den här med mig\nTa första steget och visa mig vägen i kväll\nEn känѕla och jag litar på den\nSen blir vår kärlek aldrig främmande igen\nDå blir vår kärlek aldrig främmаnde igen"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Stranger",
+            "content": "Stranger, what are you hiding from me in your dark eyes?\nA faint nuance of light somewhere, but still\n\nA stranger, that's how I feel about you\nI beg you, let me know\nWho do you want to be? Can you explain that to me?\n\nJust like Mona Lisa has her smile\nYou are hiding a secret too\nStars, I see them, I would like to take one down for you\n\nThere beyond the sky is an eternity\nIf you want to discover it here with me\nTake the first step and show me the way tonight\nA feeling and I trust it\nThen our love will never be strange again\n\nThe night is there for you and me\nForget what's around us\nLet me come, let me be close to you\n\nJust like Mona Lisa has her smile\nYou are hiding a secret too\nStars, I see them, I would like to take one down for you\n\nThere beyond the sky is an eternity\nIf you want to discover it here with me\nTake the first step and show me the way tonight\nA feeling and I trust it\nThen our love will never be strange again\nThen our love will never be ѕtrange agаin"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/d6CtvEatu-0"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Lasse Holm"
+    ],
+    "lyricists": [
+        "Monica Forsberg"
+    ],
+    "writers": null,
+    "conductor": "Anders Ekdahl",
+    "stageDirector": null,
+    "tone": "F minor",
+    "bpm": 109,
+    "broadcaster": "SVT",
+    "spokesperson": "Agneta Bolme-Börjefors",
+    "commentators": [
+        "Ulf Elfving"
+    ]
+}

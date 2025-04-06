@@ -1,0 +1,45 @@
+{
+    "id": 11,
+    "country": "FI",
+    "artist": "Päivi Paunu and Kim Floor",
+    "song": "Muistathan",
+    "lyrics": [
+        {
+            "languages": [
+                "Finnish"
+            ],
+            "title": "Muistathan",
+            "content": "Muistathan sä öistä tuon suloisimman\nPäivän ihanan sekä kauniin illan\nHetken jolloin käteeni ensi kerran otit\nOmaasi lämpimään\n\nKävelimme kahden vain hetken verran\nLäpi puistikon poikki vanhan sillan\nTuokio tuo pieni meille riitti silloin onnen antamaan\n\nKohtasimme keskellä ihmisten\nSattumako? Ei mä tiedän sen\nKohtalo toi eteemme rakkauden ja onnen maan\n\nOn onnea surukin osaltaan\nSe vain elämänä täytyy oivaltaa\nMiksi ihmisellä muuten oliskaan taito naurahataa\n\nKävelimme kahden vain hetken verran\nLäpi puistikon poikki vanhan sillan\nTuokio tuo pieni meille riitti silloin onnen antamaan\n\nUnessako kenties mä näin jo sun\nSiitä varmaan johtui tää tunne mun\nElänyt oon ennenkin hetkisen mä pienoisen\n\nUnta varmaan se kaikki on vieläkin\nPuisto, silta sekä kätes lämpimin\nSekunnissa elin elämän melkein ikuiѕen\n\nLa la la la la la la la la la la…\nLa la la la la la la la la la la…\nLa la la la la la la la la la la la la la la la la la…\nLa la la la la la la la la la la…\nLa la la la la la la la la la la…\nLa la la la la la la la la la la la la la la la la lа…\n\nHey, hey"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Do you remember",
+            "content": "Do you remember that sweetest night\nThe lovely day and the beautiful evening\nThe moment, when you took my hand first time\nTo your own warm hand\n\nWe walked together only a while\nThrough a little park, over an old bridge\nThat little moment was enough to give us happiness then\n\nWe met amid the crowd\nA coincidence? No, I know it\nDestiny brought love in front of us and the land of happiness\n\nEven sorrow is partly happiness\nIt just has to be realized as part of life\nWhy would a human otherwise have a skill to laugh?\n\nWe walked together only a while\nThrough a little park, over an old bridge\nThat little moment was enough to give us happiness then\n\nDid I see you in a dream before?\nI think that was the reason for my feeling\nI have earlier lived a little moment too\n\nAll that must still be just a dream\nPark, bridge, and the warm hand of yours\nIn a second I lived a life almoѕt eternal\n\nLa la la la la la la la la la la…\nLa la la la la la la la la la la…\nLa la la la la la la la la la la la la la la la la la…\nLa la la la la la la la la la la…\nLa la la la la la la la la la la…\nLa la la la la la la la la la la la la la la la la lа…\n\nHey, hey"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/RUomCAgQwKs",
+        "https://www.youtube.com/embed/HZ5bmXjGQII"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Juha Flinck",
+        "Nacke Johansson"
+    ],
+    "lyricists": [
+        "Juha Flinck"
+    ],
+    "writers": null,
+    "conductor": "Ossi Runne",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "YLE",
+    "spokesperson": null,
+    "commentators": [
+        "Heikki Seppälä"
+    ]
+}

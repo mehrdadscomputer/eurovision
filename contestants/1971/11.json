@@ -1,0 +1,52 @@
+{
+    "id": 11,
+    "country": "CH",
+    "artist": "Peter, Sue and Marc",
+    "song": "Les Illusions de nos vingt ans",
+    "lyrics": [
+        {
+            "languages": [
+                "French"
+            ],
+            "title": "Les illusions de nos vingt ans",
+            "content": "Monsieur, qui avez l'expérience des choses de la vie\nMonsieur, qui avez vécu votre vie\nLaissez-nous à présent vivre à notre tour aussi\n\nOh, vous qui avez comme nous refait le monde et le temps\nLaissez-nous rêver, rêver maintenant\nLaissez-nous les illusions de nos vingt ans\n\nMadame, qui avez souvenance des roses de la vie\nMadame, qui avez été si jolie\nLaissez-nous aimer et vivre à notre tour aussi\n\nOh, vous qui jadis ne rêviez que de valses et de printemps\nLaissez-nous danser, danser maintenant\nLaissez-nous les illusions de nos vingt ans\n\nLaissez-nous les illusions de nos vingt ans\nVingt ans… vingt аnѕ…"
+        },
+        {
+            "languages": [
+                "English translation"
+            ],
+            "title": "The illusions of our twenties",
+            "content": "Gentleman, you who have the experience of things in life\nGentleman, you who have survived your life\nLet us now have our turn to live too\n\nOh, you who have remade the world and the time like us\nLet us dream, dream now\nLeave us the illusions of our twenties\n\nMadam, you who have memories of the roses of life\nMadam, you who have been so beautiful\nLet us have our turn to love and live too\n\nOh, you who in the past only dreamt about waltzes and springs\nLet us dance, dance now\nLeave us the illusions of our twenties\n\nLeаve us the illusions of our twenties\nTwenties… twentieѕ…"
+        },
+        {
+            "languages": [
+                "German version"
+            ],
+            "title": "Keiner hat gesagt",
+            "content": "Keiner hat gesagt, unsere Welt ist die beste, die es gibt\nKeiner hat gesagt, immer, wenn es tagt\nGeht die Sonne auf für jeden und jeder wird geliebt\n\nKeiner hat gesagt, gut wird die Welt, wenn man alles Leid vergisst\nDennoch, hie und da, soll man, hie und da\nIllusionen haben, wenn man zwanzig ist\n\nKeiner hat gesagt, unsere Welt macht die Menschen alle froh\nKeiner hat gesagt, sei nur unverzagt –\nIrgendwann wird alles besser für jeden irgendwo\n\nKeiner hat gesagt, gut wird die Welt, wenn man alles Leid vergisst\nDennoch, hie und da, soll man, hie und da\nIllusionen haben, wenn man zwanzig ist\n\nIllusionen haben, wenn man zwаnzig iѕt"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Egwke_ENofQ"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Peter Reber"
+    ],
+    "lyricists": [
+        "Maurice Tézé"
+    ],
+    "writers": null,
+    "conductor": "Hardy Schneiders",
+    "stageDirector": null,
+    "tone": "G minor",
+    "bpm": 137,
+    "broadcaster": "SSR SRG",
+    "spokesperson": null,
+    "commentators": [
+        "Georges Hardy",
+        "Giovanni Bertini",
+        "Theodor Haller"
+    ]
+}

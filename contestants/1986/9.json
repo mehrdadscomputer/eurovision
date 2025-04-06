@@ -1,0 +1,45 @@
+{
+    "id": 9,
+    "country": "ES",
+    "artist": "Cadillac",
+    "song": "Valentino",
+    "lyrics": [
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Valentino",
+            "content": "En Madrid, un hotel\nSucedió, hice mi papel\nElla y yo, la pasión\nCoincidió en la recepción\n\nValentino no lo hubiera hecho mejor\nRosas rojas con una invitación\nUn tango en el salón\nChampaña y seducción\nY la orquesta sonará para los dos\nLa pasión nos llevará a tu habitación\n\nValentino, Valentino\n\nAtracción, emoción\nCaerá bajo mi control\n\nValentino, baila un tango para mí\nQuiero ser protagonista de tus films\nValentino no lo hubiera hecho mejor\nRosas rojas con una invitación\nTumbada en la chaise-longue, esperando mi amor\n¡Ay!, si Hollywood supiera quién ѕoy yo\nTodo el mundo bailaría mi canción\n\nValentino, Valentino, Vаlentino"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Valentino",
+            "content": "In Madrid, in a hotel\nIt happened, I played my role\nShe and I, the passion\nCoincided at the reception\n\nValentino couldn't have done it better\nRed roses with an invitation\nA tango in the lounge\nChampagne and seduction\nAnd the orchestra will play for the two of us\nThe passion will take us to your room\n\nValentino, Valentino\n\nAttraction, emotion\nShe will fall under my control\n\nValentino, dance a tango for me\nI want to be the hero in your films\nValentino couldn't have done it better\nRed roses with an invitation\nLying on the chaise longue, waiting for my love\nAh, if Hollywood knew who I am\nEverybody would dance to my ѕong\n\nValentino, Valentino, Vаlentino"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/oUeSKjfrJVs"
+    ],
+    "dancers": null,
+    "backings": [
+        "Adolfo Rodríguez",
+        "Maisa Hens",
+        "Mary Jamison"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "José María Guzmán"
+    ],
+    "conductor": "Eduardo Leiva",
+    "stageDirector": null,
+    "tone": null,
+    "bpm": null,
+    "broadcaster": "TVE",
+    "spokesperson": "Matilde Jarrín",
+    "commentators": [
+        "Antonio Gómez"
+    ]
+}

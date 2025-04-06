@@ -1,0 +1,52 @@
+{
+    "id": 22,
+    "country": "ES",
+    "artist": "Amaia & Alfred",
+    "song": "Tu Canción",
+    "lyrics": [
+        {
+            "languages": [
+                "Spanish"
+            ],
+            "title": "Tu Canción",
+            "content": "Nunca llegué a imaginar\nQue viajar a la luna sería real\nLo pones todo al revés\nCuando besas mi frente y descubro por qué\nYa no puedo inventarlo\n\nSiento que bailo por primera vez\nEres el arte que endulza la piel\nDe mi mente viajera que sigue tus pies\nSiento que bailo por primera vez junto a ti\n\nSé que en ti puedo encontrar\nEsa voz que me abriga si el tiempo va mal\nTodo es perfecto si estás\nA mi lado creando una nueva ciudad\n\nSiento que bailo por primera vez\nEres el arte que endulza la piel\nDe mi mente viajera que sigue tus pies\nSiento que bailo por primera vez\n\nYa no puedo inventarlo\nSolo quiero\nTu canción, oh, oh, oh\nOh, oh, oh, oh\n\nSiento que bailo por primera vez\nEres el arte que endulza la piel\nDe mi mente viajera que sigue tus pieѕ\nSiento que bailo por primera vez junto а ti"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Your Song",
+            "content": "I never got to imagine\nthat traveling to the moon would be for real\nYou put everything upside down\nwhen you kiss my forehead and I find out why\nI can no longer.. make it up\n\nI feel like dancing for the first time\nYou are the art that sweetens my skin\nFrom my traveling mind that follows your feet\nI feel like dancing for the first time by your side\n\nI know in you I can find\nthat voice that shelters me when times are bad\nEverything's perfect if you are\nby my side creating a new city\n\nI feel like dancing for the first time\nYou are the art that sweetens the skin\nFrom my traveling mind that follows your feet\nI feel like dancing for the first time, by your side\n\nI can no longer make it up\nI only want\nYour song, oh, oh, oh\nOh, oh, oh, oh\n\nI feel like dancing for the first time\nYou are the art that sweetens the skin\nFrom my traveling mind that follows your feet\nI feel like dаncing for the first time by your ѕide"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/28oMEFgSoyk",
+        "https://www.youtube.com/embed/g8wx7BRfqSI",
+        "https://www.youtube.com/embed/RDm-GGHYfU4",
+        "https://www.youtube.com/embed/nO4mDiJRH6Q",
+        "https://www.youtube.com/embed/d7mbclbS1Fo",
+        "https://www.youtube.com/embed/PKsoEFJueP0",
+        "https://www.youtube.com/embed/KOiZEmtCgsc",
+        "https://www.youtube.com/embed/-6IZ55f0hlw",
+        "https://www.youtube.com/embed/U0HVtlVbLHQ",
+        "https://www.youtube.com/embed/A2Nsskpn0Og"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Raúl Gómez García",
+        "Sylvia Ruth Santoro López"
+    ],
+    "conductor": null,
+    "stageDirector": "Tinet Rubira",
+    "tone": "C major",
+    "bpm": 121,
+    "broadcaster": "TVE",
+    "spokesperson": "Nieves Álvarez",
+    "commentators": [
+        "Julia Varela",
+        "Tony Aguilar"
+    ]
+}

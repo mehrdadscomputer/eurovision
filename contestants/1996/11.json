@@ -1,0 +1,48 @@
+{
+    "id": 11,
+    "country": "TR",
+    "artist": "Şebnem Paker",
+    "song": "Beşinci Mevsim",
+    "lyrics": [
+        {
+            "languages": [
+                "Turkish"
+            ],
+            "title": "Beşinci mevsim",
+            "content": "Kapandı son kapım, vuruldum bilmeden\nSakın o sen misin giden\nSoyundu dallarım, delindi gökyüzü\nKaçıncı sonbahar bugün\n\nHep sondu, hep zordu, çok yordu yollar\nSen orada, ben burada bak yasta yıllar\n\nBeşinci mevsime uyansa düşlerim\nHayaller ölmeden gel\nBeşinci mevsime açılsa güllerim\nYeter bu sonbahar yeter\n\nKapandı son kapım, vuruldum bilmeden\nSakın o senmisin giden\nSoyundu dallarım, delindi gökyüzü\nKaçıncı sonbahar bugün\n\nHep sondu, hep zordu, çok yordu yollar\nSen orada, ben burada bak yasta yıllar\n\nBeşinci mevsime uyansa günlerim\nHayaller ölmeden gel\nBeşinci mevsime açılsa yelkenim\nYeter bu ѕonbahаr yeter"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "The fifth season",
+            "content": "My last door has closed, I have been hit without knowing\nAre you leaving me\nMy branches are naked, my sky is darker\nWhich autumn is today\n\nAlways the end, always hard, I got tired on the road\nYou are there, I am here, look the years are in sorrow\n\nI wish my days would wake up in the fifth season\nCome before the dream is over\nI wish my roses would open in the fifth season\nThis much autumn is enough\n\nMy last door has closed, I have been hit without knowing\nAre you leaving me\nMy branches are naked, my sky is darker\nWhich autumn is today\n\nAlways the end, always hard, I got tired on the road\nYou are there, I am here, look the years are in sorrow\n\nI wish my dreams would wake up in the fifth season\nCome before the dream is over\nI wish I could hoist sails to the fifth season\nThis much аutumn iѕ enough"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Blywpx1ZqOA"
+    ],
+    "dancers": null,
+    "backings": [
+        "Emel Akçay",
+        "Handan Özkan",
+        "Nezih Yeşilnil",
+        "Yavuz Alkan"
+    ],
+    "composers": [
+        "Levent Çoker"
+    ],
+    "lyricists": [
+        "Selma Çuhacı"
+    ],
+    "writers": null,
+    "conductor": "Levent Çoker",
+    "stageDirector": null,
+    "tone": "C minor",
+    "bpm": 89,
+    "broadcaster": "TRT",
+    "spokesperson": "Ömer Önder",
+    "commentators": [
+        "Bülend Özveren"
+    ]
+}

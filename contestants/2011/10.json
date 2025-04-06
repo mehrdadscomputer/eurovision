@@ -1,0 +1,45 @@
+{
+    "id": 10,
+    "country": "GB",
+    "artist": "Blue",
+    "song": "I Can",
+    "lyrics": [
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "I can",
+            "content": "<i style=\"color:#789\">Ge-ge-ge-get back up again\nGe-ge-ge-get back up again</i>\n\nYou were the eyes in the face of fortune \nI lost my way and I couldn't find you\n Oh, oh no\n\nWe're not the first ones to be divided\n Won't be the last to be reunited\n No, oh no\n\nIt's like rain fallin' down \nDrops of pain hit the ground\n I can't speak, there's no sound when you're gone\n <i style=\"color:#789\">Yeah, yeah, come on</i>\n\nI can, I will \nI know I can untie these hands \n I can, I will \nI know I can untie these hands \n<i style=\"color:#789\">Ge-ge-ge-get back up again</i>\n\nI can, oh\nI can\n <i style=\"color:#789\">Get back up again</i>\n\nI've never lost anything quite like this \nNo second chances if I don't find it \nNo, oh no, no\n\nYou closed the door and you kept on walkin'\n Left me behind and there's no more talkin'\n No, oh no\n\nIt's like rain fallin' down\n Drops of pain hit the ground\n I can't speak, there's no sound when you're gone \n\nI can, I will \nI know I can untie these hands\n <i style=\"color:#789\">Ge-ge-ge-get back up again </i>\n\nI can, I will\n I know I can untie these hands\n <i style=\"color:#789\">Ge-ge-ge-get back up again</i>\n<i style=\"color:#789\">Come on</i>\n\nI can, oh\n I can\n <i style=\"color:#789\">Get back up again</i>\n\nWe're not the first ones to be divided, oh \nWon't be the last to be reunited, no\n<i style=\"color:#789\">Come again, one more time</i>\nWhen you're gone\n<i style=\"color:#789\">Come on</i>\n\nI can, I will\n I know I can untie these hands\n <i style=\"color:#789\">Ge-ge-ge-get back up again</i>\n I can, I will \nI know I can untie these handѕ\n <i style=\"color:#789\">Ge-ge-ge-get back up again</i>\n\nI can, I can\n<i style=\"color:#789\">Ge-ge-ge-get back up agаin</i>"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/y1dXMWWq6y8",
+        "https://www.youtube.com/embed/mRU31ieUhJM"
+    ],
+    "dancers": null,
+    "backings": [
+        "Bryan Chambers",
+        "Daniel Thomas"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Ben Collier",
+        "Ciaron Bell",
+        "Duncan James",
+        "Ian Hope",
+        "Lee Ryan",
+        "Liam Keenan"
+    ],
+    "conductor": null,
+    "stageDirector": null,
+    "tone": "Bb major",
+    "bpm": 93,
+    "broadcaster": "BBC",
+    "spokesperson": "Alex Jones",
+    "commentators": [
+        "Graham Norton",
+        "Sara Cox",
+        "Scott Mills"
+    ]
+}

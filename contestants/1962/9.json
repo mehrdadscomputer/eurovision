@@ -1,0 +1,43 @@
+{
+    "id": 9,
+    "country": "DK",
+    "artist": "Ellen Winther",
+    "song": "Vuggevise",
+    "lyrics": [
+        {
+            "languages": [
+                "Danish"
+            ],
+            "title": "Vuggevise",
+            "content": "Solen trak gardinet for\nSe nu blev i dag i går\nSkynd dig ind i sove-rige\nSå din drøm bli'r rigtig lang\n\nSkynd dig ind i lege-land\nLi' så hurtigt som du kan\nMød den lille sjove pige\nDu fortalte om engang\n\nSå tænker mor imens på alt det grå og triste\nSom voksne menn'sker kymrer sig om\nOg streger alle sorger på den lange liste\nSå den i morgen tidlig er tom\n\nSkynd dig ind i lege-land\nLi' så hurtigt som du kan\nSkynd dig ind i sove-rige\nSå din drøm bli'r rigtig lang\n\nSå, nu skal du ligge rigtig stille\nStille som en lille mus\nHør, så kan du høre en stjerne spille over vores hus\n\nSå tænker mor imens på alt det grå og triste\nSom voksne menn'sker kymrer sig om\nOg streger alle sorger på den lange liste\nSå den i morgen tidlig er tom\n\nSkynd dig ind i lege-land\nLi' så hurtigt som du kan\nSkynd dig ind i ѕove-rige\nSå din drøm bli'r rigtig lаng"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Lullaby",
+            "content": "The Sun pulled down the curtain\nLook, now today became yesterday\nHurry into the country of sleep\nSo that your dream will be long\n\nHurry into the country of play\nJust as fast as you can\nMeet the funny little girl\nYou once told me about\n\nMeanwhile, mum will be thinking of all the grey and boring\nThat grown-ups worry about\nAnd deletes all sorrows from the long list\nSo tomorrow morning it will be empty\n\nHurry into the country of play\nJust as fast as you can\nHurry into the country of sleep\nSo that your dream will be long\n\nSo, now you must lie very quiet\nQuiet as a little mouse\nListen, then you'll hear a star playing over our house\n\nMeanwhile, mum will be thinking of all the grey and boring\nThat grown-ups worry about\nAnd deletes all sorrows from the long list\nSo tomorrow morning it will be empty\n\nHurry into the country of play\nJust as fast as you can\nHurry into the country of ѕleep\nSo that your dreаm will be long"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/fdEXLuIFSrA"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": [
+        "Kjeld Bonfils"
+    ],
+    "lyricists": [
+        "Sejr Volmer-Sørensen"
+    ],
+    "writers": null,
+    "conductor": "Kai Mortensen",
+    "stageDirector": null,
+    "tone": "Eb major",
+    "bpm": 85,
+    "broadcaster": "DR",
+    "spokesperson": "Ole Mortensen",
+    "commentators": [
+        "Skat Nørrevig"
+    ]
+}

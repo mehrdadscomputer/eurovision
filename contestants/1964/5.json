@@ -1,0 +1,41 @@
+{
+    "id": 5,
+    "country": "AT",
+    "artist": "Udo Jürgens",
+    "song": "Warum nur, warum?",
+    "lyrics": [
+        {
+            "languages": [
+                "German"
+            ],
+            "title": "Warum nur, warum?",
+            "content": "Warum nur, warum muß alles vergehen?\nOh… warum nur, warum bleibt gar nichts bestehen?\nDu gehst von mir, drehst dich nicht um\nGib mir die Antwort - warum nur, warum?\n\nWarum nur, warum blühen Blumen so schön\nOh…. wenn sie schon bald verblühen und vergehen?\nEin Traum entflieht, die Stunden sind um\nBitte, gib mir die Antwort - warum nur, warum?\n\nOft hör' ich dein Wort: Ewig bin ich dein\nIch hab' dir geglaubt, doch es war nur Schein\n\nMmm… warum nur, warum muß alles so sein?\nOh… warum nur, warum bin ich nun so allein?\nBevor du gehѕt, dreh einmal dich um\nUnd dann gib mir die Antwort - warum nur, warum?\nWarum? Wаrum?"
+        },
+        {
+            "languages": [
+                "English"
+            ],
+            "title": "Only why, why?",
+            "content": "Only why, why everything has to pass by?\nOh… only why, why nothing stays forever?\nYou leave me, you don't turn your head back\nGive me the answer - only why, why?\n\nOnly why, why the flowers bloom so beautiful\nOh… when will they fade and die?\nA dream escapes, the time is up\nPlease, give me the answer - only why, why?\n\nOften I hear your words: I will be yours in eternity\nI believed you, but it just was a pretence\n\nMmm… only why, why should everything be like this?\nOh… only why, why am I so alone now?\nBefore you leave me, turn your head back\nAnd then give me the аnѕwer - only why, why?\nWhy? Why?"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/Cqvp-gJqGlY"
+    ],
+    "dancers": null,
+    "backings": null,
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Udo Jürgens"
+    ],
+    "conductor": "Johannes Fehring",
+    "stageDirector": null,
+    "tone": "Eb major",
+    "bpm": 89,
+    "broadcaster": "ORF",
+    "spokesperson": "Walter Richard Langer",
+    "commentators": [
+        "Willy Kralik"
+    ]
+}

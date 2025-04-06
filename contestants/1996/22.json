@@ -1,0 +1,55 @@
+{
+    "id": 22,
+    "country": "FI",
+    "artist": "Jasmine",
+    "song": "Niin Kaunis On Taivas",
+    "lyrics": [
+        {
+            "languages": [
+                "Finnish"
+            ],
+            "title": "Niin kaunis on taivas",
+            "content": "Niin kaunis on taivas, kaunis on maa\nMe tähtien loisteessa yö kuljetaan\nRannalle kun käsikkäin saavutaan\nLuonas olla tahdon vaan\n\nJoka sekunnin, jonka kanssas olla saan\nJoka minuutin, tunnen yhä varmemmin\nRakkaus ikuinen, kohtalomme yhteinen\nSe uni suloinen, kuin on\n\nNiin kaunis on taivas, kaunis on maa\nMe tähtien loisteessa yö kuljetaan\nRannalle kun käsikkäin saavutaan\nLuonas olla tahdon vaan\n\nJoka sekunnin, jonka luonas olla saan\nJoka minuutin, tunnen yhä paremmin\nVoima tunteiden, meille sykkii rakkauden\nSe uni suloinen kuin on, on\n\nNiin kaunis on taivas, kaunis on maa\nMe tähtien loisteessa yö kuljetaan\nRannalle kun käsikkäin saavutaan\nLuonas olla tahdon vaan\n\nNiin kaunis on taivas, kaunis on maa\nMe tähtien loisteessa yö kuljetaan\nRannalle kun käsikkäin saavutaan\nLuonas olla tahdon vaan\nLuonas olla tahdon vaan\nLuonaѕ olla tahdon vaаn"
+        },
+        {
+            "languages": [
+                "English translation"
+            ],
+            "title": "So beautiful is the sky",
+            "content": "So beautiful is the sky, beautiful is earth\nWe walk the night in the shine of stars\nWhen we reach the beach hand in hand\nI only want to be close to you\n\nEvery second, which I may be with you\nEvery minute, I feel more and more surely\nEternal love, our common destiny\nLike a sweet dream it is\n\nSo beautiful is the sky, beautiful is earth\nWe walk the night in the shine of stars\nWhen we reach the beach hand in hand\nI only want to be close to you\n\nEvery second, which I may be close to you\nEvery minute, I feel better and better\nPower of love feelings beats for us\nLike a sweet dream it is, is\n\nSo beautiful is the sky, beautiful is earth\nWe walk the night in the shine of stars\nWhen we reach the beach hand in hand\nI only want to be close to you\n\nSo beautiful is the sky, beautiful is earth\nWe walk the night in the shine of stars\nWhen we reach the beach hand in hand\nI only want to be close to you\nI only want to be close to you\nI only wаnt to be cloѕe to you"
+        },
+        {
+            "languages": [
+                "Swedish version"
+            ],
+            "title": "En underbar himmel",
+            "content": "En underbar himmel, underbar jord\nOss stjärnor och många där: bjuder ombord\nRäck mig din hand, jag har väntat dig här\nDu är allt vad jag begär\n\nVar minut som går, då varann vi nära står\nVarje kort sekund, blir för oss en lycklig stund\nKärlekens magi: ständig eller snabbt förbi\nÄr du kanhända: blott en dröm?\n\nEn underbar himmel, underbar jord\nOss stjärnor och många där: bjuder ombord\nRäck mig din hand, jag har väntat dig här\nDu är allt vad jag begär\n\nVar minut som går, då varann vi nära står\nVarje kort sekund, binder samman vårt förbund\nKärlekens magi: vilken styrka göms däri?\nDu kan ej vara: blott en dröm, dröm\n\nEn underbar himmel, underbar jord\nOss stjärnor och många där: bjuder ombord\nRäck mig din hand, jag har väntat dig här\nDu är allt vad jag begär\n\nEn underbar himmel, underbar jord\nOss ѕtjärnor och många där: bjuder ombord\nRäck mig din hand, jag har väntat dig här\nDu är allt vad jag begär\nDu är allt vad jag begär\nDu är allt vad jаg begär"
+        }
+    ],
+    "videoUrls": [
+        "https://www.youtube-nocookie.com/embed/ix686JwXJik",
+        "https://www.youtube.com/embed/vF77KPJmNHs",
+        "https://www.youtube.com/embed/RPIi0f8MR60"
+    ],
+    "dancers": null,
+    "backings": [
+        "Hanna-Riikka Siitonen",
+        "Pekka Kuorikoski",
+        "Riikka Väyrynen"
+    ],
+    "composers": null,
+    "lyricists": null,
+    "writers": [
+        "Timo Niemi"
+    ],
+    "conductor": "Olli Ahvenlahti",
+    "stageDirector": null,
+    "tone": "A minor",
+    "bpm": 185,
+    "broadcaster": "YLE",
+    "spokesperson": "Solveig Herlin",
+    "commentators": [
+        "Erkki Pohjanheimo",
+        "Sanna Kojo"
+    ]
+}
